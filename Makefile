@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1106 2004/03/21 22:11:14 bjan2 Exp $
+# $Id: Makefile,v 1.1107 2004/03/23 01:07:54 rockpiper Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -280,6 +280,7 @@ SUBDIR+=	kannel-gateway
 SUBDIR+=	kapital
 SUBDIR+=	kgpg
 SUBDIR+=	kissme
+SUBDIR+=	kmp
 SUBDIR+=	koffice-i18n-de
 SUBDIR+=	koffice-i18n-es
 SUBDIR+=	konversation
@@ -390,6 +391,7 @@ SUBDIR+=	mkdep
 SUBDIR+=	mnogosearch
 SUBDIR+=	monkey-bubble
 SUBDIR+=	mopac
+SUBIR+=		mpc
 SUBDIR+=	mpgedit
 SUBDIR+=	mplusfonts
 SUBDIR+=	mtf
