@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1176 2004/04/06 17:21:57 xtraeme Exp $
+# $Id: Makefile,v 1.1177 2004/04/06 20:04:33 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -318,13 +318,11 @@ SUBDIR+=	libassuan
 SUBDIR+=	libdialog
 SUBDIR+=	libdisasm
 SUBDIR+=	libdv
-SUBDIR+=	libebml
 SUBDIR+=	libetpan
 SUBDIR+=	libfwbuilder
 SUBDIR+=	libgringotts
 SUBDIR+=	libhydrogen
 SUBDIR+=	libmatchbox
-SUBDIR+=	libmatroska
 SUBDIR+=	libneural
 SUBDIR+=	libogg-nightly
 SUBDIR+=	libprelude
