@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.221 2003/06/04 11:45:50 marttikuparinen Exp $
+# $Id: Makefile,v 1.222 2003/06/04 16:42:12 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -207,5 +207,7 @@ SUBDIR+=	xml2doc
 SUBDIR+=	xplore
 SUBDIR+=	yafray
 SUBDIR+=	zebra-pj
+SUBDIR+=	cdpr
+SUBDIR+=	galib
 
 .include "../mk/bsd.pkg.subdir.mk"
