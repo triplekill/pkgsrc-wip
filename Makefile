@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.19 2003/04/03 09:31:51 cubidou Exp $
+# $Id: Makefile,v 1.20 2003/04/03 09:43:52 bmeurer Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -17,3 +17,4 @@ SUBDIR+=	pyPgSQL
 SUBDIR+=	pygtk2
 SUBDIR+=	pyorbit
 SUBDIR+=	tex-foiltex
+SUBDIR+=	chktex
