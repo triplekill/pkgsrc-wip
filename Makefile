@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.996 2004/02/20 04:42:02 minskim Exp $
+# $Id: Makefile,v 1.997 2004/02/20 17:40:59 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -541,7 +541,6 @@ SUBDIR+=	py-gtk2-docs
 SUBDIR+=	py-ipython
 SUBDIR+=	py-kyra
 SUBDIR+=	py-libpcap
-SUBDIR+=	py-matplotlib
 SUBDIR+=	py-ming
 SUBDIR+=	py-mmpython
 SUBDIR+=	py-mysqldb-docs
