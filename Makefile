@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.411 2003/09/02 00:30:28 blef Exp $
+# $Id: Makefile,v 1.412 2003/09/02 05:09:07 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -295,6 +295,7 @@ SUBDIR+=	pnet
 SUBDIR+=	pnetlib
 SUBDIR+=	poedit
 SUBDIR+=	portmap
+SUBDIR+=	postal
 SUBDIR+=	postgresql-autodoc
 SUBDIR+=	ppp
 SUBDIR+=	premake
