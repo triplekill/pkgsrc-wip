@@ -29,7 +29,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: pkg_adm.h,v 1.9 2005/03/06 12:00:48 imil Exp $ 
+ * $Id: pkg_adm.h,v 1.10 2005/03/18 08:30:12 imil Exp $ 
  */
 
 extern void free_pkgdb(void);
@@ -91,54 +91,54 @@ extern void set_pkg_path(const char *);
 			NULL }
 
 #define PKGSRC_PROGRESS { \
-	"archivers/", \
-		"audio/", \
-		"benchmarks/", \
-		"biology/", \
-		"bootstrap/", \
-		"cad/", \
-		"chat/", \
-		"comms/", \
-		"converters/", \
-		"cross/", \
-		"databases/", \
-		"devel/", \
-		"distfiles/", \
-		"doc/", \
-		"editors/", \
-		"emulators/", \
-		"finance/", \
-		"fonts/", \
-		"games/", \
-		"geography/", \
-		"graphics/", \
-		"ham/", \
-		"inputmethod/", \
-		"lang/", \
-		"licenses/", \
-		"mail/", \
-		"math/", \
-		"mbone/", \
-		"meta-pkgs/", \
-		"misc/", \
-		"mk/", \
-		"multimedia/", \
-		"net/", \
-		"news/", \
-		"packages/", \
-		"parallel/", \
-		"pkgtools/", \
-		"print/", \
-		"regress/", \
-		"security/", \
-		"shells/", \
-		"sysutils/", \
-		"templates/", \
-		"textproc/", \
-		"time/", \
-		"wm/", \
-		"www/", \
-		"x11/", \
+	"/archivers/", \
+		"/audio/", \
+		"/benchmarks/", \
+		"/biology/", \
+		"/bootstrap/", \
+		"/cad/", \
+		"/chat/", \
+		"/comms/", \
+		"/converters/", \
+		"/cross/", \
+		"/databases/", \
+		"/devel/", \
+		"/distfiles/", \
+		"/doc/", \
+		"/editors/", \
+		"/emulators/", \
+		"/finance/", \
+		"/fonts/", \
+		"/games/", \
+		"/geography/", \
+		"/graphics/", \
+		"/ham/", \
+		"/inputmethod/", \
+		"/lang/", \
+		"/licenses/", \
+		"/mail/", \
+		"/math/", \
+		"/mbone/", \
+		"/meta-pkgs/", \
+		"/misc/", \
+		"/mk/", \
+		"/multimedia/", \
+		"/net/", \
+		"/news/", \
+		"/packages/", \
+		"/parallel/", \
+		"/pkgtools/", \
+		"/print/", \
+		"/regress/", \
+		"/security/", \
+		"/shells/", \
+		"/sysutils/", \
+		"/templates/", \
+		"/textproc/", \
+		"/time/", \
+		"/wm/", \
+		"/www/", \
+		"/x11/", \
 		NULL }
 
 extern void pkgsrc_make(const char *, const char *, int);

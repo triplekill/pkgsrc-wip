@@ -29,7 +29,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: extern.h,v 1.8 2005/03/15 16:55:51 imil Exp $ 
+ * $Id: extern.h,v 1.9 2005/03/18 08:30:12 imil Exp $ 
  */
 
 #ifndef _EXTERN_H_
@@ -62,6 +62,7 @@ extern char *getcomment(struct cf *);
 extern char *list_mirrors(const char *);
 extern int pkgsrc_chk(const char *);
 extern int cvs_up(const char *);
+extern int download_pkgsrc(const char *, const char *);
 
 /* install_many */
 extern int tb_installed(const char *);

@@ -29,7 +29,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: curses_helpers.c,v 1.18 2005/03/15 16:55:51 imil Exp $ 
+ * $Id: curses_helpers.c,v 1.19 2005/03/18 08:30:12 imil Exp $ 
  */
 
 #include "pkg_select.h"
@@ -635,7 +635,8 @@ progress_bar(const char **keylist, char *key, int mode)
 }
 
 void
-cmd_spawn(int waitkey, const char **progress_list, const char *command, ...)
+cmd_spawn(int waitkey, const char **progress_list, int progress_mode,
+	  const char *command, ...)
 {
 	int next;
 	FILE *fp;
@@ -660,7 +661,7 @@ cmd_spawn(int waitkey, const char **progress_list, const char *command, ...)
 		else
 			if (next)
 				next = progress_bar(progress_list, 
-						    buf, CYCLIC);
+						    buf, progress_mode);
 	}
 	pclose(fp);
 
