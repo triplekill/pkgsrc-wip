@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.308 2003/07/08 09:38:58 adrian_p Exp $
+# $Id: Makefile,v 1.309 2003/07/08 11:05:57 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -10,6 +10,7 @@ SUBDIR+=	Radiator-all
 SUBDIR+=	WEPCrack
 SUBDIR+=	abook
 SUBDIR+=	abuse_sdl
+SUBDIR+=	acid
 SUBDIR+=	adodb
 SUBDIR+=	allegro
 SUBDIR+=	amsn
