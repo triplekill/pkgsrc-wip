@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.201 2003/06/02 10:42:10 jmmv Exp $
+# $Id: Makefile,v 1.202 2003/06/02 11:06:57 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -16,7 +16,6 @@ SUBDIR+=	ap-ometer
 SUBDIR+=	aputils
 SUBDIR+=	autoproject
 SUBDIR+=	bc
-SUBDIR+=	bftpd
 SUBDIR+=	billardgl
 SUBDIR+=	bin86
 SUBDIR+=	bugzilla
