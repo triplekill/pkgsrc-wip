@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1487 2004/10/09 16:44:34 dolecek Exp $
+# $Id: Makefile,v 1.1488 2004/10/10 03:17:43 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -499,6 +499,7 @@ SUBDIR+=	p5-IO-Multiplex
 SUBDIR+=	p5-IO-Util
 SUBDIR+=	p5-Log-Log4perl
 SUBDIR+=	p5-Mail-Box
+SUBDIR+=	p5-Mail-Webmail-Gmail
 SUBDIR+=	p5-Net-PcapUtils
 SUBDIR+=	p5-OOTools
 SUBDIR+=	p5-POE
