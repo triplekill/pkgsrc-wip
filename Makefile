@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1469 2004/09/16 17:41:48 airhead Exp $
+# $Id: Makefile,v 1.1470 2004/09/16 22:29:16 airhead Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -807,6 +807,7 @@ SUBDIR+=	vcdgear
 SUBDIR+=	vche
 SUBDIR+=	viewcvs
 SUBDIR+=	viewer
+SUBDIR+=	viewglob
 SUBDIR+=	virus
 SUBDIR+=	vixie-cron
 SUBDIR+=	vm-pop3d
