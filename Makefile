@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1681 2005/03/10 08:17:49 ianzag Exp $
+# $Id: Makefile,v 1.1682 2005/03/12 23:43:14 jcflack Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -451,6 +451,7 @@ SUBDIR+=	libticables
 SUBDIR+=	libticalcs
 SUBDIR+=	libtifiles
 SUBDIR+=	libtlen2
+SUBDIR+=	libupnp
 SUBDIR+=	libuuid
 SUBDIR+=	libvg
 SUBDIR+=	libvncserver
