@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1613 2005/01/13 07:02:50 ishit Exp $
+# $Id: Makefile,v 1.1614 2005/01/13 14:28:00 hfath Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -6,6 +6,7 @@ COMMENT=	WIP pkgsrc packages
 SUBDIR+=	4stAttack
 SUBDIR+=	Chinput
 SUBDIR+=	Coin
+SUBDIR+=	CRWInfo
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	OpenGLUT
