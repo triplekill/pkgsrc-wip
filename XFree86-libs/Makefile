@@ -1,5 +1,4 @@
 # $NetBSD$
-# $Id: Makefile 334 2003-07-23 14:11:52Z xtraeme $
 
 DISTNAME=	${DISTFILES}
 PKGNAME=	XFree86-libs-${XFREE86_VERSION}

@@ -1,5 +1,4 @@
 # $NetBSD$
-# $Id: Makefile 314 2003-07-21 22:23:25Z xtraeme $
 
 DISTNAME=	${DISTFILES}
 PKGNAME=	XFree86-fontserver-${XFREE86_VERSION}
