@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1417 2004/08/08 17:58:32 kristerw Exp $
+# $Id: Makefile,v 1.1418 2004/08/10 09:39:32 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -327,6 +327,7 @@ SUBDIR+=	libdisasm
 SUBDIR+=	libmatchbox
 SUBDIR+=	libmilter813
 SUBDIR+=	libneural
+SUBDIR+=	libpcap-latest
 SUBDIR+=	libprelude
 SUBDIR+=	libraw1394
 SUBDIR+=	libssh
