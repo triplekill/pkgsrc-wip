@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1412 2004/07/31 01:54:21 adrian_p Exp $
+# $Id: Makefile,v 1.1413 2004/08/02 04:44:36 bencollver Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -254,6 +254,7 @@ SUBDIR+=	jabberd-aim
 SUBDIR+=	jabberd-msn
 SUBDIR+=	jakarta-log4j
 SUBDIR+=	jakarta-struts
+SUBDIR+=	jalbum
 SUBDIR+=	jamaica
 SUBDIR+=	java-BigDecimal
 SUBDIR+=	java-asm
