@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.805 2003/12/25 14:25:12 minskim Exp $
+# $Id: Makefile,v 1.806 2003/12/25 21:13:07 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -550,6 +550,7 @@ SUBDIR+=	slim
 SUBDIR+=	slocate
 SUBDIR+=	slrn-pl
 SUBDIR+=	slune
+SUBDIR+=	smartmontools
 SUBDIR+=	smtprc
 SUBDIR+=	smtprc-gui
 SUBDIR+=	smtpscan
