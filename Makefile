@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1203 2004/04/15 22:18:57 adrian_p Exp $
+# $Id: Makefile,v 1.1204 2004/04/16 10:28:59 tripledes Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -427,6 +427,7 @@ SUBDIR+=	oops
 SUBDIR+=	opax
 SUBDIR+=	opengaim
 SUBDIR+=	openvrml
+SUBDIR+=	oqtplayer
 SUBDIR+=	p5-Apache-Request
 SUBDIR+=	p5-Apache-Test
 SUBDIR+=	p5-AxKit
