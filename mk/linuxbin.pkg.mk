@@ -1,7 +1,7 @@
 # $NetBSD$
 ###########################################################################
 # 
-# $Id: linuxbin.pkg.mk,v 1.10 2004/03/12 14:28:22 mpasternak Exp $
+# $Id: linuxbin.pkg.mk,v 1.11 2004/03/14 19:50:56 mpasternak Exp $
 #
 # Proposal: how should we deal with Linux binary packages packages
 #
@@ -261,8 +261,8 @@ do-install: warn-on-freebsd
 	cd ${WRKSRC} && ${PAX} -rw -pe * ${EMULDIR}
 .if !defined(SLACK_NO_INSTALL)
 	chroot ${EMULDIR} bin/bash install/doinst.sh
-.endif
 	${RM} -rf ${EMULDIR}/install
+.endif
 .endif
 .else
 .error "Please add support for this kind of package!"
