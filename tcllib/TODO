@@ -1,5 +1,0 @@
-$Id$
-
-  * wget patch doesn't work, because /usr/pkg/bin/ftp is not available
-    on NetBSD.
-  * 1.6 is out.
