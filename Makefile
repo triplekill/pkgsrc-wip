@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.121 2003/04/26 06:35:27 rhx Exp $
+# $Id: Makefile,v 1.122 2003/04/27 00:46:55 rhx Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -81,7 +81,6 @@ SUBDIR+=	nagios-plugin-mysql
 SUBDIR+=	nagios-plugin-pgsql
 SUBDIR+=	nagios-plugin-snmp
 SUBDIR+=	nagios-plugins
-SUBDIR+=	nautilus
 SUBDIR+=	navigatrix
 SUBDIR+=	nvtv
 SUBDIR+=	p5-gtk2
