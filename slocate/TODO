@@ -1,0 +1,4 @@
+$Id$
+
+* Do not use bash.
+* Use PKG_GROUPS.  See 10.22 in Packages.txt.
