@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1270 2004/05/10 09:33:46 xtraeme Exp $
+# $Id: Makefile,v 1.1271 2004/05/10 14:40:34 jgoamakf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -215,6 +215,7 @@ SUBDIR+=	gurlchecker
 SUBDIR+=	gwc
 SUBDIR+=	gzrecover
 SUBDIR+=	hasciicam
+SUBDIR+=	help2man
 SUBDIR+=	heroes
 SUBDIR+=	hol-light
 SUBDIR+=	host
