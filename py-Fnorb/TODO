@@ -1,0 +1,6 @@
+$Id$
+
+Make bin/ scripts install with PYPKGSUFX to allow instalation on more than
+one python version on single machine (same as py-twisted and py-Pyro)
+
+	-- dotz@irc.pl
