@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.110 2003/04/20 15:16:12 xtraeme Exp $
+# $Id: Makefile,v 1.111 2003/04/20 23:36:51 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -100,6 +100,7 @@ SUBDIR+=	py-gnosis-utils
 SUBDIR+=	py-gtk2
 SUBDIR+=	py-spreadmodule
 SUBDIR+=	scm
+SUBDIR+=	scponly
 SUBDIR+=	shoutcast
 SUBDIR+=	streamripper
 SUBDIR+=	tex-foiltex
