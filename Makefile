@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.46 2003/04/07 10:13:32 adrian_p Exp $
+# $Id: Makefile,v 1.47 2003/04/07 16:31:58 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -11,6 +11,7 @@ SUBDIR+=	byacc
 SUBDIR+=	chksniff
 SUBDIR+=	coreutils
 SUBDIR+=	cvsd
+SUBDIR+=	gaim-gtk2
 SUBDIR+=	gkrellm2
 SUBDIR+=	gkrellm2-flynn
 SUBDIR+=	gkrellm2-server
