@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.61 2003/04/11 16:06:04 jmmv Exp $
+# $Id: Makefile,v 1.62 2003/04/11 19:05:36 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -60,3 +60,5 @@ SUBDIR+=	py-gtk2
 SUBDIR+=	py-spreadmodule
 SUBDIR+=	tex-foiltex
 SUBDIR+=	vim-gtk2
+SUBDIR+=	ices
+SUBDIR+=	shoutcast
