@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.923 2004/02/02 02:20:37 dawszy Exp $
+# $Id: Makefile,v 1.924 2004/02/02 02:41:30 dawszy Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -68,6 +68,7 @@ SUBDIR+=	cal3d
 SUBDIR+=	cal3d_cally
 SUBDIR+=	cawf
 SUBDIR+=	ccrypt
+SUBDIR+=	ccsh
 SUBDIR+=	ccze
 SUBDIR+=	cdl3
 SUBDIR+=	cdpr
