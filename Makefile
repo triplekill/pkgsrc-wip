@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.419 2003/09/02 08:47:45 xtraeme Exp $
+# $Id: Makefile,v 1.420 2003/09/03 16:50:51 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -135,6 +135,7 @@ SUBDIR+=	gnucash-docs
 SUBDIR+=	gnunet
 SUBDIR+=	gotmail
 SUBDIR+=	gov2
+SUBDIR+=	libgringotts
 SUBDIR+=	grip
 SUBDIR+=	gstreamer-player
 SUBDIR+=	gtick
