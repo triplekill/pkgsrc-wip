@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1367 2004/07/07 18:06:46 xtraeme Exp $
+# $Id: Makefile,v 1.1368 2004/07/08 10:33:49 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -712,7 +712,6 @@ SUBDIR+=	spe
 SUBDIR+=	speedx
 SUBDIR+=	srvx
 SUBDIR+=	steghide
-SUBDIR+=	stellarium
 SUBDIR+=	stmpclean
 SUBDIR+=	strace
 SUBDIR+=	stratagus
