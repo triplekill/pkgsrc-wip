@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.146 2003/05/08 04:08:17 xtraeme Exp $
+# $Id: Makefile,v 1.147 2003/05/08 05:10:38 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -17,6 +17,7 @@ SUBDIR+=	billardgl
 SUBDIR+=	bugzilla
 SUBDIR+=	byacc
 SUBDIR+=	celestia
+SUBDIR+=	celestia-kde
 SUBDIR+=	cherokee
 SUBDIR+=	chksniff
 SUBDIR+=	cjk-latex
