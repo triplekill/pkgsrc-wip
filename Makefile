@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.140 2003/05/07 13:57:45 lsed Exp $
+# $Id: Makefile,v 1.141 2003/05/07 21:41:07 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -86,6 +86,7 @@ SUBDIR+=	nagios-plugin-snmp
 SUBDIR+=	nagios-plugins
 SUBDIR+=	navigatrix
 SUBDIR+=	netbeans-ide
+SUBDIR+=	net-tools
 SUBDIR+=	nvtv
 SUBDIR+=	p5-Chart
 SUBDIR+=	p5-HTTP-GHTTP
