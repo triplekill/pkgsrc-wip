@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.375 2003/08/15 15:26:19 tvierling Exp $
+# $Id: Makefile,v 1.376 2003/08/15 18:26:05 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -315,6 +315,7 @@ SUBDIR+=	streamripper
 SUBDIR+=	svgalib
 SUBDIR+=	sysklogd
 SUBDIR+=	sysvinit
+SUBDIR+=	tads
 SUBDIR+=	tcc
 SUBDIR+=	tendra
 SUBDIR+=	tex-foiltex
