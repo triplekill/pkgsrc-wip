@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.631 2003/11/20 04:51:41 grantbeattie Exp $
+# $Id: Makefile,v 1.632 2003/11/20 17:03:03 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -423,6 +423,7 @@ SUBDIR+=	py-gnosis-utils
 SUBDIR+=	py-ipython
 SUBDIR+=	py-libpcap
 SUBDIR+=	py-oak
+SUBDIR+=	py-spambayes
 SUBDIR+=	py-spark
 SUBDIR+=	py-spreadmodule
 SUBDIR+=	py-twisted
