@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1037 2004/02/27 17:12:45 mpasternak Exp $
+# $Id: Makefile,v 1.1038 2004/02/28 10:34:48 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -258,6 +258,7 @@ SUBDIR+=	kvirc
 SUBDIR+=	kylix-openedition
 SUBDIR+=	kyra
 SUBDIR+=	l2tpd
+SUBDIR+=	ladspa
 SUBDIR+=	lammpi
 SUBDIR+=	lash
 SUBDIR+=	lbdb
@@ -623,6 +624,7 @@ SUBDIR+=	sysvinit
 SUBDIR+=	tcc
 SUBDIR+=	tcllib
 SUBDIR+=	tendra
+SUBDIR+=	terminatorx
 SUBDIR+=	terminus-font
 SUBDIR+=	tetrinet
 SUBDIR+=	tetrinetx
