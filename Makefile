@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1550 2004/11/22 17:12:13 imilh Exp $
+# $Id: Makefile,v 1.1551 2004/11/25 12:22:08 imilh Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -407,7 +407,6 @@ SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
 SUBDIR+=	menumaker
 SUBDIR+=	metatheme
-SUBDIR+=	mftrace
 SUBDIR+=	ming
 SUBDIR+=	mingw
 SUBDIR+=	mingw-binutils
