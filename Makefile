@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1140 2004/03/29 18:51:03 tvierling Exp $
+# $Id: Makefile,v 1.1141 2004/03/29 19:26:02 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -700,7 +700,6 @@ SUBDIR+=	spamprobe-pbl
 SUBDIR+=	spe
 SUBDIR+=	speedx
 SUBDIR+=	sqlrelay
-SUBDIR+=	sredird
 SUBDIR+=	srvx
 SUBDIR+=	steghide
 SUBDIR+=	stellarium
