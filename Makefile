@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1110 2004/03/24 00:13:13 rockpiper Exp $
+# $Id: Makefile,v 1.1111 2004/03/24 01:10:35 rockpiper Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -87,6 +87,7 @@ SUBDIR+=	compare
 SUBDIR+=	compositeext
 SUBDIR+=	cops
 SUBDIR+=	copytape
+SUBDIR+=	classpath-nox11
 SUBDIR+=	cvsd
 SUBDIR+=	d2x
 SUBDIR+=	d4x
