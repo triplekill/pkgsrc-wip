@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.560 2003/10/21 09:37:54 thomasklausner Exp $
+# $Id: Makefile,v 1.561 2003/10/21 11:51:04 dillo Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -232,6 +232,7 @@ SUBDIR+=	libneural
 SUBDIR+=	libogg-nightly
 SUBDIR+=	libprelude
 SUBDIR+=	libshout
+SUBDIR+=	libstatgrab
 SUBDIR+=	libvc
 SUBDIR+=	libvorbis-nightly
 SUBDIR+=	libwpd
