@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.642 2003/11/22 14:10:37 mpasternak Exp $
+# $Id: Makefile,v 1.643 2003/11/22 15:17:43 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -384,6 +384,7 @@ SUBDIR+=	pnet
 SUBDIR+=	pnetlib
 SUBDIR+=	poedit
 SUBDIR+=	pointless
+SUBDIR+=	portaudio
 SUBDIR+=	portmap
 SUBDIR+=	postal
 SUBDIR+=	ppp
