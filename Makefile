@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.32 2003/04/05 21:49:28 marc Exp $
+# $Id: Makefile,v 1.33 2003/04/05 22:07:05 freyr Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -18,6 +18,8 @@ SUBDIR+=	ike-scan
 SUBDIR+=	ion-devel
 SUBDIR+=	ion-dock
 SUBDIR+=	ircservices
+SUBDIR+=	nagios-base
+SUBDIR+=	nagios-plugins
 SUBDIR+=	nvtv
 SUBDIR+=	p5-Chart
 SUBDIR+=	p5-Net-Jabber
