@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1385 2004/07/15 14:32:54 ianzag Exp $
+# $Id: Makefile,v 1.1386 2004/07/15 15:12:33 ianzag Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -220,6 +220,7 @@ SUBDIR+=	gtkpod
 SUBDIR+=	guile-gtk-devel
 SUBDIR+=	gurlchecker
 SUBDIR+=	gwc
+SUBDIR+=	gwenview
 SUBDIR+=	hasciicam
 SUBDIR+=	help2man
 SUBDIR+=	heroes
