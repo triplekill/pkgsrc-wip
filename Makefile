@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1300 2004/05/29 01:06:34 xtraeme Exp $
+# $Id: Makefile,v 1.1301 2004/05/29 02:09:11 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -35,7 +35,6 @@ SUBDIR+=	ap-php5
 SUBDIR+=	ap2-limitipconn
 SUBDIR+=	ap2-macro
 SUBDIR+=	ap2-python
-SUBDIR+=	ap2-xslt
 SUBDIR+=	apachebench2
 SUBDIR+=	argouml
 SUBDIR+=	arping
