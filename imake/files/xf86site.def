@@ -2,8 +2,6 @@
 /*
  * XFree86 packages for pkgsrc system 
  *  
- * $Id: xf86site.def 202 2003-07-15 04:02:21Z xtraeme $
- *
  */ 
 
 #ifndef HasSecureRPC
