@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1060 2004/03/08 05:07:13 mpasternak Exp $
+# $Id: Makefile,v 1.1061 2004/03/08 05:23:14 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -244,6 +244,7 @@ SUBDIR+=	isc-dhcpd
 SUBDIR+=	ish
 SUBDIR+=	jabberd2
 SUBDIR+=	jakarta-log4j
+SUBDIR+=	java-xmlrpc
 SUBDIR+=	javascript-guide
 SUBDIR+=	javascript-reference
 SUBDIR+=	jdk12
