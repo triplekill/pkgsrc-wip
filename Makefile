@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1320 2004/06/09 21:27:58 xtraeme Exp $
+# $Id: Makefile,v 1.1321 2004/06/11 09:44:39 grantbeattie Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -85,6 +85,7 @@ SUBDIR+=	compositeext
 SUBDIR+=	cops
 SUBDIR+=	copytape
 SUBDIR+=	cryptopp
+SUBDIR+=	cube
 SUBDIR+=	cvsd
 SUBDIR+=	d4x
 SUBDIR+=	damageext
