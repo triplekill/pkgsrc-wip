@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.738 2003/12/04 16:17:09 xtraeme Exp $
+# $Id: Makefile,v 1.739 2003/12/04 17:59:24 froz Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -121,6 +121,7 @@ SUBDIR+=	drwright
 SUBDIR+=	dtdparse
 SUBDIR+=	dumb
 SUBDIR+=	dzt
+SUBDIR+=	e2fsprogs
 SUBDIR+=	eag
 SUBDIR+=	ed
 SUBDIR+=	eic
@@ -534,6 +535,7 @@ SUBDIR+=	scons
 SUBDIR+=	scponly
 SUBDIR+=	send-pr
 SUBDIR+=	sgmltools-lite
+SUBDIR+=	shadow
 SUBDIR+=	shared-mime-info
 SUBDIR+=	shoutcast
 SUBDIR+=	sks
