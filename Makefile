@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.448 2003/09/16 04:53:46 blef Exp $
+# $Id: Makefile,v 1.449 2003/09/16 10:10:36 moubctez Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -62,6 +62,7 @@ SUBDIR+=	cawf
 SUBDIR+=	ccrypt
 SUBDIR+=	cdpr
 SUBDIR+=	cgdb
+SUBDIR+=	cgic
 SUBDIR+=	cherokee
 SUBDIR+=	chksniff
 SUBDIR+=	chmlib
