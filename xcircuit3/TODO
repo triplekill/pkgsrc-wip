@@ -1,4 +1,0 @@
-$Id$
-
-Workaround the warning "locale not supported by C library, locale
-unchanged" (setlocale of "en_US" in the xcircuit-3.1.?/xcircuit.c)
