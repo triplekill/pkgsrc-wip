@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1202 2004/04/15 10:47:32 jmmv Exp $
+# $Id: Makefile,v 1.1203 2004/04/15 22:18:57 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -198,6 +198,7 @@ SUBDIR+=	gnupg-1.9
 SUBDIR+=	goldwater
 SUBDIR+=	gotmail
 SUBDIR+=	gov2
+SUBDIR+=	gps
 SUBDIR+=	grip
 SUBDIR+=	grisbi
 SUBDIR+=	gtick
