@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1610 2005/01/12 14:09:00 xtraeme Exp $
+# $Id: Makefile,v 1.1611 2005/01/12 19:30:34 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -479,6 +479,7 @@ SUBDIR+=	matchbox-panel
 SUBDIR+=	matchbox-panel-manager
 SUBDIR+=	matchbox-themes-extra
 SUBDIR+=	matchbox-wm
+SUBDIR+=	mathopd
 #SUBDIR+=	maxima		# see TODO
 SUBDIR+=	mc
 SUBDIR+=	mcats
