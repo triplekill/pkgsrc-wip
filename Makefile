@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.981 2004/02/18 01:26:22 minskim Exp $
+# $Id: Makefile,v 1.982 2004/02/18 02:06:41 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -315,6 +315,7 @@ SUBDIR+=	lilo
 SUBDIR+=	lilypond20
 SUBDIR+=	lincvs
 SUBDIR+=	links-hacked
+SUBDIR+=	links1
 SUBDIR+=	linux-ch
 SUBDIR+=	linux-chprofessional
 SUBDIR+=	linux-kbd
