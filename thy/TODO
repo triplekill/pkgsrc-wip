@@ -1,0 +1,5 @@
+$Id$
+
+    o Doesn't work with current pkgsrc gnutls package.
+      I'll import it when it has been fixed.
+    o Convert to buildlink3.
