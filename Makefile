@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1304 2004/06/01 03:03:04 cetrox Exp $
+# $Id: Makefile,v 1.1305 2004/06/01 16:44:11 ianharding Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -201,7 +201,6 @@ SUBDIR+=	gtk2-devel
 SUBDIR+=	gtk2-engines-dwerg
 SUBDIR+=	gtk2-engines-flat
 SUBDIR+=	gtk2-engines-galaxy
-SUBDIR+=	gtk2-engines-industrial
 SUBDIR+=	gtk2-engines-lighthouseblue
 SUBDIR+=	gtk2-engines-magichicken
 SUBDIR+=	gtk2-engines-mist
