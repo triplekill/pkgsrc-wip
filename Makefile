@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.620 2003/11/16 15:57:40 minskim Exp $
+# $Id: Makefile,v 1.621 2003/11/17 00:51:28 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -518,6 +518,7 @@ SUBDIR+=	wmnetload
 SUBDIR+=	words
 SUBDIR+=	wxhugo
 SUBDIR+=	xawtv
+SUBDIR+=	xbase
 SUBDIR+=	xbelmark
 SUBDIR+=	xchm
 SUBDIR+=	xevil
