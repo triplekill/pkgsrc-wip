@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.495 2003/09/25 13:55:18 xtraeme Exp $
+# $Id: Makefile,v 1.496 2003/09/25 14:08:56 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -223,7 +223,6 @@ SUBDIR+=	mailfilter
 SUBDIR+=	mailman
 SUBDIR+=	man-db
 SUBDIR+=	map-browse
-SUBDIR+=	maradns
 SUBDIR+=	mathomatic
 SUBDIR+=	mc
 SUBDIR+=	mcats
