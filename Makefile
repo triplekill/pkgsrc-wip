@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.133 2003/04/29 15:21:04 lexort Exp $
+# $Id: Makefile,v 1.134 2003/04/29 21:45:22 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -113,6 +113,7 @@ SUBDIR+=	qinx
 SUBDIR+=	qn-x11
 SUBDIR+=	raptor
 SUBDIR+=	rcorder
+SUBDIR+=	rlpr
 SUBDIR+=	scm
 SUBDIR+=	scponly
 SUBDIR+=	shoutcast
