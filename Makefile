@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.529 2003/10/07 23:39:42 blef Exp $
+# $Id: Makefile,v 1.530 2003/10/10 02:56:03 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -164,6 +164,7 @@ SUBDIR+=	ht
 SUBDIR+=	ht2html
 SUBDIR+=	html2latex
 SUBDIR+=	httrack
+SUBDIR+=	hugo
 SUBDIR+=	hydra
 SUBDIR+=	hydrogen
 SUBDIR+=	ices
