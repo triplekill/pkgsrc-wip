@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.130 2003/04/28 22:28:00 tvierling Exp $
+# $Id: Makefile,v 1.131 2003/04/29 01:36:28 icmp Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -70,6 +70,7 @@ SUBDIR+=	jdk13-openjit
 SUBDIR+=	jigdo
 SUBDIR+=	jpgraph
 SUBDIR+=	libdialog
+SUBDIR+=	libshout
 SUBDIR+=	liquidwar
 SUBDIR+=	lpe
 SUBDIR+=	mailfilter
@@ -118,6 +119,7 @@ SUBDIR+=	scponly
 SUBDIR+=	shoutcast
 SUBDIR+=	srvx
 SUBDIR+=	streamripper
+SUBDIR+=	tendra
 SUBDIR+=	tex-foiltex
 SUBDIR+=	totem
 SUBDIR+=	tsclient
@@ -130,6 +132,5 @@ SUBDIR+=	windowlab
 SUBDIR+=	xawtv
 SUBDIR+=	xevil
 SUBDIR+=	xml2doc
-SUBDIR+=	libshout
 
 .include "../mk/bsd.pkg.subdir.mk"
