@@ -1,0 +1,7 @@
+$Id$
+
+Please grep @comments PLIST and see my notes.
+
+Builds on: FreeBSD-4.9, NetBSD-1.6.1
+
+	-- dotz@irc.pl
