@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.918 2004/01/28 10:22:49 marttikuparinen Exp $
+# $Id: Makefile,v 1.919 2004/01/28 15:29:53 jgoamakf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -323,6 +323,8 @@ SUBDIR+=	linux-kernel-sources
 SUBDIR+=	linux-makedev
 SUBDIR+=	linux-modutils
 SUBDIR+=	linux-nfs-utils
+SUBDIR+=	linux24-kernel
+SUBDIR+=	linux24-kernel-headers
 SUBDIR+=	liquidwar
 SUBDIR+=	liteamp
 SUBDIR+=	lletters
