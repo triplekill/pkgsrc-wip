@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.442 2003/09/11 00:42:45 blef Exp $
+# $Id: Makefile,v 1.443 2003/09/12 17:54:36 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -381,6 +381,7 @@ SUBDIR+=	xchm
 SUBDIR+=	xcircuit3
 SUBDIR+=	xevil
 SUBDIR+=	xfce4
+SUBDIR+=	xfce4-artwork
 SUBDIR+=	xfce4-desktop
 SUBDIR+=	xfce4-fm
 SUBDIR+=	xfce4-fm-icons
