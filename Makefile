@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.686 2003/11/27 03:48:36 mpasternak Exp $
+# $Id: Makefile,v 1.687 2003/11/27 04:32:46 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -141,6 +141,8 @@ SUBDIR+=	frontpage
 SUBDIR+=	fsv
 SUBDIR+=	fwbuilder
 SUBDIR+=	galib
+# SUBDIR+=	gcl		# see TODO
+# SUBDIR+=	gcl-nox11	# see gcl/TODO
 SUBDIR+=	gcompris
 SUBDIR+=	gdbada
 SUBDIR+=	gdrdao
