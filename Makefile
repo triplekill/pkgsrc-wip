@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.361 2003/08/05 22:23:44 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.362 2003/08/06 14:40:20 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -213,6 +213,7 @@ SUBDIR+=	netbeans-ide
 SUBDIR+=	netkit-base
 SUBDIR+=	newsx
 SUBDIR+=	nikto
+SUBDIR+=	ntp4-dev
 SUBDIR+=	nvtv
 SUBDIR+=	nvtv-gtk2
 SUBDIR+=	opax
