@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.387 2003/08/21 18:56:30 xtraeme Exp $
+# $Id: Makefile,v 1.388 2003/08/22 14:59:22 id9848949 Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -283,6 +283,7 @@ SUBDIR+=	postgresql-autodoc
 SUBDIR+=	ppp
 SUBDIR+=	premake
 SUBDIR+=	procps
+SUBDIR+=	prtunnel
 SUBDIR+=	psh
 SUBDIR+=	pts
 SUBDIR+=	py-OpenGL
