@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1705 2005/03/27 21:23:57 thomasklausner Exp $
+# $Id: Makefile,v 1.1706 2005/03/28 09:25:31 jgoamakf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -263,6 +263,7 @@ SUBDIR+=	gdam
 SUBDIR+=	gde
 SUBDIR+=	geeklog
 SUBDIR+=	geos
+SUBDIR+=	geos2
 SUBDIR+=	gettext-lib
 SUBDIR+=	gettext-runtime
 SUBDIR+=	gettext-tools
