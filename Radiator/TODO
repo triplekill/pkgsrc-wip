@@ -1,0 +1,5 @@
+
+$Id$
+
+Maybe remove GUI functionality from the test script and make a GUI
+test script package.
