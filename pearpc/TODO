@@ -1,4 +1,4 @@
-$Id: TODO,v 1.1.1.1 2004/05/10 05:33:02 mpasternak Exp $
+$Id: TODO,v 1.2 2004/05/14 20:57:57 thomasklausner Exp $
 
  * PLIST when it compiles
  
@@ -6,4 +6,4 @@ $Id: TODO,v 1.1.1.1 2004/05/10 05:33:02 mpasternak Exp $
  
  	-- dotz@irc.pl
 
-0.1.1 out.
+0.1.2 out.
