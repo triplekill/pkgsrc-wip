@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1397 2004/07/18 15:55:14 cetrox Exp $
+# $Id: Makefile,v 1.1398 2004/07/19 19:21:41 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -6,6 +6,7 @@ COMMENT=	WIP pkgsrc packages
 SUBDIR+=	4stAttack
 SUBDIR+=	Cg-compiler
 SUBDIR+=	Coin
+SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
