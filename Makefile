@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.340 2003/07/25 12:48:17 thomasklausner Exp $
+# $Id: Makefile,v 1.341 2003/07/25 13:50:55 drue Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -47,6 +47,7 @@ SUBDIR+=	bugzilla
 SUBDIR+=	busybox
 SUBDIR+=	byacc
 SUBDIR+=	cawf
+SUBDIR+=	ccrypt
 SUBDIR+=	cdpr
 SUBDIR+=	cgdb
 SUBDIR+=	cherokee
