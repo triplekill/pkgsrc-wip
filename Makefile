@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.380 2003/08/18 13:38:48 xtraeme Exp $
+# $Id: Makefile,v 1.381 2003/08/19 06:48:48 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -92,6 +92,7 @@ SUBDIR+=	festival-gaim
 SUBDIR+=	fluxconf
 SUBDIR+=	fluxspace
 SUBDIR+=	foobillard
+SUBDIR+=	freeglut
 SUBDIR+=	freenet-tools
 SUBDIR+=	frontpage
 SUBDIR+=	fspanel
