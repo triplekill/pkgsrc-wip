@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1682 2005/03/12 23:43:14 jcflack Exp $
+# $Id: Makefile,v 1.1683 2005/03/13 12:43:52 obache Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -480,6 +480,7 @@ SUBDIR+=	linux-nfs-utils
 SUBDIR+=	linux-wlan-ng
 SUBDIR+=	linux24-kernel
 SUBDIR+=	linux24-kernel-headers
+SUBDIR+=	linuxigd
 SUBDIR+=	liquidwar
 SUBDIR+=	lletters
 SUBDIR+=	lmarbles
