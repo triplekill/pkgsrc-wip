@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.162 2003/05/15 08:52:13 thomasklausner Exp $
+# $Id: Makefile,v 1.163 2003/05/15 11:33:58 lsed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -29,6 +29,7 @@ SUBDIR+=	darkice
 SUBDIR+=	devhelp
 SUBDIR+=	dircproxy
 SUBDIR+=	directfb
+SUBDIR+=	dosbox
 SUBDIR+=	drweb
 SUBDIR+=	emirror
 SUBDIR+=	ezbounce
