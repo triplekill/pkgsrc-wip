@@ -1,0 +1,5 @@
+$Id$
+
+Install scripts in ${PREFIX}/bin with ${PYVERSSUFFIX}
+
+	-- dotz@irc.pl
