@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.139 2003/05/05 12:17:51 drue Exp $
+# $Id: Makefile,v 1.140 2003/05/07 13:57:45 lsed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -99,6 +99,7 @@ SUBDIR+=	phplot
 SUBDIR+=	pinball
 SUBDIR+=	pixieplus
 SUBDIR+=	poedit
+SUBDIR+=	portmap
 SUBDIR+=	ppp
 SUBDIR+=	pts
 SUBDIR+=	puf
