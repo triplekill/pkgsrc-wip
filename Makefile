@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.143 2003/05/07 23:34:59 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.144 2003/05/08 00:01:56 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -9,6 +9,7 @@ SUBDIR+=	adodb
 SUBDIR+=	allegro
 SUBDIR+=	amsn
 SUBDIR+=	aolserver
+SUBDIR+=	ap-ometer
 SUBDIR+=	aputils
 SUBDIR+=	autoproject
 SUBDIR+=	billardgl
