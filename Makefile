@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.355 2003/07/31 07:23:06 minskim Exp $
+# $Id: Makefile,v 1.356 2003/07/31 19:39:44 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -329,6 +329,8 @@ SUBDIR+=	vmsbackup
 SUBDIR+=	vte
 SUBDIR+=	weewm
 SUBDIR+=	windowlab
+SUBDIR+=	wmclockmon
+SUBDIR+=	wmitime
 SUBDIR+=	words
 SUBDIR+=	xawtv
 SUBDIR+=	xcircuit3
