@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1048 2004/03/05 22:52:35 bencollver Exp $
+# $Id: Makefile,v 1.1049 2004/03/06 06:19:46 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -156,6 +156,8 @@ SUBDIR+=	gcc3-c-devel
 SUBDIR+=	gcompris
 SUBDIR+=	gdbada
 SUBDIR+=	geeklog
+SUBDIR+=	gettext-runtime
+SUBDIR+=	gettext-tools
 SUBDIR+=	gg2
 SUBDIR+=	ghostpcl
 SUBDIR+=	gift
