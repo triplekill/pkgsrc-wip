@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile 323 2003-07-22 05:20:19Z xtraeme $
+# $Id: Makefile,v 1.1.1.1 2003/07/23 20:35:17 xtraeme Exp $
 
 DISTNAME=	${DISTFILES}
 PKGNAME=	XFree86-server-${XFREE86_VERSION}
@@ -16,7 +16,7 @@ DISTINFO_FILE=		${.CURDIR}/../XFree86-libs/distinfo
 PATCHDIR=		${.CURDIR}/../XFree86-libs/patches
 
 XBUILD_DIRS=		lib/font lib/lbxutil lib/Xdmcp lib/Xau \
-			programs/Xserver 
+			programs/Xserver
 XINCLUDE_DIRS=		lib/xkbfile lib/xtrans
 XINSTALL_DIRS=		lib/font programs/Xserver
 XINSTALL_MAN_DIRS=	programs/Xserver
