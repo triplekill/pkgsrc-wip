@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.116 2003/04/24 20:15:51 xtraeme Exp $
+# $Id: Makefile,v 1.117 2003/04/24 23:57:36 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -46,9 +46,7 @@ SUBDIR+=	gkrellm2-xmms
 SUBDIR+=	gmencoder
 SUBDIR+=	gnomeicu
 SUBDIR+=	golem
-SUBDIR+=	gstreamer
 SUBDIR+=	gstreamer-player
-SUBDIR+=	gstreamer-plugins
 SUBDIR+=	gtetrinet2
 SUBDIR+=	gtk-sharp
 SUBDIR+=	gtk2-engines-xfce
