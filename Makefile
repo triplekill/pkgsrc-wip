@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.953 2004/02/11 20:40:09 rasputnik Exp $
+# $Id: Makefile,v 1.954 2004/02/12 02:41:23 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -396,7 +396,6 @@ SUBDIR+=	noiptun
 SUBDIR+=	nuppelvideo
 SUBDIR+=	oinkmaster
 SUBDIR+=	opax
-SUBDIR+=	openvpn
 SUBDIR+=	p5-Apache-Reload
 SUBDIR+=	p5-Apache-Request
 SUBDIR+=	p5-Apache-Test
