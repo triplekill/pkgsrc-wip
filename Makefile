@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1204 2004/04/16 10:28:59 tripledes Exp $
+# $Id: Makefile,v 1.1205 2004/04/16 11:22:37 tripledes Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -463,7 +463,6 @@ SUBDIR+=	p5-Set-Infinite
 SUBDIR+=	p5-Text-Quoted
 SUBDIR+=	p5-Text-Tabs+Wrap
 SUBDIR+=	p5-Tk-TableMatrix
-SUBDIR+=	p5-WWW-Mechanize
 SUBDIR+=	p5-XML-Sablotron
 SUBDIR+=	p5-gtk2
 SUBDIR+=	palm-db-tools
