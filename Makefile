@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.517 2003/10/01 20:58:02 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.518 2003/10/01 22:48:09 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -406,6 +406,7 @@ SUBDIR+=	udhcp
 SUBDIR+=	umix
 SUBDIR+=	unmo3
 SUBDIR+=	upx
+SUBDIR+=	util-linux
 SUBDIR+=	vba
 SUBDIR+=	vcdgear
 SUBDIR+=	viewcvs
