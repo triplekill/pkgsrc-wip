@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.580 2003/10/30 05:33:37 minskim Exp $
+# $Id: Makefile,v 1.581 2003/10/30 09:54:28 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -167,6 +167,7 @@ SUBDIR+=	gpdf
 SUBDIR+=	grdc
 SUBDIR+=	grip
 SUBDIR+=	gsasl
+SUBDIR+=	gss
 SUBDIR+=	gstreamer-player
 SUBDIR+=	gtick
 SUBDIR+=	gtk-engines-thinice
