@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.193 2003/05/31 00:55:01 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.194 2003/05/31 09:46:57 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -74,6 +74,7 @@ SUBDIR+=	icmpchat
 SUBDIR+=	idesk
 SUBDIR+=	idled
 SUBDIR+=	ike-scan
+SUBDIR+=	ilohamail
 SUBDIR+=	ion-devel
 SUBDIR+=	ion-dock
 SUBDIR+=	jabberd
