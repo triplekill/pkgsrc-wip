@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.184 2003/05/22 08:13:52 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.185 2003/05/22 12:20:38 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -88,8 +88,10 @@ SUBDIR+=	kgpg
 SUBDIR+=	libdialog
 SUBDIR+=	libfwbuilder
 SUBDIR+=	libgsf
+SUBDIR+=	libogg-nightly
 SUBDIR+=	libshout
 SUBDIR+=	libspectrum
+SUBDIR+=	libvorbis-nightly
 SUBDIR+=	libwpd
 SUBDIR+=	linux-modutils
 SUBDIR+=	linux-nfs-utils
@@ -156,6 +158,7 @@ SUBDIR+=	sysklogd
 SUBDIR+=	sysvinit
 SUBDIR+=	tendra
 SUBDIR+=	tex-foiltex
+SUBDIR+=	theora-nightly
 SUBDIR+=	totem
 SUBDIR+=	tsclient
 SUBDIR+=	umix
