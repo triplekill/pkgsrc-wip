@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.268 2003/06/24 08:02:57 xtraeme Exp $
+# $Id: Makefile,v 1.269 2003/06/24 09:11:58 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -210,6 +210,7 @@ SUBDIR+=	qinx
 SUBDIR+=	qn-x11
 SUBDIR+=	raptor
 SUBDIR+=	rcorder
+SUBDIR+=	regexxer
 SUBDIR+=	rlpr
 SUBDIR+=	rosegarden-current
 SUBDIR+=	scm
