@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.185 2003/05/22 12:20:38 xtraeme Exp $
+# $Id: Makefile,v 1.186 2003/05/23 02:26:07 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -99,6 +99,7 @@ SUBDIR+=	liquidwar
 SUBDIR+=	mailfilter
 SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
+SUBDIR+=	metacity-setup
 SUBDIR+=	mixer.tk
 SUBDIR+=	mopac
 SUBDIR+=	mtf
