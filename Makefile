@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.976 2004/02/17 03:10:40 minskim Exp $
+# $Id: Makefile,v 1.977 2004/02/17 04:31:33 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -72,7 +72,6 @@ SUBDIR+=	cdpr
 SUBDIR+=	cgdb
 SUBDIR+=	cgic
 SUBDIR+=	cherokee
-SUBDIR+=	chkrootkit
 SUBDIR+=	chksniff
 SUBDIR+=	chora
 SUBDIR+=	cjk-latex
