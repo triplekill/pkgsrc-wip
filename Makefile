@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1039 2004/02/28 17:49:56 xtraeme Exp $
+# $Id: Makefile,v 1.1040 2004/02/29 12:08:57 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -415,6 +415,7 @@ SUBDIR+=	p5-Sendmail-PMilter
 SUBDIR+=	p5-Set-Crontab
 SUBDIR+=	p5-Set-Infinite
 SUBDIR+=	p5-String-Approx
+SUBDIR+=	p5-Text-Tabs+Wrap
 SUBDIR+=	p5-Tk-TableMatrix
 SUBDIR+=	p5-XML-Sablotron
 SUBDIR+=	p5-gtk2
