@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.360 2003/08/05 02:08:20 xtraeme Exp $
+# $Id: Makefile,v 1.361 2003/08/05 22:23:44 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -237,6 +237,7 @@ SUBDIR+=	p5-HTTP-GHTTP
 SUBDIR+=	p5-IO-Tee
 SUBDIR+=	p5-Net-Gnats
 SUBDIR+=	p5-Net-Jabber
+SUBDIR+=	p5-Net-Pcap
 SUBDIR+=	p5-SWF-File
 SUBDIR+=	p5-Set-Crontab
 SUBDIR+=	p5-Set-Infinite
