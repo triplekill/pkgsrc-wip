@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.334 2003/07/19 02:16:29 xtraeme Exp $
+# $Id: Makefile,v 1.335 2003/07/19 11:07:38 bubuchka Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -272,6 +272,8 @@ SUBDIR+=	srvx
 SUBDIR+=	stickynotes-applet
 SUBDIR+=	strace
 SUBDIR+=	streamripper
+SUBDIR+=	sun-jre142
+SUBDIR+=	sun-jdk142
 SUBDIR+=	sysklogd
 SUBDIR+=	sysvinit
 SUBDIR+=	tendra
