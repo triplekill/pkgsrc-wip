@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.318 2003/07/09 18:02:53 marttikuparinen Exp $
+# $Id: Makefile,v 1.319 2003/07/12 02:43:53 bencollver Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -13,6 +13,7 @@ SUBDIR+=	abuse_sdl
 SUBDIR+=	acid
 SUBDIR+=	adodb
 SUBDIR+=	allegro
+SUBDIR+=	amap
 SUBDIR+=	amsn
 SUBDIR+=	aolserver
 SUBDIR+=	ap-bunzip2
