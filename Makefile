@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.320 2003/07/12 12:30:58 lsed Exp $
+# $Id: Makefile,v 1.321 2003/07/12 12:39:36 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -212,6 +212,8 @@ SUBDIR+=	p5-gtk2
 SUBDIR+=	pdns
 SUBDIR+=	perltidy
 SUBDIR+=	php-jpgraph
+SUBDIR+=	picasm
+SUBDIR+=	picprog
 SUBDIR+=	pinball
 SUBDIR+=	pixieplus
 SUBDIR+=	plugger
