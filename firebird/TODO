@@ -1,12 +1,10 @@
-$Id$
+$Id: TODO,v 1.1.1.1 2004/01/02 05:19:09 mpasternak Exp $
 
 Does it compile on NetBSD-stable?
 
 Does it compile on NetBSD-current?
 
 DISTFILE issue. Please read Makefile.
-
-I had lot of trouble with M4 inclusion in Makefile. Read comments there.
 
 FreeBSD build breaks at:
 	../gen/firebird/bin/create_db empty.fdb
