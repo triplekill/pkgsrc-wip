@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.72 2003/04/13 12:52:03 cjep Exp $
+# $Id: Makefile,v 1.73 2003/04/13 12:58:26 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -68,5 +68,6 @@ SUBDIR+=	qadsl
 SUBDIR+=	scm
 SUBDIR+=	shoutcast
 SUBDIR+=	tex-foiltex
+SUBDIR+=	umix
 SUBDIR+=	vim-gtk2
 SUBDIR+=	xawtv
