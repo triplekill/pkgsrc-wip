@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1343 2004/06/25 14:49:30 minskim Exp $
+# $Id: Makefile,v 1.1344 2004/06/25 20:08:36 plunky Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -552,6 +552,7 @@ SUBDIR+=	prelude-nids
 SUBDIR+=	premake
 SUBDIR+=	prngd
 SUBDIR+=	procps
+SUBDIR+=	progreiserfs
 SUBDIR+=	prothon
 SUBDIR+=	prozilla
 SUBDIR+=	prtunnel
