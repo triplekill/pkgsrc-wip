@@ -1,0 +1,4 @@
+$Id$
+
+    o Remove duplicated do-install target.
+    o Use pkglint to see the errors... (pkgsrc/pkgtools/pkglint).
