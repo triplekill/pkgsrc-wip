@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1132 2004/03/28 20:47:55 jmmv Exp $
+# $Id: Makefile,v 1.1133 2004/03/28 23:13:46 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -338,7 +338,6 @@ SUBDIR+=	libmatchbox
 SUBDIR+=	libmatroska
 SUBDIR+=	libneural
 SUBDIR+=	libogg-nightly
-SUBDIR+=	libol
 SUBDIR+=	libprelude
 SUBDIR+=	libstatgrab
 SUBDIR+=	libticables
