@@ -1,9 +1,10 @@
-# $Id: Makefile,v 1.323 2003/07/12 15:28:22 marc Exp $
+# $Id: Makefile,v 1.324 2003/07/13 03:47:52 schnoebe Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	3ddesktop
+SUBDIR+=	4stAttack
 SUBDIR+=	PPower4
 SUBDIR+=	Radiator
 SUBDIR+=	Radiator-all
