@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1563 2004/12/03 12:45:20 thomasklausner Exp $
+# $Id: Makefile,v 1.1564 2004/12/03 13:42:32 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -277,7 +277,6 @@ SUBDIR+=	gtkglk
 SUBDIR+=	gtklookat
 SUBDIR+=	gtkpod
 SUBDIR+=	guile-gnome
-SUBDIR+=	guile-gtk-devel
 SUBDIR+=	guile-lib
 SUBDIR+=	guile-scsh
 SUBDIR+=	guile16-slib
