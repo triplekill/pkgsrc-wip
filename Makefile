@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1526 2004/11/09 05:50:39 minskim Exp $
+# $Id: Makefile,v 1.1527 2004/11/09 05:54:43 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -636,7 +636,6 @@ SUBDIR+=	pysite
 SUBDIR+=	pywm
 SUBDIR+=	pyzor
 SUBDIR+=	q3-urbanterror
-SUBDIR+=	qemu
 SUBDIR+=	qemu-bin
 SUBDIR+=	qhacc
 SUBDIR+=	qico
