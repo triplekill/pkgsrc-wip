@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1386 2004/07/15 15:12:33 ianzag Exp $
+# $Id: Makefile,v 1.1387 2004/07/15 16:07:45 ianzag Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -706,7 +706,6 @@ SUBDIR+=	sleuthkit # READ TODO #
 SUBDIR+=	slocate
 SUBDIR+=	slrn-pl
 SUBDIR+=	slune
-SUBDIR+=	smartmontools
 SUBDIR+=	smbldap-tools
 SUBDIR+=	smlnj-current
 SUBDIR+=	smtprc
