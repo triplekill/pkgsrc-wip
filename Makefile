@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1502 2004/10/20 19:27:38 xtraeme Exp $
+# $Id: Makefile,v 1.1503 2004/10/20 23:59:26 lexort Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -187,7 +187,6 @@ SUBDIR+=	gettext-runtime
 SUBDIR+=	gettext-tools
 SUBDIR+=	gfontview
 SUBDIR+=	gforge
-SUBDIR+=	gg2
 SUBDIR+=	ghostpcl
 SUBDIR+=	git
 SUBDIR+=	gkrellm-launch
