@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1513 2004/10/26 15:08:53 imilh Exp $
+# $Id: Makefile,v 1.1514 2004/10/29 23:03:45 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -506,7 +506,6 @@ SUBDIR+=	p5-Term-ProgressBar
 SUBDIR+=	p5-Text-Tabs+Wrap
 SUBDIR+=	p5-Tk-TableMatrix
 SUBDIR+=	p5-WWW-Curl
-SUBDIR+=	p5-X11-Protocol
 SUBDIR+=	palm-db-tools
 SUBDIR+=	pam-mysql
 SUBDIR+=	pam-pop3
