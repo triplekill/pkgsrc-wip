@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1723 2005/04/03 14:45:48 adrian_p Exp $
+# $Id: Makefile,v 1.1724 2005/04/04 08:51:57 jgoamakf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -627,7 +627,6 @@ SUBDIR+=	orion
 SUBDIR+=	orpie
 SUBDIR+=	p3nfs
 SUBDIR+=	p5-Aceperl
-SUBDIR+=	p5-Apache-Request
 SUBDIR+=	p5-AxKit
 SUBDIR+=	p5-Cache-Mmap
 SUBDIR+=	p5-Class-Date
