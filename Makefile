@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1439 2004/08/23 11:52:52 mwdavies Exp $
+# $Id: Makefile,v 1.1440 2004/08/25 10:41:55 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -446,6 +446,7 @@ SUBDIR+=	oops
 SUBDIR+=	opax
 SUBDIR+=	open21xx
 SUBDIR+=	opengaim
+SUBDIR+=	openttd
 SUBDIR+=	openvpn2
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
