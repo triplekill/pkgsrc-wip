@@ -1,9 +1,4 @@
 # $NetBSD$
-# New ports collection makefile for:   sudoscript
-# Date created:        17 June, 2003
-# Whom:                hbo
-# $Id: Makefile,v 1.2 2003/12/30 20:13:12 cjep Exp $
-# $OpenBSD$
 
 DISTNAME=	sudoscript-2.1.1
 CATEGORIES=	security
