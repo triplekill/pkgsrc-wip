@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1004 2004/02/21 21:03:09 tomhensel Exp $
+# $Id: Makefile,v 1.1005 2004/02/21 23:24:31 bjan2 Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -418,7 +418,6 @@ SUBDIR+=	p5-Glib2
 SUBDIR+=	p5-GnuPG-Interface
 SUBDIR+=	p5-HTML-Latex
 SUBDIR+=	p5-HTTP-GHTTP
-SUBDIR+=	p5-IO-Tee
 SUBDIR+=	p5-Mail-Box
 SUBDIR+=	p5-Net-Pcap
 SUBDIR+=	p5-Parallel-ForkManager
