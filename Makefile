@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1646 2005/02/06 12:36:23 dolecek Exp $
+# $Id: Makefile,v 1.1647 2005/02/11 13:11:46 airhead Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -319,6 +319,7 @@ SUBDIR+=	ile
 SUBDIR+=	ilohamail
 SUBDIR+=	interbase-docs
 SUBDIR+=	interchange
+SUBDIR+=	ipfm
 SUBDIR+=	iptables
 SUBDIR+=	iptstate
 SUBDIR+=	isc-dhclient
