@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.699 2003/11/28 18:07:16 xtraeme Exp $
+# $Id: Makefile,v 1.700 2003/11/28 19:11:49 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -42,7 +42,6 @@ SUBDIR+=	ap-auth-mysql
 SUBDIR+=	ap-bunzip2
 SUBDIR+=	ap-frontpage
 SUBDIR+=	ap-ometer
-SUBDIR+=	ap-security
 SUBDIR+=	ap2-auth-mysql
 SUBDIR+=	ap2-python
 SUBDIR+=	ap2-xslt
