@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.577 2003/10/29 18:11:32 adrian_p Exp $
+# $Id: Makefile,v 1.578 2003/10/29 18:53:21 roelants Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -485,6 +485,7 @@ SUBDIR+=	xmms-pitch
 SUBDIR+=	xmmsctrl
 SUBDIR+=	xplore
 SUBDIR+=	xsh
+SUBDIR+=	xwpe
 SUBDIR+=	yafray
 SUBDIR+=	zebra-pj
 SUBDIR+=	zenity
