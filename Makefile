@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.303 2003/07/05 17:06:49 marttikuparinen Exp $
+# $Id: Makefile,v 1.304 2003/07/05 19:07:52 bmeurer Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -261,7 +261,6 @@ SUBDIR+=	tuxtype2
 SUBDIR+=	typhoon
 SUBDIR+=	uclibc
 SUBDIR+=	udhcp
-SUBDIR+=	umbrello
 SUBDIR+=	umix
 SUBDIR+=	vba
 SUBDIR+=	vcdgear
