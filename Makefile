@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.190 2003/05/25 23:48:23 marc Exp $
+# $Id: Makefile,v 1.191 2003/05/26 14:26:10 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -60,6 +60,7 @@ SUBDIR+=	gkrellm2-volume
 SUBDIR+=	gkrellm2-xmms
 SUBDIR+=	gmencoder
 SUBDIR+=	gnomeicu
+SUBDIR+=	grip
 SUBDIR+=	gstreamer-player
 SUBDIR+=	gtetrinet2
 SUBDIR+=	gtk-sharp
