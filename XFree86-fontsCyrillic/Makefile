@@ -11,8 +11,7 @@ MAINTAINER=	xfree86@xtraeme.unixbsd.org
 HOMEPAGE=	http://www.xfree86.org/
 COMMENT=	XFree86 Cyrillic fonts
 
-DEPENDS=	XFree86-clients*:../../wip/XFree86-clients
-DEPENDS+=	XFree86-fontsEncodings*:../../wip/XFree86-fontsEncodings
+DEPENDS+=	XFree86-fontsEncodings>=4.3.0:../../wip/XFree86-fontsEncodings
 
 USE_BUILDLINK2=		yes
 PROJECTROOT=		-DProjectRoot=${PREFIX}
