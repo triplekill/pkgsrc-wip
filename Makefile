@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1098 2004/03/20 20:13:19 xtraeme Exp $
+# $Id: Makefile,v 1.1099 2004/03/21 00:12:27 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -255,6 +255,7 @@ SUBDIR+=	ish
 SUBDIR+=	jabberd2
 SUBDIR+=	jakarta-log4j
 SUBDIR+=	java-BigDecimal
+SUBDIR+=	java-getopt
 SUBDIR+=	java-gnucrypto
 SUBDIR+=	java-gnujaxp
 SUBDIR+=	java-jep
