@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1677 2005/03/04 19:07:58 oht Exp $
+# $Id: Makefile,v 1.1678 2005/03/07 09:23:14 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -275,7 +275,6 @@ SUBDIR+=	gnome-alsamixer
 SUBDIR+=	gnome-bluetooth
 SUBDIR+=	gnome-clipboard-daemon
 SUBDIR+=	gnomeicu
-SUBDIR+=	gnucash
 SUBDIR+=	gnump3d
 SUBDIR+=	gnunet
 SUBDIR+=	gnupoc-makesis
