@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1648 2005/02/13 12:50:13 ppostma Exp $
+# $Id: Makefile,v 1.1649 2005/02/13 19:00:01 bencollver Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -900,6 +900,7 @@ SUBDIR+=	viewer
 SUBDIR+=	viewglob
 SUBDIR+=	virus
 SUBDIR+=	vixie-cron
+SUBDIR+=	vkeybd
 SUBDIR+=	vm-pop3d
 SUBDIR+=	vmac
 SUBDIR+=	vmsbackup
