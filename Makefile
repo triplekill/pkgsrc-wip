@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1471 2004/09/17 18:03:56 thomasklausner Exp $
+# $Id: Makefile,v 1.1472 2004/09/18 10:44:57 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -813,7 +813,6 @@ SUBDIR+=	vm-pop3d
 SUBDIR+=	vmac
 SUBDIR+=	vmsbackup
 SUBDIR+=	vorbisgain
-SUBDIR+=	vpnc
 SUBDIR+=	vtk
 SUBDIR+=	vtk-data
 SUBDIR+=	vtk-docs
