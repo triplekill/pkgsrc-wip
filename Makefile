@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1315 2004/06/08 12:54:31 ppostma Exp $
+# $Id: Makefile,v 1.1316 2004/06/08 14:49:09 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -38,6 +38,7 @@ SUBDIR+=	ap2-macro
 SUBDIR+=	ap2-python
 SUBDIR+=	apachebench2
 SUBDIR+=	argouml
+SUBDIR+=	argus
 SUBDIR+=	arping
 SUBDIR+=	asfrecorder
 SUBDIR+=	asterisk
