@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1446 2004/08/31 13:41:52 airhead Exp $
+# $Id: Makefile,v 1.1447 2004/08/31 13:46:02 airhead Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -670,6 +670,7 @@ SUBDIR+=	serlook
 SUBDIR+=	sgmltools-lite
 SUBDIR+=	shadow
 SUBDIR+=	shoutcast
+SUBDIR+=	sid-milter
 SUBDIR+=	silky
 SUBDIR+=	simage
 SUBDIR+=	simgear
