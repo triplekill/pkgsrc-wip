@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1318 2004/06/08 21:41:36 xtraeme Exp $
+# $Id: Makefile,v 1.1319 2004/06/08 23:09:44 tripledes Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -754,6 +754,7 @@ SUBDIR+=	vtk-data
 SUBDIR+=	vtk-docs
 SUBDIR+=	vtk-python
 SUBDIR+=	webcleaner
+SUBDIR+=	websvn
 SUBDIR+=	weewm
 SUBDIR+=	which
 SUBDIR+=	wmclockmon
