@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1611 2005/01/12 19:30:34 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1612 2005/01/13 06:49:44 ishit Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -509,7 +509,6 @@ SUBDIR+=	mopac
 SUBDIR+=	moregroupware
 SUBDIR+=	mozplugger
 SUBDIR+=	mpgedit
-SUBDIR+=	mplusfonts
 SUBDIR+=	mppdec
 SUBDIR+=	mpq-tools
 SUBDIR+=	mtf
