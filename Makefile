@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.602 2003/11/07 09:55:58 peterih Exp $
+# $Id: Makefile,v 1.603 2003/11/08 02:06:55 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -400,6 +400,7 @@ SUBDIR+=	py-RXP
 SUBDIR+=	py-Soya
 SUBDIR+=	py-albatross
 SUBDIR+=	py-biggles
+SUBDIR+=	py-buildbot
 SUBDIR+=	py-cjkcodecs
 SUBDIR+=	py-elementtree
 SUBDIR+=	py-game
