@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1482 2004/10/02 04:09:56 jgoamakf Exp $
+# $Id: Makefile,v 1.1483 2004/10/05 16:12:43 jgoamakf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -688,6 +688,7 @@ SUBDIR+=	ruby-raggle
 SUBDIR+=	ruby-redcloth
 SUBDIR+=	ruby-syck
 SUBDIR+=	sara
+SUBDIR+=	sarg
 SUBDIR+=	sawfish-gtk2
 SUBDIR+=	scite
 SUBDIR+=	scm
