@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.120 2003/04/26 06:24:10 rhx Exp $
+# $Id: Makefile,v 1.121 2003/04/26 06:35:27 rhx Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -11,7 +11,6 @@ SUBDIR+=	amsn
 SUBDIR+=	aolserver
 SUBDIR+=	ap-bandwidth
 SUBDIR+=	autoproject
-SUBDIR+=	balsa2
 SUBDIR+=	billardgl
 SUBDIR+=	bugzilla
 SUBDIR+=	byacc
