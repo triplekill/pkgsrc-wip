@@ -1,0 +1,8 @@
+$Id$
+
+Make scripts installed with ${PYPKGSUFX} so they don't conflict each other
+when it is installed for >1 versions of Python.
+
+(same as wip/py-twisted)
+
+	-- dotz@irc.pl
