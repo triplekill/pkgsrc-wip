@@ -1,0 +1,6 @@
+$Id$
+
+Patch setup.py to make "bin/songwrite" installation in a nicer way (now it
+is handled by post-install, I could not make it work properly other way)
+
+	-- dotz@irc.pl
