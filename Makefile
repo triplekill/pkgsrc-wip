@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1429 2004/08/16 20:18:28 minskim Exp $
+# $Id: Makefile,v 1.1430 2004/08/17 12:57:43 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -586,7 +586,6 @@ SUBDIR+=	py-RXP
 SUBDIR+=	py-SQLObject
 SUBDIR+=	py-SciPy
 SUBDIR+=	py-Soya
-SUBDIR+=	py-Xlib
 SUBDIR+=	py-albatross
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
