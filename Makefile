@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.371 2003/08/13 10:39:12 marc Exp $
+# $Id: Makefile,v 1.372 2003/08/14 21:29:58 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -88,6 +88,7 @@ SUBDIR+=	entropy
 SUBDIR+=	ezbounce
 SUBDIR+=	festival-gaim
 SUBDIR+=	fluxconf
+SUBDIR+=	fluxspace
 SUBDIR+=	freenet-tools
 SUBDIR+=	frontpage
 SUBDIR+=	fspanel
