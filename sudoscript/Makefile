@@ -2,7 +2,7 @@
 # New ports collection makefile for:   sudoscript
 # Date created:        17 June, 2003
 # Whom:                hbo
-# $Id: Makefile,v 1.1.1.1 2003/09/17 18:18:49 xtraeme Exp $
+# $Id: Makefile,v 1.2 2003/12/30 20:13:12 cjep Exp $
 # $OpenBSD$
 
 DISTNAME=	sudoscript-2.1.1
@@ -24,6 +24,6 @@ PERMIT_DISTFILES_FTP=	Yes
 
 NO_BUILD=		Yes
 NO_REGRESS=		Yes
-USE_GMAKE=		Yes
+USE_GNU_TOOLS+=		make
 
 .include "../../mk/bsd.pkg.mk"
