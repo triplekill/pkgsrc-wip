@@ -1,5 +1,7 @@
-$Id$
+$Id: TODO,v 1.1 2003/12/29 03:06:20 mpasternak Exp $
 
 Does 1.3.0rc2 compile and run on NetBSD-* systems?
 
 	-- dotz@irc.pl
+
+1.3.2 out.
