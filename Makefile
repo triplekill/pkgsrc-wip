@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.410 2003/09/01 17:09:22 adrian_p Exp $
+# $Id: Makefile,v 1.411 2003/09/02 00:30:28 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -347,6 +347,7 @@ SUBDIR+=	tads
 SUBDIR+=	tcc
 SUBDIR+=	tendra
 SUBDIR+=	tex-foiltex
+SUBDIR+=	theme-gtk-bluecurve
 SUBDIR+=	theora-nightly
 SUBDIR+=	tinylogin
 SUBDIR+=	toppler
