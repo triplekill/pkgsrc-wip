@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1492 2004/10/12 16:03:04 ianharding Exp $
+# $Id: Makefile,v 1.1493 2004/10/13 09:01:32 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -261,7 +261,6 @@ SUBDIR+=	iip
 SUBDIR+=	iisemulator
 SUBDIR+=	ile
 SUBDIR+=	ilohamail
-SUBDIR+=	inkscape
 SUBDIR+=	interbase-docs
 SUBDIR+=	interchange
 SUBDIR+=	iptables
