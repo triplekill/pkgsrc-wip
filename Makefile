@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.25 2003/04/04 22:19:26 xtraeme Exp $
+# $Id: Makefile,v 1.26 2003/04/05 11:25:28 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -6,6 +6,7 @@ COMMENT=	WIP pkgsrc packages
 SUBDIR+=	PPower4
 SUBDIR+=	aolserver
 SUBDIR+=	autoproject
+SUBDIR+=	chksniff
 SUBDIR+=	chktex
 SUBDIR+=	dbh
 SUBDIR+=	gtk-sharp
