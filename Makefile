@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1430 2004/08/17 12:57:43 thomasklausner Exp $
+# $Id: Makefile,v 1.1431 2004/08/17 15:35:34 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -200,7 +200,6 @@ SUBDIR+=	gtick
 SUBDIR+=	gtk-engines-thinice
 SUBDIR+=	gtk-sharp
 SUBDIR+=	gtk-theme-switch
-SUBDIR+=	gtk2-devel
 SUBDIR+=	gtk2-engines-dwerg
 SUBDIR+=	gtk2-engines-flat
 SUBDIR+=	gtk2-engines-galaxy
