@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1457 2004/09/13 13:22:38 cetrox Exp $
+# $Id: Makefile,v 1.1458 2004/09/13 15:20:18 cetrox Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -775,6 +775,7 @@ SUBDIR+=	unmo3
 SUBDIR+=	unrealtournament-server
 SUBDIR+=	unshield
 SUBDIR+=	up-imapproxy
+SUBDIR+=	urlgfe
 SUBDIR+=	util-linux
 SUBDIR+=	valknut
 SUBDIR+=	vcdgear
