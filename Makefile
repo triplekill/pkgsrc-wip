@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1680 2005/03/08 11:53:42 mwdavies Exp $
+# $Id: Makefile,v 1.1681 2005/03/10 08:17:49 ianzag Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -769,6 +769,12 @@ SUBDIR+=	pysite
 SUBDIR+=	pywm
 SUBDIR+=	pyzor
 SUBDIR+=	q3-urbanterror
+SUBDIR+=	qcad
+SUBDIR+=	qcad-manual-cs
+SUBDIR+=	qcad-manual-de
+SUBDIR+=	qcad-manual-en
+SUBDIR+=	qcad-manual-hu
+SUBDIR+=	qcad-partlibrary
 SUBDIR+=	qemu-bin
 SUBDIR+=	qhacc
 SUBDIR+=	qico
