@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1609 2005/01/12 13:44:33 xtraeme Exp $
+# $Id: Makefile,v 1.1610 2005/01/12 14:09:00 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -174,6 +174,7 @@ SUBDIR+=	eboard-extras
 SUBDIR+=	eciadsl-usermode
 SUBDIR+=	ecl
 SUBDIR+=	ecore
+SUBDIR+=	editline
 SUBDIR+=	edje
 SUBDIR+=	eic
 SUBDIR+=	electricsheep
