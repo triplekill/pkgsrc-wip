@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1186 2004/04/11 18:03:42 jmmv Exp $
+# $Id: Makefile,v 1.1187 2004/04/11 23:19:57 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -251,7 +251,6 @@ SUBDIR+=	interchange
 SUBDIR+=	iptables
 SUBDIR+=	isc-dhclient
 SUBDIR+=	isc-dhcpd
-SUBDIR+=	ish
 SUBDIR+=	jabberd-aim
 SUBDIR+=	jabberd-msn
 SUBDIR+=	jakarta-log4j
