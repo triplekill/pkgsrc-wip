@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.727 2003/12/03 19:29:18 xtraeme Exp $
+# $Id: Makefile,v 1.728 2003/12/03 23:11:51 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -132,7 +132,6 @@ SUBDIR+=	exim3
 SUBDIR+=	ezbounce
 SUBDIR+=	fakenes
 SUBDIR+=	festival-gaim
-SUBDIR+=	fisg
 SUBDIR+=	fixesext
 SUBDIR+=	fluxconf
 SUBDIR+=	fluxspace
