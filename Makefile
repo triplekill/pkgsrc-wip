@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.807 2003/12/25 23:16:15 shattered Exp $
+# $Id: Makefile,v 1.808 2003/12/26 19:27:22 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -576,6 +576,7 @@ SUBDIR+=	sysvinit
 SUBDIR+=	tcc
 SUBDIR+=	tcllib
 SUBDIR+=	tendra
+SUBDIR+=	terminus-font
 SUBDIR+=	tetrinet
 SUBDIR+=	tetrinetx
 SUBDIR+=	tex-foiltex
