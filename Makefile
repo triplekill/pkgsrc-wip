@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.150 2003/05/08 23:58:48 lsed Exp $
+# $Id: Makefile,v 1.151 2003/05/09 09:56:52 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -64,6 +64,7 @@ SUBDIR+=	idled
 SUBDIR+=	ike-scan
 SUBDIR+=	ion-devel
 SUBDIR+=	ion-dock
+SUBDIR+=	jabberd
 SUBDIR+=	jakarta-log4j
 SUBDIR+=	jdk-openjit
 SUBDIR+=	jdk12
