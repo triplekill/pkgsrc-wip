@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1418 2004/08/10 09:39:32 thomasklausner Exp $
+# $Id: Makefile,v 1.1419 2004/08/10 13:53:40 imilh Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -731,6 +731,7 @@ SUBDIR+=	taskbar
 SUBDIR+=	tcc
 SUBDIR+=	tcd
 SUBDIR+=	tcllib
+SUBDIR+=	tcpdump-latest
 SUBDIR+=	tendra
 SUBDIR+=	tenmado
 SUBDIR+=	terminatorx
