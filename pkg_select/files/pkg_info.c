@@ -47,10 +47,18 @@ show_pkgfile(WINDOW *win, char *path, const char *file)
 	if (is_ftpurl(path)) {
 		char **ftpfile, rc;
 
-		if ((ftpfile = ftp_loadfile("./", file)) == NULL)
+		/* build full path */
+		snprintf(buf, MAXLEN, "%s/", path);
+		if (ftp_info_start(buf) < 0)
 			return(-1);
-		rc = more_list(win, ftpfile, LINES - 2, COLS - 2, 1, 1);
-		freefile(ftpfile);
+
+		if ((ftpfile = ftp_loadfile("./", file)) != NULL) {
+			rc = more_list(win, ftpfile, 
+				       LINES - 2, COLS - 2, 1, 1);
+			freefile(ftpfile);
+		}
+
+		ftp_stop();
 		return(rc);
 	}
 
