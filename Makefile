@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.182 2003/05/21 10:10:36 poppnk Exp $
+# $Id: Makefile,v 1.183 2003/05/21 10:46:38 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -30,6 +30,7 @@ SUBDIR+=	cjk-latex-korean
 SUBDIR+=	cvsd
 SUBDIR+=	dancer-ircd
 SUBDIR+=	darkice
+SUBDIR+=	defendguin
 SUBDIR+=	devhelp
 SUBDIR+=	dircproxy
 SUBDIR+=	directfb
