@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1582 2004/12/27 19:55:37 chriswareham Exp $
+# $Id: Makefile,v 1.1583 2004/12/27 23:39:24 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -58,7 +58,6 @@ SUBDIR+=	ap-bunzip2
 SUBDIR+=	ap-frontpage
 SUBDIR+=	ap-macro
 SUBDIR+=	ap-ometer
-SUBDIR+=	ap-rivet
 SUBDIR+=	ap2-jk2
 SUBDIR+=	ap2-limitipconn
 SUBDIR+=	ap2-macro
