@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1719 2005/04/01 09:50:13 jgoamakf Exp $
+# $Id: Makefile,v 1.1720 2005/04/02 16:52:02 kristerw Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -945,6 +945,7 @@ SUBDIR+=	tcoffee
 SUBDIR+=	tcpdump-latest
 SUBDIR+=	tcpspy
 SUBDIR+=	tcptrack
+SUBDIR+=	teamspeak
 SUBDIR+=	tendra
 SUBDIR+=	tenmado
 SUBDIR+=	terminus-font
@@ -968,6 +969,7 @@ SUBDIR+=	toppler
 SUBDIR+=	tops-bin
 SUBDIR+=	totem
 SUBDIR+=	tr2latex
+SUBDIR+=	traceroute-nanog
 SUBDIR+=	tre
 SUBDIR+=	treetool
 SUBDIR+=	treeview
