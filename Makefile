@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.343 2003/07/26 13:59:13 jmmv Exp $
+# $Id: Makefile,v 1.344 2003/07/26 17:48:01 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -38,6 +38,7 @@ SUBDIR+=	autoproject
 SUBDIR+=	avida2
 SUBDIR+=	bastard
 SUBDIR+=	bc
+SUBDIR+=	beast
 SUBDIR+=	billardgl
 SUBDIR+=	bin86
 SUBDIR+=	boost-base
