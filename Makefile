@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.736 2003/12/04 14:27:26 jgoamakf Exp $
+# $Id: Makefile,v 1.737 2003/12/04 15:49:47 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -186,7 +186,6 @@ SUBDIR+=	gnunet
 SUBDIR+=	gotmail
 SUBDIR+=	gov2
 SUBDIR+=	gramps
-SUBDIR+=	grdc
 SUBDIR+=	grip
 SUBDIR+=	gstreamer-player
 SUBDIR+=	gtick
@@ -529,7 +528,6 @@ SUBDIR+=	rolo
 SUBDIR+=	rosegarden-current
 SUBDIR+=	rudiments
 SUBDIR+=	samba3
-SUBDIR+=	sarg
 SUBDIR+=	scew
 SUBDIR+=	scm
 SUBDIR+=	scons
