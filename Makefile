@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.616 2003/11/13 20:28:25 grantbeattie Exp $
+# $Id: Makefile,v 1.617 2003/11/14 21:50:14 hfath Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -429,6 +429,7 @@ SUBDIR+=	qn-x11
 SUBDIR+=	rapidsvn
 SUBDIR+=	rc.subr
 SUBDIR+=	rcorder
+SUBDIR+=	rdesktop
 SUBDIR+=	regexxer
 SUBDIR+=	rlpr
 SUBDIR+=	rolo
