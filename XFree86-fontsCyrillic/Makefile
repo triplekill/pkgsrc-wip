@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	X430src-4
-PKGNAME=	XFree86-fontsCyrillic-${XFREE86_VERSION}
+PKGNAME=	XFree86-fontsCyrillic-${XF_VER}
 WRKSRC=		${WRKDIR}/xc/fonts/bdf/cyrillic
 CATEGORIES=	x11
 MASTER_SITES=	${MASTER_SITE_XFREE}
