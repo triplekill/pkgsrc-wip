@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1476 2004/09/26 05:30:15 marmfield Exp $
+# $Id: Makefile,v 1.1477 2004/09/27 22:06:11 jgoamakf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -802,6 +802,7 @@ SUBDIR+=	unshield
 SUBDIR+=	up-imapproxy
 SUBDIR+=	urlgfe
 SUBDIR+=	util-linux
+SUBDIR+=	valgrind
 SUBDIR+=	valknut
 SUBDIR+=	vcdgear
 SUBDIR+=	vche
