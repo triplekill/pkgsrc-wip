@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1539 2004/11/15 16:11:13 bubuchka Exp $
+# $Id: Makefile,v 1.1540 2004/11/15 20:32:35 daprice Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -25,6 +25,7 @@ SUBDIR+=	amap
 SUBDIR+=	amarok
 SUBDIR+=	amsn
 SUBDIR+=	and
+SUBDIR+=	anope
 SUBDIR+=	aols-postgres
 SUBDIR+=	aols-freetds
 SUBDIR+=	aols-openssl
