@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1102 2004/03/21 02:38:37 xtraeme Exp $
+# $Id: Makefile,v 1.1103 2004/03/21 19:11:00 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -419,6 +419,7 @@ SUBDIR+=	octave-nox11
 SUBDIR+=	oinkmaster
 SUBDIR+=	oops
 SUBDIR+=	opax
+SUBDIR+=	openvrml
 SUBDIR+=	p5-Apache-Request
 SUBDIR+=	p5-Apache-Test
 SUBDIR+=	p5-AxKit
