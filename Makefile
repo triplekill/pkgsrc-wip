@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.834 2004/01/01 22:40:59 mpasternak Exp $
+# $Id: Makefile,v 1.835 2004/01/02 00:16:45 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -483,6 +483,7 @@ SUBDIR+=	psh
 SUBDIR+=	pts
 SUBDIR+=	pxlib
 SUBDIR+=	pxview
+SUBDIR+=	py-Brenda
 SUBDIR+=	py-CVSToys
 SUBDIR+=	py-EditObj
 SUBDIR+=	py-Fnorb
