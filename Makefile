@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1264 2004/05/09 19:26:48 dillo Exp $
+# $Id: Makefile,v 1.1265 2004/05/09 21:29:24 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -424,7 +424,6 @@ SUBDIR+=	oqtplayer
 SUBDIR+=	p5-Apache-Request
 SUBDIR+=	p5-Apache-Test
 SUBDIR+=	p5-AxKit
-SUBDIR+=	p5-CDDB
 SUBDIR+=	p5-Chart
 SUBDIR+=	p5-Class-Factory-Util
 SUBDIR+=	p5-Class-Singleton
