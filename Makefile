@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.101 2003/04/18 21:47:51 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.102 2003/04/19 07:39:38 lsed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -9,7 +9,6 @@ SUBDIR+=	allegro
 SUBDIR+=	aolserver
 SUBDIR+=	ap-bandwidth
 SUBDIR+=	autoproject
-SUBDIR+=	beaver
 SUBDIR+=	billardgl
 SUBDIR+=	bugzilla
 SUBDIR+=	byacc
