@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1172 2004/04/05 14:07:48 xtraeme Exp $
+# $Id: Makefile,v 1.1173 2004/04/05 14:59:17 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -198,7 +198,6 @@ SUBDIR+=	gotmail
 SUBDIR+=	gov2
 SUBDIR+=	grip
 SUBDIR+=	grisbi
-SUBDIR+=	gstreamer-player
 SUBDIR+=	gtick
 SUBDIR+=	gtk-engines-thinice
 SUBDIR+=	gtk-sharp
