@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.583 2003/10/30 11:12:19 xtraeme Exp $
+# $Id: Makefile,v 1.584 2003/10/30 11:24:17 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -452,6 +452,7 @@ SUBDIR+=	theora-nightly
 SUBDIR+=	thy
 SUBDIR+=	tinc
 SUBDIR+=	tinylogin
+SUBDIR+=	tls
 SUBDIR+=	toppler
 SUBDIR+=	totem
 SUBDIR+=	treecc
