@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1253 2004/05/02 23:13:16 xtraeme Exp $
+# $Id: Makefile,v 1.1254 2004/05/04 16:27:55 dillo Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -504,6 +504,7 @@ SUBDIR+=	php5-pgsql
 SUBDIR+=	picasm
 SUBDIR+=	picprog
 SUBDIR+=	pinball
+SUBDIR+=	pine-pgp-filters
 SUBDIR+=	pizza
 SUBDIR+=	pkg_install-testing
 SUBDIR+=	pkgse
