@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1077 2004/03/12 18:46:41 thomasklausner Exp $
+# $Id: Makefile,v 1.1078 2004/03/13 18:08:46 tomhensel Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -495,6 +495,7 @@ SUBDIR+=	postgresql74-docs
 SUBDIR+=	postgresql74-lib
 SUBDIR+=	postgresql74-server
 SUBDIR+=	ppp
+SUBDIR+=	ppp-lzs
 SUBDIR+=	prelude-lml
 SUBDIR+=	prelude-manager
 SUBDIR+=	prelude-manager-mysql
