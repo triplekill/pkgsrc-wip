@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.959 2004/02/13 23:00:09 minskim Exp $
+# $Id: Makefile,v 1.960 2004/02/14 21:44:15 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -632,7 +632,6 @@ SUBDIR+=	smlnj-current
 SUBDIR+=	smtprc
 SUBDIR+=	smtprc-gui
 SUBDIR+=	smtpscan
-SUBDIR+=	socat
 SUBDIR+=	songwrite
 SUBDIR+=	spamprobe-pbl
 SUBDIR+=	speedx
