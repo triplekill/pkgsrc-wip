@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.846 2004/01/04 07:53:42 bjan2 Exp $
+# $Id: Makefile,v 1.847 2004/01/04 10:51:26 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -149,6 +149,7 @@ SUBDIR+=	foomatic-filters-cups
 SUBDIR+=	fragroute
 SUBDIR+=	freeglut
 SUBDIR+=	freenet-tools
+SUBDIR+=	freevo
 SUBDIR+=	frontpage
 SUBDIR+=	fsv
 SUBDIR+=	fvcool
