@@ -1,0 +1,7 @@
+$Id$
+
+Does it compile on NetBSD-(stable|current) ?
+
+Does it need py-OpenGL? Doesn't seem so, but...
+
+	-- dotz@irc.pl
