@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.476 2003/09/18 18:15:55 thomasklausner Exp $
+# $Id: Makefile,v 1.477 2003/09/21 07:59:54 marmfield Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -153,6 +153,7 @@ SUBDIR+=	gstreamer-player
 SUBDIR+=	gtick
 SUBDIR+=	gtk-engines-thinice
 SUBDIR+=	gtk-sharp
+SUBDIR+=	gtk-theme-switch
 SUBDIR+=	gtk2-engines-mist
 SUBDIR+=	gtkpod
 SUBDIR+=	gurlchecker
