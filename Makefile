@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.783 2003/12/21 03:56:01 bencollver Exp $
+# $Id: Makefile,v 1.784 2003/12/21 05:46:07 jcd Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -356,7 +356,6 @@ SUBDIR+=	muse
 SUBDIR+=	mutella
 SUBDIR+=	mutt-devel
 SUBDIR+=	mutt-vc-query
-SUBDIR+=	mysqlcc
 SUBDIR+=	mythtv
 SUBDIR+=	nagios-base
 SUBDIR+=	nagios-plugin-ldap
