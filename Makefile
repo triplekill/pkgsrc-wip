@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.934 2004/02/07 23:34:39 mpasternak Exp $
+# $Id: Makefile,v 1.935 2004/02/08 01:05:38 oherrala Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -628,7 +628,7 @@ SUBDIR+=	slocate
 SUBDIR+=	slrn-pl
 SUBDIR+=	slune
 SUBDIR+=	smartmontools
-SUBDIR+=	smlnj-working
+SUBDIR+=	smlnj-current
 SUBDIR+=	smtprc
 SUBDIR+=	smtprc-gui
 SUBDIR+=	smtpscan
