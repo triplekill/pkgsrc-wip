@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.746 2003/12/05 22:57:20 xtraeme Exp $
+# $Id: Makefile,v 1.747 2003/12/05 23:27:43 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -513,7 +513,6 @@ SUBDIR+=	q3-urbanterror
 SUBDIR+=	qico
 SUBDIR+=	qinx
 SUBDIR+=	qn-x11
-SUBDIR+=	rapidsvn
 SUBDIR+=	rc.subr
 SUBDIR+=	rcorder
 SUBDIR+=	regexxer
