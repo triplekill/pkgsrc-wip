@@ -1,3 +1,0 @@
-$Id: TODO,v 1.2 2003/12/09 17:16:52 airhead Exp $
-- Perhaps the documentation directory should be ${PREFIX}/share/doc/elvis in
-   stead of ${PREFIX}/share/elvis/doc
