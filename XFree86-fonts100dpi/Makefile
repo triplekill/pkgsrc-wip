@@ -1,5 +1,4 @@
 # $NetBSD$
-# $Id: Makefile,v 1.1.1.1 2003/07/23 20:45:55 xtraeme Exp $
 
 DISTNAME=	X430src-4
 PKGNAME=	XFree86-fonts100dpi-${XFREE86_VERSION}
