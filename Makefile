@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.906 2004/01/25 04:27:19 xtraeme Exp $
+# $Id: Makefile,v 1.907 2004/01/25 07:27:43 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -239,6 +239,7 @@ SUBDIR+=	ilohamail
 SUBDIR+=	imhangul
 SUBDIR+=	imhangul_status_applet
 SUBDIR+=	interbase-docs
+SUBDIR+=	ipgrab
 SUBDIR+=	isc-dhclient
 SUBDIR+=	isc-dhcpd
 SUBDIR+=	ish
