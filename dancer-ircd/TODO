@@ -1,7 +1,0 @@
-$Id$
-
-* Improve DESCR ?
-* Improve the do-install target ?
-
-- There is no need for files/dancer-ircd.sh to have execute permissions.  When
-  importing this package in pkgsrc, fix it.
