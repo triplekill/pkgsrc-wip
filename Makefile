@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.885 2004/01/15 13:10:42 mpasternak Exp $
+# $Id: Makefile,v 1.886 2004/01/15 16:32:35 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -62,6 +62,7 @@ SUBDIR+=	barnyard
 SUBDIR+=	bastard
 SUBDIR+=	beast
 SUBDIR+=	beep-media-player
+SUBDIR+=	bibtex2html
 SUBDIR+=	billardgl
 SUBDIR+=	bin86
 SUBDIR+=	bitchbot
