@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.728 2003/12/03 23:11:51 xtraeme Exp $
+# $Id: Makefile,v 1.729 2003/12/03 23:16:37 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -186,7 +186,6 @@ SUBDIR+=	gnumeric
 SUBDIR+=	gnunet
 SUBDIR+=	gotmail
 SUBDIR+=	gov2
-SUBDIR+=	gpdf
 SUBDIR+=	gramps
 SUBDIR+=	grdc
 SUBDIR+=	grip
