@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1387 2004/07/15 16:07:45 ianzag Exp $
+# $Id: Makefile,v 1.1388 2004/07/15 20:22:35 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -552,7 +552,6 @@ SUBDIR+=	prelude-manager-mysql
 SUBDIR+=	prelude-manager-pgsql
 SUBDIR+=	prelude-nids
 SUBDIR+=	premake
-SUBDIR+=	prngd
 SUBDIR+=	procps
 SUBDIR+=	progreiserfs
 SUBDIR+=	prothon
