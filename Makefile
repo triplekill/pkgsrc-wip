@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.549 2003/10/16 02:27:00 cetrox Exp $
+# $Id: Makefile,v 1.550 2003/10/16 10:01:27 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -43,6 +43,7 @@ SUBDIR+=	ap2-xslt
 SUBDIR+=	apotheke
 SUBDIR+=	argouml
 SUBDIR+=	armagetron
+SUBDIR+=	arping
 SUBDIR+=	asfrecorder
 SUBDIR+=	atasm
 SUBDIR+=	autoproject
@@ -164,6 +165,7 @@ SUBDIR+=	gtk2-engines-mist
 SUBDIR+=	gtkmagnetic
 SUBDIR+=	gtkpod
 SUBDIR+=	gurlchecker
+SUBDIR+=	gwc
 SUBDIR+=	hasciicam
 SUBDIR+=	hashcash
 SUBDIR+=	heimdal
