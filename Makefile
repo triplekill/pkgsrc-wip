@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.511 2003/09/30 11:07:01 xtraeme Exp $
+# $Id: Makefile,v 1.512 2003/09/30 13:42:42 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -337,7 +337,6 @@ SUBDIR+=	py-elementtree
 SUBDIR+=	py-game
 SUBDIR+=	py-generateDS
 SUBDIR+=	py-gnosis-utils
-SUBDIR+=	py-gopherd
 SUBDIR+=	py-libpcap
 SUBDIR+=	py-psyco
 SUBDIR+=	py-spark
