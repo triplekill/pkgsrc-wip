@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1208 2004/04/16 23:33:15 blef Exp $
+# $Id: Makefile,v 1.1209 2004/04/17 00:14:09 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -637,7 +637,6 @@ SUBDIR+=	ruby-ncurses
 SUBDIR+=	ruby-raggle
 SUBDIR+=	ruby-redcloth
 SUBDIR+=	ruby-syck
-SUBDIR+=	same
 SUBDIR+=	scite
 SUBDIR+=	scm
 SUBDIR+=	scponly
