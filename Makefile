@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.776 2003/12/18 00:20:10 blef Exp $
+# $Id: Makefile,v 1.777 2003/12/18 22:55:21 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -506,6 +506,7 @@ SUBDIR+=	py-ming
 SUBDIR+=	py-oak
 SUBDIR+=	py-ogg
 SUBDIR+=	py-pcapy
+SUBDIR+=	py-scapy
 SUBDIR+=	py-scipy_distutils
 SUBDIR+=	py-spambayes
 SUBDIR+=	py-spark
