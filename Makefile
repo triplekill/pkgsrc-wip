@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.554 2003/10/17 08:16:48 minskim Exp $
+# $Id: Makefile,v 1.555 2003/10/18 17:03:12 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -417,6 +417,7 @@ SUBDIR+=	tendra
 SUBDIR+=	tetrinet
 SUBDIR+=	tetrinetx
 SUBDIR+=	tex-foiltex
+SUBDIR+=	tex-passivetex
 SUBDIR+=	tex-prosper
 SUBDIR+=	tex-xmltex
 SUBDIR+=	thaixfonts
