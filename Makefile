@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.592 2003/11/04 05:09:12 mpasternak Exp $
+# $Id: Makefile,v 1.593 2003/11/04 21:53:23 airhead Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -398,6 +398,7 @@ SUBDIR+=	py-game
 SUBDIR+=	py-gdick
 SUBDIR+=	py-generateDS
 SUBDIR+=	py-gnosis-utils
+SUBDIR+=	py-ipython
 SUBDIR+=	py-libpcap
 SUBDIR+=	py-spark
 SUBDIR+=	py-spreadmodule
