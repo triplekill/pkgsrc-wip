@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.754 2003/12/12 02:48:06 mjasm Exp $
+# $Id: Makefile,v 1.755 2003/12/12 16:13:41 froz Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -95,6 +95,7 @@ SUBDIR+=	copytape
 SUBDIR+=	cvsd
 SUBDIR+=	cyrus-imapd22
 SUBDIR+=	d2x
+SUBDIR+=	d4x
 SUBDIR+=	damageext
 SUBDIR+=	dancer-ircd
 SUBDIR+=	darcnes-svgalib
