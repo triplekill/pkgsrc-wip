@@ -15,7 +15,7 @@ DEPENDS+=	XFree86-fontsEncodings>=4.3.0:../../wip/XFree86-fontsEncodings
 
 USE_BUILDLINK2=		yes
 NO_XFREE86_TARGETS=	#defined
-PROJECTROOT=            -DProjectRoot=${PREFIX}
+PROJECTROOT=		-DProjectRoot=${PREFIX}
 
 do-configure:
 	(cd ${WRKDIR}/xc/fonts/encodings && \

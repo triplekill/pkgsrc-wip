@@ -17,7 +17,7 @@ USE_BUILDLINK2=		yes
 PROJECTROOT=		-DProjectRoot=${PREFIX}
 NO_XFREE86_TARGETS=	#defined
 
-FILESDIR=       ${PKGDIR}/../XFree86-fontsEncodings/files
+FILESDIR=	${PKGDIR}/../XFree86-fontsEncodings/files
 
 post-extract:
 	@${LN} -sf ${FILESDIR}/host.def ${WRKSRC}
