@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.421 2003/09/04 03:13:12 xtraeme Exp $
+# $Id: Makefile,v 1.422 2003/09/04 04:38:49 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -325,6 +325,7 @@ SUBDIR+=	qn-x11
 SUBDIR+=	rapidsvn
 SUBDIR+=	rcorder
 SUBDIR+=	regexxer
+SUBDIR+=	ripmime
 SUBDIR+=	rlpr
 SUBDIR+=	rosegarden-current
 SUBDIR+=	samba3
