@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1505 2004/10/23 00:25:09 minskim Exp $
+# $Id: Makefile,v 1.1506 2004/10/23 16:29:14 dolecek Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -505,7 +505,6 @@ SUBDIR+=	p5-Set-Crontab
 SUBDIR+=	p5-Set-Infinite
 SUBDIR+=	p5-Term-ProgressBar
 SUBDIR+=	p5-Text-Tabs+Wrap
-SUBDIR+=	p5-Time-Piece
 SUBDIR+=	p5-Tk-TableMatrix
 SUBDIR+=	p5-WWW-Curl
 SUBDIR+=	p5-X11-Protocol
