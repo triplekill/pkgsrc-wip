@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.73 2003/04/13 12:58:26 marc Exp $
+# $Id: Makefile,v 1.74 2003/04/13 14:39:17 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -40,6 +40,8 @@ SUBDIR+=	jdk13
 SUBDIR+=	jdk13-openjit
 SUBDIR+=	liquidwar
 SUBDIR+=	mailfilter
+SUBDIR+=	mcats
+SUBDIR+=	mcats-iodbc
 SUBDIR+=	mopac
 SUBDIR+=	nagios-base
 SUBDIR+=	nagios-plugin-ldap
