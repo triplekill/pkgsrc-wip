@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.654 2003/11/23 12:16:17 mpasternak Exp $
+# $Id: Makefile,v 1.655 2003/11/23 13:07:42 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -412,6 +412,7 @@ SUBDIR+=	py-PythonDirector
 SUBDIR+=	py-Quotient
 SUBDIR+=	py-RXP
 SUBDIR+=	py-Reverend
+SUBDIR+=	py-SciPy
 SUBDIR+=	py-Soya
 SUBDIR+=	py-TTFQuery
 SUBDIR+=	py-ZODB
