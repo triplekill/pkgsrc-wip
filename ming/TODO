@@ -1,9 +1,5 @@
-$Id$
+$Id: TODO,v 1.1.1.1 2003/11/26 17:08:13 mpasternak Exp $
 
-Create buildlink2.mk.
-
-Add more modules! (there are bindings for PHP and Ruby, check the WWW page)
-
-Please feel free to add more patches and more modules to it.
+Create bindings for PHP.
 
 	-- dotz@irc.pl
