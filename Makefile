@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.294 2003/07/02 23:05:58 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.295 2003/07/03 19:11:59 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -232,6 +232,7 @@ SUBDIR+=	scons
 SUBDIR+=	scponly
 SUBDIR+=	shoutcast
 SUBDIR+=	slocate
+SUBDIR+=	slrn-pl
 SUBDIR+=	speedx
 SUBDIR+=	srvx
 SUBDIR+=	stickynotes-applet
