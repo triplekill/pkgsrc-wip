@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1271 2004/05/10 14:40:34 jgoamakf Exp $
+# $Id: Makefile,v 1.1272 2004/05/10 15:15:37 arved Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -380,6 +380,7 @@ SUBDIR+=	monkey-bubble
 SUBDIR+=	monodoc
 SUBDIR+=	mopac
 SUBDIR+=	moregroupware
+SUBDIR+=	mozplugger
 SUBDIR+=	mpgedit
 SUBDIR+=	mplusfonts
 SUBDIR+=	mppdec
