@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1592 2005/01/02 13:49:44 adrian_p Exp $
+# $Id: Makefile,v 1.1593 2005/01/05 11:44:00 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -433,7 +433,6 @@ SUBDIR+=	libwhisker2
 SUBDIR+=	libwpd
 SUBDIR+=	libxml++
 SUBDIR+=	lilo
-SUBDIR+=	lilypond20
 SUBDIR+=	lincvs
 SUBDIR+=	lingoteach-lesson
 SUBDIR+=	lingoteach-ui
