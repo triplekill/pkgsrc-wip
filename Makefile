@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1215 2004/04/18 22:30:46 mpasternak Exp $
+# $Id: Makefile,v 1.1216 2004/04/19 00:28:27 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -725,7 +725,6 @@ SUBDIR+=	toppler
 SUBDIR+=	totem
 SUBDIR+=	tsm
 SUBDIR+=	tutos
-SUBDIR+=	tuxnes
 SUBDIR+=	tuxtype2
 SUBDIR+=	typhoon
 SUBDIR+=	uclibc
