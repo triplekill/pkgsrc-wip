@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1050 2004/03/06 07:53:06 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1051 2004/03/06 15:00:15 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -155,6 +155,7 @@ SUBDIR+=	gcc3-c-devel
 #SUBDIR+=	gcl		# see TODO
 #SUBDIR+=	gcl-nox11	# see gcl/TODO
 SUBDIR+=	gcompris
+SUBDIR+=	gdam
 SUBDIR+=	gdbada
 SUBDIR+=	geeklog
 SUBDIR+=	gettext-runtime
