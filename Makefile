@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1327 2004/06/12 22:54:47 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1328 2004/06/16 12:43:25 lexort Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -804,6 +804,7 @@ SUBDIR+=	ypbind-mt
 SUBDIR+=	ypserv
 SUBDIR+=	zebra-pj
 SUBDIR+=	zinf
+SUBDIR+=	zsnes-devel
 
 ${.CURDIR}/PKGDB:
 	@${RM} -f ${.CURDIR}/PKGDB
