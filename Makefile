@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.327 2003/07/16 23:17:30 xtraeme Exp $
+# $Id: Makefile,v 1.328 2003/07/17 02:49:07 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -92,6 +92,7 @@ SUBDIR+=	gnome2-themes-extra
 SUBDIR+=	gnome2-userdocs
 SUBDIR+=	gnomeicu
 SUBDIR+=	gnucash-docs
+SUBDIR+=	gnunet
 SUBDIR+=	gossip
 SUBDIR+=	gotmail
 SUBDIR+=	gov2
