@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1054 2004/03/06 18:52:27 marc Exp $
+# $Id: Makefile,v 1.1055 2004/03/07 02:00:02 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -265,6 +265,7 @@ SUBDIR+=	kpanta
 SUBDIR+=	kvirc
 SUBDIR+=	kylix-openedition
 SUBDIR+=	kyra
+SUBDIR+=	kyra2
 SUBDIR+=	l2tpd
 SUBDIR+=	ladspa
 SUBDIR+=	lammpi
