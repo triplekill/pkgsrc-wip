@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.1.1.1 2003/07/23 20:50:33 xtraeme Exp $
+# $Id: Makefile,v 1.2 2003/07/23 21:18:55 blef Exp $
 
 DISTNAME=	# empty
 PKGNAME=	XFree86-${XFREE86_VERSION}
@@ -31,6 +31,9 @@ NO_CHECKSUM=		# defined
 NO_MTREE=		# defined
 NO_XFREE86_TARGETS=	# defined
 NO_CONFIGURE=		# defined
+
+do-install:
+	# empty
 
 .include "../../wip/XFree86/Makefile.common"
 .include "../../mk/bsd.pkg.mk"
