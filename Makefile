@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.795 2003/12/23 10:33:29 xtraeme Exp $
+# $Id: Makefile,v 1.796 2003/12/23 11:07:44 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -520,6 +520,7 @@ SUBDIR+=	pynfo
 SUBDIR+=	pysite
 SUBDIR+=	pywm
 SUBDIR+=	q3-urbanterror
+SUBDIR+=	quagga-devel
 SUBDIR+=	qico
 SUBDIR+=	qinx
 SUBDIR+=	qn-x11
