@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.889 2004/01/16 15:21:22 pulahti Exp $
+# $Id: Makefile,v 1.890 2004/01/17 17:58:15 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -335,6 +335,7 @@ SUBDIR+=	linux-makedev
 SUBDIR+=	linux-modutils
 SUBDIR+=	linux-nfs-utils
 SUBDIR+=	liquidwar
+SUBDIR+=	liteamp
 SUBDIR+=	lletters
 SUBDIR+=	lmarbles
 SUBDIR+=	lsdvd
