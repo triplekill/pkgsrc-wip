@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1331 2004/06/20 19:39:45 xtraeme Exp $
+# $Id: Makefile,v 1.1332 2004/06/20 19:45:10 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -379,6 +379,7 @@ SUBDIR+=	mc
 SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
 SUBDIR+=	memtester
+SUBDIR+=	menumaker
 SUBDIR+=	metatheme
 SUBDIR+=	mftrace
 SUBDIR+=	ming
@@ -546,6 +547,7 @@ SUBDIR+=	premake
 SUBDIR+=	prngd
 SUBDIR+=	procps
 SUBDIR+=	prothon
+SUBDIR+=	prozilla
 SUBDIR+=	prtunnel
 SUBDIR+=	pts
 SUBDIR+=	putty
