@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.871 2004/01/09 23:34:19 cubidou Exp $
+# $Id: Makefile,v 1.872 2004/01/10 04:12:21 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -549,6 +549,7 @@ SUBDIR+=	py-mysqldb-docs
 SUBDIR+=	py-oak
 SUBDIR+=	py-ogg
 SUBDIR+=	py-pcapy
+SUBDIR+=	py-pexpect
 SUBDIR+=	py-scapy
 SUBDIR+=	py-scipy_distutils
 SUBDIR+=	py-spambayes
