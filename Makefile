@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1590 2004/12/29 20:08:44 kristerw Exp $
+# $Id: Makefile,v 1.1591 2004/12/29 20:12:25 kristerw Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -91,7 +91,6 @@ SUBDIR+=	bnr2
 SUBDIR+=	bridge-utils
 SUBDIR+=	bscript
 SUBDIR+=	bub-n-bros
-SUBDIR+=	bugzilla
 SUBDIR+=	busybox
 SUBDIR+=	bwidget
 SUBDIR+=	byacc
