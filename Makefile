@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1299 2004/05/29 00:34:22 xtraeme Exp $
+# $Id: Makefile,v 1.1300 2004/05/29 01:06:34 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -767,7 +767,6 @@ SUBDIR+=	xplore
 SUBDIR+=	xproto
 SUBDIR+=	xrestop
 SUBDIR+=	xscribble-fs
-SUBDIR+=	xsh
 SUBDIR+=	xtrans
 SUBDIR+=	xwpe
 SUBDIR+=	yafray
