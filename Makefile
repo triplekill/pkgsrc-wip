@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.177 2003/05/19 19:49:48 blef Exp $
+# $Id: Makefile,v 1.178 2003/05/20 08:05:22 moubctez Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -39,6 +39,8 @@ SUBDIR+=	ed
 SUBDIR+=	emirror
 SUBDIR+=	ezbounce
 SUBDIR+=	fluxconf
+SUBDIR+=	fuse
+SUBDIR+=	fuse-utils
 SUBDIR+=	fwbuilder
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
@@ -86,6 +88,7 @@ SUBDIR+=	libdialog
 SUBDIR+=	libfwbuilder
 SUBDIR+=	libgsf
 SUBDIR+=	libshout
+SUBDIR+=	libspectrum
 SUBDIR+=	libwpd
 SUBDIR+=	linux-modutils
 SUBDIR+=	linux-nfs-utils
