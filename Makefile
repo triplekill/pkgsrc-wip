@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.134 2003/04/29 21:45:22 marc Exp $
+# $Id: Makefile,v 1.135 2003/05/03 13:44:21 takasan-tt Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -131,6 +131,7 @@ SUBDIR+=	vmsbackup
 SUBDIR+=	windowlab
 SUBDIR+=	xawtv
 SUBDIR+=	xevil
+SUBDIR+=	xmms-liveice
 SUBDIR+=	xml2doc
 SUBDIR+=	zebra-pj
 
