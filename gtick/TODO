@@ -1,0 +1,3 @@
+$Id$
+
+- Use variables defined in oss/buildlink3.mk for /dev/*.
