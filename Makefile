@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.879 2004/01/12 06:13:53 marttikuparinen Exp $
+# $Id: Makefile,v 1.880 2004/01/12 16:25:04 marttikuparinen Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -478,9 +478,6 @@ SUBDIR+=	picasm
 SUBDIR+=	picprog
 SUBDIR+=	pinball
 SUBDIR+=	plugger
-SUBDIR+=	pnet
-SUBDIR+=	pnetC
-SUBDIR+=	pnetlib
 SUBDIR+=	poedit
 SUBDIR+=	pointless
 SUBDIR+=	portaudio
@@ -650,7 +647,6 @@ SUBDIR+=	tleenx2
 SUBDIR+=	tls
 SUBDIR+=	toppler
 SUBDIR+=	totem
-SUBDIR+=	treecc
 SUBDIR+=	tsm
 SUBDIR+=	tutos
 SUBDIR+=	tuxnes
