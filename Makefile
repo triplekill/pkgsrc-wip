@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1033 2004/02/26 22:59:53 xtraeme Exp $
+# $Id: Makefile,v 1.1034 2004/02/26 23:55:10 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -512,7 +512,6 @@ SUBDIR+=	py-Pyro
 SUBDIR+=	py-PythonDirector
 SUBDIR+=	py-Quotient
 SUBDIR+=	py-RXP
-SUBDIR+=	py-Reverend
 SUBDIR+=	py-SQLObject
 SUBDIR+=	py-SciPy
 SUBDIR+=	py-Soya
