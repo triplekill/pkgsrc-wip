@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.570 2003/10/26 05:55:41 minskim Exp $
+# $Id: Makefile,v 1.571 2003/10/26 18:37:20 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -155,6 +155,7 @@ SUBDIR+=	gnome2-extras
 SUBDIR+=	gnome2-pkgview
 SUBDIR+=	gnome2-system-monitor
 SUBDIR+=	gnome2-themes-extra
+SUBDIR+=	gnome-speech
 SUBDIR+=	gnomeicu
 SUBDIR+=	gnucash-docs
 SUBDIR+=	gnumeric
