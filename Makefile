@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.425 2003/09/04 16:06:24 xtraeme Exp $
+# $Id: Makefile,v 1.426 2003/09/05 02:36:54 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -194,6 +194,7 @@ SUBDIR+=	libwpd
 SUBDIR+=	libxfce4gui
 SUBDIR+=	libxfce4mcs
 SUBDIR+=	libxfce4util
+SUBDIR+=	liferea
 SUBDIR+=	lincvs
 SUBDIR+=	links-hacked
 SUBDIR+=	linux-modutils
