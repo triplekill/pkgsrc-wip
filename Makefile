@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.907 2004/01/25 07:27:43 blef Exp $
+# $Id: Makefile,v 1.908 2004/01/25 08:10:19 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -120,7 +120,6 @@ SUBDIR+=	eag
 SUBDIR+=	ed
 SUBDIR+=	ed2k-gtk-gui
 SUBDIR+=	eic
-SUBDIR+=	elinks09
 SUBDIR+=	emirror
 SUBDIR+=	entropy
 SUBDIR+=	ezbounce
