@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.523 2003/10/05 19:08:11 adrian_p Exp $
+# $Id: Makefile,v 1.524 2003/10/05 21:41:17 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -380,7 +380,6 @@ SUBDIR+=	superkaramba
 SUBDIR+=	svgalib
 SUBDIR+=	sysklogd
 SUBDIR+=	sysvinit
-SUBDIR+=	tads
 SUBDIR+=	tcc
 SUBDIR+=	tendra
 SUBDIR+=	tetrinet
