@@ -30,7 +30,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
  *
- * $Id: texts.h,v 1.8 2005/03/18 08:30:12 imil Exp $ 
+ * $Id: texts.h,v 1.9 2005/04/03 08:48:17 imil Exp $ 
  */
 
 #ifndef _TEXTS_H_
@@ -53,6 +53,7 @@
 #define CVS_CONNECT "connecting to cvs server..."
 #define CVS_COMPARE "comparing trees, please wait..."
 #define WARN_DOWN_URL "download url must be one of ftp://, cvs:// or file://"
+#define NO_PKG_FOUND "no package found, press any key to continue"
 
 /* shortcuts */
 
