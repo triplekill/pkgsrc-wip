@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.951 2004/02/11 07:08:36 mpasternak Exp $
+# $Id: Makefile,v 1.952 2004/02/11 09:22:34 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -609,6 +609,8 @@ SUBDIR+=	ruby-amrita
 SUBDIR+=	ruby-dpklib
 SUBDIR+=	ruby-ming
 SUBDIR+=	ruby-misen
+SUBDIR+=	ruby-ncurses
+SUBDIR+=	ruby-raggle
 SUBDIR+=	ruby-syck
 SUBDIR+=	rudiments
 SUBDIR+=	samba3
