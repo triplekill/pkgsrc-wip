@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.199 2003/06/01 12:29:58 jmmv Exp $
+# $Id: Makefile,v 1.200 2003/06/01 16:01:54 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -170,7 +170,6 @@ SUBDIR+=	tuxmath
 SUBDIR+=	tuxtype2
 SUBDIR+=	umix
 SUBDIR+=	vcdgear
-SUBDIR+=	vim-gtk2
 SUBDIR+=	vixie-cron
 SUBDIR+=	vmac
 SUBDIR+=	vms-empire
