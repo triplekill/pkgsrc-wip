@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.107 2003/04/20 06:28:43 xtraeme Exp $
+# $Id: Makefile,v 1.108 2003/04/20 15:11:49 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -107,6 +107,7 @@ SUBDIR+=	tsclient
 SUBDIR+=	umix
 SUBDIR+=	vim-gtk2
 SUBDIR+=	vixie-cron
+SUBDIR+=	vmsbackup
 SUBDIR+=	xawtv
 SUBDIR+=	xevil
 
