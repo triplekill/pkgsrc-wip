@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1311 2004/06/07 16:59:34 minskim Exp $
+# $Id: Makefile,v 1.1312 2004/06/07 17:49:05 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -143,6 +143,7 @@ SUBDIR+=	foomatic-db
 SUBDIR+=	foomatic-db-engine
 SUBDIR+=	foomatic-filters
 SUBDIR+=	foomatic-filters-cups
+SUBDIR+=	freedroid
 SUBDIR+=	freevo
 SUBDIR+=	frontpage
 SUBDIR+=	fsv
