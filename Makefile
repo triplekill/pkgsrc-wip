@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.45 2003/04/07 08:40:08 bmeurer Exp $
+# $Id: Makefile,v 1.46 2003/04/07 10:13:32 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -29,6 +29,11 @@ SUBDIR+=	ion-devel
 SUBDIR+=	ion-dock
 SUBDIR+=	ircservices
 SUBDIR+=	liquidwar
+SUBDIR+=	jdk-openjit
+SUBDIR+=	jdk12
+SUBDIR+=	jdk12-openjit
+SUBDIR+=	jdk13
+SUBDIR+=	jdk13-openjit
 SUBDIR+=	mailfilter
 SUBDIR+=	nagios-base
 SUBDIR+=	nagios-plugin-ldap
