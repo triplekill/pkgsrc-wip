@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.398 2003/08/29 11:19:51 adrian_p Exp $
+# $Id: Makefile,v 1.399 2003/08/29 15:51:11 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -107,6 +107,7 @@ SUBDIR+=	fuse
 SUBDIR+=	fuse-utils
 SUBDIR+=	fwbuilder
 SUBDIR+=	galib
+SUBDIR+=	gcompris
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
 SUBDIR+=	gift
