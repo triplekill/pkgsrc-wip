@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.485 2003/09/22 23:39:28 mpasternak Exp $
+# $Id: Makefile,v 1.486 2003/09/24 06:24:30 bencollver Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -113,6 +113,7 @@ SUBDIR+=	foobillard
 SUBDIR+=	fragroute
 SUBDIR+=	freeglut
 SUBDIR+=	freenet-tools
+SUBDIR+=	fribidi
 SUBDIR+=	frontpage
 SUBDIR+=	fsv
 SUBDIR+=	fwbuilder
