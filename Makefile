@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.567 2003/10/25 10:46:37 adrian_p Exp $
+# $Id: Makefile,v 1.568 2003/10/25 23:55:44 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -218,6 +218,7 @@ SUBDIR+=	konversation
 SUBDIR+=	korelib
 SUBDIR+=	kvirc
 SUBDIR+=	l2tpd
+SUBDIR+=	lammpi
 SUBDIR+=	lash
 SUBDIR+=	lbdb
 SUBDIR+=	ldapbrowser
