@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.837 2004/01/02 03:52:44 mpasternak Exp $
+# $Id: Makefile,v 1.838 2004/01/02 04:03:28 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -137,6 +137,7 @@ SUBDIR+=	entropy
 SUBDIR+=	ezbounce
 SUBDIR+=	fakenes
 SUBDIR+=	festival-gaim
+SUBDIR+=	firebird
 SUBDIR+=	fixesext
 SUBDIR+=	florist
 SUBDIR+=	fluxconf
