@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.547 2003/10/14 20:17:31 adrian_p Exp $
+# $Id: Makefile,v 1.548 2003/10/15 01:36:16 tvierling Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -143,6 +143,7 @@ SUBDIR+=	gkrellm2-volume
 SUBDIR+=	gkrellm2-xmms
 SUBDIR+=	gl-117
 SUBDIR+=	glaxium
+SUBDIR+=	glide3
 SUBDIR+=	gnome2-extras
 SUBDIR+=	gnome2-pkgview
 SUBDIR+=	gnome2-system-monitor
