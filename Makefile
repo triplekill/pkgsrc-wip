@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.480 2003/09/21 20:19:05 mpasternak Exp $
+# $Id: Makefile,v 1.481 2003/09/21 20:42:15 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -399,6 +399,7 @@ SUBDIR+=	udhcp
 SUBDIR+=	umix
 SUBDIR+=	vba
 SUBDIR+=	vcdgear
+SUBDIR+=	viewcvs
 SUBDIR+=	vixie-cron
 SUBDIR+=	vlc
 SUBDIR+=	vmac
