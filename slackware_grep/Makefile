@@ -1,11 +1,11 @@
 # $NetBSD$
-# $Id: Makefile,v 1.1.1.1 2004/03/12 12:42:37 mpasternak Exp $
+# $Id: Makefile,v 1.1.1.1 2004/03/12 16:10:14 mpasternak Exp $
 #
 
-DISTNAME=		slackware_grep-2.5
+DISTNAME=		grep-2.5-i386-2
+PKGNAME=		slackware_grep-2.5
 CATEGORIES=		emulators
 MASTER_SITES=		${SLACKWARE_MASTER_SITES}
-DISTFILES=	        grep-2.5-i386-2.tgz
 
 MAINTAINER=		dotz@irc.pl
 HOMEPAGE=		http://slackware.com/
