@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.859 2004/01/06 15:38:36 thomasklausner Exp $
+# $Id: Makefile,v 1.860 2004/01/06 22:47:14 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -652,7 +652,6 @@ SUBDIR+=	umix
 SUBDIR+=	unmo3
 SUBDIR+=	unrealircd
 SUBDIR+=	unrealtournament-server
-SUBDIR+=	upx
 SUBDIR+=	util-linux
 SUBDIR+=	vcdgear
 SUBDIR+=	viewcvs
