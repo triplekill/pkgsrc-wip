@@ -1,0 +1,6 @@
+$Id$
+
+    o ffmpeg plugin (our current ffmpeg from pkgsrc is not enough)
+    o VCD support in NetBSD
+    o Looks like current faad library in pkgsrc is not compatible?!
+    o test test test
