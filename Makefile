@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.106 2003/04/19 17:34:12 lsed Exp $
+# $Id: Makefile,v 1.107 2003/04/20 06:28:43 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -69,6 +69,7 @@ SUBDIR+=	mailfilter
 SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
 SUBDIR+=	mopac
+SUBDIR+=	mtf
 SUBDIR+=	nagios-base
 SUBDIR+=	nagios-plugin-ldap
 SUBDIR+=	nagios-plugin-mysql
