@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1181 2004/04/08 15:08:12 thomasklausner Exp $
+# $Id: Makefile,v 1.1182 2004/04/09 10:11:10 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -390,7 +390,6 @@ SUBDIR+=	mixer.tk
 SUBDIR+=	mixmaster
 #SUBDIR+=	mk 		# not a package
 SUBDIR+=	mkdep
-SUBDIR+=	mkvtoolnix
 SUBDIR+=	mnogosearch
 SUBDIR+=	monkey-bubble
 SUBDIR+=	monodoc
