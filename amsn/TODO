@@ -1,0 +1,5 @@
+$Id$
+
+* Paths are hardcoded in Makefile
+* /usr/bin/wish hardcoded in numerous .tcl files
+* etc..
