@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1233 2004/04/23 09:04:14 poppnk Exp $
+# $Id: Makefile,v 1.1234 2004/04/23 16:13:07 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -96,7 +96,6 @@ SUBDIR+=	db1
 SUBDIR+=	dbf
 SUBDIR+=	dfbpoint
 SUBDIR+=	dfbsee
-SUBDIR+=	dfm
 SUBDIR+=	dicom3tools
 SUBDIR+=	ding
 SUBDIR+=	directfb
