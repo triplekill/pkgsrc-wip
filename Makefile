@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.883 2004/01/13 23:05:22 xtraeme Exp $
+# $Id: Makefile,v 1.884 2004/01/15 13:04:15 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -567,6 +567,7 @@ SUBDIR+=	py-vorbis
 SUBDIR+=	py-vtkmodule
 SUBDIR+=	py-weave
 SUBDIR+=	py-willow
+SUBDIR+=	py-xsdb
 SUBDIR+=	pynfo
 SUBDIR+=	pysite
 SUBDIR+=	pywm
