@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1438 2004/08/20 20:20:23 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1439 2004/08/23 11:52:52 mwdavies Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -470,6 +470,7 @@ SUBDIR+=	p5-GnuPG-Interface
 SUBDIR+=	p5-HTML-Latex
 SUBDIR+=	p5-HTTP-GHTTP
 SUBDIR+=	p5-Mail-Box
+SUBDIR+=	p5-Net-PcapUtils
 SUBDIR+=	p5-Parallel-ForkManager
 SUBDIR+=	p5-Set-Crontab
 SUBDIR+=	p5-Set-Infinite
