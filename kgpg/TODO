@@ -1,0 +1,5 @@
+$Id$
+
+- Remove @comment @dirrm from PLIST
+- Make i18n work
+- There's a double-free when terminating the program.
