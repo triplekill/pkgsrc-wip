@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.135 2003/05/03 13:44:21 takasan-tt Exp $
+# $Id: Makefile,v 1.136 2003/05/03 17:30:40 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -57,7 +57,6 @@ SUBDIR+=	gtranslator
 SUBDIR+=	honeyd-arpd
 SUBDIR+=	httrack
 SUBDIR+=	ices
-SUBDIR+=	ickle
 SUBDIR+=	idled
 SUBDIR+=	ike-scan
 SUBDIR+=	ion-devel
