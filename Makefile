@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1569 2004/12/05 08:01:19 rxg Exp $
+# $Id: Makefile,v 1.1570 2004/12/05 16:46:33 bencollver Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -575,6 +575,7 @@ SUBDIR+=	p5-IO-Multiplex
 SUBDIR+=	p5-Log-Log4perl
 SUBDIR+=	p5-Mail-Box
 SUBDIR+=	p5-Mail-Webmail-Gmail
+SUBDIR+=	p5-Math-Random
 SUBDIR+=	p5-Net-PcapUtils
 SUBDIR+=	p5-Parallel-ForkManager
 SUBDIR+=	p5-Set-Crontab
