@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.803 2003/12/25 02:41:31 bjan2 Exp $
+# $Id: Makefile,v 1.804 2003/12/25 13:28:50 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -297,6 +297,7 @@ SUBDIR+=	libmodplug
 SUBDIR+=	libneural
 SUBDIR+=	libogg-nightly
 SUBDIR+=	libol
+#SUBDIR+=	libpathan	# needs xerces-c-2.3.0 in pkg/23861
 SUBDIR+=	libpixregion
 SUBDIR+=	libprelude
 SUBDIR+=	libshout
