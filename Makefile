@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.508 2003/09/28 13:08:16 adrian_p Exp $
+# $Id: Makefile,v 1.509 2003/09/29 12:26:20 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -49,7 +49,6 @@ SUBDIR+=	avida2
 SUBDIR+=	axe
 SUBDIR+=	barnyard
 SUBDIR+=	bastard
-SUBDIR+=	bc
 SUBDIR+=	beast
 SUBDIR+=	billardgl
 SUBDIR+=	bin86
