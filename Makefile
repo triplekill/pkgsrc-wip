@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1351 2004/06/27 00:07:25 xtraeme Exp $
+# $Id: Makefile,v 1.1352 2004/06/27 09:47:58 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -73,7 +73,6 @@ SUBDIR+=	ccze
 SUBDIR+=	cdl3
 SUBDIR+=	cdpr
 SUBDIR+=	cgic
-SUBDIR+=	cgoban2
 SUBDIR+=	cherokee
 SUBDIR+=	chksniff
 SUBDIR+=	chora
@@ -715,6 +714,7 @@ SUBDIR+=	smtprc
 SUBDIR+=	smtprc-gui
 SUBDIR+=	smtpscan
 SUBDIR+=	songwrite
+SUBDIR+=	soundtracker
 SUBDIR+=	spamassassin-cvs
 SUBDIR+=	spamd
 SUBDIR+=	spamprobe-pbl
