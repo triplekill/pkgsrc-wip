@@ -1,0 +1,4 @@
+@comment $NetBSD$
+@comment $Id$
+lib/xmms/Output/libsun.la
+lib/xmms/Output/libsun.so
