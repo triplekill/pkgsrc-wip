@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.732 2003/12/03 23:43:32 xtraeme Exp $
+# $Id: Makefile,v 1.733 2003/12/03 23:54:29 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -128,7 +128,6 @@ SUBDIR+=	elvis
 SUBDIR+=	elvis-x11
 SUBDIR+=	emirror
 SUBDIR+=	entropy
-SUBDIR+=	exim3
 SUBDIR+=	ezbounce
 SUBDIR+=	fakenes
 SUBDIR+=	festival-gaim
