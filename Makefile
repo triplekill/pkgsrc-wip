@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1350 2004/06/26 23:57:41 adrian_p Exp $
+# $Id: Makefile,v 1.1351 2004/06/27 00:07:25 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -338,6 +338,7 @@ SUBDIR+=	libetpan
 SUBDIR+=	libfwbuilder
 SUBDIR+=	libhydrogen
 SUBDIR+=	libmatchbox
+SUBDIR+=	libmilter813
 SUBDIR+=	libneural
 SUBDIR+=	libprelude
 SUBDIR+=	libraw1394
