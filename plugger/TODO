@@ -1,0 +1,4 @@
+$Id: TODO,v 1.6 2003/06/10 11:21:14 airhead Exp $
+
+- Use 'install' in stead of 'cp'?
+- We have to find out which browsers are installed, and install to those dirs.
