@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.423 2003/09/04 07:22:55 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.424 2003/09/04 13:53:05 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -123,6 +123,7 @@ SUBDIR+=	gkrellm2-share
 SUBDIR+=	gkrellm2-snmp
 SUBDIR+=	gkrellm2-volume
 SUBDIR+=	gkrellm2-xmms
+SUBDIR+=	gl-117
 SUBDIR+=	glaxium
 SUBDIR+=	gnome2-extras
 SUBDIR+=	gnome2-pkgview
