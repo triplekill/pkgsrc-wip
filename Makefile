@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1063 2004/03/09 00:32:35 poppnk Exp $
+# $Id: Makefile,v 1.1064 2004/03/09 13:15:05 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -390,6 +390,7 @@ SUBDIR+=	netkit-base
 SUBDIR+=	noip
 SUBDIR+=	noiptun
 SUBDIR+=	nuppelvideo
+SUBDIR+=	octave-nox11
 SUBDIR+=	oinkmaster
 SUBDIR+=	oops
 SUBDIR+=	opax
