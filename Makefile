@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.153 2003/05/09 20:34:30 marc Exp $
+# $Id: Makefile,v 1.154 2003/05/12 22:04:33 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -33,6 +33,7 @@ SUBDIR+=	drweb
 SUBDIR+=	emirror
 SUBDIR+=	ezbounce
 SUBDIR+=	fluxconf
+SUBDIR+=	fwbuilder
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
 SUBDIR+=	geoip
@@ -73,6 +74,7 @@ SUBDIR+=	jdk13-openjit
 SUBDIR+=	jigdo
 SUBDIR+=	jpgraph
 SUBDIR+=	libdialog
+SUBDIR+=	libfwbuilder
 SUBDIR+=	libgsf
 SUBDIR+=	libshout
 SUBDIR+=	libwpd
