@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.748 2003/12/07 04:15:32 blef Exp $
+# $Id: Makefile,v 1.749 2003/12/08 17:54:35 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -343,6 +343,7 @@ SUBDIR+=	mingw32-libiconv
 SUBDIR+=	mingw32-libogg
 SUBDIR+=	mingw32-pxlib
 SUBDIR+=	mingw32-pxview
+SUBDIR+=	mingw32-speex
 SUBDIR+=	mit-krb5
 SUBDIR+=	mixer.tk
 SUBDIR+=	mixmaster
