@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.966 2004/02/15 23:20:40 poppnk Exp $
+# $Id: Makefile,v 1.967 2004/02/15 23:44:10 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -607,7 +607,6 @@ SUBDIR+=	ruby-syck
 SUBDIR+=	rudiments
 SUBDIR+=	samba3
 SUBDIR+=	same
-SUBDIR+=	scew
 SUBDIR+=	scite
 SUBDIR+=	scm
 SUBDIR+=	scons
