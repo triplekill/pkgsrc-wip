@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1295 2004/05/26 13:43:58 thomasklausner Exp $
+# $Id: Makefile,v 1.1296 2004/05/27 11:00:22 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -28,6 +28,7 @@ SUBDIR+=	aolserver
 SUBDIR+=	ap-auth-mysql
 SUBDIR+=	ap-bunzip2
 SUBDIR+=	ap-frontpage
+SUBDIR+=	ap2-jk2
 SUBDIR+=	ap-macro
 SUBDIR+=	ap-ometer
 SUBDIR+=	ap-php5
@@ -466,6 +467,7 @@ SUBDIR+=	parsifal
 SUBDIR+=	passepartout
 SUBDIR+=	patchutils
 SUBDIR+=	pbl
+SUBDIR+=	pcsx
 SUBDIR+=	pdb2ldif
 SUBDIR+=	pdns
 SUBDIR+=	pdq
