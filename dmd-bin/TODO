@@ -1,0 +1,12 @@
+$Id$
+
+license issues (take license.txt from WRKSRC perhaps)
+
+src/ directory - could we use it to compile a native version? I haven't
+looked at it too close.
+
+is ${install_data_dir} emul/usr/src needed in Makefile?
+
+sort plist ;)
+
+	-- dotz@irc.pl
