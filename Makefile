@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.860 2004/01/06 22:47:14 mpasternak Exp $
+# $Id: Makefile,v 1.861 2004/01/07 15:00:17 bencollver Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -348,6 +348,7 @@ SUBDIR+=	memtester
 SUBDIR+=	metatheme
 SUBDIR+=	mftrace
 SUBDIR+=	mhonarc
+SUBDIR+=	micro_httpd
 SUBDIR+=	ming
 SUBDIR+=	mingw
 SUBDIR+=	mingw-binutils
