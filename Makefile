@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1425 2004/08/13 05:05:41 ianzag Exp $
+# $Id: Makefile,v 1.1426 2004/08/13 08:03:54 ianzag Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -141,7 +141,6 @@ SUBDIR+=	faster-configure
 SUBDIR+=	fbpanel
 SUBDIR+=	festival-gaim
 SUBDIR+=	firebird
-SUBDIR+=	fixesext
 SUBDIR+=	flash7-player-bin
 SUBDIR+=	flc
 SUBDIR+=	flightgear
