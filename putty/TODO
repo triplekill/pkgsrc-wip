@@ -1,0 +1,4 @@
+$Id$
+
+	o utmp support in BSD
+	o Only tested in NetBSD 2.0, what about IRIX, Solaris, etc?
