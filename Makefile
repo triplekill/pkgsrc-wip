@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1547 2004/11/20 04:21:16 minskim Exp $
+# $Id: Makefile,v 1.1548 2004/11/20 16:27:21 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -190,7 +190,6 @@ SUBDIR+=	git
 SUBDIR+=	gkrellm-launch
 SUBDIR+=	gkrellm-reminder
 SUBDIR+=	glade2-nognome
-SUBDIR+=	glib2-devel
 SUBDIR+=	glibc
 SUBDIR+=	glide3
 SUBDIR+=	glkterm
