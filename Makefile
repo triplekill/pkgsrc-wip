@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.77 2003/04/14 00:25:35 blef Exp $
+# $Id: Makefile,v 1.78 2003/04/14 03:20:57 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -76,5 +76,7 @@ SUBDIR+=	xawtv
 SUBDIR+=	xevil
 SUBDIR+=	puf
 SUBDIR+=	SDL_mm
+SUBDIR+=	fluxconf
+SUBDIR+=	mplayerplugin
 
 .include "../mk/bsd.pkg.subdir.mk"
