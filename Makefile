@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1265 2004/05/09 21:29:24 blef Exp $
+# $Id: Makefile,v 1.1266 2004/05/10 01:50:22 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -442,7 +442,6 @@ SUBDIR+=	p5-HTTP-GHTTP
 SUBDIR+=	p5-Locale-Maketext-Fuzzy
 SUBDIR+=	p5-Locale-Maketext-Lexicon
 SUBDIR+=	p5-Mail-Box
-SUBDIR+=	p5-NetPacket
 SUBDIR+=	p5-Parallel-ForkManager
 SUBDIR+=	p5-Set-Crontab
 SUBDIR+=	p5-Set-Infinite
