@@ -1,9 +1,10 @@
-# $Id: Makefile,v 1.656 2003/11/23 14:06:02 mpasternak Exp $
+# $Id: Makefile,v 1.657 2003/11/24 01:41:56 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	4stAttack
+SUBDIR+=	MozillaFirebird-bin-xft2
 SUBDIR+=	NeoPop-SDL
 SUBDIR+=	PPower4
 SUBDIR+=	Radiator
