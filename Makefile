@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1307 2004/06/06 05:38:35 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1308 2004/06/06 18:48:14 rillig Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -531,6 +531,7 @@ SUBDIR+=	procps
 SUBDIR+=	prothon
 SUBDIR+=	prtunnel
 SUBDIR+=	pts
+SUBDIR+=	putty
 SUBDIR+=	pxlib
 SUBDIR+=	pxview
 SUBDIR+=	py-Brenda
