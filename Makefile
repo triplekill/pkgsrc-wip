@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1119 2004/03/27 23:56:01 mpasternak Exp $
+# $Id: Makefile,v 1.1120 2004/03/28 00:38:34 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -126,6 +126,7 @@ SUBDIR+=	dzt
 SUBDIR+=	e2fsprogs
 SUBDIR+=	e3
 SUBDIR+=	eag
+SUBDIR+=	ecl
 SUBDIR+=	eic
 SUBDIR+=	elmo
 SUBDIR+=	emacs-carbon
