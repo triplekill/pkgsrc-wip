@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.510 2003/09/30 00:23:02 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.511 2003/09/30 11:07:01 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -25,6 +25,7 @@ SUBDIR+=	XFree86-server
 SUBDIR+=	abuse_sdl
 SUBDIR+=	acid
 SUBDIR+=	adodb
+SUBDIR+=	adtool
 SUBDIR+=	afterstep2
 SUBDIR+=	aget
 SUBDIR+=	allegro
