@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.383 2003/08/20 09:09:28 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.384 2003/08/21 14:29:24 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -104,6 +104,7 @@ SUBDIR+=	fwbuilder
 SUBDIR+=	galib
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
+SUBDIR+=	gift
 SUBDIR+=	gimp-current
 SUBDIR+=	gkrellm2
 SUBDIR+=	gkrellm2-flynn
