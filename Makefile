@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.49 2003/04/09 16:02:00 jmmv Exp $
+# $Id: Makefile,v 1.50 2003/04/10 13:28:38 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -21,6 +21,7 @@ SUBDIR+=	golem
 SUBDIR+=	gtetrinet2
 SUBDIR+=	gtk-sharp
 SUBDIR+=	gtkglarea2
+SUBDIR+=	gtranslator
 SUBDIR+=	honeyd-arpd
 SUBDIR+=	httrack
 SUBDIR+=	ickle
