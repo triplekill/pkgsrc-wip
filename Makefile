@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.326 2003/07/15 21:09:56 xtraeme Exp $
+# $Id: Makefile,v 1.327 2003/07/16 23:17:30 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -261,6 +261,7 @@ SUBDIR+=	slrn-pl
 SUBDIR+=	smtpscan
 SUBDIR+=	socat
 SUBDIR+=	speedx
+SUBDIR+=	sredird
 SUBDIR+=	srvx
 SUBDIR+=	stickynotes-applet
 SUBDIR+=	strace
