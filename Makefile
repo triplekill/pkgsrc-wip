@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1231 2004/04/22 16:48:23 mpasternak Exp $
+# $Id: Makefile,v 1.1232 2004/04/22 23:46:28 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -135,6 +135,7 @@ SUBDIR+=	faster-configure
 SUBDIR+=	festival-gaim
 SUBDIR+=	firebird
 SUBDIR+=	fixesext
+SUBDIR+=	flc
 SUBDIR+=	flightgear
 SUBDIR+=	flightgear-base
 SUBDIR+=	florist
