@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.701 2003/11/28 20:33:12 xtraeme Exp $
+# $Id: Makefile,v 1.702 2003/11/28 21:25:59 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -265,6 +265,7 @@ SUBDIR+=	koffice-i18n-es
 SUBDIR+=	konversation
 SUBDIR+=	korelib
 SUBDIR+=	kvirc
+SUBDIR+=	kylix-openedition
 SUBDIR+=	l2tpd
 SUBDIR+=	lammpi
 SUBDIR+=	lash
