@@ -1,8 +1,8 @@
 # $NetBSD$
-# $Id: Makefile,v 1.3 2003/11/30 23:56:27 mpasternak Exp $
+# $Id: Makefile,v 1.4 2003/12/15 14:30:58 mpasternak Exp $
 
-DISTNAME=		w32api-2.4
-PKGNAME=		mingw-w32api-bin-2.4
+DISTNAME=		w32api-2.5
+PKGNAME=		mingw-w32api-bin-2.5
 WRKSRC=			${WRKDIR}
 CATEGORIES=		cross
 MASTER_SITES=		${MASTER_SITE_MINGW}
