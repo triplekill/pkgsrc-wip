@@ -1,5 +1,0 @@
-$Id$
-
-* PLIST is incomplete.
-* The man page should show the actual paths to data files, not those
-  in /usr/local.
