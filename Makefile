@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.913 2004/01/26 18:35:22 schnoebe Exp $
+# $Id: Makefile,v 1.914 2004/01/26 22:28:55 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -327,6 +327,7 @@ SUBDIR+=	lmarbles
 SUBDIR+=	lsdvd
 SUBDIR+=	luacheia
 SUBDIR+=	luasocket
+SUBDIR+=	luaposix
 SUBDIR+=	mailfilter
 SUBDIR+=	man-db
 SUBDIR+=	map-browse
