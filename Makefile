@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1092 2004/03/19 05:16:54 xtraeme Exp $
+# $Id: Makefile,v 1.1093 2004/03/19 17:49:50 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -314,6 +314,7 @@ SUBDIR+=	libetpan
 SUBDIR+=	libfwbuilder
 SUBDIR+=	libgringotts
 SUBDIR+=	libhydrogen
+SUBDIR+=	libmatchbox
 SUBDIR+=	libneural
 SUBDIR+=	libogg-nightly
 SUBDIR+=	libol
@@ -352,6 +353,10 @@ SUBDIR+=	luasocket
 SUBDIR+=	mailfilter
 SUBDIR+=	man-db
 SUBDIR+=	map-browse
+SUBDIR+=	matchbox-common
+SUBDIR+=	matchbox-desktop
+SUBDIR+=	matchbox-panel
+SUBDIR+=	matchbox-panel-manager
 SUBDIR+=	mathomatic
 #SUBDIR+=	maxima		# see TODO
 SUBDIR+=	mc
