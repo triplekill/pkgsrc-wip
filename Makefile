@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.98 2003/04/18 04:23:35 adrian_p Exp $
+# $Id: Makefile,v 1.99 2003/04/18 09:44:07 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -105,5 +105,6 @@ SUBDIR+=	dircproxy
 SUBDIR+=	totem
 SUBDIR+=	p5-HTTP-GHTTP
 SUBDIR+=	pixieplus
+SUBDIR+=	emirror
 
 .include "../mk/bsd.pkg.subdir.mk"
