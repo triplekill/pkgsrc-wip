@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1598 2005/01/08 00:29:33 kristerw Exp $
+# $Id: Makefile,v 1.1599 2005/01/08 05:58:27 rxg Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -592,7 +592,6 @@ SUBDIR+=	p5-Net-PcapUtils
 SUBDIR+=	p5-Parallel-ForkManager
 SUBDIR+=	p5-Set-Crontab
 SUBDIR+=	p5-Set-Infinite
-SUBDIR+=	p5-Text-Shellwords
 SUBDIR+=	p5-Tk-TableMatrix
 SUBDIR+=	p5-Tree-DAG_Node
 SUBDIR+=	p5-WWW-Curl
