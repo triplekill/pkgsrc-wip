@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.105 2003/04/19 17:28:08 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.106 2003/04/19 17:34:12 lsed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -26,6 +26,7 @@ SUBDIR+=	directfb
 SUBDIR+=	dovecot
 SUBDIR+=	drweb
 SUBDIR+=	emirror
+SUBDIR+=	ezbounce
 SUBDIR+=	fluxconf
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
