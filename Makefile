@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1392 2004/07/16 17:29:44 ppostma Exp $
+# $Id: Makefile,v 1.1393 2004/07/16 18:27:27 ppostma Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -670,7 +670,7 @@ SUBDIR+=	serlook
 SUBDIR+=	sgmltools-lite
 SUBDIR+=	shadow
 SUBDIR+=	shoutcast
-SIBDIR+=	showimg
+SUBDIR+=	showimg
 SUBDIR+=	silc-toolkit
 SUBDIR+=	silky
 SUBDIR+=	simage
