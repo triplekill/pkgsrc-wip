@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1291 2004/05/23 04:06:37 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1292 2004/05/23 23:23:31 dillo Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -575,6 +575,7 @@ SUBDIR+=	py-libpcap
 SUBDIR+=	py-ming
 SUBDIR+=	py-mmpython
 SUBDIR+=	py-mysqldb-docs
+SUBDIR+=	py-nevow
 SUBDIR+=	py-oak
 SUBDIR+=	py-orm
 SUBDIR+=	py-pcapy
