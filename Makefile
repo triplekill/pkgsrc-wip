@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.236 2003/06/12 04:08:32 xtraeme Exp $
+# $Id: Makefile,v 1.237 2003/06/12 06:17:17 mjasm Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -160,6 +160,7 @@ SUBDIR+=	pts
 SUBDIR+=	py-OpenGL
 SUBDIR+=	py-OpenSSL
 SUBDIR+=	py-PgSQL
+SUBDIR+=	py-SimpleParse
 SUBDIR+=	py-adns
 SUBDIR+=	py-egenix-mx-base
 SUBDIR+=	py-elementtree
