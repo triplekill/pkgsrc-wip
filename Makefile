@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.317 2003/07/09 17:18:37 xtraeme Exp $
+# $Id: Makefile,v 1.318 2003/07/09 18:02:53 marttikuparinen Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -307,6 +307,7 @@ SUBDIR+=	xfce4-wm
 SUBDIR+=	xfce4-wm-themes
 SUBDIR+=	xmail
 SUBDIR+=	xml2doc
+SUBDIR+=	xmms-modplug
 SUBDIR+=	xplore
 SUBDIR+=	xsh
 SUBDIR+=	yafray
