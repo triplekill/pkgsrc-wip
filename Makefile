@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.777 2003/12/18 22:55:21 mpasternak Exp $
+# $Id: Makefile,v 1.778 2003/12/19 14:01:34 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -112,6 +112,7 @@ SUBDIR+=	directory-administrator
 SUBDIR+=	distella
 SUBDIR+=	dmidecode
 SUBDIR+=	dnsmasq
+SUBDIR+=	docbook-xsl-ko
 SUBDIR+=	dpkg
 SUBDIR+=	drweb
 SUBDIR+=	drweb-clients-shared
