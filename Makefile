@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.21 2003/04/03 13:26:49 marc Exp $
+# $Id: Makefile,v 1.22 2003/04/04 20:44:03 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -19,3 +19,5 @@ SUBDIR+=	pyorbit
 SUBDIR+=	tex-foiltex
 SUBDIR+=	chktex
 SUBDIR+=	poedit
+SUBDIR+=	yasm
+SUBDIR+=	httrack
