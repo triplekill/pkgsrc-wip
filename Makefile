@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1384 2004/07/15 13:20:10 ianzag Exp $
+# $Id: Makefile,v 1.1385 2004/07/15 14:32:54 ianzag Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -291,6 +291,7 @@ SUBDIR+=	konversation
 SUBDIR+=	korelib
 SUBDIR+=	kpanta
 SUBDIR+=	kphotobook
+SUBDIR+=	kphotools
 SUBDIR+=	krusader
 SUBDIR+=	ksambaplugin
 SUBDIR+=	kvirc
