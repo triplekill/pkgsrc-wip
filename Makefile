@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.115 2003/04/24 16:54:43 bmeurer Exp $
+# $Id: Makefile,v 1.116 2003/04/24 20:15:51 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -32,6 +32,7 @@ SUBDIR+=	ezbounce
 SUBDIR+=	fluxconf
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
+SUBDIR+=	geoip
 SUBDIR+=	gkrellm2
 SUBDIR+=	gkrellm2-flynn
 SUBDIR+=	gkrellm2-launch
