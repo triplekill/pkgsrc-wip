@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1301 2004/05/29 02:09:11 xtraeme Exp $
+# $Id: Makefile,v 1.1302 2004/05/30 13:37:18 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -289,6 +289,7 @@ SUBDIR+=	ladspa
 SUBDIR+=	lammpi
 SUBDIR+=	latex2rtf
 SUBDIR+=	lbdb
+SUBDIR+=	lcab
 SUBDIR+=	ldapbrowser
 SUBDIR+=	ldapdns
 SUBDIR+=	lde
