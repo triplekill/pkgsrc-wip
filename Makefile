@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.47 2003/04/07 16:31:58 tvierling Exp $
+# $Id: Makefile,v 1.48 2003/04/09 11:22:39 matthewluckie Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -61,4 +61,3 @@ SUBDIR+=	startup-notification
 SUBDIR+=	tcpflow
 SUBDIR+=	tex-foiltex
 SUBDIR+=	vim-gtk2
-SUBDIR+=	yasm
