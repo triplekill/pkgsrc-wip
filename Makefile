@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1059 2004/03/07 17:12:48 minskim Exp $
+# $Id: Makefile,v 1.1060 2004/03/08 05:07:13 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -211,6 +211,7 @@ SUBDIR+=	gurlchecker
 SUBDIR+=	gwc
 SUBDIR+=	hasciicam
 SUBDIR+=	hashcash
+SUBDIR+=	heroes
 SUBDIR+=	honeyd
 SUBDIR+=	honeyd-arpd
 SUBDIR+=	host
