@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1356 2004/07/03 01:01:40 minskim Exp $
+# $Id: Makefile,v 1.1357 2004/07/03 08:57:02 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -220,7 +220,6 @@ SUBDIR+=	gtkada
 SUBDIR+=	gtkglk
 SUBDIR+=	gtklookat
 SUBDIR+=	gtkpod
-SUBDIR+=	gtkterm2
 SUBDIR+=	guile-gtk-devel
 SUBDIR+=	gurlchecker
 SUBDIR+=	gwc
