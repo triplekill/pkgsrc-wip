@@ -86,14 +86,21 @@ save_prefs(Etree **etree)
 void
 prefs_screen()
 {
-	int y, x, h, w, i;
+	int y, x, h, w, i, bottom;
 	char *resp, *p, confpath[MAXLEN], buf[MIDLEN];
 	Etree **etree;
 
 	y = 1;
 	x = 1;
-	h = LINES - 4;
+	h = LINES - 5;
 	w = COLS - 2;
+
+	bottom = h + 3;
+	clear();
+	print_kb(ps_down.icon, ps_down.descr, bottom, 2);
+	print_kb(ps_up.icon, ps_up.descr, bottom, 22);
+	print_kb(ps_back.icon, ps_back.descr, bottom, 40);
+	refresh();
 
 	XSTRCPY(confpath, conf.confpath);
 
