@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1494 2004/10/15 03:20:49 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1495 2004/10/15 12:49:46 cetrox Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -153,7 +153,6 @@ SUBDIR+=	evolution-sharp
 SUBDIR+=	exiftool
 SUBDIR+=	ezbounce
 SUBDIR+=	fakenes
-SUBDIR+=	faster-configure
 SUBDIR+=	fbpanel
 SUBDIR+=	festival-gaim
 SUBDIR+=	firebird
