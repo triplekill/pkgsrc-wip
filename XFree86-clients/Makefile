@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile 335 2003-07-23 14:13:15Z xtraeme $
+# $Id: Makefile,v 1.1.1.1 2003/07/23 20:49:07 xtraeme Exp $
 
 DISTNAME=	${DISTFILES}
 PKGNAME=	XFree86-clients-${XFREE86_VERSION}
@@ -22,6 +22,14 @@ XINSTALL_DIRS=		programs fonts/util
 XINSTALL_MAN_DIRS=	programs
 
 REPLACE_PERL=		fonts/util/bdftruncate.pl fonts/util/ucs2any.pl
+
+.include "../../mk/bsd.prefs.mk"
+
+# XXX PAM support
+
+.if ${OPSYS} == "Linux"
+.include "../../security/PAM/buildlink2.mk"
+.endif
 
 post-configure:
 	@${MKDIR} ${WRKSRC}/exports/lib
