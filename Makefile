@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.622 2003/11/18 04:52:48 mpasternak Exp $
+# $Id: Makefile,v 1.623 2003/11/18 05:15:08 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -431,6 +431,8 @@ SUBDIR+=	rc.subr
 SUBDIR+=	rcorder
 SUBDIR+=	rdesktop
 SUBDIR+=	regexxer
+# wip/rekall doesn't compile yet
+# SUBDIR+=	rekall
 SUBDIR+=	rlpr
 SUBDIR+=	rolo
 SUBDIR+=	rosegarden-current
