@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1212 2004/04/18 11:11:32 poppnk Exp $
+# $Id: Makefile,v 1.1213 2004/04/18 18:47:20 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -241,6 +241,7 @@ SUBDIR+=	hydrogen
 SUBDIR+=	iText
 SUBDIR+=	iTextXML
 SUBDIR+=	icc
+SUBDIR+=	icc8
 SUBDIR+=	icecast
 SUBDIR+=	ices
 SUBDIR+=	icmpchat
