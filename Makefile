@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.867 2004/01/09 14:00:36 mpasternak Exp $
+# $Id: Makefile,v 1.868 2004/01/09 17:30:58 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -533,6 +533,7 @@ SUBDIR+=	py-gdick
 SUBDIR+=	py-generateDS
 SUBDIR+=	py-gettext-tools
 SUBDIR+=	py-gnosis-utils
+SUBDIR+=	py-gnutls
 SUBDIR+=	py-ipython
 SUBDIR+=	py-kyra
 SUBDIR+=	py-libpcap
