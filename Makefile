@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.126 2003/04/27 10:37:06 cjep Exp $
+# $Id: Makefile,v 1.127 2003/04/28 01:35:58 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -112,6 +112,7 @@ SUBDIR+=	py-spreadmodule
 SUBDIR+=	qinx
 SUBDIR+=	qn-x11
 SUBDIR+=	raptor
+SUBDIR+=	rcorder
 SUBDIR+=	scm
 SUBDIR+=	scponly
 SUBDIR+=	shoutcast
