@@ -30,7 +30,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
  *
- * $Id: texts.h,v 1.4 2005/02/19 15:58:44 imil Exp $ 
+ * $Id: texts.h,v 1.7 2005/03/06 12:00:48 imil Exp $ 
  */
 
 #ifndef _TEXTS_H_
@@ -42,22 +42,38 @@
 #define PLEASE_WAIT_CALC "please wait while calculating"
 #define INST_PKGS "installed packages"
 #define SEARCH_INFOS "searching infos..."
+#define PKGSRC_NOTFOUND "pkgsrc was not found in %s, download it ? [Y/n]"
+#define DL_METHOD "Download method: (f)tp  / (c)vs ?"
+#define FETCH_FAILED "pkgsrc fetch failed, retry ? [Y/n]"
+#define UPDT_FAILED "pkgsrc update failed, retry ? [Y/n]"
+#define NEXT ">> Next"
+#define PKG_TB_INST "packages to be installed"
+#define PKG_TB_DEINST "packages to be deinstalled"
+#define REALLY_MASS_DELETE "really delete these packages ? [Y/n/r(ecursive)]"
 
 /* shortcuts */
 
-typedef struct Shortcut {
+typedef const struct Shortcut {
 	const char *icon;
 	const char *descr;
 } Shortcut;
 
-static const Shortcut ps_enter = { "[ret]", "enter" };
-static const Shortcut ps_back = { "[<-]", "back" };
-static const Shortcut ps_search = { "[/]", "search" };
-static const Shortcut ps_next = { "[n]", "next" };
-static const Shortcut ps_quit = { "[q]", "quit" };
-static const Shortcut ps_installed = { "[l]", INST_PKGS };
-static const Shortcut ps_up = { "[up]", "scroll up" };
-static const Shortcut ps_down = { "[down]", "scroll down" };
-static const Shortcut ps_find = { "[f]", "pkgfind" };
+#define SHORTCUT static Shortcut
+
+SHORTCUT ps_enter = { "[ret]", "enter" };
+SHORTCUT ps_back = { "[<-]", "back" };
+SHORTCUT ps_search = { "[/]", "search" };
+SHORTCUT ps_next = { "[n]", "next" };
+SHORTCUT ps_quit = { "[q]", "quit" };
+SHORTCUT ps_installed = { "[l]", INST_PKGS };
+SHORTCUT ps_up = { "[up]", "scroll up" };
+SHORTCUT ps_down = { "[down]", "scroll down" };
+SHORTCUT ps_find = { "[f]", "pkgfind" };
+SHORTCUT ps_other = { "[o]", "other cmds" };
+SHORTCUT ps_tag = { "[t]", "tag / untag" };
+SHORTCUT ps_install = { "[i]", "install tagged" };
+SHORTCUT ps_deinstall = { "[d]", "de-inst tagged" };
+SHORTCUT ps_update = { "[u]", "update pkgsrc" };
+SHORTCUT ps_prefs = { "[p]", "preferences" };
 
 #endif /* _TEXTS_H_ */

@@ -24,25 +24,25 @@
  * BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
  * CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
  * SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
- * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+* INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
  * CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: file.h,v 1.3 2005/03/09 11:30:07 imil Exp $ 
+ * $Id: live.h,v 1.7 2005/03/15 16:40:00 imil Exp $ 
  */
 
-struct cf {
-	SLIST_ENTRY(cf) next;
-	char *key;
-	char *value;
-};
+#include "lib.h"
 
-extern struct cf *list_to_cf(char **, struct cf *);
-extern struct cf *loadcf(const char *, struct cf *);
-extern void freecf(struct cf *);
-extern char *getval(struct cf *, const char *);
-extern char **loadfile(const char *);
-extern void freefile(char **);
-extern int file_exists(const char *);
-extern int filelines(const char *);
+#define STORE_EXPECT "store_expect"
+#define TMPDIR "/var/tmp"
+
+/* live ftp */
+extern void pasv_ftp(void);
+extern Etree **live_ftp(const char *);
+extern struct cf *ftp_loadcf(const char *, const char *);
+extern char **ftp_loadfile(const char *, const char *);
+extern void fill_store(char *);
+extern int ftp_connected(void);
+extern int ftp_info_start(char *);
+extern int is_ftpurl(const char *);

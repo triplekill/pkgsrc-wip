@@ -29,7 +29,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: more.c,v 1.14 2005/02/22 09:28:18 imil Exp $
+ * $Id: more.c,v 1.1 2005/02/28 11:49:44 imil Exp $
  */
 
 #include "pkg_select.h"

@@ -29,7 +29,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: parsedirs.c,v 1.3 2005/02/21 14:11:26 poppnk Exp $ 
+ * $Id: parsedirs.c,v 1.1 2005/02/28 11:49:44 imil Exp $ 
  */
 
 #include "pkg_select.h"

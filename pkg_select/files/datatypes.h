@@ -29,20 +29,39 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: file.h,v 1.3 2005/03/09 11:30:07 imil Exp $ 
+ * $Id: datatypes.h,v 1.7 2005/03/12 10:50:34 imil Exp $ 
  */
 
-struct cf {
-	SLIST_ENTRY(cf) next;
-	char *key;
-	char *value;
-};
+typedef struct Etree {
+	char *entry;
+	char *comment;
+	char *dep_path;
+} Etree;
 
-extern struct cf *list_to_cf(char **, struct cf *);
-extern struct cf *loadcf(const char *, struct cf *);
-extern void freecf(struct cf *);
-extern char *getval(struct cf *, const char *);
-extern char **loadfile(const char *);
-extern void freefile(char **);
-extern int file_exists(const char *);
-extern int filelines(const char *);
+/* highlight / position informations */
+typedef struct HL_datas {
+	int nlines;
+	int ncols;
+	int top_line;
+	int count; /* total items number */
+	int hl_index; /* real highlight position */
+	int old_index; /* last highlight position */
+	char *hl_entry; /* highlighted item name */
+	char *hl_comment;
+} HL_datas;
+
+/* conf file */
+typedef struct Conf {
+	unsigned int elements;
+	const char *confpath;
+	const char *pkgsrcdir;
+	const char *pkg_dbdir;
+	const char *cvs_mirror;
+	const char *ftp_mirror;
+	const char *pkg_path;
+	const char *cvs_branch;
+	char *live_ftp;
+	const char *live_ftp_pkgsrc;
+	unsigned int shell_output;
+	unsigned int live_ftp_read_makefiles;
+} Conf;

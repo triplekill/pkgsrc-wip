@@ -29,20 +29,61 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $Id: file.h,v 1.3 2005/03/09 11:30:07 imil Exp $ 
+ * $Id: conf.c,v 1.7 2005/03/15 16:55:51 imil Exp $ 
  */
 
-struct cf {
-	SLIST_ENTRY(cf) next;
-	char *key;
-	char *value;
-};
+#include "pkg_select.h"
 
-extern struct cf *list_to_cf(char **, struct cf *);
-extern struct cf *loadcf(const char *, struct cf *);
-extern void freecf(struct cf *);
-extern char *getval(struct cf *, const char *);
-extern char **loadfile(const char *);
-extern void freefile(char **);
-extern int file_exists(const char *);
-extern int filelines(const char *);
+static struct cf *file;
+
+void
+loadconf()
+{
+	char *rep;
+
+	conf.elements = 12; /* <---------------------------------
+			     * UPDATE ME WHEN ADDING A CONF VALUE
+			     * <--------------------------------- 
+			     */
+
+	if ((file = loadcf(conf.confpath, NULL)) == NULL) {
+		conf.pkgsrcdir = NULL;
+		conf.pkg_dbdir = NULL;
+		conf.cvs_mirror = NULL;
+		conf.ftp_mirror = NULL;
+		conf.pkg_path = NULL;
+		conf.cvs_branch = NULL;
+		conf.live_ftp_pkgsrc = NULL;
+		conf.live_ftp_read_makefiles = T_TRUE;
+		conf.shell_output = T_FALSE;
+
+		return;
+	}
+
+	conf.pkgsrcdir = getval(file, "pkgsrcdir");
+	conf.pkg_dbdir = getval(file, "pkg_dbdir");
+	conf.cvs_mirror = getval(file, "cvs_mirror");
+	conf.ftp_mirror = getval(file, "ftp_mirror");
+	conf.pkg_path = getval(file, "pkg_path");
+	conf.cvs_branch = getval(file, "cvs_branch");
+	conf.live_ftp_pkgsrc = getval(file, "live_ftp_pkgsrc");
+	if ((rep = getval(file, "shell_output")) != NULL) {
+		if (*rep == 'y' || *rep == 'Y')
+			conf.shell_output = T_TRUE;
+		else
+			conf.shell_output = T_FALSE;
+	}
+	if ((rep = getval(file, "live_ftp_read_makefiles")) != NULL) {
+		if (*rep == 'y' || *rep == 'Y')
+			conf.live_ftp_read_makefiles = T_TRUE;
+		else
+			conf.live_ftp_read_makefiles = T_FALSE;
+	}
+}
+
+void
+freeconf()
+{
+	XFREE(conf.live_ftp);
+	freecf(file);
+}
