@@ -1,7 +1,7 @@
 /*
  * XFree86 packages for pkgsrc system
  * 
- * $Id: host.def 335 2003-07-23 14:13:15Z xtraeme $
+ * $Id: host.def,v 1.1.1.1 2003/07/23 20:49:08 xtraeme Exp $
  *
  */ 
 
@@ -25,10 +25,16 @@
 #define	ForceNormalLib NO
 #define	ModInstall NO 
 #define	XTrueTypeInstallCConvHeaders NO
-#define HasShadowPasswd NO
 
+#ifndef LinuxArchitecture
+#define HasShadowPasswd NO
+#endif
+
+#ifdef NetBSDArchitecture
 #define HasSecureRPC NO
 #define HasPam NO
+#endif
+
 #define InstallXdmConfig YES
 #define InstallXinitConfig YES
 #define InstallAppDefFiles YES
