@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.417 2003/09/02 06:17:03 xtraeme Exp $
+# $Id: Makefile,v 1.418 2003/09/02 07:45:06 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -101,7 +101,6 @@ SUBDIR+=	fragroute
 SUBDIR+=	freeglut
 SUBDIR+=	freenet-tools
 SUBDIR+=	frontpage
-SUBDIR+=	fspanel
 SUBDIR+=	fsv
 SUBDIR+=	fuse
 SUBDIR+=	fuse-utils
