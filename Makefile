@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.769 2003/12/15 14:51:56 mpasternak Exp $
+# $Id: Makefile,v 1.770 2003/12/15 17:32:42 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -332,8 +332,6 @@ SUBDIR+=	ming
 SUBDIR+=	mingw
 SUBDIR+=	mingw-binutils
 SUBDIR+=	mingw-gcc
-SUBDIR+=	mingw-libtool
-SUBDIR+=	mingw-pkgconfig
 SUBDIR+=	mingw-runtime-bin
 SUBDIR+=	mingw-w32api-bin
 SUBDIR+=	mit-krb5
