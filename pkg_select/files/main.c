@@ -217,12 +217,17 @@ static void
 print_bindings(int page)
 {
 	int spacing, up, down;
+	static int last_page = 1;
 
 #define MAXCMDPAGES 2
 
 	spacing = strlen(ps_installed.descr);
 	up = nlines + 3;
 	down = nlines + 4;
+
+	if (page != last_page) {
+		clear(); refresh();
+	}
 
 	switch (page) {
 	case 1:
@@ -249,6 +254,7 @@ print_bindings(int page)
 	}
 	
 	refresh();
+	last_page = page;
 }
 
 /*
