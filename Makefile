@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.472 2003/09/17 20:33:26 xtraeme Exp $
+# $Id: Makefile,v 1.473 2003/09/17 23:01:22 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -373,6 +373,7 @@ SUBDIR+=	tendra
 SUBDIR+=	tetrinet
 SUBDIR+=	tetrinetx
 SUBDIR+=	tex-foiltex
+SUBDIR+=	tex-prosper
 SUBDIR+=	thaixfonts
 SUBDIR+=	theme-gtk-bluecurve
 SUBDIR+=	theora-nightly
