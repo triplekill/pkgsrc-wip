@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.257 2003/06/22 13:50:16 marc Exp $
+# $Id: Makefile,v 1.258 2003/06/23 16:25:06 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -75,6 +75,7 @@ SUBDIR+=	gstreamer-player
 SUBDIR+=	gtick
 SUBDIR+=	gtk-sharp
 SUBDIR+=	gtk2-engines-mist
+SUBDIR+=	gtk2-thinice-engine
 SUBDIR+=	gtranslator
 SUBDIR+=	hasciicam
 SUBDIR+=	honeyd-arpd
