@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.191 2003/05/26 14:26:10 marc Exp $
+# $Id: Makefile,v 1.192 2003/05/28 01:54:03 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -166,6 +166,8 @@ SUBDIR+=	tex-foiltex
 SUBDIR+=	theora-nightly
 SUBDIR+=	totem
 SUBDIR+=	tsclient
+SUBDIR+=	tuxmath
+SUBDIR+=	tuxtype2
 SUBDIR+=	umix
 SUBDIR+=	vcdgear
 SUBDIR+=	vim-gtk2
