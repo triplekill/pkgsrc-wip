@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1628 2005/01/22 15:48:11 hubertf Exp $
+# $Id: Makefile,v 1.1629 2005/01/23 17:47:31 ivaniclixx Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -952,7 +952,6 @@ SUBDIR+=	xbsql
 SUBDIR+=	xchat2-perl
 SUBDIR+=	xchat2-python
 SUBDIR+=	xchat2-tcl
-SUBDIR+=	xevil
 SUBDIR+=	xfe
 SUBDIR+=	xgobi
 SUBDIR+=	xinetd
