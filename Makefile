@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1053 2004/03/06 18:33:19 marc Exp $
+# $Id: Makefile,v 1.1054 2004/03/06 18:52:27 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -318,6 +318,7 @@ SUBDIR+=	linux-kbd
 SUBDIR+=	linux-kernel
 SUBDIR+=	linux-kernel-headers
 SUBDIR+=	linux-makedev
+SUBDIR+=	linux-module-init-tools
 SUBDIR+=	linux-modutils
 SUBDIR+=	linux-nfs-utils
 SUBDIR+=	linux24-kernel
