@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1352 2004/06/27 09:47:58 adrian_p Exp $
+# $Id: Makefile,v 1.1353 2004/06/29 05:48:43 rillig Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -476,6 +476,7 @@ SUBDIR+=	p5-DateTime-TimeZone
 SUBDIR+=	p5-Encode-compat
 SUBDIR+=	p5-File-Tail
 SUBDIR+=	p5-Frontier-RPC
+SUBDIR+=	p5-Geo-IPfree
 SUBDIR+=	p5-GeoIP
 SUBDIR+=	p5-GnuPG-Interface
 SUBDIR+=	p5-HTML-Latex
