@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.790 2003/12/22 03:43:29 jcd Exp $
+# $Id: Makefile,v 1.791 2003/12/23 04:03:26 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -214,7 +214,6 @@ SUBDIR+=	gtkmagnetic
 SUBDIR+=	gtkpod
 SUBDIR+=	gurlchecker
 SUBDIR+=	gwc
-SUBDIR+=	gxmame
 SUBDIR+=	hasciicam
 SUBDIR+=	hashcash
 SUBDIR+=	heimdal
