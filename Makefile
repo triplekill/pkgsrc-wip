@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1308 2004/06/06 18:48:14 rillig Exp $
+# $Id: Makefile,v 1.1309 2004/06/06 23:41:13 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -56,8 +56,6 @@ SUBDIR+=	bin86
 SUBDIR+=	bison13
 SUBDIR+=	blassic
 SUBDIR+=	bnr2
-SUBDIR+=	boost-base
-SUBDIR+=	boost-thread
 SUBDIR+=	bub-n-bros
 SUBDIR+=	bugzilla
 SUBDIR+=	busybox
