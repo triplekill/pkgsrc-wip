@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1659 2005/02/21 10:50:06 imilh Exp $
+# $Id: Makefile,v 1.1660 2005/02/23 18:50:23 daprice Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -150,6 +150,7 @@ SUBDIR+=	directory-administrator
 SUBDIR+=	distella
 SUBDIR+=	diveintopython
 SUBDIR+=	djvu
+SUBDIR+=	dk-milter
 SUBDIR+=	dmd-bin
 SUBDIR+=	dnsmasq
 SUBDIR+=	dnswalk
