@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1127 2004/03/28 15:09:33 mpasternak Exp $
+# $Id: Makefile,v 1.1128 2004/03/28 17:13:44 bjan2 Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -267,7 +267,6 @@ SUBDIR+=	isc-dhcpd
 SUBDIR+=	ish
 SUBDIR+=	jabberd-aim
 SUBDIR+=	jabberd-msn
-SUBDIR+=	jabberd2
 SUBDIR+=	jakarta-log4j
 SUBDIR+=	java-BigDecimal
 SUBDIR+=	java-charva
