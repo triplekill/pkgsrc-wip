@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1709 2005/03/29 05:19:31 sifu Exp $
+# $Id: Makefile,v 1.1710 2005/03/29 14:19:54 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -405,6 +405,7 @@ SUBDIR+=	kahakai
 SUBDIR+=	kannel-gateway
 SUBDIR+=	kapital
 SUBDIR+=	kazehakase
+SUBDIR+=	kchm
 SUBDIR+=	kino
 SUBDIR+=	kissme
 SUBDIR+=	konversation
