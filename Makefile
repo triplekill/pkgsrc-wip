@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1075 2004/03/12 16:10:57 mpasternak Exp $
+# $Id: Makefile,v 1.1076 2004/03/12 16:23:04 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -621,6 +621,7 @@ SUBDIR+=	slackware_gcc
 SUBDIR+=	slackware_glibc
 SUBDIR+=	slackware_glibc_solibs
 SUBDIR+=	slackware_grep
+SUBDIR+=	slackware_jed
 SUBDIR+=	slackware_make
 SUBDIR+=	slackware_sed
 SUBDIR+=	slackware_tcsh
