@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.84 2003/04/14 11:28:09 xtraeme Exp $
+# $Id: Makefile,v 1.85 2003/04/14 18:40:55 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -85,5 +85,6 @@ SUBDIR+=	directfb
 SUBDIR+=	geeklog
 SUBDIR+=	lpe
 SUBDIR+=	gdrdao
+SUBDIR+=	dircproxy
 
 .include "../mk/bsd.pkg.subdir.mk"
