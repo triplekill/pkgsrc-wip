@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.68 2003/04/13 11:47:22 jmmv Exp $
+# $Id: Makefile,v 1.69 2003/04/13 11:57:54 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -63,6 +63,7 @@ SUBDIR+=	py-csv
 SUBDIR+=	py-gnome2
 SUBDIR+=	py-gtk2
 SUBDIR+=	py-spreadmodule
+SUBDIR+=	qadsl
 SUBDIR+=	scm
 SUBDIR+=	shoutcast
 SUBDIR+=	tex-foiltex
