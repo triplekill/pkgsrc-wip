@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.977 2004/02/17 04:31:33 minskim Exp $
+# $Id: Makefile,v 1.978 2004/02/17 15:33:20 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -573,7 +573,6 @@ SUBDIR+=	py-visionegg-docs
 SUBDIR+=	py-vtkmodule
 SUBDIR+=	py-weave
 SUBDIR+=	py-willow
-SUBDIR+=	py-xmms
 SUBDIR+=	py-xsdb
 SUBDIR+=	pynfo
 SUBDIR+=	pysite
