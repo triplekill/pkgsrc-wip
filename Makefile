@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1232 2004/04/22 23:46:28 mpasternak Exp $
+# $Id: Makefile,v 1.1233 2004/04/23 09:04:14 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -624,7 +624,6 @@ SUBDIR+=	ruby-syck
 SUBDIR+=	scite
 SUBDIR+=	scm
 SUBDIR+=	scponly
-SUBDIR+=	screws
 SUBDIR+=	send-pr
 SUBDIR+=	sgmltools-lite
 SUBDIR+=	shadow
