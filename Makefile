@@ -1,9 +1,10 @@
-# $Id: Makefile,v 1.946 2004/02/10 20:46:04 bjan2 Exp $
+# $Id: Makefile,v 1.947 2004/02/10 22:29:13 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	4stAttack
+SUBDIR+=	Coin
 SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
 SUBDIR+=	Pythonol
