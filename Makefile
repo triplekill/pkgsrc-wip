@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.250 2003/06/17 02:22:17 mjasm Exp $
+# $Id: Makefile,v 1.251 2003/06/18 18:00:10 cubidou Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -185,6 +185,7 @@ SUBDIR+=	py-SimpleParse
 SUBDIR+=	py-adns
 SUBDIR+=	py-egenix-mx-base
 SUBDIR+=	py-elementtree
+SUBDIR+=	py-game
 SUBDIR+=	py-generateDS
 SUBDIR+=	py-gnome2
 SUBDIR+=	py-gnosis-utils
