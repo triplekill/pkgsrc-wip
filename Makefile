@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.63 2003/04/11 20:06:39 icmp Exp $
+# $Id: Makefile,v 1.64 2003/04/12 19:09:13 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -52,6 +52,7 @@ SUBDIR+=	p5-Unicode-String
 SUBDIR+=	p5-XML-Stream
 SUBDIR+=	perltidy
 SUBDIR+=	poedit
+SUBDIR+=	pts
 SUBDIR+=	py-ORBit
 SUBDIR+=	py-OpenGL
 SUBDIR+=	py-PgSQL
