@@ -1,0 +1,6 @@
+$Id$
+
+* Doesn't build on NetBSD 1.6.x (I'm looking at it)
+* Fix trouble with x11-links
+* Fix trouble of Jeremy C.Reed on Linux
+* We need to test/build this on more platforms than x86 
