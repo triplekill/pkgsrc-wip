@@ -1,8 +1,8 @@
 # $NetBSD$
-# $Id: Makefile,v 1.2 2003/11/30 23:56:27 mpasternak Exp $
+# $Id: Makefile,v 1.3 2003/12/15 14:30:58 mpasternak Exp $
 
-DISTNAME=		mingw-runtime-3.2
-PKGNAME=		mingw-runtime-bin-3.2
+DISTNAME=		mingw-runtime-3.3
+PKGNAME=		mingw-runtime-bin-3.3
 WRKSRC=			${WRKDIR}
 CATEGORIES=		cross
 MASTER_SITES=		${MASTER_SITE_MINGW}
