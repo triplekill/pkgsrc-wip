@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1069 2004/03/12 00:09:10 blef Exp $
+# $Id: Makefile,v 1.1070 2004/03/12 00:27:15 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -117,7 +117,6 @@ SUBDIR+=	dzt
 SUBDIR+=	e2fsprogs
 SUBDIR+=	e3
 SUBDIR+=	eag
-SUBDIR+=	ed
 SUBDIR+=	eic
 SUBDIR+=	emacs-carbon
 SUBDIR+=	emirror
