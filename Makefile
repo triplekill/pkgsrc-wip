@@ -1,10 +1,12 @@
-# $Id: Makefile,v 1.254 2003/06/21 17:13:13 xtraeme Exp $
+# $Id: Makefile,v 1.255 2003/06/22 10:12:15 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	3ddesktop
 SUBDIR+=	PPower4
+SUBDIR+=	Radiator
+SUBDIR+=	Radiator-all
 SUBDIR+=	WEPCrack
 SUBDIR+=	abook
 SUBDIR+=	abuse_sdl
