@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1024 2004/02/25 21:51:19 thomasklausner Exp $
+# $Id: Makefile,v 1.1025 2004/02/25 22:02:07 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -435,7 +435,6 @@ SUBDIR+=	pear-Mail_Mime
 SUBDIR+=	pear-Net_Socket
 SUBDIR+=	pear-Net_URL
 SUBDIR+=	pear-SOAP
-SUBDIR+=	perl58
 SUBDIR+=	perl59
 SUBDIR+=	perltidy
 SUBDIR+=	pgadmin3
