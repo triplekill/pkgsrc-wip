@@ -1,3 +1,0 @@
-$Id: TODO,v 1.2 2003/11/13 12:03:46 airhead Exp $
-- Look into bad sound performance; Sound comes much later (seconds, even
-   minutes on some machines) than it is produced.
