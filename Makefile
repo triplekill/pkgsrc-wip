@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.270 2003/06/24 09:36:00 xtraeme Exp $
+# $Id: Makefile,v 1.271 2003/06/24 10:11:12 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -23,6 +23,7 @@ SUBDIR+=	bastard
 SUBDIR+=	bc
 SUBDIR+=	billardgl
 SUBDIR+=	bin86
+SUBDIR+=	bitlbee
 SUBDIR+=	bugzilla
 SUBDIR+=	byacc
 SUBDIR+=	cdpr
