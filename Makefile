@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1720 2005/04/02 16:52:02 kristerw Exp $
+# $Id: Makefile,v 1.1721 2005/04/02 16:56:24 kristerw Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -849,7 +849,6 @@ SUBDIR+=	ruby-ming
 SUBDIR+=	ruby-misen
 SUBDIR+=	ruby-ncurses
 SUBDIR+=	ruby-raggle
-SUBDIR+=	ruby-syck
 SUBDIR+=	sara
 SUBDIR+=	sarg
 SUBDIR+=	sawfish-gtk2
