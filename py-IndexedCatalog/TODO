@@ -1,0 +1,5 @@
+$Id$
+
+make PLIST when ZODB3 buildlink3.mk is ready (won't compile until then)
+
+	-- dotz@irc.pl
