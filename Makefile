@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1317 2004/06/08 15:45:45 cjep Exp $
+# $Id: Makefile,v 1.1318 2004/06/08 21:41:36 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -686,6 +686,7 @@ SUBDIR+=	smtprc-gui
 SUBDIR+=	smtpscan
 SUBDIR+=	songwrite
 SUBDIR+=	spamassassin-cvs
+SUBDIR+=	spamd
 SUBDIR+=	spamprobe-pbl
 SUBDIR+=	spe
 SUBDIR+=	speedx
