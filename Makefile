@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1655 2005/02/15 22:57:53 airhead Exp $
+# $Id: Makefile,v 1.1656 2005/02/15 23:26:28 airhead Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -566,6 +566,7 @@ SUBDIR+=	openttd
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
 SUBDIR+=	oqtplayer
+SUBDIR+=	orion
 SUBDIR+=	orpie
 SUBDIR+=	p3nfs
 SUBDIR+=	p5-Aceperl
