@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.42 2003/04/06 19:00:41 jmmv Exp $
+# $Id: Makefile,v 1.43 2003/04/07 06:09:10 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -48,6 +48,7 @@ SUBDIR+=	py-PgSQL
 SUBDIR+=	py-csv
 SUBDIR+=	py-gnome2
 SUBDIR+=	py-gtk2
+SUBDIR+=	py-spreadmodule
 SUBDIR+=	startup-notification
 SUBDIR+=	tcpflow
 SUBDIR+=	tex-foiltex
