@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.210 2003/06/03 09:27:06 jmmv Exp $
+# $Id: Makefile,v 1.211 2003/06/03 13:49:52 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -30,6 +30,7 @@ SUBDIR+=	dancer-ircd
 SUBDIR+=	darkice
 SUBDIR+=	defendguin
 SUBDIR+=	devhelp
+SUBDIR+=	dfbpoint
 SUBDIR+=	dfbsee
 SUBDIR+=	directfb
 SUBDIR+=	dosbox
