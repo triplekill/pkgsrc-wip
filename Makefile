@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1333 2004/06/21 07:31:47 sourceforge_low Exp $
+# $Id: Makefile,v 1.1334 2004/06/21 15:20:16 kibumh Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -390,7 +390,6 @@ SUBDIR+=	mingw-gcc
 SUBDIR+=	mingw-runtime-bin
 SUBDIR+=	mingw-w32api-bin
 SUBDIR+=	minimalist
-SUBDIR+=	mips64emul
 SUBDIR+=	mixer.tk
 SUBDIR+=	mixmaster
 #SUBDIR+=	mk 		# not a package
