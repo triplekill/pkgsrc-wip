@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1120 2004/03/28 00:38:34 mpasternak Exp $
+# $Id: Makefile,v 1.1121 2004/03/28 01:29:03 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -693,6 +693,7 @@ SUBDIR+=	slackware_ncurses
 SUBDIR+=	slackware_sed
 SUBDIR+=	slackware_tar
 SUBDIR+=	slackware_tcsh
+SUBDIR+=	slate
 SUBDIR+=	sleuthkit # READ TODO #
 SUBDIR+=	slocate
 SUBDIR+=	slrn-pl
