@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.335 2003/07/19 11:07:38 bubuchka Exp $
+# $Id: Makefile,v 1.336 2003/07/22 12:26:26 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -132,6 +132,7 @@ SUBDIR+=	jdk13-openjit
 SUBDIR+=	jigdo
 SUBDIR+=	kapital
 SUBDIR+=	kgpg
+SUBDIR+=	koffice-i18n-es
 SUBDIR+=	korelib
 SUBDIR+=	lash
 SUBDIR+=	lbdb
