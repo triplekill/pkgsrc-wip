@@ -1,5 +1,0 @@
-$Id: TODO,v 1.2 2004/06/07 16:53:03 xtraeme Exp $
-
-	o update to 0.56 (two security issues fixed)
-	o utmp does not work in BSD yet.
-	o Only tested in NetBSD 2.0, what about IRIX, Solaris, etc?
