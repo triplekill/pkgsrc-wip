@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1407 2004/07/26 15:21:29 minskim Exp $
+# $Id: Makefile,v 1.1408 2004/07/26 18:26:00 dillo Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -273,8 +273,6 @@ SUBDIR+=	java-swt
 SUBDIR+=	java-xmlrpc
 SUBDIR+=	javascript-guide
 SUBDIR+=	javascript-reference
-SUBDIR+=	jdk12
-SUBDIR+=	jdk12-openjit
 SUBDIR+=	jdk13
 SUBDIR+=	jdk13-openjit
 SUBDIR+=	jdk14
