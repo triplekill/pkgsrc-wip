@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.693 2003/11/27 22:59:56 blef Exp $
+# $Id: Makefile,v 1.694 2003/11/27 23:12:35 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -285,6 +285,7 @@ SUBDIR+=	libXi
 SUBDIR+=	libXrandr
 SUBDIR+=	libXrender
 SUBDIR+=	libXres
+SUBDIR+=	libXt
 SUBDIR+=	libdialog
 SUBDIR+=	libdisasm
 SUBDIR+=	libfwbuilder
@@ -305,6 +306,7 @@ SUBDIR+=	libstatgrab
 SUBDIR+=	libvc
 SUBDIR+=	libvorbis-nightly
 SUBDIR+=	libwpd
+SUBDIR+=	libxml++
 SUBDIR+=	liferea
 SUBDIR+=	lilo
 SUBDIR+=	lilypond20
