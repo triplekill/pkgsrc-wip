@@ -1,10 +1,9 @@
-# $Id: Makefile,v 1.826 2003/12/30 18:10:59 xtraeme Exp $
+# $Id: Makefile,v 1.827 2003/12/30 20:09:12 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	4stAttack
-SUBDIR+=	MozillaFirebird-bin-xft2
 SUBDIR+=	NeoPop-SDL
 SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
