@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.351 2003/07/29 15:37:56 bencollver Exp $
+# $Id: Makefile,v 1.352 2003/07/30 17:47:04 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -274,6 +274,7 @@ SUBDIR+=	py-libpcap
 SUBDIR+=	py-spark
 SUBDIR+=	py-spreadmodule
 SUBDIR+=	py-twisted
+SUBDIR+=	python23
 SUBDIR+=	qinx
 SUBDIR+=	qn-x11
 SUBDIR+=	rapidsvn
