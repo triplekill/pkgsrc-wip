@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.114 2003/04/23 22:11:10 thomasklausner Exp $
+# $Id: Makefile,v 1.115 2003/04/24 16:54:43 bmeurer Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -122,5 +122,6 @@ SUBDIR+=	vmsbackup
 SUBDIR+=	windowlab
 SUBDIR+=	xawtv
 SUBDIR+=	xevil
+SUBDIR+=	xml2doc
 
 .include "../mk/bsd.pkg.subdir.mk"
