@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.195 2003/05/31 17:38:14 xtraeme Exp $
+# $Id: Makefile,v 1.196 2003/06/01 10:26:31 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -45,7 +45,6 @@ SUBDIR+=	fuse-utils
 SUBDIR+=	fwbuilder
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
-SUBDIR+=	geoip
 SUBDIR+=	gimp-current
 SUBDIR+=	gini
 SUBDIR+=	gkrellm2
