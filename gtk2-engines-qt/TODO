@@ -1,0 +1,9 @@
+$Id$
+
+Doesn't work properly. Needs debugging, but as people want such
+functionality, I think we won't have to wait long for next releases.
+
+Perhaps do some work on patch/patch-ab and Makefile (QTDIR could be done
+other way)
+
+	-- dotz@irc.pl
