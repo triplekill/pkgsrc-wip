@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.762 2003/12/13 23:49:08 xtraeme Exp $
+# $Id: Makefile,v 1.763 2003/12/14 01:19:58 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -202,7 +202,6 @@ SUBDIR+=	gtk2-theme-pack
 SUBDIR+=	gtkglk
 SUBDIR+=	gtkmagnetic
 SUBDIR+=	gtkpod
-SUBDIR+=	gucharmap
 SUBDIR+=	gurlchecker
 SUBDIR+=	gwc
 SUBDIR+=	gxmame
