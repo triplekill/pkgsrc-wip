@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1714 2005/03/30 15:14:55 thomasklausner Exp $
+# $Id: Makefile,v 1.1715 2005/03/30 15:45:01 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -402,6 +402,7 @@ SUBDIR+=	jcr-yahoo
 SUBDIR+=	jdk14
 SUBDIR+=	jemboss-standalone
 SUBDIR+=	jgloss
+SUBDIR+=	jumpnbump
 SUBDIR+=	kahakai
 SUBDIR+=	kannel-gateway
 SUBDIR+=	kapital
