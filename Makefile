@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.715 2003/12/01 06:17:22 mpasternak Exp $
+# $Id: Makefile,v 1.716 2003/12/01 11:11:41 cubidou Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -349,6 +349,7 @@ SUBDIR+=	mingw-binutils
 SUBDIR+=	mingw-g++
 SUBDIR+=	mingw-libtool
 SUBDIR+=	mingw-objc
+SUBDIR+=	mingw-pkgconfig
 SUBDIR+=	mingw-runtime-bin
 SUBDIR+=	mingw-w32api-bin
 SUBDIR+=	mingw32-gettext-lib
