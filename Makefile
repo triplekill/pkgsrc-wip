@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.962 2004/02/15 01:59:16 minskim Exp $
+# $Id: Makefile,v 1.963 2004/02/15 15:46:01 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -536,7 +536,6 @@ SUBDIR+=	py-SciPy
 SUBDIR+=	py-Soya
 SUBDIR+=	py-TTFQuery
 SUBDIR+=	py-albatross
-SUBDIR+=	py-ao
 SUBDIR+=	py-biggles
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
