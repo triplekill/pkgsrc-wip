@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.440 2003/09/09 21:57:35 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.441 2003/09/10 21:28:42 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -247,6 +247,7 @@ SUBDIR+=	noip
 SUBDIR+=	ntp4-dev
 SUBDIR+=	nvtv
 SUBDIR+=	nvtv-gtk2
+SUBDIR+=	obconf
 SUBDIR+=	opax
 SUBDIR+=	openbox3
 SUBDIR+=	openvpn
