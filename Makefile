@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.108 2003/04/20 15:11:49 cjep Exp $
+# $Id: Makefile,v 1.109 2003/04/20 15:14:37 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -20,6 +20,7 @@ SUBDIR+=	cjk-latex-chinese
 SUBDIR+=	cjk-latex-japanese
 SUBDIR+=	cjk-latex-korean
 SUBDIR+=	cvsd
+SUBDIR+=	dancer-ircd
 SUBDIR+=	devhelp
 SUBDIR+=	dircproxy
 SUBDIR+=	directfb
