@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.406 2003/08/30 21:38:03 xtraeme Exp $
+# $Id: Makefile,v 1.407 2003/09/01 02:10:58 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -276,6 +276,10 @@ SUBDIR+=	p5-Unicode-String
 SUBDIR+=	p5-XML-Stream
 SUBDIR+=	p5-gtk2
 SUBDIR+=	pdns
+SUBDIR+=	pear-Date
+SUBDIR+=	pear-HTML_Common
+SUBDIR+=	pear-HTML_Select
+SUBDIR+=	pear-Log
 SUBDIR+=	perl58
 SUBDIR+=	perltidy
 SUBDIR+=	pgp6
