@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1388 2004/07/15 20:22:35 xtraeme Exp $
+# $Id: Makefile,v 1.1389 2004/07/15 23:15:17 marc Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -386,7 +386,6 @@ SUBDIR+=	matchbox-wm
 SUBDIR+=	mc
 SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
-SUBDIR+=	memtester
 SUBDIR+=	menumaker
 SUBDIR+=	metatheme
 SUBDIR+=	mftrace
