@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1537 2004/11/15 00:24:58 lexort Exp $
+# $Id: Makefile,v 1.1538 2004/11/15 07:07:14 xmor61 Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -120,10 +120,6 @@ SUBDIR+=	doorman
 SUBDIR+=	dovecot-nightly
 SUBDIR+=	drow
 SUBDIR+=	drpython
-SUBDIR+=	drweb
-SUBDIR+=	drweb-clients-shared
-SUBDIR+=	drweb-dc
-SUBDIR+=	drweb-smf
 SUBDIR+=	dumb
 SUBDIR+=	dxmake
 SUBDIR+=	e16keyedit
