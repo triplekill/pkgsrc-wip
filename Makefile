@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1708 2005/03/29 00:12:49 jgoamakf Exp $
+# $Id: Makefile,v 1.1709 2005/03/29 05:19:31 sifu Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -840,7 +840,6 @@ SUBDIR+=	rssh
 SUBDIR+=	rtorrent
 SUBDIR+=	ruby-RMagick
 SUBDIR+=	ruby-dpklib
-SUBDIR+=	ruby-imlib2
 SUBDIR+=	ruby-ming
 SUBDIR+=	ruby-misen
 SUBDIR+=	ruby-ncurses
