@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1220 2004/04/19 18:15:53 xtraeme Exp $
+# $Id: Makefile,v 1.1221 2004/04/19 18:19:30 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -323,7 +323,6 @@ SUBDIR+=	libdisasm
 SUBDIR+=	libdv
 SUBDIR+=	libetpan
 SUBDIR+=	libfwbuilder
-SUBDIR+=	libgringotts
 SUBDIR+=	libhydrogen
 SUBDIR+=	libmatchbox
 SUBDIR+=	libneural
