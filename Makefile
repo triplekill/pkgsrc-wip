@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1184 2004/04/10 17:55:22 xtraeme Exp $
+# $Id: Makefile,v 1.1185 2004/04/11 02:40:26 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -50,7 +50,6 @@ SUBDIR+=	bacula-docs
 SUBDIR+=	barnyard
 SUBDIR+=	bastard
 SUBDIR+=	beast
-SUBDIR+=	beep-media-player
 SUBDIR+=	billardgl
 SUBDIR+=	bin86
 SUBDIR+=	bison13
