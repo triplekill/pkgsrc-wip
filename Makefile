@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.669 2003/11/26 16:32:11 mpasternak Exp $
+# $Id: Makefile,v 1.670 2003/11/26 16:33:47 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -294,6 +294,8 @@ SUBDIR+=	memtester
 SUBDIR+=	metatheme
 SUBDIR+=	mftrace
 SUBDIR+=	mhonarc
+SUBDIR+=	ming
+SUBDIR+=	ming-python
 SUBDIR+=	mit-krb5
 SUBDIR+=	mixer.tk
 SUBDIR+=	mixmaster
