@@ -1,0 +1,9 @@
+$Id$
+
+* PEAK installs directories /persistence and /ZConfig. It already conflicts
+  with ZODB. Does it conflict with ZOPE?
+
+* when adding to pkgsrc, add conflicts for PEAK in other packages, I don't
+  have cvs access there.
+  
+  	-- dotz@irc.pl
