@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1094 2004/03/19 18:12:25 xtraeme Exp $
+# $Id: Makefile,v 1.1095 2004/03/19 18:28:41 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -320,6 +320,7 @@ SUBDIR+=	libogg-nightly
 SUBDIR+=	libol
 SUBDIR+=	libprelude
 SUBDIR+=	libstatgrab
+SUBDIR+=	libtlen2
 SUBDIR+=	libuuid
 SUBDIR+=	libvorbis-nightly
 SUBDIR+=	libwpd
@@ -703,6 +704,7 @@ SUBDIR+=	tinc
 SUBDIR+=	tinylogin
 SUBDIR+=	tkabber
 SUBDIR+=	tleenx2
+SUBDIR+=	tleenx3
 SUBDIR+=	tls
 SUBDIR+=	toppler
 SUBDIR+=	totem
