@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1404 2004/07/21 03:20:00 blef Exp $
+# $Id: Makefile,v 1.1405 2004/07/23 02:07:13 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -491,7 +491,6 @@ SUBDIR+=	pango-devel
 SUBDIR+=	panoramixext
 SUBDIR+=	parsifal
 SUBDIR+=	passepartout
-SUBDIR+=	patchutils
 SUBDIR+=	pbl
 SUBDIR+=	pcsx
 SUBDIR+=	pdb2ldif
