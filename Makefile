@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1097 2004/03/20 01:28:11 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1098 2004/03/20 20:13:19 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -503,6 +503,7 @@ SUBDIR+=	php5
 SUBDIR+=	php5-pgsql
 SUBDIR+=	picasm
 SUBDIR+=	picprog
+SUBDIR+=	pizza
 SUBDIR+=	pinball
 SUBDIR+=	plugger
 SUBDIR+=	poedit
