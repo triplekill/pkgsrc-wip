@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1015 2004/02/23 17:50:03 minskim Exp $
+# $Id: Makefile,v 1.1016 2004/02/23 19:09:13 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -501,6 +501,7 @@ SUBDIR+=	psh
 SUBDIR+=	pts
 SUBDIR+=	pxlib
 SUBDIR+=	pxview
+SUBDIR+=	pyzor
 SUBDIR+=	py-Brenda
 SUBDIR+=	py-CVSToys
 SUBDIR+=	py-EditObj
