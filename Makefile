@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1312 2004/06/07 17:49:05 minskim Exp $
+# $Id: Makefile,v 1.1313 2004/06/07 21:59:24 dillo Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -358,8 +358,10 @@ SUBDIR+=	man-db
 SUBDIR+=	map-browse
 SUBDIR+=	matchbox-common
 SUBDIR+=	matchbox-desktop
+SUBDIR+=	matchbox-nest
 SUBDIR+=	matchbox-panel
 SUBDIR+=	matchbox-panel-manager
+SUBDIR+=	matchbox-themes-extra
 SUBDIR+=	matchbox-wm
 #SUBDIR+=	maxima		# see TODO
 SUBDIR+=	mc
