@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1440 2004/08/25 10:41:55 adrian_p Exp $
+# $Id: Makefile,v 1.1441 2004/08/27 22:51:49 froz Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -751,6 +751,7 @@ SUBDIR+=	tleenx3
 SUBDIR+=	tls
 SUBDIR+=	toppler
 SUBDIR+=	totem
+SUBDIR+=	tr2latex
 SUBDIR+=	tripwire2
 SUBDIR+=	tsm
 SUBDIR+=	turba
