@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.965 2004/02/15 22:23:52 minskim Exp $
+# $Id: Makefile,v 1.966 2004/02/15 23:20:40 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -8,7 +8,6 @@ SUBDIR+=	Coin
 SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
 SUBDIR+=	Pythonol
-SUBDIR+=	QUANTA
 SUBDIR+=	Radiator
 SUBDIR+=	Radiator-all
 SUBDIR+=	Redland-rdf
@@ -386,6 +385,7 @@ SUBDIR+=	nautilus-cd-burner
 SUBDIR+=	navigatrix
 SUBDIR+=	ncps
 SUBDIR+=	nehe-opengl-tutorials
+SUBDIR+=	net-quanta
 SUBDIR+=	net-tools
 SUBDIR+=	netbeans-ide
 SUBDIR+=	netkit-base
@@ -602,6 +602,7 @@ SUBDIR+=	ruby-ming
 SUBDIR+=	ruby-misen
 SUBDIR+=	ruby-ncurses
 SUBDIR+=	ruby-raggle
+SUBDIR+=	ruby-redcloth
 SUBDIR+=	ruby-syck
 SUBDIR+=	rudiments
 SUBDIR+=	samba3
