@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1395 2004/07/16 19:18:55 ppostma Exp $
+# $Id: Makefile,v 1.1396 2004/07/16 20:46:50 ppostma Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -72,6 +72,7 @@ SUBDIR+=	ccze
 SUBDIR+=	cdl3
 SUBDIR+=	cdpr
 SUBDIR+=	cgic
+SUBDIR+=	chbg
 SUBDIR+=	cherokee
 SUBDIR+=	chksniff
 SUBDIR+=	chora
