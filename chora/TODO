@@ -1,0 +1,8 @@
+$Id$
+
+Prepare install target (see docs/INSTALL). As I have created a basic package
+for it and then noticed it's PHP-based (and I am totally not interested in
+PHP development right now), I decided to leave it, but I import it anyway,
+so someone can get it working in the future.
+
+	-- dotz@irc.pl
