@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1567 2004/12/03 16:53:51 thomasklausner Exp $
+# $Id: Makefile,v 1.1568 2004/12/03 17:26:28 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -900,6 +900,7 @@ SUBDIR+=	vtk
 SUBDIR+=	vtk-data
 SUBDIR+=	vtk-docs
 SUBDIR+=	vtk-python
+SUBDIR+=	wang-ttf
 SUBDIR+=	webcleaner
 SUBDIR+=	west
 SUBDIR+=	which
