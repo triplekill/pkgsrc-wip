@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.481 2003/09/21 20:42:15 mpasternak Exp $
+# $Id: Makefile,v 1.482 2003/09/22 14:12:07 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -192,6 +192,7 @@ SUBDIR+=	kmplayer
 SUBDIR+=	koffice-i18n-de
 SUBDIR+=	koffice-i18n-es
 SUBDIR+=	korelib
+SUBDIR+=	kvirc
 SUBDIR+=	lash
 SUBDIR+=	lbdb
 SUBDIR+=	ldapbrowser
