@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1575 2004/12/17 08:50:02 thomasklausner Exp $
+# $Id: Makefile,v 1.1576 2004/12/17 21:51:13 dolecek Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -878,6 +878,7 @@ SUBDIR+=	typhoon
 SUBDIR+=	uade
 SUBDIR+=	uclibc
 SUBDIR+=	udhcp
+SUBDIR+=        uebimiau
 SUBDIR+=	umix
 SUBDIR+=	unmo3
 SUBDIR+=	unrealircd
