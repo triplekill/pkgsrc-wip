@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.899 2004/01/20 21:27:35 marc Exp $
+# $Id: Makefile,v 1.900 2004/01/22 01:24:11 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -611,6 +611,7 @@ SUBDIR+=	sgmltools-lite
 SUBDIR+=	shadow
 SUBDIR+=	shared-mime-info
 SUBDIR+=	shoutcast
+SUBDIR+=	silc-toolkit
 SUBDIR+=	sks
 SUBDIR+=	sleuthkit # READ TODO #
 SUBDIR+=	slocate
