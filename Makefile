@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.71 2003/04/13 12:51:49 cjep Exp $
+# $Id: Makefile,v 1.72 2003/04/13 12:52:03 cjep Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -61,6 +61,7 @@ SUBDIR+=	py-OpenGL
 SUBDIR+=	py-PgSQL
 SUBDIR+=	py-csv
 SUBDIR+=	py-gnome2
+SUBDIR+=	py-gnosis-utils
 SUBDIR+=	py-gtk2
 SUBDIR+=	py-spreadmodule
 SUBDIR+=	qadsl
