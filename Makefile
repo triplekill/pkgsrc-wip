@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1441 2004/08/27 22:51:49 froz Exp $
+# $Id: Makefile,v 1.1442 2004/08/28 00:24:32 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -544,7 +544,6 @@ SUBDIR+=	portmap
 SUBDIR+=	postal2-mpdemo-bin
 SUBDIR+=	postgresql-uniqueidentifier
 SUBDIR+=	ppp
-SUBDIR+=	ppp-lzs
 SUBDIR+=	prelude-lml
 SUBDIR+=	prelude-manager
 SUBDIR+=	prelude-manager-mysql
