@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.666 2003/11/26 05:30:26 minskim Exp $
+# $Id: Makefile,v 1.667 2003/11/26 16:21:51 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -502,6 +502,7 @@ SUBDIR+=	sysklogd
 SUBDIR+=	syslog-ng
 SUBDIR+=	sysvinit
 SUBDIR+=	tcc
+SUBDIR+=	tcllib
 SUBDIR+=	tei
 SUBDIR+=	teixsl-fo
 SUBDIR+=	teixsl-html
