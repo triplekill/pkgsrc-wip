@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.181 2003/05/21 10:05:57 xtraeme Exp $
+# $Id: Makefile,v 1.182 2003/05/21 10:10:36 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -113,6 +113,8 @@ SUBDIR+=	netkit-base
 SUBDIR+=	newsx
 SUBDIR+=	nvtv
 SUBDIR+=	p5-Chart
+SUBDIR+=	p5-Compress-Bzip2
+SUBDIR+=	p5-CDDB
 SUBDIR+=	p5-Data-TemporaryBag
 SUBDIR+=	p5-GeoIP
 SUBDIR+=	p5-HTTP-GHTTP
