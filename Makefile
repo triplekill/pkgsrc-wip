@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.936 2004/02/08 13:00:36 pulahti Exp $
+# $Id: Makefile,v 1.937 2004/02/09 01:30:25 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -92,8 +92,8 @@ SUBDIR+=	d4x
 SUBDIR+=	damageext
 SUBDIR+=	dancer-ircd
 SUBDIR+=	darcnes-svgalib
-SUBDIR+=	dasm
 SUBDIR+=	dasher
+SUBDIR+=	dasm
 SUBDIR+=	dbf
 #SUBDIR+=	dbxml		# depends on libpathan
 SUBDIR+=	dfbpoint
