@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.739 2003/12/04 17:59:24 froz Exp $
+# $Id: Makefile,v 1.740 2003/12/04 18:26:20 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -527,6 +527,7 @@ SUBDIR+=	resourceext
 SUBDIR+=	rlpr
 SUBDIR+=	rolo
 SUBDIR+=	rosegarden-current
+SUBDIR+=	rox-gtk2
 SUBDIR+=	rudiments
 SUBDIR+=	samba3
 SUBDIR+=	scew
