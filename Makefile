@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.292 2003/07/02 13:31:07 jmmv Exp $
+# $Id: Makefile,v 1.293 2003/07/02 16:43:52 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -30,6 +30,7 @@ SUBDIR+=	boost-thread
 SUBDIR+=	bub-n-bros
 SUBDIR+=	bugzilla
 SUBDIR+=	byacc
+SUBDIR+=	cawf
 SUBDIR+=	cdpr
 SUBDIR+=	cgdb
 SUBDIR+=	cherokee
