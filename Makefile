@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.697 2003/11/28 16:38:29 xtraeme Exp $
+# $Id: Makefile,v 1.698 2003/11/28 17:11:32 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -70,6 +70,7 @@ SUBDIR+=	boson
 SUBDIR+=	bub-n-bros
 SUBDIR+=	bugzilla
 SUBDIR+=	busybox
+SUBDIR+=	bwidget
 SUBDIR+=	byacc
 SUBDIR+=	c-news
 SUBDIR+=	cairo
@@ -576,6 +577,7 @@ SUBDIR+=	thunderbird-bin-nightly
 SUBDIR+=	thy
 SUBDIR+=	tinc
 SUBDIR+=	tinylogin
+SUBDIR+=	tkabber
 SUBDIR+=	tls
 SUBDIR+=	toppler
 SUBDIR+=	totem
