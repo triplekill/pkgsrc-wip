@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1249 2004/04/30 10:52:01 grantbeattie Exp $
+# $Id: Makefile,v 1.1250 2004/04/30 19:36:09 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -182,7 +182,6 @@ SUBDIR+=	glide3
 SUBDIR+=	glkterm
 SUBDIR+=	glulxe
 SUBDIR+=	gmfsk
-SUBDIR+=	gmpc
 SUBDIR+=	gnome-alsamixer
 SUBDIR+=	gnome-clipboard-daemon
 SUBDIR+=	gnomeicu
