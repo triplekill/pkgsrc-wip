@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1287 2004/05/20 21:11:22 xtraeme Exp $
+# $Id: Makefile,v 1.1288 2004/05/21 22:51:40 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -129,6 +129,7 @@ SUBDIR+=	evolution-sharp
 SUBDIR+=	ezbounce
 SUBDIR+=	fakenes
 SUBDIR+=	faster-configure
+SUBDIR+=	fbpanel
 SUBDIR+=	festival-gaim
 SUBDIR+=	firebird
 SUBDIR+=	fixesext
