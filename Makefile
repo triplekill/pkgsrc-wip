@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1269 2004/05/10 09:13:11 arved Exp $
+# $Id: Makefile,v 1.1270 2004/05/10 09:33:46 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -427,6 +427,7 @@ SUBDIR+=	p5-AxKit
 SUBDIR+=	p5-Chart
 SUBDIR+=	p5-Class-Factory-Util
 SUBDIR+=	p5-Class-Singleton
+SUBDIR+=	p5-Data-Properties
 SUBDIR+=	p5-DateTime
 SUBDIR+=	p5-DateTime-Event-Cron
 SUBDIR+=	p5-DateTime-LeapSecond
