@@ -291,7 +291,7 @@ pkgsrc_make(const char *action, const char *path, int waitkey)
 		unsetenv("PKG_PATH");
 
 	(void) cmd_spawn(waitkey, make_progress, CYCLIC,
-			 "cd %s && %s %s %s",
+			 "cd %s && %s %s %s 2>&1",
 			 path, MAKE, action, "clean");
 
 	/* restore PKG_PATH */
