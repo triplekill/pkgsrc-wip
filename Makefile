@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.354 2003/07/31 00:49:55 xtraeme Exp $
+# $Id: Makefile,v 1.355 2003/07/31 07:23:06 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -122,7 +122,6 @@ SUBDIR+=	gtick
 SUBDIR+=	gtk-sharp
 SUBDIR+=	gtk2-engines-mist
 SUBDIR+=	gtk2-thinice-engine
-SUBDIR+=	gtksee
 SUBDIR+=	gtranslator
 SUBDIR+=	gurlchecker
 SUBDIR+=	hasciicam
@@ -246,6 +245,7 @@ SUBDIR+=	p5-gtk2
 SUBDIR+=	pdns
 SUBDIR+=	perltidy
 SUBDIR+=	php-jpgraph
+SUBDIR+=	php4-exif
 SUBDIR+=	picasm
 SUBDIR+=	picprog
 SUBDIR+=	pinball
