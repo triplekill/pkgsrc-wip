@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1379 2004/07/13 04:09:42 cetrox Exp $
+# $Id: Makefile,v 1.1380 2004/07/13 11:02:29 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -171,6 +171,7 @@ SUBDIR+=	geeklog
 SUBDIR+=	gens
 SUBDIR+=	gettext-runtime
 SUBDIR+=	gettext-tools
+SUBDIR+=	gfontview
 SUBDIR+=	gforge
 SUBDIR+=	gg2
 SUBDIR+=	ghostpcl
