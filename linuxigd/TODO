@@ -1,0 +1,9 @@
+$Id$
+
+Core dumped when stopping on NetBSD 2.0(i386).
+
+Can compile on FreeBSD/OpenBSD/Linux ?
+
+Can work with pf on OpenBSD?
+
+Startup script (how to do multicast routing?)
