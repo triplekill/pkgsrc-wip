@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1631 2005/01/25 19:46:21 matthewluckie Exp $
+# $Id: Makefile,v 1.1632 2005/01/26 16:52:16 cubidou Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -351,6 +351,7 @@ SUBDIR+=	java-xmlrpc
 SUBDIR+=	javascript-guide
 SUBDIR+=	javascript-reference
 SUBDIR+=	jc
+SUBDIR+=	jcr-yahoo
 SUBDIR+=	jdk14
 SUBDIR+=	jemboss-standalone
 SUBDIR+=	jgloss
