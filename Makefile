@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.766 2003/12/14 14:08:43 dolecek Exp $
+# $Id: Makefile,v 1.767 2003/12/14 22:39:24 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -170,6 +170,7 @@ SUBDIR+=	glide3
 SUBDIR+=	glkterm
 SUBDIR+=	glulxe
 SUBDIR+=	gnats4
+SUBDIR+=	gnome-acme
 SUBDIR+=	gnome-speech
 SUBDIR+=	gnome2-extras
 SUBDIR+=	gnome2-pkgview
