@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.447 2003/09/14 19:15:21 jmmv Exp $
+# $Id: Makefile,v 1.448 2003/09/16 04:53:46 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -107,8 +107,6 @@ SUBDIR+=	freeglut
 SUBDIR+=	freenet-tools
 SUBDIR+=	frontpage
 SUBDIR+=	fsv
-SUBDIR+=	fuse
-SUBDIR+=	fuse-utils
 SUBDIR+=	fwbuilder
 SUBDIR+=	galib
 SUBDIR+=	gcompris
@@ -190,7 +188,6 @@ SUBDIR+=	libfwbuilder
 SUBDIR+=	libgringotts
 SUBDIR+=	libogg-nightly
 SUBDIR+=	libshout
-SUBDIR+=	libspectrum
 SUBDIR+=	libvc
 SUBDIR+=	libvorbis-nightly
 SUBDIR+=	libwpd
