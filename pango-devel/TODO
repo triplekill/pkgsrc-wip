@@ -1,0 +1,9 @@
+$Id$
+
+Could it be patched so it doesn't conflict with devel/pango ?
+
+Is the PLIST okay?
+
+Does it compile on NetBSD-stable and NetBSD-current?
+
+	-- dotz@irc.pl
