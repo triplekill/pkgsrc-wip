@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.576 2003/10/28 21:31:42 cubidou Exp $
+# $Id: Makefile,v 1.577 2003/10/29 18:11:32 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -128,6 +128,7 @@ SUBDIR+=	gcompris
 SUBDIR+=	gdbada
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
+SUBDIR+=	ghostpcl
 SUBDIR+=	gift
 SUBDIR+=	giftcurs
 SUBDIR+=	giftui
