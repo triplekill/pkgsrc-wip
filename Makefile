@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1529 2004/11/09 20:37:04 marc Exp $
+# $Id: Makefile,v 1.1530 2004/11/10 16:26:21 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -683,7 +683,6 @@ SUBDIR+=	shadow
 SUBDIR+=	shoutcast
 SUBDIR+=	sid-milter
 SUBDIR+=	silky
-SUBDIR+=	simage
 SUBDIR+=	simgear
 SUBDIR+=	simplec
 SUBDIR+=	skippy
