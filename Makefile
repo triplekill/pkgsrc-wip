@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.132 2003/04/29 09:26:17 thomasklausner Exp $
+# $Id: Makefile,v 1.133 2003/04/29 15:21:04 lexort Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -105,7 +105,6 @@ SUBDIR+=	puf
 SUBDIR+=	py-ORBit
 SUBDIR+=	py-OpenGL
 SUBDIR+=	py-PgSQL
-SUBDIR+=	py-csv
 SUBDIR+=	py-gnome2
 SUBDIR+=	py-gnosis-utils
 SUBDIR+=	py-gtk2
