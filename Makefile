@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1452 2004/09/03 17:50:30 tnn2 Exp $
+# $Id: Makefile,v 1.1453 2004/09/06 21:24:31 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -328,7 +328,6 @@ SUBDIR+=	libavc1394
 SUBDIR+=	libdialog
 SUBDIR+=	libdisasm
 SUBDIR+=	libmatchbox
-SUBDIR+=	libmilter813
 SUBDIR+=	libnet11
 SUBDIR+=	libneural
 SUBDIR+=	libpcap-latest
@@ -669,7 +668,6 @@ SUBDIR+=	scourge
 SUBDIR+=	scponly
 SUBDIR+=	scribus
 SUBDIR+=	send-pr
-SUBDIR+=	sendmail813
 SUBDIR+=	serlook
 SUBDIR+=	sgmltools-lite
 SUBDIR+=	shadow
