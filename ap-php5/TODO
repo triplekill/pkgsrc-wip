@@ -1,8 +1,0 @@
-$Id: TODO,v 1.1 2004/02/27 09:53:19 xtraeme Exp $
-
-    o Use pkglint to see the errors... (pkgsrc/pkgtools/pkglint).
-
-$ pancake $
-
-* It builds ok, but not the module :P
-* There's a duplicated patch, (php5/patches , ap-php5/patches) <- solve.
