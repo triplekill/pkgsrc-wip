@@ -1,9 +1,0 @@
-$Id: TODO,v 1.3 2004/05/21 11:11:13 thomasklausner Exp $
-
-xtraeme says:
-
-	o Finish port of src/io/3c90x/if_posix.cc in *BSD, I've
-	  disabled some functions for now, so we can test it but
-	  without network support, still have to find out what's
-	  the equivalent of Linux netlink.h.
-
