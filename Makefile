@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1046 2004/03/04 23:17:35 minskim Exp $
+# $Id: Makefile,v 1.1047 2004/03/05 13:00:37 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -294,7 +294,6 @@ SUBDIR+=	libetpan
 SUBDIR+=	libfwbuilder
 SUBDIR+=	libgringotts
 SUBDIR+=	libhydrogen
-SUBDIR+=	libmodplug
 SUBDIR+=	libneural
 SUBDIR+=	libogg-nightly
 SUBDIR+=	libol
@@ -698,7 +697,6 @@ SUBDIR+=	xjump
 SUBDIR+=	xlibs
 SUBDIR+=	xmail
 SUBDIR+=	xmms-dumb
-SUBDIR+=	xmms-modplug
 SUBDIR+=	xmms-pitch
 SUBDIR+=	xmmsctrl
 SUBDIR+=	xpde
