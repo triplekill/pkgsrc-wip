@@ -1,0 +1,4 @@
+$Id$
+
+    o Enable realtime scheduler priority, uses non-known
+      NetBSD functions: pthread_attr_setschedparam, etc.
