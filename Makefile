@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.426 2003/09/05 02:36:54 xtraeme Exp $
+# $Id: Makefile,v 1.427 2003/09/05 07:28:33 mjasm Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -145,7 +145,6 @@ SUBDIR+=	gtk-engines-thinice
 SUBDIR+=	gtk-sharp
 SUBDIR+=	gtk2-engines-mist
 SUBDIR+=	gtk2-thinice-engine
-SUBDIR+=	gtranslator
 SUBDIR+=	gurlchecker
 SUBDIR+=	hasciicam
 SUBDIR+=	ht
