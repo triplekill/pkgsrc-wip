@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.197 2003/06/01 10:27:57 jmmv Exp $
+# $Id: Makefile,v 1.198 2003/06/01 11:41:10 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -181,7 +181,6 @@ SUBDIR+=	words
 SUBDIR+=	xawtv
 SUBDIR+=	xevil
 SUBDIR+=	xml2doc
-SUBDIR+=	xmms-liveice
 SUBDIR+=	xmule
 SUBDIR+=	xplore
 SUBDIR+=	zebra-pj
