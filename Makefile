@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1549 2004/11/20 20:54:24 minskim Exp $
+# $Id: Makefile,v 1.1550 2004/11/22 17:12:13 imilh Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -126,6 +126,7 @@ SUBDIR+=	e16keyedit
 SUBDIR+=	e16menuedit
 SUBDIR+=	e2fsprogs
 SUBDIR+=	e3
+SUBDIR+=	eciadsl-usermode
 SUBDIR+=	ecl
 SUBDIR+=	ecore
 SUBDIR+=	edje
