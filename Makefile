@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1045 2004/03/04 16:03:11 roelants Exp $
+# $Id: Makefile,v 1.1046 2004/03/04 23:17:35 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -12,6 +12,7 @@ SUBDIR+=	Pythonol
 SUBDIR+=	Radiator
 SUBDIR+=	Radiator-all
 SUBDIR+=	Redland-rdf
+SUBDIR+=	Siesta
 SUBDIR+=	WEPCrack
 SUBDIR+=	abuse_sdl
 SUBDIR+=	acid
@@ -693,6 +694,7 @@ SUBDIR+=	xbelmark
 SUBDIR+=	xbsql
 SUBDIR+=	xevil
 SUBDIR+=	xextensions
+SUBDIR+=	xjump
 SUBDIR+=	xlibs
 SUBDIR+=	xmail
 SUBDIR+=	xmms-dumb
