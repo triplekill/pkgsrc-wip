@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.585 2003/10/30 23:48:58 xtraeme Exp $
+# $Id: Makefile,v 1.586 2003/10/31 05:30:30 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -490,6 +490,7 @@ SUBDIR+=	xmail
 SUBDIR+=	xml2doc
 SUBDIR+=	xmms-dumb
 SUBDIR+=	xmms-modplug
+SUBDIR+=	xmms-musepack
 SUBDIR+=	xmms-pitch
 SUBDIR+=	xmmsctrl
 SUBDIR+=	xplore
