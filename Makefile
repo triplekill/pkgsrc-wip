@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1228 2004/04/20 10:06:11 xtraeme Exp $
+# $Id: Makefile,v 1.1229 2004/04/20 18:36:10 bencollver Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -505,7 +505,6 @@ SUBDIR+=	php-doc-ru
 SUBDIR+=	php-doc-sk
 SUBDIR+=	php-doc-sl
 SUBDIR+=	php-doc-sv
-SUBDIR+=	php4-mysql4
 SUBDIR+=	php5
 SUBDIR+=	php5-pgsql
 SUBDIR+=	picasm
