@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1406 2004/07/24 08:57:51 marc Exp $
+# $Id: Makefile,v 1.1407 2004/07/26 15:21:29 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -168,7 +168,6 @@ SUBDIR+=	gcc-3.4-ada
 SUBDIR+=	gcompris
 SUBDIR+=	gdam
 SUBDIR+=	geeklog
-SUBDIR+=	gens
 SUBDIR+=	gettext-runtime
 SUBDIR+=	gettext-tools
 SUBDIR+=	gfontview
