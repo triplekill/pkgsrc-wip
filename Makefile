@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.176 2003/05/17 19:12:26 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.177 2003/05/19 19:49:48 blef Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -43,6 +43,7 @@ SUBDIR+=	fwbuilder
 SUBDIR+=	gdrdao
 SUBDIR+=	geeklog
 SUBDIR+=	geoip
+SUBDIR+=	gimp-current
 SUBDIR+=	gini
 SUBDIR+=	gkrellm2
 SUBDIR+=	gkrellm2-flynn
