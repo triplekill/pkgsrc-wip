@@ -1,0 +1,8 @@
+$Id: TODO,v 1.2 2003/06/03 10:02:17 lsed Exp $
+
+* use simple do-install target (e.g., ${INSTALL_SCRIPT} ${WRKSRC}/*.pl
+  ${PREFIX}/bin),  there is no point in calling four commands in a loop
+  on three lines.
+* define NO_BUILD, since no compiling is needed
+* whitespace and style nits: after .include there is a space not tab,
+  add net to CATEGORIES
