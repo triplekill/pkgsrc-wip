@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1027 2004/02/26 17:47:20 cubidou Exp $
+# $Id: Makefile,v 1.1028 2004/02/26 19:07:04 poppnk Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -504,6 +504,8 @@ SUBDIR+=	py-InlineEgg
 SUBDIR+=	py-MayaVi
 SUBDIR+=	py-OpenAL
 SUBDIR+=	py-OpenGL
+SUBDIR+=	py-PEAK
+SUBDIR+=	py-Protocols
 SUBDIR+=	py-Py2Play
 SUBDIR+=	py-PyPE
 SUBDIR+=	py-Pyro
