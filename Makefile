@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.670 2003/11/26 16:33:47 xtraeme Exp $
+# $Id: Makefile,v 1.671 2003/11/26 17:13:41 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -7,6 +7,7 @@ SUBDIR+=	4stAttack
 SUBDIR+=	MozillaFirebird-bin-xft2
 SUBDIR+=	NeoPop-SDL
 SUBDIR+=	PPower4
+SUBDIR+=	PyBabelPhish
 SUBDIR+=	Radiator
 SUBDIR+=	Radiator-all
 SUBDIR+=	Redland-rdf
