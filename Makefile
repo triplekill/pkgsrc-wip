@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.702 2003/11/28 21:25:59 mpasternak Exp $
+# $Id: Makefile,v 1.703 2003/11/29 03:23:50 mpasternak Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -476,8 +476,8 @@ SUBDIR+=	py-ZODB
 SUBDIR+=	py-albatross
 SUBDIR+=	py-ao
 SUBDIR+=	py-biggles
-SUBDIR+=	py-buildbot
 SUBDIR+=	py-bsddb
+SUBDIR+=	py-buildbot
 SUBDIR+=	py-cjkcodecs
 SUBDIR+=	py-dateutil
 SUBDIR+=	py-elementtree
