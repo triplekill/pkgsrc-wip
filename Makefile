@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.504 2003/09/27 13:17:25 dolecek Exp $
+# $Id: Makefile,v 1.505 2003/09/27 13:23:01 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -372,6 +372,7 @@ SUBDIR+=	streamripper
 SUBDIR+=	sudoscript
 SUBDIR+=	superkaramba
 SUBDIR+=	svgalib
+SUBDIR+=	sylpheed-gtk2
 SUBDIR+=	sysklogd
 SUBDIR+=	sysvinit
 SUBDIR+=	tads
