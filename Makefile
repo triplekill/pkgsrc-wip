@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.348 2003/07/28 09:22:02 blef Exp $
+# $Id: Makefile,v 1.349 2003/07/28 11:50:16 drue Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -235,6 +235,7 @@ SUBDIR+=	p5-SWF-File
 SUBDIR+=	p5-Set-Crontab
 SUBDIR+=	p5-Set-Infinite
 SUBDIR+=	p5-Text-Reform
+SUBDIR+=	p5-Tk-TableMatrix
 SUBDIR+=	p5-Unicode-String
 SUBDIR+=	p5-XML-Stream
 SUBDIR+=	p5-gtk2
