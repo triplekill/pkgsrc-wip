@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1627 2005/01/22 13:43:39 ppostma Exp $
+# $Id: Makefile,v 1.1628 2005/01/22 15:48:11 hubertf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -619,6 +619,7 @@ SUBDIR+=	pam-mysql
 SUBDIR+=	pam-pop3
 SUBDIR+=	panoramixext
 SUBDIR+=	parsifal
+SUBDIR+=	pasmo
 SUBDIR+=	passepartout
 SUBDIR+=	pbl
 SUBDIR+=	pcsx
