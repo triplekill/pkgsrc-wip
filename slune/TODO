@@ -1,0 +1,5 @@
+$Id$
+
+This package has a bit borked setup.py script and it doesn't install
+"slune" module in ${PYSITELIB}
+
