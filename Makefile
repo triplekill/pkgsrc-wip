@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.213 2003/06/03 14:40:14 thomasklausner Exp $
+# $Id: Makefile,v 1.214 2003/06/03 16:22:05 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -62,7 +62,9 @@ SUBDIR+=	gtk-sharp
 SUBDIR+=	gtk2-engines-mist
 SUBDIR+=	gtk2-engines-xfce
 SUBDIR+=	gtranslator
+SUBDIR+=	hasciicam
 SUBDIR+=	honeyd-arpd
+SUBDIR+=	ht
 SUBDIR+=	httrack
 SUBDIR+=	ices
 SUBDIR+=	icmpchat
@@ -98,6 +100,7 @@ SUBDIR+=	mailfilter
 SUBDIR+=	maradns
 SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
+SUBDIR+=	mhonarc
 SUBDIR+=	mixer.tk
 SUBDIR+=	mopac
 SUBDIR+=	mtf
