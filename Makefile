@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1243 2004/04/28 15:43:50 airhead Exp $
+# $Id: Makefile,v 1.1244 2004/04/28 22:46:33 kheinz Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -482,6 +482,7 @@ SUBDIR+=	pear-SOAP
 SUBDIR+=	pekwm-nightly
 SUBDIR+=	perl59
 SUBDIR+=	perltidy
+SUBDIR+=	pflkm
 SUBDIR+=	pgadmin3
 SUBDIR+=	pgp6
 SUBDIR+=	pgpenvelope
