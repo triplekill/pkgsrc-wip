@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.967 2004/02/15 23:44:10 blef Exp $
+# $Id: Makefile,v 1.968 2004/02/16 01:17:39 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -595,7 +595,6 @@ SUBDIR+=	resourceext
 SUBDIR+=	rlpr
 SUBDIR+=	rosegarden-current
 SUBDIR+=	rox-gtk2
-SUBDIR+=	rss2html
 SUBDIR+=	ruby-amrita
 SUBDIR+=	ruby-dpklib
 SUBDIR+=	ruby-ming
