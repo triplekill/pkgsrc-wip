@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1109 2004/03/23 01:43:50 rockpiper Exp $
+# $Id: Makefile,v 1.1110 2004/03/24 00:13:13 rockpiper Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -754,6 +754,7 @@ SUBDIR+=	webcleaner
 SUBDIR+=	weewm
 SUBDIR+=	wmclockmon
 SUBDIR+=	wmitime
+SUBDIR+=	wmmp
 SUBDIR+=	wmnetload
 SUBDIR+=	words
 SUBDIR+=	wxGTK-contrib
