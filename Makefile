@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.287 2003/07/01 08:22:47 blef Exp $
+# $Id: Makefile,v 1.288 2003/07/01 19:06:19 jlamwww Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -241,6 +241,7 @@ SUBDIR+=	sysvinit
 SUBDIR+=	tendra
 SUBDIR+=	tex-foiltex
 SUBDIR+=	theora-nightly
+SUBDIR+=	toppler
 SUBDIR+=	totem
 SUBDIR+=	trickle
 SUBDIR+=	tsclient
