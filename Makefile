@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.62 2003/04/11 19:05:36 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.63 2003/04/11 20:06:39 icmp Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -26,6 +26,7 @@ SUBDIR+=	gtkglarea2
 SUBDIR+=	gtranslator
 SUBDIR+=	honeyd-arpd
 SUBDIR+=	httrack
+SUBDIR+=	ices
 SUBDIR+=	ickle
 SUBDIR+=	ike-scan
 SUBDIR+=	ion-devel
@@ -58,7 +59,7 @@ SUBDIR+=	py-csv
 SUBDIR+=	py-gnome2
 SUBDIR+=	py-gtk2
 SUBDIR+=	py-spreadmodule
+SUBDIR+=	shoutcast
 SUBDIR+=	tex-foiltex
 SUBDIR+=	vim-gtk2
-SUBDIR+=	ices
-SUBDIR+=	shoutcast
+SUBDIR+=	xawtv
