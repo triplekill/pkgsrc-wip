@@ -1,0 +1,4 @@
+$Id$
+
+	o Fix some crashes when closing the gui.
+	o Build packages for the plugins.
