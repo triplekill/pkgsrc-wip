@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.397 2003/08/28 23:48:32 mpasternak Exp $
+# $Id: Makefile,v 1.398 2003/08/29 11:19:51 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -238,6 +238,7 @@ SUBDIR+=	ntp4-dev
 SUBDIR+=	nvtv
 SUBDIR+=	nvtv-gtk2
 SUBDIR+=	opax
+SUBDIR+=	openbox3
 SUBDIR+=	openvpn
 SUBDIR+=	p5-Authen-SASL
 SUBDIR+=	p5-Authen-SASL-Cyrus
