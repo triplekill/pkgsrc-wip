@@ -1,5 +1,5 @@
 # $NetBSD: Makefile,v 1.30 2004/03/03 22:25:58 minskim Exp $
-# $Id$
+# $Id: Makefile,v 1.1.1.1 2004/03/06 06:14:40 mpasternak Exp $
 #
 
 DISTNAME=		wxGTK-2.4.2
@@ -12,7 +12,6 @@ MAINTAINER=		dotz@irc.pl
 HOMEPAGE=		http://www.wxwindows.org/
 COMMENT=		wxWindows GUI library 3rd party contributions
 
-USE_BUILDLINK3=		YES
 USE_PKGLOCALEDIR=	YES
 USE_X11=		YES
 USE_LIBTOOL=		YES

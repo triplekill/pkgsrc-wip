@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.8 2004/06/20 06:50:15 xtraeme Exp $
+# $Id: Makefile,v 1.9 2004/11/30 17:32:52 xtraeme Exp $
 
 DISTNAME=	binutils-2.15.91-20040904-1-src
 PKGNAME=	mingw-${DISTNAME:C/-200.*-src//}
@@ -11,7 +11,6 @@ MAINTAINER=	dotz@irc.pl
 HOMEPAGE=	http://mingw.sf.net/
 COMMENT=	GNU C Compiler ported to win32 platforms
 
-USE_BUILDLINK3=		yes
 USE_PKGLOCALEDIR=      	yes
 GNU_CONFIGURE=		yes
 USE_CROSSBASE=		yes
