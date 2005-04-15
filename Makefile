@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1731 2005/04/08 13:04:22 obache Exp $
+# $Id: Makefile,v 1.1732 2005/04/12 04:00:47 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -51,7 +51,6 @@ SUBDIR+=	WEPCrack
 SUBDIR+=	abuse_sdl
 SUBDIR+=	acpid
 SUBDIR+=	acr
-SUBDIR+=	acroread7
 SUBDIR+=	adamem
 SUBDIR+=	aircrack
 SUBDIR+=	airsnort
