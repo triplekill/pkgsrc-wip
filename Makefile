@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1733 2005/04/15 14:41:15 mwdavies Exp $
+# $Id: Makefile,v 1.1734 2005/04/15 18:45:34 lexort Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -965,7 +965,6 @@ SUBDIR+=	tleenx2
 SUBDIR+=	tleenx3
 SUBDIR+=	toppler
 SUBDIR+=	tops-bin
-SUBDIR+=	totem
 SUBDIR+=	tr2latex
 SUBDIR+=	traceroute-nanog
 SUBDIR+=	tre
