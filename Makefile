@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1743 2005/04/16 12:35:56 thomasklausner Exp $
+# $Id: Makefile,v 1.1744 2005/04/16 12:45:49 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -414,7 +414,6 @@ SUBDIR+=	kyra
 SUBDIR+=	kyra2
 SUBDIR+=	l2tpd
 SUBDIR+=	lammpi
-SUBDIR+=	lbdb
 SUBDIR+=	lcrack
 SUBDIR+=	ldapbrowser
 SUBDIR+=	ldapdns
