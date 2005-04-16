@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1734 2005/04/15 18:45:34 lexort Exp $
+# $Id: Makefile,v 1.1735 2005/04/16 11:54:54 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -180,7 +180,6 @@ SUBDIR+=	dxmake
 SUBDIR+=	e00pg
 SUBDIR+=	e16keyedit
 SUBDIR+=	e16menuedit
-SUBDIR+=	e16menuedit2
 SUBDIR+=	e2fsprogs
 SUBDIR+=	e3
 SUBDIR+=	easytag-gtk2
