@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1736 2005/04/16 12:21:57 thomasklausner Exp $
+# $Id: Makefile,v 1.1737 2005/04/16 12:26:54 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -245,7 +245,6 @@ SUBDIR+=	gDesklets
 SUBDIR+=	gDesklets-CornerXMMS
 SUBDIR+=	gDesklets-rssgrab
 SUBDIR+=	gDesklets-starterbar
-SUBDIR+=	gaim
 SUBDIR+=	gaim-encryption
 SUBDIR+=	gaim-otr
 SUBDIR+=	galib
