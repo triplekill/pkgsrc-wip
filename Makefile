@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1758 2005/04/22 14:19:25 bubuchka Exp $
+# $Id: Makefile,v 1.1759 2005/04/23 14:24:32 kristerw Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -635,7 +635,6 @@ SUBDIR+=	p5-HTTP-BrowserDetect
 SUBDIR+=	p5-HTTP-GHTTP
 SUBDIR+=	p5-HTTP-Server-Simple
 SUBDIR+=	p5-Log-Log4perl
-SUBDIR+=	p5-Mail-Box
 SUBDIR+=	p5-Mail-Webmail-Gmail
 SUBDIR+=	p5-MasonX-Apache2Handler
 SUBDIR+=	p5-Math-IntervalSearch
