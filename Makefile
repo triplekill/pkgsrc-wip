@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1760 2005/04/23 17:44:31 adrian_p Exp $
+# $Id: Makefile,v 1.1761 2005/04/24 12:19:40 adrian_p Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -228,7 +228,6 @@ SUBDIR+=	firelib
 SUBDIR+=	flc
 SUBDIR+=	flightgear
 SUBDIR+=	flightgear-base
-SUBDIR+=	fluidsynth
 SUBDIR+=	fluxconf
 SUBDIR+=	fluxspace
 SUBDIR+=	foomatic-db
