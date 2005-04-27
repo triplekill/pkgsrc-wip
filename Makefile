@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1761 2005/04/24 12:19:40 adrian_p Exp $
+# $Id: Makefile,v 1.1762 2005/04/25 14:27:33 moubctez Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -421,6 +421,7 @@ SUBDIR+=	leo
 SUBDIR+=	libGenome
 SUBDIR+=	libICE
 SUBDIR+=	libSM
+SUBDIR+=	libSoundTouch
 SUBDIR+=	libX11
 SUBDIR+=	libXau
 SUBDIR+=	libXcursor
