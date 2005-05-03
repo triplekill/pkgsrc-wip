@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1767 2005/05/01 18:41:41 bubuchka Exp $
+# $Id: Makefile,v 1.1768 2005/05/03 09:58:51 shattered Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -47,6 +47,7 @@ SUBDIR+=	R-wle
 SUBDIR+=	Radiator
 SUBDIR+=	Radiator-all
 SUBDIR+=	Redland-rdf
+SUBDIR+=	ReZound
 SUBDIR+=	Siesta
 SUBDIR+=	WEPCrack
 SUBDIR+=	abuse_sdl
