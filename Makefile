@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1772 2005/05/05 20:09:16 xtraeme Exp $
+# $Id: Makefile,v 1.1773 2005/05/05 20:20:38 xtraeme Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -707,6 +707,7 @@ SUBDIR+=	postgresql73-postgis
 SUBDIR+=	postgresql74-postgis
 SUBDIR+=	postgresql80-postgis
 SUBDIR+=	ppp
+SUBDIR+=	ppr
 SUBDIR+=	prelude-lml
 SUBDIR+=	prelude-manager
 SUBDIR+=	prelude-manager-mysql
