@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1777 2005/05/07 15:29:42 kristerw Exp $
+# $Id: Makefile,v 1.1778 2005/05/10 21:31:50 yeled Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -649,8 +649,10 @@ SUBDIR+=	p5-News-Newsrc
 SUBDIR+=	p5-Number-Compare
 SUBDIR+=	p5-Parallel-ForkManager
 SUBDIR+=	p5-Term-Screen
+SUBDIR+=	p5-Text-ASCIITable
 SUBDIR+=	p5-Text-Glob
 SUBDIR+=	p5-Tk-TableMatrix
+SUBDIR+=	p5-Tree-Simple-VisitorFactory
 SUBDIR+=	p5-UNIVERSAL-exports
 SUBDIR+=	palm-db-tools
 SUBDIR+=	pam-pop3
