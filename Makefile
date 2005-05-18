@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1778 2005/05/10 21:31:50 yeled Exp $
+# $Id: Makefile,v 1.1779 2005/05/17 11:00:03 jgoamakf Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -136,6 +136,7 @@ SUBDIR+=	com_err
 SUBDIR+=	common-mml
 SUBDIR+=	commoncpp2
 SUBDIR+=	compare
+SUBDIR+=	conserver8
 SUBDIR+=	cops
 SUBDIR+=	copytape
 SUBDIR+=	cream
