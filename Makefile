@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1780 2005/05/18 16:09:17 awrede Exp $
+# $Id: Makefile,v 1.1781 2005/05/18 22:28:15 thomasklausner Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -226,7 +226,6 @@ SUBDIR+=	ffmpeg-devel
 SUBDIR+=	firebird
 SUBDIR+=	firefox-wrapper
 SUBDIR+=	firehose
-SUBDIR+=	firelib
 SUBDIR+=	flc
 SUBDIR+=	flightgear
 SUBDIR+=	flightgear-base
