@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1787 2005/05/24 13:22:38 leonardschmidt Exp $
+# $Id: Makefile,v 1.1788 2005/05/25 02:49:35 jeremy-c-reed Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -951,7 +951,6 @@ SUBDIR+=	t-gnus
 SUBDIR+=	taskbar
 SUBDIR+=	tcc
 SUBDIR+=	tcd
-SUBDIR+=	tcpdump-latest
 SUBDIR+=	tcpspy
 SUBDIR+=	tcptrack
 SUBDIR+=	teamspeak
