@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1790 2005/05/25 22:37:48 thomasklausner Exp $
+# $Id: Makefile,v 1.1791 2005/05/28 06:41:28 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -166,7 +166,6 @@ SUBDIR+=	ding
 SUBDIR+=	dirb
 SUBDIR+=	directfb
 SUBDIR+=	directory-administrator
-SUBDIR+=	dirsize
 SUBDIR+=	distella
 SUBDIR+=	diveintopython
 SUBDIR+=	djvu
