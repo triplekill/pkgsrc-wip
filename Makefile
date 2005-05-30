@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1793 2005/05/28 16:38:59 minskim Exp $
+# $Id: Makefile,v 1.1794 2005/05/29 12:50:25 kristerw Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -150,7 +150,6 @@ SUBDIR+=	damageext
 SUBDIR+=	dansguardian
 SUBDIR+=	daphne
 SUBDIR+=	darcnes-svgalib
-SUBDIR+=	darcs
 SUBDIR+=	db1
 SUBDIR+=	dbf
 SUBDIR+=	dclib
