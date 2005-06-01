@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1797 2005/05/31 12:24:08 ianzag Exp $
+# $Id: Makefile,v 1.1798 2005/05/31 12:56:40 leonardschmidt Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -669,6 +669,7 @@ SUBDIR+=	p5-NNTPClient
 SUBDIR+=	p5-Net-PcapUtils
 SUBDIR+=	p5-News-Newsrc
 SUBDIR+=	p5-Number-Compare
+SUBDIR+=	p5-PDL
 SUBDIR+=	p5-Parallel-ForkManager
 SUBDIR+=	p5-Term-Screen
 SUBDIR+=	p5-Text-ASCIITable
