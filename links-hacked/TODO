@@ -1,3 +1,4 @@
-$Id: TODO,v 1.1.1.1 2003/07/31 00:48:53 xtraeme Exp $
+$Id: TODO,v 1.2 2003/09/02 01:41:11 xtraeme Exp $
 
 * Different versions, links-hacked-{svgalib,x11,normal}
+* convert to options framework
