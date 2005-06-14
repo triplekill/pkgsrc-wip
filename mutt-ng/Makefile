@@ -1,7 +1,7 @@
-# $Id: Makefile,v 1.2 2005/05/26 14:20:39 christian_gall Exp $
+# $Id: Makefile,v 1.3 2005/06/13 00:09:10 kristerw Exp $
 # $NetBSD$
 
-DISTNAME=	muttng-20050526
+DISTNAME=	muttng-20050614
 CATEGORIES=	mail
 MASTER_SITES=	http://nion.modprobe.de/mutt-ng/snapshots/
 
