@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1808 2005/06/12 14:41:25 dillo Exp $
+# $Id: Makefile,v 1.1809 2005/06/14 16:22:27 kristerw Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -630,6 +630,7 @@ SUBDIR+=	nnrpd
 SUBDIR+=	noip
 SUBDIR+=	noiptun
 SUBDIR+=	nos-tun
+SUBDIR+=	nrpe
 SUBDIR+=	nuppelvideo
 SUBDIR+=	nvidia-freebsd
 SUBDIR+=	octave-nox11
