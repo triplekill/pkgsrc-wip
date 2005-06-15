@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1809 2005/06/14 16:22:27 kristerw Exp $
+# $Id: Makefile,v 1.1810 2005/06/15 06:45:55 ura Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -641,6 +641,7 @@ SUBDIR+=	open21xx
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
 SUBDIR+=	oqtplayer
+SUBDIR+=	or1ksim
 SUBDIR+=	orion
 SUBDIR+=	orpie
 SUBDIR+=	p3nfs
