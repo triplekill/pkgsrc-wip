@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1810 2005/06/15 06:45:55 ura Exp $
+# $Id: Makefile,v 1.1811 2005/06/15 10:59:51 jmmv Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -885,6 +885,7 @@ SUBDIR+=	scare
 SUBDIR+=	scite
 SUBDIR+=	scm
 SUBDIR+=	scourge
+SUBDIR+=	scr2png
 SUBDIR+=	scsh-install-lib
 SUBDIR+=	scx
 SUBDIR+=	secpanel
