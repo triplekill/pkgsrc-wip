@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1813 2005/06/18 01:26:17 schnoebe Exp $
+# $Id: Makefile,v 1.1814 2005/06/19 06:31:42 obache Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -548,6 +548,7 @@ SUBDIR+=	mdadm
 SUBDIR+=	memgrep
 SUBDIR+=	menumaker
 SUBDIR+=	mesure
+SUBDIR+=	metalog
 SUBDIR+=	metatheme
 SUBDIR+=	mg-lsh
 SUBDIR+=	microcom
