@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1817 2005/06/20 00:21:06 hisazumi Exp $
+# $Id: Makefile,v 1.1818 2005/06/20 00:29:59 hisazumi Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -495,6 +495,7 @@ SUBDIR+=	libvncserver
 SUBDIR+=	libwbxml2-patched
 SUBDIR+=	libwhisker2
 SUBDIR+=	libwpd
+SUBDIR+=	libxen
 SUBDIR+=	libxml++
 SUBDIR+=	libzip
 SUBDIR+=	lighttpd
