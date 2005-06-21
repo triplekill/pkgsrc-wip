@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1818 2005/06/20 00:29:59 hisazumi Exp $
+# $Id: Makefile,v 1.1819 2005/06/21 19:06:25 marttikuparinen Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -897,6 +897,7 @@ SUBDIR+=	scsh-install-lib
 SUBDIR+=	scx
 SUBDIR+=	secpanel
 SUBDIR+=	send-pr
+SUBDIR+=	sendmailX
 SUBDIR+=	serlook
 SUBDIR+=	sgmltools-lite
 SUBDIR+=	shadow
