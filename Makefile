@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1822 2005/06/22 15:07:36 tvierling Exp $
+# $Id: Makefile,v 1.1823 2005/06/23 04:04:18 shattered Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -389,7 +389,6 @@ SUBDIR+=	jacorb-lib
 SUBDIR+=	jad
 SUBDIR+=	jakarta-log4j
 SUBDIR+=	jakarta-struts
-SUBDIR+=	jalbum
 SUBDIR+=	jalview
 SUBDIR+=	jamaica
 SUBDIR+=	jamvm
