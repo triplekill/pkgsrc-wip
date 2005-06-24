@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1827 2005/06/23 22:10:34 minskim Exp $
+# $Id: Makefile,v 1.1828 2005/06/23 23:54:46 minskim Exp $
 # $NetBSD: for pkglint$
 
 COMMENT=	WIP pkgsrc packages
@@ -968,6 +968,7 @@ SUBDIR+=	stunnel3
 SUBDIR+=	sudoscript
 SUBDIR+=	sun-j2me
 SUBDIR+=	sunterlib
+SUBDIR+=	sugarCRM
 SUBDIR+=	superkaramba
 SUBDIR+=	svgalib
 SUBDIR+=	swami
