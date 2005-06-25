@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1835 2005/06/25 02:01:39 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1836 2005/06/25 03:07:02 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -298,6 +298,7 @@ SUBDIR+=	glimmerm
 SUBDIR+=	glkloader
 SUBDIR+=	glkterm
 SUBDIR+=	glulxe
+SUBDIR+=	glurp
 SUBDIR+=	gmc2mid
 SUBDIR+=	gnome-alsamixer
 SUBDIR+=	gnome-bluetooth
