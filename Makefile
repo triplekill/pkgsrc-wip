@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1834 2005/06/24 18:41:38 thomasklausner Exp $
+# $Id: Makefile,v 1.1835 2005/06/25 02:01:39 jeremy-c-reed Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -54,7 +54,6 @@ SUBDIR+=	SDL-doc-ps
 SUBDIR+=	SDL-intro
 SUBDIR+=	SDL-intro-cn
 SUBDIR+=	SDL-intro-de
-SUBDIR+=	SDL-intro-en
 SUBDIR+=	SDL-intro-es
 SUBDIR+=	SDL-intro-fr
 SUBDIR+=	SDL-intro-it
