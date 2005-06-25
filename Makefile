@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1836 2005/06/25 03:07:02 minskim Exp $
+# $Id: Makefile,v 1.1837 2005/06/25 12:58:45 leonardschmidt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -282,7 +282,6 @@ SUBDIR+=	gde
 SUBDIR+=	gdvb
 SUBDIR+=	geeklog
 SUBDIR+=	geos
-SUBDIR+=	geos2
 SUBDIR+=	gettext-lib
 SUBDIR+=	gettext-runtime
 SUBDIR+=	gettext-tools
