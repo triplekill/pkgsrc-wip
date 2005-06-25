@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1833 2005/06/24 17:39:35 thomasklausner Exp $
+# $Id: Makefile,v 1.1834 2005/06/24 18:41:38 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -364,7 +364,6 @@ SUBDIR+=	iTextXML
 SUBDIR+=	icc
 SUBDIR+=	icc8
 SUBDIR+=	icecast
-SUBDIR+=	icecc
 SUBDIR+=	ices
 SUBDIR+=	icmpchat
 SUBDIR+=	idled
