@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1841 2005/06/28 12:49:00 ppostma Exp $
+# $Id: Makefile,v 1.1842 2005/06/28 17:08:48 ppostma Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -934,6 +934,9 @@ SUBDIR+=	sleuthkit
 SUBDIR+=	slocate
 SUBDIR+=	slrn-pl
 SUBDIR+=	slune
+SUBDIR+=	sm-change_ldappass
+SUBDIR+=	sm-change_qldforward
+SUBDIR+=	sm-compatibility
 SUBDIR+=	smbldap-tools
 SUBDIR+=	smlnj-current
 SUBDIR+=	smtprc
