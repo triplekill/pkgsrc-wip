@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1842 2005/06/28 17:08:48 ppostma Exp $
+# $Id: Makefile,v 1.1843 2005/07/06 12:35:03 marttikuparinen Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -732,7 +732,6 @@ SUBDIR+=	plugger
 SUBDIR+=	png2ico
 SUBDIR+=	pngnq
 SUBDIR+=	pointless
-SUBDIR+=	poppler
 SUBDIR+=	portmap
 SUBDIR+=	postal2-mpdemo-bin
 SUBDIR+=	postgis74
