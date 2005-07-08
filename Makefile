@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1843 2005/07/06 12:35:03 marttikuparinen Exp $
+# $Id: Makefile,v 1.1844 2005/07/08 20:36:05 jeremy-c-reed Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -234,6 +234,7 @@ SUBDIR+=	esmtp
 SUBDIR+=	ethtool
 SUBDIR+=	etpan-ng
 SUBDIR+=	evas
+SUBDIR+=	evince
 SUBDIR+=	evidence
 SUBDIR+=	evolution-sharp
 SUBDIR+=	exiftool
