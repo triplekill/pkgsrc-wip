@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1850 2005/07/16 10:43:05 kristerw Exp $
+# $Id: Makefile,v 1.1851 2005/07/19 15:47:58 kristerw Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -995,6 +995,7 @@ SUBDIR+=	sugarCRM
 SUBDIR+=	sun-j2me
 SUBDIR+=	sunterlib
 SUBDIR+=	superkaramba
+SUBDIR+=	supertux
 SUBDIR+=	svgalib
 SUBDIR+=	swami
 SUBDIR+=	sysklogd
@@ -1044,6 +1045,7 @@ SUBDIR+=	ttysnoop
 SUBDIR+=	tuareg-mode
 SUBDIR+=	tutos
 SUBDIR+=	tuxtype2
+SUBDIR+=	typespeed
 SUBDIR+=	typhoon
 SUBDIR+=	uade
 SUBDIR+=	uclibc
