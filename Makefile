@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1851 2005/07/19 15:47:58 kristerw Exp $
+# $Id: Makefile,v 1.1852 2005/07/19 17:27:54 h2m Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -644,6 +644,7 @@ SUBDIR+=	omniORB
 SUBDIR+=	oops
 SUBDIR+=	opax
 SUBDIR+=	open21xx
+SUBDIR+=	openct
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
 SUBDIR+=	oqtplayer
