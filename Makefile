@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1853 2005/07/20 03:49:30 udontknow Exp $
+# $Id: Makefile,v 1.1854 2005/07/20 10:35:32 marmfield Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -883,6 +883,7 @@ SUBDIR+=	r8s
 SUBDIR+=	rar3
 SUBDIR+=	rawphoto
 SUBDIR+=	rc.subr
+SUBDIR+=	rci
 SUBDIR+=	rdiff-backup-devel
 SUBDIR+=	readseq
 SUBDIR+=	realvnc
