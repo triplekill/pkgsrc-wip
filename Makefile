@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1854 2005/07/20 10:35:32 marmfield Exp $
+# $Id: Makefile,v 1.1855 2005/07/20 16:18:10 leonardschmidt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -185,7 +185,6 @@ SUBDIR+=	distcc-gtk
 SUBDIR+=	distella
 SUBDIR+=	diveintopython
 SUBDIR+=	djvu
-SUBDIR+=	dk-milter
 SUBDIR+=	dmd-bin
 SUBDIR+=	dnsmasq
 SUBDIR+=	dnswalk
