@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1856 2005/07/20 19:44:17 tvierling Exp $
+# $Id: Makefile,v 1.1857 2005/07/20 21:09:02 udontknow Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -812,7 +812,6 @@ SUBDIR+=	py-albatross
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
 SUBDIR+=	py-dateutil
-SUBDIR+=	py-elementtree
 SUBDIR+=	py-f2py2e
 SUBDIR+=	py-fastaudio
 SUBDIR+=	py-fox
