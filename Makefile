@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1861 2005/07/22 22:33:10 moubctez Exp $
+# $Id: Makefile,v 1.1862 2005/07/24 11:18:39 oherrala Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -712,7 +712,6 @@ SUBDIR+=	pam-pop3
 SUBDIR+=	panoramixext
 SUBDIR+=	pasmo
 SUBDIR+=	passepartout
-SUBDIR+=	pbl
 SUBDIR+=	pcsc-lite
 SUBDIR+=	pcsx
 SUBDIR+=	pdb2ldif
