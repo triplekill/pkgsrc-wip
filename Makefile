@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1862 2005/07/24 11:18:39 oherrala Exp $
+# $Id: Makefile,v 1.1863 2005/07/24 11:21:13 oherrala Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -11,7 +11,6 @@ SUBDIR+=	LabPlot
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
-SUBDIR+=	PyPanel
 SUBDIR+=	Pythonol
 SUBDIR+=	R-CGIwithR
 SUBDIR+=	R-DAAG
