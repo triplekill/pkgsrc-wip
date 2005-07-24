@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1863 2005/07/24 11:21:13 oherrala Exp $
+# $Id: Makefile,v 1.1864 2005/07/24 21:53:50 cetrox Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -858,6 +858,7 @@ SUBDIR+=	py-willow
 SUBDIR+=	py-xsdb
 SUBDIR+=	pydance
 SUBDIR+=	pynfo
+SUBDIR+=	pypanel
 SUBDIR+=	pysite
 SUBDIR+=	pywm
 SUBDIR+=	pyzor
