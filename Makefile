@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1865 2005/07/24 22:58:19 cetrox Exp $
+# $Id: Makefile,v 1.1866 2005/07/24 23:49:31 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1101,7 +1101,6 @@ SUBDIR+=	xbsql
 SUBDIR+=	xchat2-perl
 SUBDIR+=	xchat2-python
 SUBDIR+=	xchat2-tcl
-SUBDIR+=	xfe
 SUBDIR+=	xgfe
 SUBDIR+=	xgobi
 SUBDIR+=	xinetd
