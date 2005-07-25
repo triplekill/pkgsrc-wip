@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1871 2005/07/25 17:36:33 udontknow Exp $
+# $Id: Makefile,v 1.1872 2005/07/25 20:31:27 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -594,6 +594,7 @@ SUBDIR+=	mupen64-plugin-input
 SUBDIR+=	mupen64-plugin-rsp
 SUBDIR+=	mupen64-plugin-sound
 SUBDIR+=	mupen64-plugin-video
+SUBDIR+=	muscle-pkcs11
 SUBDIR+=	musepack
 SUBDIR+=	mutella
 SUBDIR+=	mutt-ng
