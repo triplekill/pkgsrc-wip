@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.1.1.1 2004/03/12 12:42:37 mpasternak Exp $
+# $Id: Makefile,v 1.2 2004/03/16 21:32:51 mpasternak Exp $
 #
 
 DISTNAME=		gcc-3.3.3-i486-1
@@ -7,7 +7,7 @@ PKGNAME=		slackware_gcc-3.3.3
 CATEGORIES=		emulators
 MASTER_SITES=		${SLACKWARE_MASTER_SITES}
 
-MAINTAINER=		dotz@irc.pl
+MAINTAINER=		tech-pkg@NetBSD.org
 HOMEPAGE=		http://slackware.com
 COMMENT=		gcc 3.3.3 for Slacware emulation
 

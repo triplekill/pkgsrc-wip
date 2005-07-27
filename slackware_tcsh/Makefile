@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.1.1.1 2004/03/12 12:42:37 mpasternak Exp $
+# $Id: Makefile,v 1.2 2004/03/16 21:32:56 mpasternak Exp $
 #
 
 DISTNAME=		tcsh-6.12.00-i386-2
@@ -7,7 +7,7 @@ PKGNAME=		slackware_tcsh-6.12.0
 CATEGORIES=		emulators
 MASTER_SITES=		${SLACKWARE_MASTER_SITES}
 
-MAINTAINER=		dotz@irc.pl
+MAINTAINER=		tech-pkg@NetBSD.org
 HOMEPAGE=		http://slackware.com
 COMMENT=		tcsh shell for Slackware emulation
 
