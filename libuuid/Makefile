@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.2 2004/03/04 16:07:07 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.3 2004/05/12 12:39:45 thomasklausner Exp $
 
 DISTNAME=		${E2FSPROGS_DISTNAME}
 PKGNAME=		libuuid-${E2FSPROGS_VERSION}
@@ -7,7 +7,7 @@ WRKSRC=			${WRKDIR}/${DISTNAME}/lib/uuid/
 CATEGORIES=		devel
 MASTER_SITES=		${E2FSPROGS_MASTER_SITES}
 
-MAINTAINER=		dotz@irc.pl
+MAINTAINER=		tech-pkg@NetBSD.org
 HOMEPAGE=		http://e2fsprogs.sourceforge.net/
 COMMENT=		Standalone libuuid from e2fsprogs package
 
