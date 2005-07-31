@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1884 2005/07/31 01:08:16 thomasklausner Exp $
+# $Id: Makefile,v 1.1885 2005/07/31 11:07:59 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -760,6 +760,7 @@ SUBDIR+=	picasm
 SUBDIR+=	picprog
 SUBDIR+=	pinball
 SUBDIR+=	pizza
+SUBDIR+=	pkgmanager
 SUBDIR+=	pkg_fake
 SUBDIR+=	pkg_install-testing
 SUBDIR+=	pkg_select
