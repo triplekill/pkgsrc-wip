@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1883 2005/07/29 06:33:36 jgoamakf Exp $
+# $Id: Makefile,v 1.1884 2005/07/31 01:08:16 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1007,6 +1007,7 @@ SUBDIR+=	superkaramba
 SUBDIR+=	supertux
 SUBDIR+=	svgalib
 SUBDIR+=	swami
+SUBDIR+=	swftools
 SUBDIR+=	sysklogd
 SUBDIR+=	syslog-ng
 SUBDIR+=	sysvinit
