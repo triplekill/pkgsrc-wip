@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1885 2005/07/31 11:07:59 obache Exp $
+# $Id: Makefile,v 1.1886 2005/07/31 16:32:19 scode Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -606,6 +606,7 @@ SUBDIR+=	mysql-docs
 SUBDIR+=	mythtv
 SUBDIR+=	n0t
 SUBDIR+=	nagios-base
+SUBDIR+=	nagios-nsca
 SUBDIR+=	nagios-plugin-ldap
 SUBDIR+=	nagios-plugin-mysql
 SUBDIR+=	nagios-plugin-pgsql
