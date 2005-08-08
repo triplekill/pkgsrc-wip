@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1891 2005/08/07 12:31:26 xtraeme Exp $
+# $Id: Makefile,v 1.1892 2005/08/07 20:20:39 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -713,9 +713,9 @@ SUBDIR+=	p5-PDL
 SUBDIR+=	p5-Parallel-ForkManager
 SUBDIR+=	p5-PathTools
 SUBDIR+=	p5-Pod-Tree
-SUBDIR+=	p5-Template-Timer
 SUBDIR+=	p5-Snowball-Norwegian
 SUBDIR+=	p5-Snowball-Swedish
+SUBDIR+=	p5-Template-Timer
 SUBDIR+=	p5-Term-Screen
 SUBDIR+=	p5-Text-ASCIITable
 SUBDIR+=	p5-Text-German
@@ -767,10 +767,10 @@ SUBDIR+=	picasm
 SUBDIR+=	picprog
 SUBDIR+=	pinball
 SUBDIR+=	pizza
-SUBDIR+=	pkgmanager
 SUBDIR+=	pkg_fake
 SUBDIR+=	pkg_install-testing
 SUBDIR+=	pkg_select
+SUBDIR+=	pkgmanager
 SUBDIR+=	planner
 SUBDIR+=	plugger
 SUBDIR+=	png2ico
