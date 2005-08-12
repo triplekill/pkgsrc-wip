@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1897 2005/08/11 17:21:27 udontknow Exp $
+# $Id: Makefile,v 1.1898 2005/08/12 04:40:17 jeremy-c-reed Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -244,6 +244,7 @@ SUBDIR+=	ez-ipupdate
 SUBDIR+=	ezbounce
 SUBDIR+=	fakenes
 SUBDIR+=	fasta
+SUBDIR+=	fbida
 SUBDIR+=	fbpanel
 SUBDIR+=	festival-gaim
 SUBDIR+=	ffmpeg-devel
