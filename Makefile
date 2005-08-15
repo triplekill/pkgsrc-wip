@@ -1,9 +1,10 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1900 2005/08/15 03:07:11 tvierling Exp $
+# $Id: Makefile,v 1.1901 2005/08/15 18:55:41 leonardschmidt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	4stAttack
+SUBDIR+=	9rc
 SUBDIR+=	Chinput
 SUBDIR+=	Coin
 SUBDIR+=	InfoNES
