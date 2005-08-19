@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1902 2005/08/15 18:58:54 leonardschmidt Exp $
+# $Id: Makefile,v 1.1903 2005/08/15 23:39:02 mnsanghvi Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -193,6 +193,7 @@ SUBDIR+=	dnsmasq
 SUBDIR+=	dnswalk
 SUBDIR+=	docbook-xsl-ko
 SUBDIR+=	doorman
+SUBDIR+=	dovecot
 SUBDIR+=	dovecot-nightly
 SUBDIR+=	drow
 SUBDIR+=	drpython
