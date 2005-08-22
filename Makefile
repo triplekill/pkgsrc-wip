@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1903 2005/08/15 23:39:02 mnsanghvi Exp $
+# $Id: Makefile,v 1.1904 2005/08/19 16:38:47 tvierling Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1120,7 +1120,6 @@ SUBDIR+=	vm-tools
 SUBDIR+=	vmac
 SUBDIR+=	vmsbackup
 SUBDIR+=	vnc2swf
-SUBDIR+=	vorbisgain
 SUBDIR+=	vtwm
 SUBDIR+=	wang-ttf
 SUBDIR+=	webcleaner
