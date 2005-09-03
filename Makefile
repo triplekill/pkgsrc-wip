@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1907 2005/08/31 19:39:26 kristerw Exp $
+# $Id: Makefile,v 1.1908 2005/09/02 19:16:55 tnn2 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -706,7 +706,6 @@ SUBDIR+=	p5-DBD-ODBC
 SUBDIR+=	p5-Data-Page
 SUBDIR+=	p5-Data-Properties
 SUBDIR+=	p5-Date-Range
-SUBDIR+=	p5-Date-Simple
 SUBDIR+=	p5-DateTime-Format-Mail
 SUBDIR+=	p5-Devel-Profiler
 SUBDIR+=	p5-Email-Address
