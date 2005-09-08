@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1908 2005/09/02 19:16:55 tnn2 Exp $
+# $Id: Makefile,v 1.1909 2005/09/03 14:22:49 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1057,6 +1057,7 @@ SUBDIR+=	smtprc-gui
 SUBDIR+=	smtpscan
 SUBDIR+=	snark
 SUBDIR+=	snes9express
+SUBDIR+=	snes9x
 SUBDIR+=	songwrite
 SUBDIR+=	soundtracker
 SUBDIR+=	spamassassin-cvs
