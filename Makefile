@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1909 2005/09/03 14:22:49 minskim Exp $
+# $Id: Makefile,v 1.1910 2005/09/08 10:23:14 leonardschmidt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1107,7 +1107,6 @@ SUBDIR+=	tex-foiltex
 SUBDIR+=	tex-hlatex
 SUBDIR+=	tex-passivetex
 SUBDIR+=	tex-xmltex
-SUBDIR+=	texmaker
 SUBDIR+=	thaixfonts
 SUBDIR+=	thcrut
 SUBDIR+=	theme-gtk-bluecurve
