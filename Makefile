@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1912 2005/09/09 12:40:38 ghen Exp $
+# $Id: Makefile,v 1.1913 2005/09/11 04:09:32 udontknow Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -641,6 +641,7 @@ SUBDIR+=	nehe-opengl-tutorials
 SUBDIR+=	nestra
 SUBDIR+=	net-quanta
 SUBDIR+=	net-tools
+SUBDIR+=	net6
 SUBDIR+=	netkit-base
 SUBDIR+=	netkit-routed
 SUBDIR+=	netkit-telnet
