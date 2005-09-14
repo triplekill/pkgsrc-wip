@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1919 2005/09/13 15:45:42 adrian_p Exp $
+# $Id: Makefile,v 1.1920 2005/09/14 07:34:42 udontknow Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -275,6 +275,7 @@ SUBDIR+=	gDesklets
 SUBDIR+=	gDesklets-CornerXMMS
 SUBDIR+=	gDesklets-rssgrab
 SUBDIR+=	gDesklets-starterbar
+SUBDIR+=	gajim
 SUBDIR+=	galib
 SUBDIR+=	gauche-fastcgi
 SUBDIR+=	gcl
