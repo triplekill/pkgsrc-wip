@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1920 2005/09/14 07:34:42 udontknow Exp $
+# $Id: Makefile,v 1.1921 2005/09/14 11:01:35 vstakhov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -485,6 +485,7 @@ SUBDIR+=	libgtk-java
 SUBDIR+=	libgtkhtml-java
 SUBDIR+=	libhttpd
 SUBDIR+=	liblingoteach
+SUBDIR+=	libmemcache
 SUBDIR+=	libmusclecard
 SUBDIR+=	libneural
 SUBDIR+=	libobby
