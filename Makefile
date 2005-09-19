@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1922 2005/09/15 13:01:40 elvstone Exp $
+# $Id: Makefile,v 1.1923 2005/09/16 00:48:28 jeremy-c-reed Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -355,6 +355,7 @@ SUBDIR+=	guilerxspencer
 SUBDIR+=	gune
 SUBDIR+=	gurlchecker
 SUBDIR+=	gwc
+SUBDIR+=	gxmms2
 SUBDIR+=	hanzim
 SUBDIR+=	hasciicam
 SUBDIR+=	hdparm
