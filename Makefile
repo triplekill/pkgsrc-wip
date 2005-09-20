@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1923 2005/09/16 00:48:28 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1924 2005/09/19 09:41:23 leonardschmidt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1235,6 +1235,7 @@ SUBDIR+=	z26
 SUBDIR+=	zapping
 SUBDIR+=	zidrav
 SUBDIR+=	zinf
+SUBDIR+=	zope3-unstable
 SUBDIR+=	zphoto
 SUBDIR+=	zsnes-devel
 SUBDIR+=	zvbi
