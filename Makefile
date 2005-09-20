@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1924 2005/09/19 09:41:23 leonardschmidt Exp $
+# $Id: Makefile,v 1.1925 2005/09/20 03:29:54 ykomatsu Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1186,6 +1186,7 @@ SUBDIR+=	which
 SUBDIR+=	wimon-devel
 SUBDIR+=	wireless-tools
 SUBDIR+=	wise2
+SUBDIR+=	wkf
 SUBDIR+=	wmii
 SUBDIR+=	wmii-cairo
 SUBDIR+=	wmitime
