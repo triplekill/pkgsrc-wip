@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1927 2005/09/20 12:14:16 obache Exp $
+# $Id: Makefile,v 1.1928 2005/09/24 07:26:49 gregschenzel Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -503,6 +503,7 @@ SUBDIR+=	libticalcs
 SUBDIR+=	libtifiles
 SUBDIR+=	libtlen2
 SUBDIR+=	libupnp
+SUBDIR+=	libupnp12
 SUBDIR+=	libuuid
 SUBDIR+=	libvc
 SUBDIR+=	libvg
