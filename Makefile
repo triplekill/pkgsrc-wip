@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1926 2005/09/20 08:48:28 obache Exp $
+# $Id: Makefile,v 1.1927 2005/09/20 12:14:16 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1124,6 +1124,7 @@ SUBDIR+=	tex-xmltex
 SUBDIR+=	thaixfonts
 SUBDIR+=	thcrut
 SUBDIR+=	theme-gtk-bluecurve
+SUBDIR+=	tile
 SUBDIR+=	tilp
 SUBDIR+=	tinycobol
 SUBDIR+=	tinyfugue-beta
@@ -1148,6 +1149,7 @@ SUBDIR+=	tutos
 SUBDIR+=	tuxtype2
 SUBDIR+=	typespeed
 SUBDIR+=	typhoon
+SUBDIR+=	tzosdclock
 SUBDIR+=	uade
 SUBDIR+=	uclibc
 SUBDIR+=	udhcp
