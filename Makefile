@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1928 2005/09/24 07:26:49 gregschenzel Exp $
+# $Id: Makefile,v 1.1929 2005/09/24 14:47:24 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -586,7 +586,6 @@ SUBDIR+=	mixxx
 SUBDIR+=	mkdep
 SUBDIR+=	mksend
 SUBDIR+=	mnogosearch
-SUBDIR+=	moc
 SUBDIR+=	molmol
 SUBDIR+=	monkey-bubble
 SUBDIR+=	monodoc
