@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1929 2005/09/24 14:47:24 obache Exp $
+# $Id: Makefile,v 1.1930 2005/09/26 23:21:48 xtraeme Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -565,7 +565,6 @@ SUBDIR+=	mcats-iodbc
 SUBDIR+=	mdadm
 SUBDIR+=	memgrep
 SUBDIR+=	menumaker
-SUBDIR+=	mesure
 SUBDIR+=	metalog
 SUBDIR+=	metatheme
 SUBDIR+=	mg-lsh
