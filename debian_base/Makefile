@@ -1,4 +1,5 @@
-# $Id$
+# $NetBSD$
+# $Id: Makefile,v 1.1.1.1 2004/06/11 09:59:39 grantbeattie Exp $
 
 DISTNAME=		# empty
 DISTFILES=		${DEBS}
