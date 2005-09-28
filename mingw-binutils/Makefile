@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.11 2005/05/24 10:31:02 rillig Exp $
+# $Id: Makefile,v 1.12 2005/07/27 16:26:38 thomasklausner Exp $
 
 DISTNAME=	binutils-2.15.91-20040904-1-src
 PKGNAME=	mingw-${DISTNAME:C/-200.*-src//}
@@ -16,7 +16,7 @@ GNU_CONFIGURE=		yes
 USE_CROSSBASE=		yes
 USE_TOOLS+=		gmake
 
-INFO_FILES=		as.info bfd.info binutils.info configure.info 
+INFO_FILES=		as.info bfd.info binutils.info configure.info
 INFO_FILES+=		standards.info ld.info
 
 post-install:
