@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile.common,v 1.9 2005/04/16 21:35:27 jeremy-c-reed Exp $
+# $Id: Makefile.common,v 1.10 2005/05/24 11:21:24 rillig Exp $
 #
 
 # XXX When changing, be sure to run "make makesum" in libuuid directory too.
@@ -16,3 +16,5 @@ USE_PKGLOCALEDIR=       YES
 
 CONFIGURE_ENV+=         ac_cv_path_MSGFMT=${LOCALBASE}/bin/msgfmt
 CONFIGURE_ARGS+=        --enable-elf-shlibs
+
+DISTINFO_FILE=		${.CURDIR}/../../wip/e2fsprogs/distinfo
