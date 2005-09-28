@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1936 2005/09/28 15:52:12 imilh Exp $
+# $Id: Makefile,v 1.1937 2005/09/28 21:00:28 riz Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -364,6 +364,7 @@ SUBDIR+=	hanzim
 SUBDIR+=	hasciicam
 SUBDIR+=	hdparm
 SUBDIR+=	help2man
+SUBDIR+=	heme
 SUBDIR+=	heroes
 SUBDIR+=	hol-light
 SUBDIR+=	hping3
