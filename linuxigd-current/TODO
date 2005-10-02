@@ -1,0 +1,7 @@
+$Id$
+
+Can compile on FreeBSD/OpenBSD/Linux ?
+
+Can work with pf?
+
+Startup script (how to specify required packet filtering tool?)
