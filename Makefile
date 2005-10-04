@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1941 2005/10/03 02:05:53 ykomatsu Exp $
+# $Id: Makefile,v 1.1942 2005/10/04 08:26:06 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -122,6 +122,8 @@ SUBDIR+=	bluez-hciemu
 SUBDIR+=	bluez-libs
 SUBDIR+=	bluez-utils
 SUBDIR+=	bmap
+SUBDIR+=	bmpx
+SUBDIR+=	bmpx-xine
 SUBDIR+=	bnr2
 SUBDIR+=	boa
 SUBDIR+=	bridge-utils
