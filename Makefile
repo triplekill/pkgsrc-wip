@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1949 2005/10/12 22:06:33 rillig Exp $
+# $Id: Makefile,v 1.1950 2005/10/14 00:34:04 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -185,7 +185,6 @@ SUBDIR+=	dfbsee
 SUBDIR+=	dia2code
 SUBDIR+=	dicom3tools
 SUBDIR+=	ding
-SUBDIR+=	dirb
 SUBDIR+=	directfb
 SUBDIR+=	directory-administrator
 SUBDIR+=	distcc-gtk
