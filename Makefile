@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1955 2005/10/15 01:03:06 xtraeme Exp $
+# $Id: Makefile,v 1.1956 2005/10/15 02:36:55 ykomatsu Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1134,7 +1134,6 @@ SUBDIR+=	tex-xmltex
 SUBDIR+=	thaixfonts
 SUBDIR+=	thcrut
 SUBDIR+=	theme-gtk-bluecurve
-SUBDIR+=	tile
 SUBDIR+=	tilp
 SUBDIR+=	tinycobol
 SUBDIR+=	tinyfugue-beta
