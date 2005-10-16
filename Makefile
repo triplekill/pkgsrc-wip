@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1957 2005/10/15 13:41:38 minskim Exp $
+# $Id: Makefile,v 1.1958 2005/10/16 04:48:34 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -755,7 +755,6 @@ SUBDIR+=	p5-HTML-Stream
 SUBDIR+=	p5-HTML-Strip
 SUBDIR+=	p5-HTML-TagCloud
 SUBDIR+=	p5-HTTP-BrowserDetect
-SUBDIR+=	p5-HTTP-GHTTP
 SUBDIR+=	p5-HTTP-Lite
 SUBDIR+=	p5-HTTP-Server-Simple
 SUBDIR+=	p5-Image-EXIF
