@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1958 2005/10/16 04:48:34 minskim Exp $
+# $Id: Makefile,v 1.1959 2005/10/16 05:02:59 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -770,6 +770,7 @@ SUBDIR+=	p5-Lingua-Stem-Snowball-Da
 SUBDIR+=	p5-Lingua-Stem-Snowball-No
 SUBDIR+=	p5-Lingua-Stem-Snowball-Se
 SUBDIR+=	p5-Lingua-StopWords
+SUBDIR+=	p5-Locale-libintl
 SUBDIR+=	p5-Log-Log4perl
 SUBDIR+=	p5-MKDoc-XML
 SUBDIR+=	p5-Mail-Webmail-Gmail
