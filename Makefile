@@ -1,5 +1,5 @@
  $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1964 2005/10/17 19:43:45 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.1965 2005/10/18 04:48:09 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1208,7 +1208,6 @@ SUBDIR+=	wmnetload
 SUBDIR+=	wordnet
 SUBDIR+=	words
 SUBDIR+=	worker
-SUBDIR+=	wsbasic
 SUBDIR+=	xaralx-bin
 SUBDIR+=	xbase
 SUBDIR+=	xbelmark
