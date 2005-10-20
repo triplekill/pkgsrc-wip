@@ -1,5 +1,5 @@
  $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1967 2005/10/19 04:49:51 minskim Exp $
+# $Id: Makefile,v 1.1968 2005/10/19 08:23:36 ghen Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1096,7 +1096,6 @@ SUBDIR+=	stardict
 SUBDIR+=	stepmania
 SUBDIR+=	stmpclean
 SUBDIR+=	stonx
-SUBDIR+=	streamripper
 SUBDIR+=	stunnel3
 SUBDIR+=	sudoscript
 SUBDIR+=	sugarCRM
