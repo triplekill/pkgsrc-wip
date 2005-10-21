@@ -1,5 +1,5 @@
  $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1969 2005/10/20 20:00:18 xtraeme Exp $
+# $Id: Makefile,v 1.1970 2005/10/21 03:52:16 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1245,7 +1245,6 @@ SUBDIR+=	yp-tools
 SUBDIR+=	ypbind-mt
 SUBDIR+=	ypserv
 SUBDIR+=	zapping
-SUBDIR+=	zidrav
 SUBDIR+=	zinf
 SUBDIR+=	zope3
 SUBDIR+=	zphoto
