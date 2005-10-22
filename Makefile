@@ -1,5 +1,5 @@
  $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1971 2005/10/21 04:02:21 minskim Exp $
+# $Id: Makefile,v 1.1972 2005/10/21 17:04:42 wrzymski Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -978,6 +978,7 @@ SUBDIR+=	qcad-manual-de
 SUBDIR+=	qcad-manual-en
 SUBDIR+=	qcad-manual-hu
 SUBDIR+=	qcad-partlibrary
+SUBDIR+=	qdbm
 SUBDIR+=	qemu-bin
 SUBDIR+=	qgis
 SUBDIR+=	qhacc
