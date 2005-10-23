@@ -1,5 +1,5 @@
- $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1973 2005/10/22 12:56:52 obache Exp $
+# $NetBSD: for pkglint$
+# $Id: Makefile,v 1.1974 2005/10/22 13:01:18 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
