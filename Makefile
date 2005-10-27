@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1985 2005/10/26 19:28:04 ghen Exp $
+# $Id: Makefile,v 1.1986 2005/10/27 05:26:21 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -62,6 +62,7 @@ SUBDIR+=	SDL-intro-pt
 SUBDIR+=	SDL-intro-ru
 SUBDIR+=	Siesta
 SUBDIR+=	WEPCrack
+SUBDIR+=	abook-devel
 SUBDIR+=	abuse_sdl
 SUBDIR+=	acpid
 SUBDIR+=	adamem
