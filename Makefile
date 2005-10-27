@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1986 2005/10/27 05:26:21 obache Exp $
+# $Id: Makefile,v 1.1987 2005/10/27 14:22:23 ghen Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -188,7 +188,6 @@ SUBDIR+=	directory-administrator
 SUBDIR+=	distella
 SUBDIR+=	diveintopython
 SUBDIR+=	djvu
-SUBDIR+=	dkim-milter
 SUBDIR+=	dmd-bin
 SUBDIR+=	dnswalk
 SUBDIR+=	docbook-xsl-ko
