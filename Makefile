@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1989 2005/10/28 02:46:59 minskim Exp $
+# $Id: Makefile,v 1.1990 2005/10/28 02:54:06 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -104,7 +104,6 @@ SUBDIR+=	awflwm
 SUBDIR+=	axe
 SUBDIR+=	azara
 SUBDIR+=	backplane
-SUBDIR+=	balance
 SUBDIR+=	barnyard
 SUBDIR+=	bastard
 SUBDIR+=	beast
