@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1992 2005/10/28 21:10:30 kristerw Exp $
+# $Id: Makefile,v 1.1993 2005/10/29 01:07:17 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -330,7 +330,6 @@ SUBDIR+=	graveman
 SUBDIR+=	grip
 SUBDIR+=	grisbi
 SUBDIR+=	gromacs
-SUBDIR+=	gsoap
 SUBDIR+=	gstat
 SUBDIR+=	gtick
 SUBDIR+=	gtk-engines-thinice
