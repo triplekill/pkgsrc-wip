@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1994 2005/10/29 02:01:54 minskim Exp $
+# $Id: Makefile,v 1.1995 2005/10/29 14:36:22 xtraeme Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -626,8 +626,6 @@ SUBDIR+=	musepack
 SUBDIR+=	mutella
 SUBDIR+=	mutt-ng
 SUBDIR+=	muttvcquery
-SUBDIR+=	mydns-mysql
-SUBDIR+=	mydns-pgsql
 SUBDIR+=	mysql-docs
 SUBDIR+=	mythtv
 SUBDIR+=	n0t
