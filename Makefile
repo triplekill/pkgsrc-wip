@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1996 2005/10/30 11:42:16 ghen Exp $
+# $Id: Makefile,v 1.1997 2005/10/31 08:19:41 ghen Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -315,7 +315,6 @@ SUBDIR+=	gnunet
 SUBDIR+=	gnupoc-makesis
 SUBDIR+=	gobby
 SUBDIR+=	goldwater
-SUBDIR+=	gotmail
 SUBDIR+=	gov2
 SUBDIR+=	gps
 SUBDIR+=	grass
