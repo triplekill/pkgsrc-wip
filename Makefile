@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1995 2005/10/29 14:36:22 xtraeme Exp $
+# $Id: Makefile,v 1.1996 2005/10/30 11:42:16 ghen Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -676,7 +676,6 @@ SUBDIR+=	openct
 SUBDIR+=	opendchub
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
-SUBDIR+=	opera-flash
 SUBDIR+=	oqtplayer
 SUBDIR+=	or1ksim
 SUBDIR+=	orion
