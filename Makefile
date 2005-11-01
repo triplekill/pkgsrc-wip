@@ -1,5 +1,5 @@
 # $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1997 2005/10/31 08:19:41 ghen Exp $
+# $Id: Makefile,v 1.1998 2005/10/31 20:35:05 minskim Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -179,6 +179,7 @@ SUBDIR+=	debian_gtk
 SUBDIR+=	debian_x11
 SUBDIR+=	dfbpoint
 SUBDIR+=	dfbsee
+SUBDIR+=	di
 SUBDIR+=	dia2code
 SUBDIR+=	dicom3tools
 SUBDIR+=	ding
@@ -286,6 +287,7 @@ SUBDIR+=	gdal-docs
 SUBDIR+=	gdal-lib
 SUBDIR+=	gdam
 SUBDIR+=	gde
+SUBDIR+=	gdmap
 SUBDIR+=	gdvb
 SUBDIR+=	geeklog
 SUBDIR+=	geos
