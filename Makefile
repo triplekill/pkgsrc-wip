@@ -1,5 +1,5 @@
-# $NetBSD: for pkglint$
-# $Id: Makefile,v 1.1998 2005/10/31 20:35:05 minskim Exp $
+# $Id: Makefile,v 1.1999 2005/11/01 01:03:10 rillig Exp $
+#
 
 COMMENT=	WIP pkgsrc packages
 
