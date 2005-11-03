@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1999 2005/11/01 01:03:10 rillig Exp $
+# $Id: Makefile,v 1.2000 2005/11/02 23:23:19 rillig Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -128,6 +128,7 @@ SUBDIR+=	briquolo
 SUBDIR+=	brltty
 SUBDIR+=	bscript
 SUBDIR+=	bsfilter
+SUBDIR+=	btscanner
 SUBDIR+=	bub-n-bros
 SUBDIR+=	busybox
 SUBDIR+=	bwidget
@@ -675,6 +676,7 @@ SUBDIR+=	opd
 SUBDIR+=	open21xx
 SUBDIR+=	openct
 SUBDIR+=	opendchub
+SUBDIR+=	openscep
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
 SUBDIR+=	oqtplayer
