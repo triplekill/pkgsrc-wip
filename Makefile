@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2001 2005/11/03 06:26:56 thomasklausner Exp $
+# $Id: Makefile,v 1.2002 2005/11/03 16:47:13 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -822,7 +822,6 @@ SUBDIR+=	pcsx
 SUBDIR+=	pdb2ldif
 SUBDIR+=	pdns
 SUBDIR+=	pdq
-SUBDIR+=	pdumpfs
 SUBDIR+=	pekwm-nightly
 SUBDIR+=	perl59
 SUBDIR+=	perltidy
