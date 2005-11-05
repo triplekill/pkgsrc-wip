@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2009 2005/11/04 11:47:21 rillig Exp $
+# $Id: Makefile,v 1.2010 2005/11/04 17:51:23 rillig Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -73,7 +73,6 @@ SUBDIR+=	avida2
 SUBDIR+=	avifile-devel
 SUBDIR+=	awflwm
 SUBDIR+=	axe
-SUBDIR+=	azara
 SUBDIR+=	backplane
 SUBDIR+=	barnyard
 SUBDIR+=	bastard
