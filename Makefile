@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2018 2005/11/06 07:19:48 marttikuparinen Exp $
+# $Id: Makefile,v 1.2019 2005/11/06 07:31:51 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -260,7 +260,6 @@ SUBDIR+=	gde
 SUBDIR+=	gdmap
 SUBDIR+=	gdvb
 SUBDIR+=	geeklog
-SUBDIR+=	geos
 SUBDIR+=	gettext-lib
 SUBDIR+=	gettext-runtime
 SUBDIR+=	gettext-tools
