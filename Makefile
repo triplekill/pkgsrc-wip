@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2012 2005/11/05 01:59:38 minskim Exp $
+# $Id: Makefile,v 1.2013 2005/11/05 06:51:39 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1156,7 +1156,6 @@ SUBDIR+=	vm-tools
 SUBDIR+=	vmac
 SUBDIR+=	vmsbackup
 SUBDIR+=	vncviewer4
-SUBDIR+=	vtwm
 SUBDIR+=	wang-ttf
 SUBDIR+=	webcleaner
 SUBDIR+=	west
