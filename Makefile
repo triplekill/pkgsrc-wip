@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2022 2005/11/07 12:03:21 marttikuparinen Exp $
+# $Id: Makefile,v 1.2023 2005/11/07 16:57:12 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -131,6 +131,7 @@ SUBDIR+=	commoncpp2
 SUBDIR+=	compare
 SUBDIR+=	cops
 SUBDIR+=	copytape
+SUBDIR+=	cpphs
 SUBDIR+=	cream
 SUBDIR+=	cvs-syncmail
 SUBDIR+=	cvsd
