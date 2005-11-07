@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2021 2005/11/06 16:36:55 leonardschmidt Exp $
+# $Id: Makefile,v 1.2022 2005/11/07 12:03:21 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -105,6 +105,7 @@ SUBDIR+=	bwidget
 SUBDIR+=	bwm-ng
 SUBDIR+=	c-ares
 SUBDIR+=	c-news
+SUBDIR+=	cabal
 SUBDIR+=	caml-libnum
 SUBDIR+=	caml-libunix
 SUBDIR+=	cawf
