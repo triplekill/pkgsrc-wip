@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2025 2005/11/08 10:22:41 ghen Exp $
+# $Id: Makefile,v 1.2026 2005/11/08 14:04:26 leonardschmidt Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -330,6 +330,7 @@ SUBDIR+=	gwc
 SUBDIR+=	gxmms2
 SUBDIR+=	hanzim
 SUBDIR+=	hasciicam
+SUBDIR+=	hcidump
 SUBDIR+=	hdparm
 SUBDIR+=	help2man
 SUBDIR+=	heroes
