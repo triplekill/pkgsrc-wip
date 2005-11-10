@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2028 2005/11/09 11:43:14 emil_s Exp $
+# $Id: Makefile,v 1.2029 2005/11/10 13:08:59 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -494,6 +494,7 @@ SUBDIR+=	libwhisker2
 SUBDIR+=	libxen
 SUBDIR+=	libxml++
 SUBDIR+=	libxml++2
+SUBDIR+=	lidia
 SUBDIR+=	lilo
 SUBDIR+=	lincvs
 SUBDIR+=	lingoteach-lesson
