@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2030 2005/11/10 17:18:12 emil_s Exp $
+# $Id: Makefile,v 1.2031 2005/11/11 22:20:30 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -138,7 +138,6 @@ SUBDIR+=	cream
 SUBDIR+=	cripple
 SUBDIR+=	cvs-syncmail
 SUBDIR+=	cvsd
-SUBDIR+=	cvsreport
 SUBDIR+=	cvsutils
 SUBDIR+=	d4x
 SUBDIR+=	damageext
