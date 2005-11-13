@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2038 2005/11/12 16:52:27 leonardschmidt Exp $
+# $Id: Makefile,v 1.2039 2005/11/13 03:12:50 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1118,7 +1118,6 @@ SUBDIR+=	tetrinetx
 SUBDIR+=	tex-foiltex
 SUBDIR+=	tex-hlatex
 SUBDIR+=	tex-passivetex
-SUBDIR+=	tex-xmltex
 SUBDIR+=	thaixfonts
 SUBDIR+=	thcrut
 SUBDIR+=	theme-gtk-bluecurve
