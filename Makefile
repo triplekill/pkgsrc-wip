@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2044 2005/11/14 03:10:44 minskim Exp $
+# $Id: Makefile,v 1.2045 2005/11/14 16:32:53 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -970,7 +970,6 @@ SUBDIR+=	qhacc
 SUBDIR+=	qico
 SUBDIR+=	qinx
 SUBDIR+=	qn-x11
-SUBDIR+=	quagga-devel
 SUBDIR+=	r8s
 SUBDIR+=	randrproto
 SUBDIR+=	rar3
