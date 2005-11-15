@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2049 2005/11/15 14:03:26 emil_s Exp $
+# $Id: Makefile,v 1.2050 2005/11/15 14:34:33 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1025,6 +1025,7 @@ SUBDIR+=	shaper
 SUBDIR+=	shoutcast
 SUBDIR+=	showmesh
 SUBDIR+=	sid-milter
+SUBDIR+=	signing-party
 SUBDIR+=	silky
 SUBDIR+=	sim-kde
 SUBDIR+=	sim-qt
