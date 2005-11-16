@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2050 2005/11/15 14:34:33 emil_s Exp $
+# $Id: Makefile,v 1.2051 2005/11/15 20:17:01 jtonio Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -336,6 +336,7 @@ SUBDIR+=	gwc
 SUBDIR+=	gxmms2
 SUBDIR+=	haddock
 SUBDIR+=	hanzim
+SUBDIR+=	happy
 SUBDIR+=	hasciicam
 SUBDIR+=	hcidump
 SUBDIR+=	hdparm
