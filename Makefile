@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2053 2005/11/18 10:43:53 ghen Exp $
+# $Id: Makefile,v 1.2054 2005/11/18 18:25:26 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -91,6 +91,7 @@ SUBDIR+=	bluez-hciemu
 SUBDIR+=	bluez-libs
 SUBDIR+=	bluez-utils
 SUBDIR+=	bmap
+SUBDIR+=	bmp-docklet
 SUBDIR+=	bmpx
 SUBDIR+=	bmpx-xine
 SUBDIR+=	bnr2
