@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2056 2005/11/19 15:06:46 rillig Exp $
+# $Id: Makefile,v 1.2057 2005/11/20 16:07:13 rillig Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1078,6 +1078,7 @@ SUBDIR+=	smtpscan
 SUBDIR+=	snark
 SUBDIR+=	snes9express
 SUBDIR+=	snes9x
+SUBDIR+=	sockstat
 SUBDIR+=	songwrite
 SUBDIR+=	soundtracker
 SUBDIR+=	spamassassin-cvs
