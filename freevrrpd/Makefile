@@ -1,9 +1,7 @@
+# $Id$
 # New ports collection makefile for:	freevrrpd
 # Date created:				Tue Jan 29 18:44:25 EST 2002
 # Whom:					Sebastien Petit <spe@phear.org>
-#
-# $Id: Makefile,v 1.2 2005/05/27 11:30:08 spetit Exp $
-#
 
 PORTNAME=	freevrrpd
 DISTNAME=	freevrrpd-0.9.3
@@ -14,8 +12,8 @@ MASTER_SITES=	http://bmw2002.hexod.net/opensource/
 MAINTAINER=	spe@phear.org
 COMMENT=	This a VRRP RFC2338 Compliant implementation under FreeBSD
 
-MAKE_ENV=	PTHREAD_CFLAGS="${PTHREAD_CFLAGS}" \
-		PTHREAD_LIBS="${PTHREAD_LIBS}"
+MAKE_ENV+=	PTHREAD_CFLAGS=${PTHREAD_CFLAGS:Q}
+MAKE_ENV+=	PTHREAD_LIBS=${PTHREAD_LIBS:Q}
 
 USE_PKGINSTALL= yes
 
