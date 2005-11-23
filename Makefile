@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2060 2005/11/23 06:34:19 minskim Exp $
+# $Id: Makefile,v 1.2061 2005/11/23 06:43:21 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -963,7 +963,6 @@ SUBDIR+=	qcad-manual-de
 SUBDIR+=	qcad-manual-en
 SUBDIR+=	qcad-manual-hu
 SUBDIR+=	qcad-partlibrary
-SUBDIR+=	qdbm-cgi
 SUBDIR+=	qdbm-plus
 SUBDIR+=	qemu-bin
 SUBDIR+=	qgis
