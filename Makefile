@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2062 2005/11/23 06:52:43 minskim Exp $
+# $Id: Makefile,v 1.2063 2005/11/23 06:58:28 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -667,6 +667,7 @@ SUBDIR+=	open21xx
 SUBDIR+=	openct
 SUBDIR+=	opendchub
 SUBDIR+=	openlogos
+SUBDIR+=	opensc
 SUBDIR+=	openscep
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
