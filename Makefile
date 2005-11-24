@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2063 2005/11/23 06:58:28 minskim Exp $
+# $Id: Makefile,v 1.2064 2005/11/24 03:18:53 udontknow Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -483,6 +483,7 @@ SUBDIR+=	libmusclecard
 SUBDIR+=	libneural
 SUBDIR+=	libobby
 SUBDIR+=	libopenmodeller
+SUBDIR+=	libp11
 SUBDIR+=	libpano12
 SUBDIR+=	libparsifal
 SUBDIR+=	libpcap-latest
