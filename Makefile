@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2075 2005/12/01 19:05:22 adrian_p Exp $
+# $Id: Makefile,v 1.2076 2005/12/02 04:08:46 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -231,6 +231,7 @@ SUBDIR+=	fbpanel
 SUBDIR+=	festival-gaim
 SUBDIR+=	ffmpeg-devel
 SUBDIR+=	firebird
+SUBDIR+=	firefox
 SUBDIR+=	firefox-wrapper
 SUBDIR+=	firehose
 SUBDIR+=	fixesproto
