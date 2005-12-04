@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2077 2005/12/02 10:59:36 ghen Exp $
+# $Id: Makefile,v 1.2078 2005/12/04 22:07:27 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -937,6 +937,7 @@ SUBDIR+=	py-spambayes
 SUBDIR+=	py-spark
 SUBDIR+=	py-speex
 SUBDIR+=	py-stem
+SUBDIR+=	py-tagger
 SUBDIR+=	py-twisted
 SUBDIR+=	py-twisted-conch
 SUBDIR+=	py-twisted-flow
