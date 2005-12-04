@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2076 2005/12/02 04:08:46 minskim Exp $
+# $Id: Makefile,v 1.2077 2005/12/02 10:59:36 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -291,6 +291,7 @@ SUBDIR+=	glkloader
 SUBDIR+=	glkterm
 SUBDIR+=	glulxe
 SUBDIR+=	gmc2mid
+SUBDIR+=	gnokii
 SUBDIR+=	gnome-alsamixer
 SUBDIR+=	gnome-bluetooth
 SUBDIR+=	gnome-clipboard-daemon
@@ -470,6 +471,7 @@ SUBDIR+=	libXt
 SUBDIR+=	libXv
 SUBDIR+=	libavc1394
 SUBDIR+=	libbtctl
+SUBDIR+=	libdca
 SUBDIR+=	libdialog
 SUBDIR+=	libdisasm
 SUBDIR+=	libdrm
