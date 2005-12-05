@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2079 2005/12/04 22:26:58 shattered Exp $
+# $Id: Makefile,v 1.2080 2005/12/05 17:30:46 udontknow Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -231,8 +231,8 @@ SUBDIR+=	fbpanel
 SUBDIR+=	festival-gaim
 SUBDIR+=	ffmpeg-devel
 SUBDIR+=	firebird
-SUBDIR+=	firefox
 SUBDIR+=	firefox-wrapper
+SUBDIR+=	firefox15
 SUBDIR+=	firehose
 SUBDIR+=	fixesproto
 SUBDIR+=	flc
@@ -972,7 +972,6 @@ SUBDIR+=	qcad-manual-de
 SUBDIR+=	qcad-manual-en
 SUBDIR+=	qcad-manual-hu
 SUBDIR+=	qcad-partlibrary
-SUBDIR+=	qemu-bin
 SUBDIR+=	qgis
 SUBDIR+=	qhacc
 SUBDIR+=	qico
@@ -1201,6 +1200,7 @@ SUBDIR+=	wmnetload
 SUBDIR+=	wordnet
 SUBDIR+=	words
 SUBDIR+=	worker
+SUBDIR+=	xace
 SUBDIR+=	xaralx-bin
 SUBDIR+=	xarchiver
 SUBDIR+=	xbase
