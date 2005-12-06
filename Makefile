@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2080 2005/12/05 17:30:46 udontknow Exp $
+# $Id: Makefile,v 1.2081 2005/12/05 22:26:23 rillig Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -430,6 +430,7 @@ SUBDIR+=	kannel-gateway
 SUBDIR+=	kapital
 SUBDIR+=	kbproto
 SUBDIR+=	kcc
+SUBDIR+=	kchmviewer
 SUBDIR+=	kino
 SUBDIR+=	kismet
 SUBDIR+=	kissme
