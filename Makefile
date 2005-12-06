@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2081 2005/12/05 22:26:23 rillig Exp $
+# $Id: Makefile,v 1.2082 2005/12/06 08:29:40 ianzag Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -383,6 +383,7 @@ SUBDIR+=	iptstate
 SUBDIR+=	isc-dhclient
 SUBDIR+=	isc-dhcpd
 SUBDIR+=	ispell-lietuviu
+SUBDIR+=	ja-trac
 #SUBDIR+=	jabberd			# not a real package
 SUBDIR+=	jabberd-aim
 SUBDIR+=	jacorb-lib
