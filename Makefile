@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2091 2005/12/10 22:29:27 shattered Exp $
+# $Id: Makefile,v 1.2092 2005/12/12 10:04:55 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -415,6 +415,7 @@ SUBDIR+=	java-swt
 SUBDIR+=	java-xmlrpc
 SUBDIR+=	javascript-guide
 SUBDIR+=	javascript-reference
+SUBDIR+=	jave
 SUBDIR+=	jbmgen
 SUBDIR+=	jc
 SUBDIR+=	jcr-yahoo
