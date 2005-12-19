@@ -1,4 +1,4 @@
-# $NetBSD$
+# $Id$
 
 # Written by:
 #     Roland Illig <roland.illig@gmx.de>, 2004.
