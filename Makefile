@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2105 2005/12/29 10:30:52 martijnb Exp $
+# $Id: Makefile,v 1.2106 2005/12/29 18:43:20 martijnb Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1150,7 +1150,6 @@ SUBDIR+=	tcc
 SUBDIR+=	tcpspy
 SUBDIR+=	tcptrack
 SUBDIR+=	tde
-SUBDIR+=	teTeX3
 SUBDIR+=	tea
 SUBDIR+=	teamspeak
 SUBDIR+=	tendra
