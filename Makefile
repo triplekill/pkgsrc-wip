@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2106 2005/12/29 18:43:20 martijnb Exp $
+# $Id: Makefile,v 1.2107 2005/12/29 21:37:41 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -420,7 +420,6 @@ SUBDIR+=	java-swt
 SUBDIR+=	java-xmlrpc
 SUBDIR+=	javascript-guide
 SUBDIR+=	javascript-reference
-SUBDIR+=	jave
 SUBDIR+=	jbmgen
 SUBDIR+=	jc
 SUBDIR+=	jcr-yahoo
