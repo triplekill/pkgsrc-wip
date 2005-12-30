@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2107 2005/12/29 21:37:41 ghen Exp $
+# $Id: Makefile,v 1.2108 2005/12/30 10:54:27 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1220,6 +1220,7 @@ SUBDIR+=	webcleaner
 SUBDIR+=	west
 SUBDIR+=	which
 SUBDIR+=	wimon-devel
+SUBDIR+=	wings
 SUBDIR+=	wireless-tools
 SUBDIR+=	wise2
 SUBDIR+=	wkf
