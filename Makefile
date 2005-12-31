@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2109 2005/12/30 14:07:39 ghen Exp $
+# $Id: Makefile,v 1.2110 2005/12/30 23:02:14 cetrox Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -254,6 +254,7 @@ SUBDIR+=	foomatic-db
 SUBDIR+=	foomatic-db-engine
 SUBDIR+=	foomatic-filters-cups
 SUBDIR+=	fragrouter
+SUBDIR+=	freetds
 SUBDIR+=	freevo
 SUBDIR+=	freevrrpd
 SUBDIR+=	frontpage
