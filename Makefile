@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2110 2005/12/30 23:02:14 cetrox Exp $
+# $Id: Makefile,v 1.2111 2005/12/31 05:11:55 jlamwww Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -569,13 +569,6 @@ SUBDIR+=	manatee
 SUBDIR+=	map-browse
 SUBDIR+=	mapserver
 SUBDIR+=	matanza
-SUBDIR+=	matchbox-common
-SUBDIR+=	matchbox-desktop
-SUBDIR+=	matchbox-nest
-SUBDIR+=	matchbox-panel
-SUBDIR+=	matchbox-panel-manager
-SUBDIR+=	matchbox-themes-extra
-SUBDIR+=	matchbox-wm
 SUBDIR+=	mathopd
 SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
