@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2115 2006/01/02 02:17:29 scode Exp $
+# $Id: Makefile,v 1.2116 2006/01/02 15:08:34 adrian_p Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -295,6 +295,7 @@ SUBDIR+=	glide3
 SUBDIR+=	glimmerm
 SUBDIR+=	glkloader
 SUBDIR+=	glkterm
+SUBDIR+=	globulation2
 SUBDIR+=	glulxe
 SUBDIR+=	gmc2mid
 SUBDIR+=	gnokii
