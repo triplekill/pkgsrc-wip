@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2113 2006/01/01 14:31:08 obache Exp $
+# $Id: Makefile,v 1.2114 2006/01/01 17:11:38 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -371,6 +371,7 @@ SUBDIR+=	icc
 SUBDIR+=	icc8
 SUBDIR+=	icecast
 SUBDIR+=	ices
+SUBDIR+=        ices-vorbis
 SUBDIR+=	icmpchat
 SUBDIR+=	idled
 SUBDIR+=	ifstat
