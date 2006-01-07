@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2121 2006/01/07 01:54:46 cetrox Exp $
+# $Id: Makefile,v 1.2122 2006/01/07 05:34:33 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1033,7 +1033,7 @@ SUBDIR+=	rsyslog
 SUBDIR+=	rte
 SUBDIR+=	ruby-GalleryAdministrator
 SUBDIR+=	ruby-dpklib
-SUBDIR+=	ruby-gnome2-all
+SUBDIR+=	ruby-gnome2
 SUBDIR+=	ruby-gnome2-atk
 SUBDIR+=	ruby-gnome2-gdkpixbuf
 SUBDIR+=	ruby-gnome2-glib
