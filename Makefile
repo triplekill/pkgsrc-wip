@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2119 2006/01/07 01:12:56 cetrox Exp $
+# $Id: Makefile,v 1.2120 2006/01/07 01:47:58 cetrox Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -343,6 +343,7 @@ SUBDIR+=	gtkada
 SUBDIR+=	gtkglk
 SUBDIR+=	gtklookat
 SUBDIR+=	gtkpod
+SUBDIR+=	gtranscode
 SUBDIR+=	gtypist
 SUBDIR+=	guile-gnome
 SUBDIR+=	guile-scsh
