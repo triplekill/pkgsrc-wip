@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2131 2006/01/08 03:59:13 minskim Exp $
+# $Id: Makefile,v 1.2132 2006/01/08 09:45:22 rillig Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -398,6 +398,7 @@ SUBDIR+=	ispell-lietuviu
 SUBDIR+=	ja-trac
 #SUBDIR+=	jabberd			# not a real package
 SUBDIR+=	jabberd-aim
+SUBDIR+=	jack
 SUBDIR+=	jacorb-lib
 SUBDIR+=	jad
 SUBDIR+=	jakarta-log4j
@@ -1017,6 +1018,7 @@ SUBDIR+=	qgis
 SUBDIR+=	qhacc
 SUBDIR+=	qico
 SUBDIR+=	qinx
+SUBDIR+=	qjackctl
 SUBDIR+=	qn-x11
 SUBDIR+=	r8s
 SUBDIR+=	randrproto
