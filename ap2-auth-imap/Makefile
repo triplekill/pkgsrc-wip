@@ -1,4 +1,4 @@
-# $Id$
+# $Id: Makefile,v 1.1 2005/12/28 03:58:48 christian_gall Exp $
 # $NetBSD$
 
 DISTNAME=	mod_auth_imap2-2.0.2
@@ -23,9 +23,9 @@ do-install:
 	(cd ${WRKSRC} && ${APXS} -n ${APACHE_MODULE_NAME} -i mod_auth_imap.la && )
 
 post-install:
-	${INSTALL_DATA_DIR} ${PREFIX}/share/examples/ap2-auth-imap
-	${INSTALL_DATA} ${WRKSRC}/examples/htaccess-example ${PREFIX}/share/examples/ap2-auth-imap
-	${INSTALL_DATA} ${WRKSRC}/examples/httpd.conf-append-example ${PREFIX}/share/examples/ap2-auth-imap
+	${INSTALL_DATA_DIR} ${PREFIX:Q}/share/examples/ap2-auth-imap
+	${INSTALL_DATA} ${WRKSRC:Q}/examples/htaccess-example ${PREFIX:Q}/share/examples/ap2-auth-imap
+	${INSTALL_DATA} ${WRKSRC:Q}/examples/httpd.conf-append-example ${PREFIX:Q}/share/examples/ap2-auth-imap
 
 .include "../../www/apache2/buildlink3.mk"
 .include "../../mk/pthread.buildlink3.mk"
