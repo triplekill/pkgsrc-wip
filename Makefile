@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2134 2006/01/11 09:21:27 tnn2 Exp $
+# $Id: Makefile,v 1.2135 2006/01/13 15:55:21 mreriksson Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1051,7 +1051,6 @@ SUBDIR+=	rte
 SUBDIR+=	ruby-GalleryAdministrator
 SUBDIR+=	ruby-dpklib
 SUBDIR+=	ruby-gnome2
-SUBDIR+=	ruby-gnome2-gnome
 SUBDIR+=	ruby-gnome2-panelapplet
 SUBDIR+=	ruby-misen
 SUBDIR+=	ruby-ncurses
