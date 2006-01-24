@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2145 2006/01/24 02:30:40 xtraeme Exp $
+# $Id: Makefile,v 1.2146 2006/01/24 10:49:09 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -568,6 +568,7 @@ SUBDIR+=	luacheia
 SUBDIR+=	luaposix
 SUBDIR+=	luasocket
 SUBDIR+=	lwc
+SUBDIR+=	lzs-lkm
 SUBDIR+=	mailfilter
 SUBDIR+=	man
 SUBDIR+=	man-db
