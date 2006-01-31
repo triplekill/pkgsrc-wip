@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.6 2005/09/28 11:46:20 obache Exp $
+# $Id: Makefile,v 1.7 2005/11/03 15:32:26 rillig Exp $
 
 .include "../../wip/e2fsprogs/Makefile.common"
 
@@ -16,7 +16,7 @@ DISTINFO_FILE=		${.CURDIR}/distinfo
 
 CONFLICTS=		e2fsprogs-1.32 e2fsprogs-1.36
 BUILD_DIRS=		lib/uuid
-PKGCONFIG_OVERRIDE+=    uuid.pc.in
+PKGCONFIG_OVERRIDE+=    lib/uuid/uuid.pc.in
 
 post-build:
 	cd ${WRKSRC}/misc && ${SETENV} ${MAKE_ENV} ${MAKE} \
