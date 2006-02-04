@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2161 2006/02/03 17:11:20 kristerw Exp $
+# $Id: Makefile,v 1.2162 2006/02/04 11:43:27 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -519,7 +519,6 @@ SUBDIR+=	libp11
 SUBDIR+=	libpano12
 SUBDIR+=	libparsifal
 SUBDIR+=	libpcap-latest
-SUBDIR+=	libprelude
 SUBDIR+=	libpusb
 SUBDIR+=	libraw1394
 SUBDIR+=	libsigsegv
@@ -921,11 +920,6 @@ SUBDIR+=	postgresql81-server
 SUBDIR+=	ppp
 SUBDIR+=	ppr
 SUBDIR+=	pptp
-SUBDIR+=	prelude-lml
-SUBDIR+=	prelude-manager
-SUBDIR+=	prelude-manager-mysql
-SUBDIR+=	prelude-manager-pgsql
-SUBDIR+=	prelude-nids
 SUBDIR+=	premake
 SUBDIR+=	procps
 SUBDIR+=	progreiserfs
