@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2162 2006/02/04 11:43:27 thomasklausner Exp $
+# $Id: Makefile,v 1.2163 2006/02/04 22:45:09 adrian_p Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -332,6 +332,7 @@ SUBDIR+=	grisbi
 SUBDIR+=	gromacs
 SUBDIR+=	grub2
 SUBDIR+=	gstat
+SUBDIR+=	gst-python
 SUBDIR+=	gtick
 SUBDIR+=	gtk-engines-thinice
 SUBDIR+=	gtk-gnutella-current
