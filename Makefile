@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2163 2006/02/04 22:45:09 adrian_p Exp $
+# $Id: Makefile,v 1.2164 2006/02/05 01:42:24 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1027,6 +1027,7 @@ SUBDIR+=	qico
 SUBDIR+=	qinx
 SUBDIR+=	qjackctl
 SUBDIR+=	qn-x11
+SUBDIR+=	quodlibet
 SUBDIR+=	r8s
 SUBDIR+=	randrproto
 SUBDIR+=	rar3
