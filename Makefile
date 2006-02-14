@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2172 2006/02/14 11:37:46 jgoamakf Exp $
+# $Id: Makefile,v 1.2173 2006/02/14 13:26:55 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -250,6 +250,7 @@ SUBDIR+=	flightgear
 SUBDIR+=	flightgear-base
 SUBDIR+=	fluxconf
 SUBDIR+=	fluxspace
+SUBDIR+=	fluxter
 SUBDIR+=	fnord
 SUBDIR+=	fontcacheproto
 SUBDIR+=	fontsproto
