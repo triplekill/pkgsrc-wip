@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2171 2006/02/14 10:22:16 leonardschmidt Exp $
+# $Id: Makefile,v 1.2172 2006/02/14 11:37:46 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -573,6 +573,7 @@ SUBDIR+=	luasocket
 SUBDIR+=	lwc
 SUBDIR+=	lzs-lkm
 SUBDIR+=	mailfilter
+SUBDIR+=	makedepf90
 SUBDIR+=	man
 SUBDIR+=	man-db
 SUBDIR+=	manatee
