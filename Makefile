@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2174 2006/02/14 17:41:45 mj_turner Exp $
+# $Id: Makefile,v 1.2175 2006/02/15 06:37:20 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -787,6 +787,7 @@ SUBDIR+=	p5-HTTP-Request-AsCGI
 SUBDIR+=	p5-HTTP-Server-Simple
 SUBDIR+=	p5-Image-EXIF
 SUBDIR+=	p5-Imager
+SUBDIR+=	p5-Jemplate
 SUBDIR+=	p5-Lingua-PT-Stemmer
 SUBDIR+=	p5-Lingua-Stem
 SUBDIR+=	p5-Lingua-Stem-Fr
