@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2185 2006/02/17 20:34:50 adrian_p Exp $
+# $Id: Makefile,v 1.2186 2006/02/19 23:42:37 mreriksson Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1183,6 +1183,7 @@ SUBDIR+=	supertux
 SUBDIR+=	svgalib
 SUBDIR+=	swami
 SUBDIR+=	swftools
+SUBDIR+=	sxemacs
 SUBDIR+=	sysklogd
 SUBDIR+=	syslog-ng
 SUBDIR+=	sysstat
