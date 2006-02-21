@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2186 2006/02/19 23:42:37 mreriksson Exp $
+# $Id: Makefile,v 1.2187 2006/02/20 00:15:57 hfath Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -783,7 +783,6 @@ SUBDIR+=	p5-Exporter-Lite
 SUBDIR+=	p5-ExtUtils-CBuilder
 SUBDIR+=	p5-ExtUtils-ParseXS
 SUBDIR+=	p5-File-Copy-Recursive
-SUBDIR+=	p5-File-Modified
 SUBDIR+=	p5-File-Path-Expand
 SUBDIR+=	p5-Frontier-RPC
 SUBDIR+=	p5-Geo-IPfree
@@ -820,7 +819,6 @@ SUBDIR+=	p5-Math-IntervalSearch
 SUBDIR+=	p5-Module-Install
 SUBDIR+=	p5-Module-Pluggable-Fast
 SUBDIR+=	p5-Module-Pluggable-Ordered
-SUBDIR+=	p5-NEXT
 SUBDIR+=	p5-NNTPClient
 SUBDIR+=	p5-Net-Amazon
 SUBDIR+=	p5-Net-Delicious
