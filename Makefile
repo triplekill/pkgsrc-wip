@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2194 2006/02/28 17:40:04 bartoszkuzma Exp $
+# $Id: Makefile,v 1.2195 2006/03/03 09:58:23 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -795,7 +795,6 @@ SUBDIR+=	p5-HTTP-Body
 SUBDIR+=	p5-HTTP-BrowserDetect
 SUBDIR+=	p5-HTTP-Lite
 SUBDIR+=	p5-HTTP-Request-AsCGI
-SUBDIR+=	p5-HTTP-Server-Simple
 SUBDIR+=	p5-Image-EXIF
 SUBDIR+=	p5-Imager
 SUBDIR+=	p5-JSON
