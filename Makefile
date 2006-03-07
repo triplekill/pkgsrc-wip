@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2195 2006/03/03 09:58:23 jgoamakf Exp $
+# $Id: Makefile,v 1.2196 2006/03/07 04:55:57 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -660,13 +660,6 @@ SUBDIR+=	muttvcquery
 SUBDIR+=	mysql-docs
 SUBDIR+=	mythtv
 SUBDIR+=	n0t
-SUBDIR+=	nagios-base
-SUBDIR+=	nagios-nsca
-SUBDIR+=	nagios-plugin-ldap
-SUBDIR+=	nagios-plugin-mysql
-SUBDIR+=	nagios-plugin-pgsql
-SUBDIR+=	nagios-plugin-snmp
-SUBDIR+=	nagios-plugins
 SUBDIR+=	natali
 SUBDIR+=	navigatrix
 SUBDIR+=	ncbi
