@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2197 2006/03/07 09:49:01 jgoamakf Exp $
+# $Id: Makefile,v 1.2198 2006/03/07 15:20:24 jtonio Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -692,6 +692,7 @@ SUBDIR+=	nrpe
 SUBDIR+=	nuppelvideo
 SUBDIR+=	nvidia-freebsd
 SUBDIR+=	nzbget
+SUBDIR+=	oak
 SUBDIR+=	octave-nox11
 SUBDIR+=	omniORB
 SUBDIR+=	oops
@@ -710,6 +711,7 @@ SUBDIR+=	or1ksim
 SUBDIR+=	orion
 SUBDIR+=	orpie
 SUBDIR+=	ortp
+SUBDIR+=	owl
 SUBDIR+=	p3nfs
 SUBDIR+=	p5-Accessor-Chained
 SUBDIR+=	p5-Aceperl
