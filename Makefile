@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2202 2006/03/11 22:03:00 thomasklausner Exp $
+# $Id: Makefile,v 1.2203 2006/03/12 15:06:50 rillig Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -330,6 +330,7 @@ SUBDIR+=	goldwater
 SUBDIR+=	gov2
 SUBDIR+=	gplbasic
 SUBDIR+=	gps
+SUBDIR+=	granule
 SUBDIR+=	grass
 SUBDIR+=	grass-JockeyRidge
 SUBDIR+=	grass-Maas
@@ -507,6 +508,7 @@ SUBDIR+=	libXres
 SUBDIR+=	libXt
 SUBDIR+=	libXv
 SUBDIR+=	libargp
+SUBDIR+=	libassa
 SUBDIR+=	libaura
 SUBDIR+=	libavc1394
 SUBDIR+=	libbtctl
