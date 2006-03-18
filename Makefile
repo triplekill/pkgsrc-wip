@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2204 2006/03/16 09:06:54 bartoszkuzma Exp $
+# $Id: Makefile,v 1.2205 2006/03/17 23:04:00 oht Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -291,6 +291,7 @@ SUBDIR+=	gdal-docs
 SUBDIR+=	gdal-lib
 SUBDIR+=	gdam
 SUBDIR+=	gde
+SUBDIR+=	gdhcpd
 SUBDIR+=	gdmap
 SUBDIR+=	gdvb
 SUBDIR+=	geeklog
