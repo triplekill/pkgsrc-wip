@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2211 2006/03/25 02:55:40 udontknow Exp $
+# $Id: Makefile,v 1.2212 2006/03/25 14:04:47 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1276,6 +1276,7 @@ SUBDIR+=	tleenx3
 SUBDIR+=	topless
 SUBDIR+=	toppler
 SUBDIR+=	tops-bin
+SUBDIR+=	tor
 SUBDIR+=	tr2latex
 SUBDIR+=	traceroute-nanog
 SUBDIR+=	transmission
