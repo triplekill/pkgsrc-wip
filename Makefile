@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2213 2006/03/26 16:16:20 tvierling Exp $
+# $Id: Makefile,v 1.2214 2006/03/29 19:59:48 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -246,6 +246,9 @@ SUBDIR+=	ffmpeg-devel
 SUBDIR+=	firebird
 SUBDIR+=	fireflysung-ttf
 SUBDIR+=	firefox-wrapper
+SUBDIR+=	firefox2
+SUBDIR+=	firefox2-bin
+SUBDIR+=	firefox2-gtk1
 SUBDIR+=	firehose
 SUBDIR+=	fixesproto
 SUBDIR+=	flc
