@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2214 2006/03/29 19:59:48 ghen Exp $
+# $Id: Makefile,v 1.2215 2006/03/30 06:44:14 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -910,6 +910,7 @@ SUBDIR+=	p5-XML-Clean
 SUBDIR+=	p5-XML-DOM-XPath
 SUBDIR+=	p5-mecab
 SUBDIR+=	p5-podlators
+SUBDIR+=	pal
 SUBDIR+=	palm-db-tools
 SUBDIR+=	pam-pkcs11
 SUBDIR+=	pam-pop3
