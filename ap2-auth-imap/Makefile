@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1 2005/12/28 03:58:48 christian_gall Exp $
+# $Id: Makefile,v 1.2 2006/01/13 02:03:13 rillig Exp $
 # $NetBSD$
 
 DISTNAME=	mod_auth_imap2-2.0.2
@@ -13,7 +13,7 @@ COMMENT=	Module to allow apache2 authentication against an IMAP server
 APACHE_MODULE=		YES
 APACHE_MODULE_NAME=	auth_imap_module
 
-BUILDLINK_DEPENDS.apache+=	apache>=2.0.47
+BUILDLINK_API_DEPENDS.apache+=	apache>=2.0.47
 
 do-build:
 	 cd ${WRKSRC} && \
