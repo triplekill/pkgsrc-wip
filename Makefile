@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2220 2006/04/08 23:31:05 minskim Exp $
+# $Id: Makefile,v 1.2221 2006/04/09 17:15:24 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -143,7 +143,6 @@ SUBDIR+=	clamassassin
 SUBDIR+=	clustalx
 SUBDIR+=	com_err
 SUBDIR+=	comix
-SUBDIR+=	common-mml
 SUBDIR+=	commoncpp2
 SUBDIR+=	compare
 SUBDIR+=	compositeproto
