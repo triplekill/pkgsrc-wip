@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2224 2006/04/12 22:18:15 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.2225 2006/04/12 22:23:23 jeremy-c-reed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1100,7 +1100,6 @@ SUBDIR+=	rekall
 SUBDIR+=	relaydb
 SUBDIR+=	renderproto
 SUBDIR+=	rep-gtk2
-SUBDIR+=	resourceext
 SUBDIR+=	resourceproto
 SUBDIR+=	rhapsody
 SUBDIR+=	ripe-rpsl-objectlibrary
