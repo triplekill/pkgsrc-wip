@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2222 2006/04/11 18:41:57 minskim Exp $
+# $Id: Makefile,v 1.2223 2006/04/12 17:57:33 jsonn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -908,7 +908,6 @@ SUBDIR+=	pam-pkcs11
 SUBDIR+=	pam-pop3
 SUBDIR+=	pam-pwdfile
 SUBDIR+=	panda
-SUBDIR+=	panoramixext
 SUBDIR+=	parted
 SUBDIR+=	pasmo
 SUBDIR+=	passepartout
