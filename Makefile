@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2226 2006/04/12 22:27:55 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.2227 2006/04/13 16:41:40 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -808,7 +808,6 @@ SUBDIR+=	p5-Email-MIME-Modifier
 SUBDIR+=	p5-Email-MessageID
 SUBDIR+=	p5-Email-Send
 SUBDIR+=	p5-Email-Simple-Creator
-SUBDIR+=	p5-Encode
 SUBDIR+=	p5-Encode-compat
 SUBDIR+=	p5-Exporter-Lite
 SUBDIR+=	p5-ExtUtils-CBuilder
