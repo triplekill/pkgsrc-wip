@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2227 2006/04/13 16:41:40 minskim Exp $
+# $Id: Makefile,v 1.2228 2006/04/13 19:47:42 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -314,6 +314,7 @@ SUBDIR+=	glkterm
 SUBDIR+=	globulation2
 SUBDIR+=	glulxe
 SUBDIR+=	gmc2mid
+SUBDIR+=	gmediaserver
 SUBDIR+=	gnokii
 SUBDIR+=	gnome-alsamixer
 SUBDIR+=	gnome-bluetooth
