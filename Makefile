@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2229 2006/04/14 11:47:58 obache Exp $
+# $Id: Makefile,v 1.2230 2006/04/14 14:52:00 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1011,6 +1011,7 @@ SUBDIR+=	py-Soya
 SUBDIR+=	py-albatross
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
+SUBDIR+=	py-cairo
 SUBDIR+=	py-dateutil
 SUBDIR+=	py-f2py2e
 SUBDIR+=	py-fastaudio
