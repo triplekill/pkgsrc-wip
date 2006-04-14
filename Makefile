@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2228 2006/04/13 19:47:42 minskim Exp $
+# $Id: Makefile,v 1.2229 2006/04/14 11:47:58 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -835,7 +835,6 @@ SUBDIR+=	p5-Lingua-Stem
 SUBDIR+=	p5-Lingua-Stem-Fr
 SUBDIR+=	p5-Lingua-Stem-It
 SUBDIR+=	p5-Lingua-Stem-Ru
-SUBDIR+=	p5-Lingua-Stem-Snowball
 SUBDIR+=	p5-Lingua-Stem-Snowball-Da
 SUBDIR+=	p5-Lingua-Stem-Snowball-No
 SUBDIR+=	p5-Lingua-Stem-Snowball-Se
