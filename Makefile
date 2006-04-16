@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2235 2006/04/15 22:56:17 schnoebe Exp $
+# $Id: Makefile,v 1.2236 2006/04/16 22:22:50 jtonio Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -883,7 +883,6 @@ SUBDIR+=	p5-Text-Hatena
 SUBDIR+=	p5-Text-SimpleTable
 SUBDIR+=	p5-Tie-Array-Sorted
 SUBDIR+=	p5-Tie-DB_Lock
-SUBDIR+=	p5-Time-Local
 SUBDIR+=	p5-Time-Piece-Range
 SUBDIR+=	p5-Tk-TableMatrix
 SUBDIR+=	p5-Tree-Simple-VisitorFactory
