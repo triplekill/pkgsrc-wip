@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2238 2006/04/17 02:31:56 schnoebe Exp $
+# $Id: Makefile,v 1.2239 2006/04/17 09:13:00 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -879,7 +879,6 @@ SUBDIR+=	p5-Test-MockObject
 SUBDIR+=	p5-Test-WWW-Mechanize-Catalyst
 SUBDIR+=	p5-Text-ASCIITable
 SUBDIR+=	p5-Text-Context
-SUBDIR+=	p5-Text-Context-EitherSide
 SUBDIR+=	p5-Text-German
 SUBDIR+=	p5-Text-Hatena
 SUBDIR+=	p5-Text-SimpleTable
