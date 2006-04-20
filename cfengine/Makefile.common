@@ -1,5 +1,5 @@
 # $NetBSD: Makefile.common,v 1.8 2004/08/18 23:03:44 ben Exp $
-#
+# $Id$
 
 CFENGINE_VERSION= 2.1.17
 DISTNAME=	cfengine-${CFENGINE_VERSION}
