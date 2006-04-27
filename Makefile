@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2242 2006/04/18 21:53:05 matthewluckie Exp $
+# $Id: Makefile,v 1.2243 2006/04/24 14:01:25 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -329,6 +329,7 @@ SUBDIR+=	goldwater
 SUBDIR+=	gov2
 SUBDIR+=	gplbasic
 SUBDIR+=	gps
+SUBDIR+=	gpsdrive
 SUBDIR+=	granule
 SUBDIR+=	grass
 SUBDIR+=	grass-JockeyRidge
