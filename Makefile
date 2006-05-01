@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2243 2006/04/24 14:01:25 tnn2 Exp $
+# $Id: Makefile,v 1.2244 2006/04/27 13:14:53 alnix Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1252,6 +1252,7 @@ SUBDIR+=	thaixfonts
 SUBDIR+=	thcrut
 SUBDIR+=	theme-gtk-bluecurve
 SUBDIR+=	tilp
+SUBDIR+=	tinyca2
 SUBDIR+=	tinycobol
 SUBDIR+=	tinyfugue-beta
 SUBDIR+=	tinylogin
