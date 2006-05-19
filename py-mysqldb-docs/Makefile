@@ -1,12 +1,12 @@
 # $NetBSD$
-# $Id: Makefile,v 1.3 2005/07/27 16:28:47 thomasklausner Exp $
+# $Id: Makefile,v 1.4 2005/09/28 20:50:10 rillig Exp $
 
 DISTNAME=       MySQL-python-0.9.2
 PKGNAME=        py-mysqldb-docs-0.9.2
 CATEGORIES=     databases
 MASTER_SITES=   ${MASTER_SITE_SOURCEFORGE:=mysql-python/}
 
-MAINTAINER=     tech-pkg@NetBSD.org
+MAINTAINER=     pkgsrc-users@NetBSD.org
 HOMEPAGE=       http://sourceforge.net/projects/mysql-python
 COMMENT=        HTML documentation for MySQL interface for Python
 
