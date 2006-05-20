@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2259 2006/05/20 05:14:23 yomram Exp $
+# $Id: Makefile,v 1.2260 2006/05/20 07:04:48 yomram Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -671,6 +671,7 @@ SUBDIR+=	mppdec
 SUBDIR+=	mppenc
 SUBDIR+=	mpq-tools
 SUBDIR+=	msworkbench
+SUBDIR+=	mt-daapd
 SUBDIR+=	mtf
 SUBDIR+=	mtrack
 SUBDIR+=	muine
