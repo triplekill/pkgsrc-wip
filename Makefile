@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2262 2006/05/20 23:54:12 thomasklausner Exp $
+# $Id: Makefile,v 1.2263 2006/05/21 12:29:04 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -626,6 +626,7 @@ SUBDIR+=	mcats
 SUBDIR+=	mcats-iodbc
 SUBDIR+=	mdadm
 SUBDIR+=	mdbtools
+SUBDIR+=	meanwhile
 SUBDIR+=	mecab
 SUBDIR+=	mecab-base
 SUBDIR+=	mecab-ipadic
