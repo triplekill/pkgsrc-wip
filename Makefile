@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2264 2006/05/25 11:05:45 larnor Exp $
+# $Id: Makefile,v 1.2265 2006/05/27 14:18:31 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -496,6 +496,7 @@ SUBDIR+=	lammpi
 SUBDIR+=	lcrack
 SUBDIR+=	ldapbrowser
 SUBDIR+=	ldapdns
+SUBDIR+=	ldcpp
 SUBDIR+=	lde
 SUBDIR+=	ldp
 SUBDIR+=	leo
