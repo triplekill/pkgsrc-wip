@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2278 2006/06/24 02:11:21 achemze Exp $
+# $Id: Makefile,v 1.2279 2006/06/24 13:03:34 bartoszkuzma Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -134,7 +134,6 @@ SUBDIR+=	cdpr
 SUBDIR+=	cdrtools-devel
 SUBDIR+=	cfengine
 SUBDIR+=	chbg
-SUBDIR+=	cherokee
 SUBDIR+=	chmlib
 SUBDIR+=	chora
 SUBDIR+=	chromium
