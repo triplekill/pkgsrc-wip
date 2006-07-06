@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2282 2006/07/06 17:28:13 bartoszkuzma Exp $
+# $Id: Makefile,v 1.2283 2006/07/06 18:30:34 rillig Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -148,7 +148,6 @@ SUBDIR+=	clamassassin
 SUBDIR+=	clockspeed
 SUBDIR+=	clustalx
 SUBDIR+=	com_err
-SUBDIR+=	comix
 SUBDIR+=	commoncpp2
 SUBDIR+=	compare
 SUBDIR+=	confuse
