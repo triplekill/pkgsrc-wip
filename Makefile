@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2283 2006/07/06 18:30:34 rillig Exp $
+# $Id: Makefile,v 1.2284 2006/07/06 20:54:58 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -707,7 +707,7 @@ SUBDIR+=	muscle-cflexplugin
 SUBDIR+=	muscle-mcardplugin
 SUBDIR+=	muscle-pam
 SUBDIR+=	muscle-pkcs11
-SUBDIR+=	muscle-tools
+SUBDIR+=	muscletool
 SUBDIR+=	musepack
 SUBDIR+=	mutella
 SUBDIR+=	mutt-ng
