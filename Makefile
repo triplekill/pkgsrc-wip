@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2288 2006/07/12 20:03:40 unex_linija Exp $
+# $Id: Makefile,v 1.2289 2006/07/14 09:35:45 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1376,6 +1376,7 @@ SUBDIR+=	valknut
 SUBDIR+=	vcdgear
 SUBDIR+=	vche
 SUBDIR+=	videoproto
+SUBDIR+=	viewvc
 SUBDIR+=	viewcvs
 SUBDIR+=	viewer
 SUBDIR+=	viewglob
