@@ -1,5 +1,5 @@
 # $NetBSD$
-# $Id: Makefile,v 1.7 2005/07/27 16:26:39 thomasklausner Exp $
+# $Id: Makefile,v 1.8 2006/05/19 16:51:26 ykomatsu Exp $
 
 DISTNAME=	mingw-runtime-3.5
 PKGNAME=	mingw-runtime-bin-3.5
@@ -7,7 +7,7 @@ CATEGORIES=	cross
 MASTER_SITES=	${MASTER_SITE_MINGW}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
-HOMEPAGE=	http://mingw.sf.net/
+HOMEPAGE=	http://mingw.sourceforge.net/
 COMMENT=	GNU C Compiler for win32 cross development
 
 NO_BUILD=	yes
