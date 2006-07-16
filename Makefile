@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2289 2006/07/14 09:35:45 thomasklausner Exp $
+# $Id: Makefile,v 1.2290 2006/07/15 12:46:32 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -496,6 +496,7 @@ SUBDIR+=	kissme
 SUBDIR+=	klamav
 SUBDIR+=	korelib
 SUBDIR+=	kpanta
+SUBDIR+=	kplayer
 SUBDIR+=	ksambaplugin
 SUBDIR+=	kvirc
 SUBDIR+=	kxmleditor
@@ -680,6 +681,7 @@ SUBDIR+=	monodoc
 SUBDIR+=	mopac
 SUBDIR+=	moregroupware
 SUBDIR+=	mozplugger
+SUBDIR+=	mp3chop
 SUBDIR+=	mpgedit
 SUBDIR+=	mplayer
 SUBDIR+=	mplayer-share
