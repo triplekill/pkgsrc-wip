@@ -1,11 +1,10 @@
-# $Id: Makefile,v 1.2295 2006/07/19 04:44:20 minskim Exp $
+# $Id: Makefile,v 1.2296 2006/07/20 11:51:07 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	Chinput
 SUBDIR+=	DarwinStreamingServer
-SUBDIR+=	GraphicsMagick
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	OpenGLUT
