@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2298 2006/07/20 19:54:15 thomasklausner Exp $
+# $Id: Makefile,v 1.2299 2006/07/20 19:58:02 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -29,7 +29,6 @@ SUBDIR+=	SDL-intro-es
 SUBDIR+=	SDL-intro-fr
 SUBDIR+=	SDL-intro-it
 SUBDIR+=	SDL-intro-jp
-SUBDIR+=	SDL-intro-ko
 SUBDIR+=	SDL-intro-pt
 SUBDIR+=	SDL-intro-ru
 SUBDIR+=	Siesta
