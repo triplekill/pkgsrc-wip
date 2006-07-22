@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2299 2006/07/20 19:58:02 thomasklausner Exp $
+# $Id: Makefile,v 1.2300 2006/07/21 19:54:47 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -572,6 +572,7 @@ SUBDIR+=	libtlen2
 SUBDIR+=	libupnp
 SUBDIR+=	libupnp10
 SUBDIR+=	libuuid
+SUBDIR+=	libuxre
 SUBDIR+=	libvc
 SUBDIR+=	libvg
 SUBDIR+=	libvncserver
@@ -1374,10 +1375,9 @@ SUBDIR+=	valknut
 SUBDIR+=	vcdgear
 SUBDIR+=	vche
 SUBDIR+=	videoproto
-SUBDIR+=	viewvc
-SUBDIR+=	viewcvs
 SUBDIR+=	viewer
 SUBDIR+=	viewglob
+SUBDIR+=	viewvc
 SUBDIR+=	virus
 SUBDIR+=	vixie-cron
 SUBDIR+=	vkeybd
