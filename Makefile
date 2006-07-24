@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2302 2006/07/23 15:02:07 roelants Exp $
+# $Id: Makefile,v 1.2303 2006/07/23 16:58:23 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -890,7 +890,6 @@ SUBDIR+=	p5-Lingua-Stem-Snowball-Da
 SUBDIR+=	p5-Lingua-Stem-Snowball-No
 SUBDIR+=	p5-Lingua-Stem-Snowball-Se
 SUBDIR+=	p5-Lingua-StopWords
-SUBDIR+=	p5-Locale-libintl
 SUBDIR+=	p5-Log-Log4perl
 SUBDIR+=	p5-MKDoc-XML
 SUBDIR+=	p5-Mail-Webmail-Gmail
