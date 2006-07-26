@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2304 2006/07/24 16:50:51 thomasklausner Exp $
+# $Id: Makefile,v 1.2305 2006/07/25 16:38:36 lsed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1383,7 +1383,6 @@ SUBDIR+=	vm-pop3d
 SUBDIR+=	vm-tools
 SUBDIR+=	vmac
 SUBDIR+=	vmsbackup
-SUBDIR+=	vncviewer4
 SUBDIR+=	vreng
 SUBDIR+=	wang-ttf
 SUBDIR+=	wavpack
