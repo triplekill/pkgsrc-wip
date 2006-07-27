@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2305 2006/07/25 16:38:36 lsed Exp $
+# $Id: Makefile,v 1.2306 2006/07/26 20:51:38 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1336,7 +1336,6 @@ SUBDIR+=	tops-bin
 SUBDIR+=	tor
 SUBDIR+=	tr2latex
 SUBDIR+=	traceroute-nanog
-SUBDIR+=	transmission
 SUBDIR+=	trapproto
 SUBDIR+=	treetool
 SUBDIR+=	treeview
