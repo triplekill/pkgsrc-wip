@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2311 2006/08/03 00:09:19 kristerw Exp $
+# $Id: Makefile,v 1.2312 2006/08/03 11:45:58 bartoszkuzma Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1326,6 +1326,8 @@ SUBDIR+=	tex-kochi-ttf
 SUBDIR+=	thaixfonts
 SUBDIR+=	thcrut
 SUBDIR+=	theme-gtk-bluecurve
+SUBDIR+=	thunderbird2
+SUBDIR+=	thunderbird2-gtk1
 SUBDIR+=	tilda
 SUBDIR+=	tilp
 SUBDIR+=	tinyca2
