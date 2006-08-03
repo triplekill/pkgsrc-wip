@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2310 2006/08/02 23:56:48 kristerw Exp $
+# $Id: Makefile,v 1.2311 2006/08/03 00:09:19 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1482,6 +1482,7 @@ SUBDIR+=	xxkb
 SUBDIR+=	yabause
 SUBDIR+=	yafic
 SUBDIR+=	yafray
+SUBDIR+=	yaws
 SUBDIR+=	yp-tools
 SUBDIR+=	ypbind-mt
 SUBDIR+=	ypserv
