@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2313 2006/08/03 13:47:22 ghen Exp $
+# $Id: Makefile,v 1.2314 2006/08/03 15:18:50 lsed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -73,7 +73,6 @@ SUBDIR+=	apstget
 SUBDIR+=	argouml
 SUBDIR+=	arla-3.99.14
 SUBDIR+=	artemis
-SUBDIR+=	asfrecorder
 SUBDIR+=	atftp
 SUBDIR+=	audacity-devel
 SUBDIR+=	autocutsel
