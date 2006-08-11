@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2327 2006/08/10 05:31:25 marttikuparinen Exp $
+# $Id: Makefile,v 1.2328 2006/08/10 05:33:21 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1117,9 +1117,9 @@ SUBDIR+=	py-willow
 SUBDIR+=	py-xdg
 SUBDIR+=	py-xmpppy
 SUBDIR+=	py-xsdb
-SUBDIR+=	pydb
 SUBDIR+=	pycrypto
 SUBDIR+=	pydance
+SUBDIR+=	pydb
 SUBDIR+=	pynfo
 SUBDIR+=	pypanel
 SUBDIR+=	pysite
