@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2331 2006/08/13 09:47:21 ghen Exp $
+# $Id: Makefile,v 1.2332 2006/08/13 17:13:22 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -232,6 +232,7 @@ SUBDIR+=	emirror
 SUBDIR+=	endeavour
 SUBDIR+=	engine-pkcs11
 SUBDIR+=	ent
+SUBDIR+=	eot
 SUBDIR+=	epplets
 SUBDIR+=	erc
 SUBDIR+=	esdl
