@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2333 2006/08/13 21:25:59 jtonio Exp $
+# $Id: Makefile,v 1.2334 2006/08/15 17:07:07 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -128,6 +128,7 @@ SUBDIR+=	cb2bib
 SUBDIR+=	ccid
 SUBDIR+=	ccrtp
 SUBDIR+=	ccrypt
+SUBDIR+=	cdogs
 SUBDIR+=	cdpr
 SUBDIR+=	cdrtools-devel
 SUBDIR+=	cfengine
