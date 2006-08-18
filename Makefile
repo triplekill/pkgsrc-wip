@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2334 2006/08/15 17:07:07 obache Exp $
+# $Id: Makefile,v 1.2335 2006/08/17 14:03:56 dhowland Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -84,6 +84,7 @@ SUBDIR+=	axe
 SUBDIR+=	backplane
 SUBDIR+=	barnyard
 SUBDIR+=	bastard
+SUBDIR+=	bcmfw
 SUBDIR+=	beast
 SUBDIR+=	bigreqsproto
 SUBDIR+=	bin86
