@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2339 2006/08/21 20:30:38 leuzi Exp $
+# $Id: Makefile,v 1.2340 2006/08/22 21:47:22 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -181,6 +181,7 @@ SUBDIR+=	dfbsee
 SUBDIR+=	di
 SUBDIR+=	dia2code
 SUBDIR+=	dicom3tools
+SUBDIR+=	dict-est-rus
 SUBDIR+=	dict-mueller7
 SUBDIR+=	dict-server
 SUBDIR+=	dictem
