@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2344 2006/08/26 16:11:05 kristerw Exp $
+# $Id: Makefile,v 1.2345 2006/08/27 15:05:50 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1103,6 +1103,7 @@ SUBDIR+=	py-stem
 SUBDIR+=	py-tagger
 SUBDIR+=	py-twisted
 SUBDIR+=	py-twisted-conch
+SUBDIR+=	py-twisted-core
 SUBDIR+=	py-twisted-flow
 SUBDIR+=	py-twisted-lore
 SUBDIR+=	py-twisted-mail
@@ -1112,6 +1113,7 @@ SUBDIR+=	py-twisted-pair
 SUBDIR+=	py-twisted-runner
 SUBDIR+=	py-twisted-web
 SUBDIR+=	py-twisted-words
+SUBDIR+=	py-twisted-zopeinterface
 SUBDIR+=	py-twisted-xish
 SUBDIR+=	py-visionegg
 SUBDIR+=	py-visionegg-contrib
