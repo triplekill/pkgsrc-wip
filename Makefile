@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2353 2006/08/28 16:48:55 milosn Exp $
+# $Id: Makefile,v 1.2354 2006/08/28 18:51:16 milosn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -292,6 +292,7 @@ SUBDIR+=	gaim
 SUBDIR+=	gaim-icb
 SUBDIR+=	gajim
 SUBDIR+=	galib
+SUBDIR+=	gambas
 SUBDIR+=	gauche-dbd-pg
 SUBDIR+=	gauche-fastcgi
 SUBDIR+=	gcl
