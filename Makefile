@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2355 2006/08/29 12:49:54 rillig Exp $
+# $Id: Makefile,v 1.2356 2006/08/29 16:05:47 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1347,6 +1347,7 @@ SUBDIR+=	tor
 SUBDIR+=	tr2latex
 SUBDIR+=	traceroute-nanog
 SUBDIR+=	trapproto
+SUBDIR+=	trayer
 SUBDIR+=	treetool
 SUBDIR+=	treeview
 SUBDIR+=	tripwire2
