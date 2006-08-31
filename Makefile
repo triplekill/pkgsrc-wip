@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2356 2006/08/29 16:05:47 kristerw Exp $
+# $Id: Makefile,v 1.2357 2006/08/31 10:00:09 milosn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -284,6 +284,7 @@ SUBDIR+=	fusefs
 SUBDIR+=	fusefs-btfs
 SUBDIR+=	fusefs-sshfs
 SUBDIR+=	fvcool
+SUBDIR+=	fvwm-crystal
 SUBDIR+=	g21k-binutils
 SUBDIR+=	gDesklets
 SUBDIR+=	gDesklets-CornerXMMS
