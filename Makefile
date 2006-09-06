@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2362 2006/09/03 12:57:01 thomasklausner Exp $
+# $Id: Makefile,v 1.2363 2006/09/03 14:25:18 zul_ Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1181,10 +1181,8 @@ SUBDIR+=	rosegarden-current
 SUBDIR+=	rsyslog
 SUBDIR+=	rte
 SUBDIR+=	ruby-GalleryAdministrator
-SUBDIR+=	ruby-dpklib
 SUBDIR+=	ruby-ldap
 SUBDIR+=	ruby-mecab
-SUBDIR+=	ruby-misen
 SUBDIR+=	runit
 SUBDIR+=	samhain
 SUBDIR+=	sara
