@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2363 2006/09/03 14:25:18 zul_ Exp $
+# $Id: Makefile,v 1.2364 2006/09/06 22:19:07 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -159,6 +159,7 @@ SUBDIR+=	csoap
 SUBDIR+=	csup
 SUBDIR+=	cvs-syncmail
 SUBDIR+=	cvs20hg
+SUBDIR+=	cvs2darcs
 SUBDIR+=	cvsproxy
 SUBDIR+=	cvstrac
 SUBDIR+=	cvsutils
