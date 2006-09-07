@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2364 2006/09/06 22:19:07 thomasklausner Exp $
+# $Id: Makefile,v 1.2365 2006/09/06 22:57:35 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1322,7 +1322,6 @@ SUBDIR+=	tea
 SUBDIR+=	teamspeak
 SUBDIR+=	tendra
 SUBDIR+=	tenmado
-SUBDIR+=	terminus-font
 SUBDIR+=	testdisk
 SUBDIR+=	tetrinet
 SUBDIR+=	tex-arphic-ttf
