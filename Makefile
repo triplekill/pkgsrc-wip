@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2366 2006/09/07 00:09:28 obache Exp $
+# $Id: Makefile,v 1.2367 2006/09/07 08:28:42 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1433,9 +1433,9 @@ SUBDIR+=	xfce4
 SUBDIR+=	xfce4-appfinder
 SUBDIR+=	xfce4-desktop
 SUBDIR+=	xfce4-dev-tools
-SUBDIR+=	xfce4-fsguard-plugin
 SUBDIR+=	xfce4-exo
 SUBDIR+=	xfce4-extras
+SUBDIR+=	xfce4-fsguard-plugin
 SUBDIR+=	xfce4-genmon-plugin
 SUBDIR+=	xfce4-gtk2-engine
 SUBDIR+=	xfce4-icon-theme
