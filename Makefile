@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2372 2006/09/09 11:36:07 adrian_p Exp $
+# $Id: Makefile,v 1.2373 2006/09/09 13:15:02 adrian_p Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -265,6 +265,7 @@ SUBDIR+=	flc
 SUBDIR+=	flexdump
 SUBDIR+=	flightgear
 SUBDIR+=	flightgear-base
+SUBDIR+=	fltk2
 SUBDIR+=	fluxspace
 SUBDIR+=	fnord
 SUBDIR+=	font-bitstream-type1
