@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2380 2006/09/13 14:10:17 bartoszkuzma Exp $
+# $Id: Makefile,v 1.2381 2006/09/13 16:55:03 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -87,6 +87,7 @@ SUBDIR+=	axe
 SUBDIR+=	azureus
 SUBDIR+=	backplane
 SUBDIR+=	barnyard
+SUBDIR+=	bashdb
 SUBDIR+=	bastard
 SUBDIR+=	bcmfw
 SUBDIR+=	bdftopcf
