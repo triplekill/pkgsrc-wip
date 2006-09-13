@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2379 2006/09/12 22:42:01 samott Exp $
+# $Id: Makefile,v 1.2380 2006/09/13 14:10:17 bartoszkuzma Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -389,7 +389,6 @@ SUBDIR+=	gtkglk
 SUBDIR+=	gtklookat
 SUBDIR+=	gtklp
 SUBDIR+=	gtypist
-SUBDIR+=	guile-gnome
 SUBDIR+=	guile-scsh
 SUBDIR+=	guilerxspencer
 SUBDIR+=	gune
