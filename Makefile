@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2389 2006/09/30 17:07:30 thomaspfaff Exp $
+# $Id: Makefile,v 1.2390 2006/09/30 17:55:09 unex_linija Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -121,6 +121,7 @@ SUBDIR+=	brltty
 SUBDIR+=	bscript
 SUBDIR+=	bsfilter
 SUBDIR+=	bss
+SUBDIR+=	btpin-qt
 SUBDIR+=	btscanner
 SUBDIR+=	bub-n-bros
 SUBDIR+=	busybox
