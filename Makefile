@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2391 2006/10/02 19:07:35 plunky Exp $
+# $Id: Makefile,v 1.2392 2006/10/02 19:20:18 plunky Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -247,7 +247,6 @@ SUBDIR+=	engine-pkcs11
 SUBDIR+=	ent
 SUBDIR+=	eot
 SUBDIR+=	epplets
-SUBDIR+=	epsg
 SUBDIR+=	erc
 SUBDIR+=	esdl
 SUBDIR+=	ethtool
