@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2394 2006/10/03 20:42:55 milosn Exp $
+# $Id: Makefile,v 1.2395 2006/10/04 09:56:58 ondratu Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -742,6 +742,7 @@ SUBDIR+=	mysql-docs
 SUBDIR+=	mythtv
 SUBDIR+=	n0t
 SUBDIR+=	natali
+SUBDIR+=	naturaldocs
 SUBDIR+=	navigatrix
 SUBDIR+=	ncbi
 SUBDIR+=	ncbi-bin
