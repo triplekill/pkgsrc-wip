@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2393 2006/10/03 19:55:55 lexort Exp $
+# $Id: Makefile,v 1.2394 2006/10/03 20:42:55 milosn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -378,6 +378,7 @@ SUBDIR+=	graveman
 SUBDIR+=	grip
 SUBDIR+=	grisbi
 SUBDIR+=	gromacs
+SUBDIR+=	grsync
 SUBDIR+=	grub2
 SUBDIR+=	gst-python
 SUBDIR+=	gstat
