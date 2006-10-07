@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2396 2006/10/04 11:57:04 ondratu Exp $
+# $Id: Makefile,v 1.2397 2006/10/06 05:02:09 kcf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -745,6 +745,7 @@ SUBDIR+=	n0t
 SUBDIR+=	natali
 SUBDIR+=	naturaldocs
 SUBDIR+=	navigatrix
+SUBDIR+=	nbfc
 SUBDIR+=	ncbi
 SUBDIR+=	ncbi-bin
 SUBDIR+=	ncbi-c++-lib
