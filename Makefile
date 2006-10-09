@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2398 2006/10/07 01:05:04 thomaspfaff Exp $
+# $Id: Makefile,v 1.2399 2006/10/08 01:13:23 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1023,6 +1023,7 @@ SUBDIR+=	php-doc-sv
 SUBDIR+=	php-fcgi
 SUBDIR+=	php-mode
 SUBDIR+=	php-recode
+SUBDIR+=	php-suhosin
 SUBDIR+=	picasm
 SUBDIR+=	picprog
 SUBDIR+=	pike
