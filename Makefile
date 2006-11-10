@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2422 2006/11/07 17:52:29 jsonn Exp $
+# $Id: Makefile,v 1.2423 2006/11/07 21:18:52 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1305,6 +1305,7 @@ SUBDIR+=	sun-j2me
 SUBDIR+=	sunterlib
 SUBDIR+=	super-smack
 SUBDIR+=	supertux
+SUBDIR+=	suse100_devel
 SUBDIR+=	suse100_SDL
 SUBDIR+=	svgalib
 SUBDIR+=	swami
