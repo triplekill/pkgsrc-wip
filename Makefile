@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2434 2006/11/15 17:57:59 dhowland Exp $
+# $Id: Makefile,v 1.2435 2006/11/16 20:27:36 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1023,6 +1023,10 @@ SUBDIR+=	php-suhosin
 SUBDIR+=	picasm
 SUBDIR+=	picprog
 SUBDIR+=	pike
+SUBDIR+=	pike-Gettext
+SUBDIR+=	pike-Gz
+SUBDIR+=	pike-Pipe
+SUBDIR+=	pike-Regexp-PCRE
 SUBDIR+=	pike-core
 SUBDIR+=	pike-gdbm
 SUBDIR+=	pike-mime
@@ -1479,6 +1483,7 @@ SUBDIR+=	xrdp
 SUBDIR+=	xscribble-fs
 SUBDIR+=	xsm
 SUBDIR+=	xspd
+SUBDIR+=	xspdapp
 SUBDIR+=	xspread
 SUBDIR+=	xspsys
 SUBDIR+=	xtrace
