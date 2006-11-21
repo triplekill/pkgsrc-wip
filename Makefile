@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2436 2006/11/18 01:01:30 kristerw Exp $
+# $Id: Makefile,v 1.2437 2006/11/19 17:40:05 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1267,6 +1267,7 @@ SUBDIR+=	sm-compatibility
 SUBDIR+=	smbldap-tools
 SUBDIR+=	smc
 SUBDIR+=	smlnj-current
+SUBDIR+=	smtp-gated
 SUBDIR+=	smtp.proxy
 SUBDIR+=	smtprc
 SUBDIR+=	smtprc-gui
