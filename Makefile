@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2437 2006/11/19 17:40:05 shattered Exp $
+# $Id: Makefile,v 1.2438 2006/11/21 14:28:55 bartoszkuzma Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1229,6 +1229,9 @@ SUBDIR+=	scsh-install-lib
 SUBDIR+=	scummvm-nightly
 SUBDIR+=	scx
 SUBDIR+=	sdd
+SUBDIR+=	seamonkey
+SUBDIR+=	seamonkey-bin
+SUBDIR+=	seamonkey-gtk1
 SUBDIR+=	send-pr
 SUBDIR+=	sendmailX
 SUBDIR+=	serlook
