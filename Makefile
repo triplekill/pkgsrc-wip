@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2448 2006/12/12 01:54:51 cetrox Exp $
+# $Id: Makefile,v 1.2449 2006/12/13 18:35:25 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -522,7 +522,6 @@ SUBDIR+=	leo
 SUBDIR+=	lhs2tex
 SUBDIR+=	libGenome
 SUBDIR+=	libSoundTouch
-SUBDIR+=	libXcomposite
 SUBDIR+=	libXvMC
 SUBDIR+=	libargp
 SUBDIR+=	libassa
