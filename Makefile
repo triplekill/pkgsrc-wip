@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2453 2006/12/20 02:48:06 schnoebe Exp $
+# $Id: Makefile,v 1.2454 2006/12/21 00:04:27 larnor Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -971,6 +971,7 @@ SUBDIR+=	p5-Text-Context
 SUBDIR+=	p5-Text-German
 SUBDIR+=	p5-Text-Hatena
 SUBDIR+=	p5-Text-SimpleTable
+SUBDIR+=	p5-Text-VimColor
 SUBDIR+=	p5-Tie-Array-Sorted
 SUBDIR+=	p5-Tie-DB_Lock
 SUBDIR+=	p5-Time-Piece-Range
