@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2456 2006/12/24 10:11:14 thomasklausner Exp $
+# $Id: Makefile,v 1.2457 2006/12/25 10:22:21 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1509,7 +1509,6 @@ SUBDIR+=	xsm
 SUBDIR+=	xspd
 SUBDIR+=	xspdapp
 SUBDIR+=	xspread
-SUBDIR+=	xspsys
 SUBDIR+=	xtrace
 SUBDIR+=	xxdiff
 SUBDIR+=	xxkb
