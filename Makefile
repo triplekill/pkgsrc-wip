@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2455 2006/12/22 08:49:38 jgoamakf Exp $
+# $Id: Makefile,v 1.2456 2006/12/24 10:11:14 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -960,6 +960,7 @@ SUBDIR+=	p5-Sub-Override
 SUBDIR+=	p5-Task-Catalyst
 SUBDIR+=	p5-Template-Provider-Encoding
 SUBDIR+=	p5-Template-Timer
+SUBDIR+=	p5-Term-Encoding
 SUBDIR+=	p5-Test-Class
 SUBDIR+=	p5-Test-Differences
 SUBDIR+=	p5-Test-MockObject
