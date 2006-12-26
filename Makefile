@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2457 2006/12/25 10:22:21 jgoamakf Exp $
+# $Id: Makefile,v 1.2458 2006/12/25 18:24:42 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -890,6 +890,7 @@ SUBDIR+=	p5-Email-MIME-Modifier
 SUBDIR+=	p5-Email-MessageID
 SUBDIR+=	p5-Email-Send
 SUBDIR+=	p5-Email-Simple-Creator
+SUBDIR+=	p5-Encode-Detect
 SUBDIR+=	p5-Encode-compat
 SUBDIR+=	p5-Exporter-Lite
 SUBDIR+=	p5-File-Copy-Recursive
