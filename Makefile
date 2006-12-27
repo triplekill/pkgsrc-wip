@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2458 2006/12/25 18:24:42 thomasklausner Exp $
+# $Id: Makefile,v 1.2459 2006/12/26 02:19:05 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -434,7 +434,6 @@ SUBDIR+=	iisemulator
 SUBDIR+=	ile
 SUBDIR+=	ilohamail
 SUBDIR+=	im
-SUBDIR+=	imake
 SUBDIR+=	imapsync
 SUBDIR+=	imonc
 SUBDIR+=	interbase-docs
