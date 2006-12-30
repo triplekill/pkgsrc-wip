@@ -1,10 +1,9 @@
-# $Id: Makefile,v 1.2462 2006/12/28 17:18:23 jakllsch Exp $
+# $Id: Makefile,v 1.2463 2006/12/30 18:50:09 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	Chinput
-SUBDIR+=	DarwinStreamingServer
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	MyServer
