@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2476 2007/01/12 06:08:16 netcap Exp $
+# $Id: Makefile,v 1.2477 2007/01/14 19:36:41 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1547,7 +1547,6 @@ SUBDIR+=	wings
 SUBDIR+=	wireless-tools
 SUBDIR+=	wise2
 SUBDIR+=	wkf
-SUBDIR+=	wmii-3
 SUBDIR+=	wmitime
 SUBDIR+=	wmmp
 SUBDIR+=	wmnetload
