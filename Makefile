@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2481 2007/01/15 23:39:21 larnor Exp $
+# $Id: Makefile,v 1.2482 2007/01/16 13:04:02 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1051,6 +1051,7 @@ SUBDIR+=	p5-Module-Pluggable-Fast
 SUBDIR+=	p5-Module-Pluggable-Ordered
 SUBDIR+=	p5-NNTPClient
 SUBDIR+=	p5-Net-Amazon
+SUBDIR+=	p5-Net-DBus
 SUBDIR+=	p5-Net-Delicious
 SUBDIR+=	p5-Net-Dict
 SUBDIR+=	p5-Net-PcapUtils
