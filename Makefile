@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2486 2007/01/17 21:20:20 thomasklausner Exp $
+# $Id: Makefile,v 1.2487 2007/01/20 13:58:09 jsonn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1226,6 +1226,7 @@ SUBDIR+=	py-albatross
 SUBDIR+=	py-aspell
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
+SUBDIR+=	py-chardet
 SUBDIR+=	py-dateutil
 SUBDIR+=	py-divmod-axiom
 SUBDIR+=	py-divmod-epsilon
