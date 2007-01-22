@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2487 2007/01/20 13:58:09 jsonn Exp $
+# $Id: Makefile,v 1.2488 2007/01/21 10:11:00 bartoszkuzma Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1640,7 +1640,6 @@ SUBDIR+=	xyssl
 SUBDIR+=	yabause
 SUBDIR+=	yafray
 SUBDIR+=	yaws
-SUBDIR+=	yougrabber
 SUBDIR+=	yp-tools
 SUBDIR+=	ypbind-mt
 SUBDIR+=	ypserv
