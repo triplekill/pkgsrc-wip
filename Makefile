@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2490 2007/01/24 08:30:53 marttikuparinen Exp $
+# $Id: Makefile,v 1.2491 2007/01/24 17:20:35 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -67,7 +67,6 @@ SUBDIR+=	ap2-auth-imap
 SUBDIR+=	ap2-auth-pam
 SUBDIR+=	ap2-encoding
 SUBDIR+=	ap2-evasive
-SUBDIR+=	ap2-fcgid
 SUBDIR+=	ap2-jk2
 SUBDIR+=	ap2-layout
 SUBDIR+=	ap2-limitipconn
