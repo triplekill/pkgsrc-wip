@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2494 2007/01/26 16:38:07 minskim Exp $
+# $Id: Makefile,v 1.2495 2007/01/27 00:22:20 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -213,6 +213,7 @@ SUBDIR+=	drpython
 SUBDIR+=	dssi
 SUBDIR+=	dumb
 SUBDIR+=	dvbsnoop
+SUBDIR+=	dvdisaster
 SUBDIR+=	dwepcrack
 SUBDIR+=	dwm
 SUBDIR+=	dxmake
