@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2497 2007/01/28 09:39:09 thomasklausner Exp $
+# $Id: Makefile,v 1.2498 2007/01/29 16:43:01 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -139,6 +139,7 @@ SUBDIR+=	ccrtp
 SUBDIR+=	ccrypt
 SUBDIR+=	cdogs
 SUBDIR+=	cdpr
+SUBDIR+=	cdrkit
 SUBDIR+=	cdrtools-devel
 SUBDIR+=	cfengine
 SUBDIR+=	chbg
