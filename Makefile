@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2496 2007/01/27 19:09:38 shattered Exp $
+# $Id: Makefile,v 1.2497 2007/01/28 09:39:09 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -128,7 +128,6 @@ SUBDIR+=	busybox
 SUBDIR+=	bwm-ng
 SUBDIR+=	c-news
 SUBDIR+=	c2hs
-SUBDIR+=	c2html
 SUBDIR+=	cabal
 SUBDIR+=	cabot
 SUBDIR+=	cairo-java
