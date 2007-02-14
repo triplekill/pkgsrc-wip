@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2514 2007/02/09 09:51:26 netcap Exp $
+# $Id: Makefile,v 1.2515 2007/02/09 19:19:37 jakllsch Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -671,6 +671,7 @@ SUBDIR+=	libXv
 SUBDIR+=	libargp
 SUBDIR+=	libassa
 SUBDIR+=	libavc1394
+SUBDIR+=	libbinio
 SUBDIR+=	libbtctl
 SUBDIR+=	libdaemon
 SUBDIR+=	libdialog
