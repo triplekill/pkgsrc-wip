@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2516 2007/02/14 17:53:00 netcap Exp $
+# $Id: Makefile,v 1.2517 2007/02/14 18:41:41 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -169,7 +169,6 @@ SUBDIR+=	cream
 SUBDIR+=	cryptcat
 SUBDIR+=	csoap
 SUBDIR+=	csstidy
-SUBDIR+=	csup
 SUBDIR+=	cvs-syncmail
 SUBDIR+=	cvs20hg
 SUBDIR+=	cvs2darcs
