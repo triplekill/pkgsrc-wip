@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2523 2007/02/18 14:14:58 kristerw Exp $
+# $Id: Makefile,v 1.2524 2007/02/19 19:44:25 guigui2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -803,6 +803,7 @@ SUBDIR+=	mg-lsh
 SUBDIR+=	microcom
 SUBDIR+=	mid2gmc
 SUBDIR+=	mim
+SUBDIR+=	mime-support
 SUBDIR+=	mingw
 SUBDIR+=	mingw-binutils
 SUBDIR+=	mingw-gcc
