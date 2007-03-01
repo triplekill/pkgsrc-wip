@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2528 2007/02/27 12:45:34 thomasklausner Exp $
+# $Id: Makefile,v 1.2529 2007/02/28 06:15:37 dzoe Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -699,6 +699,7 @@ SUBDIR+=	libjudy
 SUBDIR+=	liblingoteach
 SUBDIR+=	liblo
 SUBDIR+=	libmaa
+SUBDIR+=	libmcs
 SUBDIR+=	libmtp
 SUBDIR+=	libmusclecard
 SUBDIR+=	libnettle
