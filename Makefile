@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2531 2007/03/01 07:39:53 netcap Exp $
+# $Id: Makefile,v 1.2532 2007/03/01 15:28:38 lkundrak Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -644,7 +644,6 @@ SUBDIR+=	klamav
 SUBDIR+=	korelib
 SUBDIR+=	kpanta
 SUBDIR+=	kplayer
-SUBDIR+=	ktorrent
 SUBDIR+=	kvirc
 SUBDIR+=	kxmleditor
 SUBDIR+=	kylix-openedition
