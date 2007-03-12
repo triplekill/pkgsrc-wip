@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2541 2007/03/09 19:06:01 kristerw Exp $
+# $Id: Makefile,v 1.2542 2007/03/10 23:17:14 uhabel Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1466,6 +1466,7 @@ SUBDIR+=	sks
 SUBDIR+=	slackpkg2pkgsrc
 SUBDIR+=	slate
 SUBDIR+=	sleuthkit
+SUBDIR+=	slim
 SUBDIR+=	slime
 SUBDIR+=	slocate
 SUBDIR+=	slock
