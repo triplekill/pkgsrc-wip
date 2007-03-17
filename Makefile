@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2544 2007/03/13 19:01:12 briandealwis Exp $
+# $Id: Makefile,v 1.2545 2007/03/15 00:25:03 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1076,7 +1076,6 @@ SUBDIR+=	p5-Exporter-Lite
 SUBDIR+=	p5-File-Path-Expand
 SUBDIR+=	p5-Frontier-RPC
 SUBDIR+=	p5-GPS-Garmin
-SUBDIR+=	p5-GTop
 SUBDIR+=	p5-Geo-Distance
 SUBDIR+=	p5-Geo-IPfree
 SUBDIR+=	p5-Getopt-ArgvFile
