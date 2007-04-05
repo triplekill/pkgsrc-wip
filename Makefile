@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2553 2007/04/05 19:59:37 alchow Exp $
+# $Id: Makefile,v 1.2554 2007/04/05 20:12:52 alchow Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -276,6 +276,7 @@ SUBDIR+=	fbpanel
 SUBDIR+=	festival-gaim
 SUBDIR+=	ffmpeg-devel
 SUBDIR+=	ffmpeg-snapshot
+SUBDIR+=	filepp
 SUBDIR+=	firebird
 SUBDIR+=	fireflysung-ttf
 SUBDIR+=	firefox-wrapper
