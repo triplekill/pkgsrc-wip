@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2559 2007/04/14 13:18:37 kibumh Exp $
+# $Id: Makefile,v 1.2560 2007/04/16 19:05:27 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -241,6 +241,7 @@ SUBDIR+=	editres
 SUBDIR+=	eic
 SUBDIR+=	ejabberd
 SUBDIR+=	ejourn
+SUBDIR+=	ekg2
 SUBDIR+=	electricsheep
 SUBDIR+=	emacs-current
 SUBDIR+=	emacs-jabber
