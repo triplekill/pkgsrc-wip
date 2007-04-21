@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2564 2007/04/17 22:08:23 dillo Exp $
+# $Id: Makefile,v 1.2565 2007/04/20 18:27:33 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1385,6 +1385,7 @@ SUBDIR+=	redfang
 SUBDIR+=	regexxer
 SUBDIR+=	rekall
 SUBDIR+=	relaydb
+SUBDIR+=	remctl
 SUBDIR+=	rep-gtk2
 SUBDIR+=	rgb
 SUBDIR+=	rhapsody
