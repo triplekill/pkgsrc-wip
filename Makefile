@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2570 2007/04/24 19:52:11 tnn2 Exp $
+# $Id: Makefile,v 1.2571 2007/04/24 20:37:16 christtrekker Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1677,6 +1677,7 @@ SUBDIR+=	xdpyinfo
 SUBDIR+=	xf86rushproto
 SUBDIR+=	xfce4
 SUBDIR+=	xfce4-appfinder
+SUBDIR+=	xfce4-battery-plugin
 SUBDIR+=	xfce4-desktop
 SUBDIR+=	xfce4-dev-tools
 SUBDIR+=	xfce4-dict-plugin
