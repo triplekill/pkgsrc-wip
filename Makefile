@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2571 2007/04/24 20:37:16 christtrekker Exp $
+# $Id: Makefile,v 1.2572 2007/04/25 08:27:46 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1202,6 +1202,7 @@ SUBDIR+=	pdfedit
 SUBDIR+=	pdftk
 SUBDIR+=	pdnsd
 SUBDIR+=	pdq
+SUBDIR+=	pear-DB_DataObject
 SUBDIR+=	pear-HTTP_Client
 SUBDIR+=	pekwm-nightly
 SUBDIR+=	perl59
