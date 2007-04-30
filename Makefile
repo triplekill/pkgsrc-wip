@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2576 2007/04/29 17:05:15 dhowland Exp $
+# $Id: Makefile,v 1.2577 2007/04/29 20:06:59 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1102,7 +1102,6 @@ SUBDIR+=	p5-HTTP-BrowserDetect
 SUBDIR+=	p5-HTTP-Request-AsCGI
 SUBDIR+=	p5-Image-EXIF
 SUBDIR+=	p5-Imager
-SUBDIR+=	p5-JSON
 SUBDIR+=	p5-Jcode
 SUBDIR+=	p5-Lingua-EN-Inflect-Number
 SUBDIR+=	p5-Lingua-PT-Stemmer
