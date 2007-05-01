@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2578 2007/04/30 01:47:37 obache Exp $
+# $Id: Makefile,v 1.2579 2007/04/30 05:18:36 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -928,7 +928,6 @@ SUBDIR+=	octave-nox11
 SUBDIR+=	ode
 SUBDIR+=	omniORB
 SUBDIR+=	oops
-SUBDIR+=	opal
 SUBDIR+=	opax
 SUBDIR+=	opd
 SUBDIR+=	open21xx
@@ -1275,7 +1274,6 @@ SUBDIR+=	prtunnel
 SUBDIR+=	pts
 SUBDIR+=	ptunnel
 SUBDIR+=	pulseaudio
-SUBDIR+=	pwlib
 SUBDIR+=	pxlib
 SUBDIR+=	pxview
 SUBDIR+=	py-BeautifulSoup
