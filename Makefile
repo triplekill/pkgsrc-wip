@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2579 2007/04/30 05:18:36 obache Exp $
+# $Id: Makefile,v 1.2580 2007/05/01 15:14:09 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1201,7 +1201,6 @@ SUBDIR+=	pear-DB_DataObject
 SUBDIR+=	pear-HTTP_Client
 SUBDIR+=	pekwm-nightly
 SUBDIR+=	perl59
-SUBDIR+=	perltidy
 SUBDIR+=	pgp6
 SUBDIR+=	phlib
 #SUBDIR+=	php-doc			# not a package
