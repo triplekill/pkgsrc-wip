@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2593 2007/05/19 12:40:12 thomasklausner Exp $
+# $Id: Makefile,v 1.2594 2007/05/20 15:45:11 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -674,8 +674,6 @@ SUBDIR+=	leim-current
 SUBDIR+=	leo
 SUBDIR+=	lhs2tex
 SUBDIR+=	libGenome
-SUBDIR+=	libICE
-SUBDIR+=	libSM
 SUBDIR+=	libSoundTouch
 SUBDIR+=	libadplug
 SUBDIR+=	libargp
