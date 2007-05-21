@@ -1,7 +1,7 @@
 # $NetBSD$
 ###########################################################################
 #
-# $Id: linuxbin.pkg.mk,v 1.22 2006/02/04 10:56:49 thomasklausner Exp $
+# $Id: linuxbin.pkg.mk,v 1.23 2006/02/06 17:58:30 thomasklausner Exp $
 #
 # Proposal: how should we deal with Linux binary packages packages
 #
@@ -282,18 +282,18 @@ PKG_FAIL_REASON+=	"[linuxbin.pkg.mk] Please add support for this kind of package
 #
 
 .if defined(LINUX_DOWNLOAD)
-_FETCH_MESSAGE?= \
-	${ECHO} "======================================================================"; \
-	${ECHO} ; \
-	${ECHO} " Files needed to create this package need to be downloaded from "; \
-	${ECHO} ; \
-	${ECHO} " 	${LINUX_DOWNLOAD}"; \
-	${ECHO} ; \
-	${ECHO} " into:"; \
-	${ECHO} ; \
-	${ECHO} "	${DISTDIR}/${DISTNAME}${EXTRACT_SUFX}"; \
-	${ECHO} ; \
-	${ECHO} "======================================================================"
+FETCH_MESSAGE?=
+	"======================================================================" \
+	"" \
+	"The files for this package need to be downloaded from" \
+	"" \
+	"        ${LINUX_DOWNLOAD}" \
+	"" \
+	"into:"; \
+	"" \
+	"        ${DISTDIR}/${DISTNAME}${EXTRACT_SUFX}" \
+	"" \
+	"======================================================================"
 .endif
 
 .endif
