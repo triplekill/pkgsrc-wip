@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2598 2007/05/25 18:20:25 kristerw Exp $
+# $Id: Makefile,v 1.2599 2007/05/27 08:29:58 ondratu Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1761,7 +1761,6 @@ SUBDIR+=	xtrace
 SUBDIR+=	xtrlock
 SUBDIR+=	xvidtune
 SUBDIR+=	xxdiff
-SUBDIR+=	xxkb
 SUBDIR+=	xyssl
 SUBDIR+=	yabause
 SUBDIR+=	yafray
