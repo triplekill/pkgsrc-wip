@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2605 2007/06/02 01:01:46 hoka_adam Exp $
+# $Id: Makefile,v 1.2606 2007/06/04 13:34:50 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -178,6 +178,7 @@ SUBDIR+=	confuse
 SUBDIR+=	cops
 SUBDIR+=	copytape
 SUBDIR+=	courierpassd
+SUBDIR+=	cpdup
 SUBDIR+=	cpphs
 SUBDIR+=	crafty
 SUBDIR+=	cream
