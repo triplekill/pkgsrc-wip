@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2610 2007/06/12 17:16:52 kheinz Exp $
+# $Id: Makefile,v 1.2611 2007/06/13 09:27:53 ondratu Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -723,7 +723,6 @@ SUBDIR+=	libgtkhtml-java
 SUBDIR+=	libhttpd
 SUBDIR+=	libinstaller
 SUBDIR+=	libixp
-SUBDIR+=	libjudy
 SUBDIR+=	liblingoteach
 SUBDIR+=	liblo
 SUBDIR+=	libmaa
