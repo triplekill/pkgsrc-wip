@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2619 2007/07/01 00:27:22 thomasklausner Exp $
+# $Id: Makefile,v 1.2620 2007/07/01 14:14:48 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1324,7 +1324,6 @@ SUBDIR+=	py-aspell
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
 SUBDIR+=	py-chardet
-SUBDIR+=	py-dateutil
 SUBDIR+=	py-divmod-axiom
 SUBDIR+=	py-divmod-epsilon
 SUBDIR+=	py-divmod-mantissa
