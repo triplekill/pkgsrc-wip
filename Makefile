@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2621 2007/07/02 18:02:53 thomasklausner Exp $
+# $Id: Makefile,v 1.2622 2007/07/03 16:29:24 ondratu Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1619,7 +1619,6 @@ SUBDIR+=	unrealtournament-server
 SUBDIR+=	uptimed
 SUBDIR+=	uqm
 SUBDIR+=	uqwk
-SUBDIR+=	urlgfe
 SUBDIR+=	uschedule
 SUBDIR+=	ushare
 SUBDIR+=	ussp-push
