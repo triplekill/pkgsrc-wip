@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2622 2007/07/03 16:29:24 ondratu Exp $
+# $Id: Makefile,v 1.2623 2007/07/08 19:22:44 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -230,6 +230,7 @@ SUBDIR+=	dpic
 SUBDIR+=	drow
 SUBDIR+=	drpython
 SUBDIR+=	drumpiler
+SUBDIR+=	dsh
 SUBDIR+=	dssi
 SUBDIR+=	dumb
 SUBDIR+=	dvbsnoop
@@ -702,6 +703,7 @@ SUBDIR+=	libdfui
 SUBDIR+=	libdialog
 SUBDIR+=	libdisasm
 SUBDIR+=	libdmx
+SUBDIR+=	libdshconfig
 SUBDIR+=	libdssialsacompat
 SUBDIR+=	liberation-ttf
 SUBDIR+=	libgadu
