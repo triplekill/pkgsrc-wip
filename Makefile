@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2630 2007/07/21 14:20:25 krub1 Exp $
+# $Id: Makefile,v 1.2631 2007/07/24 21:31:47 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -97,6 +97,7 @@ SUBDIR+=	axe
 SUBDIR+=	axel
 SUBDIR+=	azureus
 SUBDIR+=	backplane
+SUBDIR+=	bakery
 SUBDIR+=	barnyard
 SUBDIR+=	bashdb
 SUBDIR+=	bastard
