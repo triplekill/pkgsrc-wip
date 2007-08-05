@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2635 2007/08/03 00:06:29 jukka Exp $
+# $Id: Makefile,v 1.2636 2007/08/04 09:57:30 makoto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -945,6 +945,7 @@ SUBDIR+=	ninvaders
 SUBDIR+=	nnrpd
 SUBDIR+=	noip
 SUBDIR+=	noiptun
+SUBDIR+=	nomadio
 SUBDIR+=	nos-tun
 SUBDIR+=	nrpe
 SUBDIR+=	nullpop
@@ -957,6 +958,7 @@ SUBDIR+=	octave-nox11
 SUBDIR+=	ode
 SUBDIR+=	omniORB
 SUBDIR+=	oops
+SUBDIR+=	opal
 SUBDIR+=	opax
 SUBDIR+=	opd
 SUBDIR+=	open21xx
