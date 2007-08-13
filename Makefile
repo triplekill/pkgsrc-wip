@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2642 2007/08/11 20:31:14 netcap Exp $
+# $Id: Makefile,v 1.2643 2007/08/12 19:22:12 mj_turner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1839,4 +1839,8 @@ ${.CURDIR}/INDEX: ${.CURDIR}/PKGDB
 	${GREP} -v '||||||||||$$' ${.CURDIR}/INDEX > ${.CURDIR}/INDEX.tmp && \
 		${MV} ${.CURDIR}/INDEX.tmp ${.CURDIR}/INDEX
 
+.if exists(../mk/misc/category.mk)
+.include "../mk/misc/category.mk"
+.else
 .include "../mk/bsd.pkg.subdir.mk"
+.endif
