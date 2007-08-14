@@ -1,10 +1,11 @@
-# $Id: Makefile,v 1.2644 2007/08/13 08:12:04 rillig Exp $
+# $Id: Makefile,v 1.2645 2007/08/13 20:03:08 dvol Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	Chinput
 SUBDIR+=	GoogleEarth
+SUBDIR+=	GSCommander
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	Mesa
