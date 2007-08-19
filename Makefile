@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2648 2007/08/15 23:47:41 briandealwis Exp $
+# $Id: Makefile,v 1.2649 2007/08/16 02:11:49 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -756,7 +756,6 @@ SUBDIR+=	libticables
 SUBDIR+=	libticalcs
 SUBDIR+=	libtifiles
 SUBDIR+=	libtlen2
-SUBDIR+=	libupnp
 SUBDIR+=	libuuid
 SUBDIR+=	libuxre
 SUBDIR+=	libvc
