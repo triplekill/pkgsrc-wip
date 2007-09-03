@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2656 2007/09/01 20:43:26 larnor Exp $
+# $Id: Makefile,v 1.2657 2007/09/03 19:25:18 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -586,6 +586,7 @@ SUBDIR+=	heliodor
 SUBDIR+=	hellanzb
 SUBDIR+=	help2man
 SUBDIR+=	heroes
+SUBDIR+=	hgview
 SUBDIR+=	highlight
 SUBDIR+=	hping3
 SUBDIR+=	hplip
