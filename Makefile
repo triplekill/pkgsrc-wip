@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2661 2007/09/05 13:25:18 emil_s Exp $
+# $Id: Makefile,v 1.2662 2007/09/07 18:10:44 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1556,7 +1556,6 @@ SUBDIR+=	stardict
 SUBDIR+=	stmpclean
 SUBDIR+=	stonx
 SUBDIR+=	stunnel3
-SUBDIR+=	subtitleeditor
 SUBDIR+=	sudoscript
 SUBDIR+=	sugarCRM
 SUBDIR+=	sun-j2me
