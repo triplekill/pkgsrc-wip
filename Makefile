@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2666 2007/09/13 18:48:31 hoka_adam Exp $
+# $Id: Makefile,v 1.2667 2007/09/13 19:27:05 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -79,6 +79,7 @@ SUBDIR+=	ap2-jk2
 SUBDIR+=	ap2-layout
 SUBDIR+=	ap2-limitipconn
 SUBDIR+=	ap2-macro
+SUBDIR+=	ap2-vhost-ldap
 SUBDIR+=	ap2-zeroconf
 SUBDIR+=	apachebench2
 SUBDIR+=	apstget
