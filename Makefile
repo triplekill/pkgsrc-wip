@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2668 2007/09/14 09:46:56 imilh Exp $
+# $Id: Makefile,v 1.2669 2007/09/14 16:49:24 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -131,7 +131,6 @@ SUBDIR+=	bluez-libs
 SUBDIR+=	bluez-utils
 SUBDIR+=	bmap
 SUBDIR+=	bmp-docklet
-SUBDIR+=	bmpx
 SUBDIR+=	bnr2
 SUBDIR+=	boa
 SUBDIR+=	boinc-client
