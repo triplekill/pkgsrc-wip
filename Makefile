@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2669 2007/09/14 16:49:24 hoka_adam Exp $
+# $Id: Makefile,v 1.2670 2007/09/16 08:05:15 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -725,7 +725,6 @@ SUBDIR+=	libdisasm
 SUBDIR+=	libdmx
 SUBDIR+=	libdshconfig
 SUBDIR+=	libdssialsacompat
-SUBDIR+=	liberation-ttf
 SUBDIR+=	libgadu
 SUBDIR+=	libgeotiff
 SUBDIR+=	libgksu
