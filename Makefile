@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2679 2007/09/23 18:02:46 ghen Exp $
+# $Id: Makefile,v 1.2680 2007/10/02 13:44:37 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -775,6 +775,7 @@ SUBDIR+=	libxcb
 SUBDIR+=	libxfce4gui
 SUBDIR+=	libxfce4mcs
 SUBDIR+=	libxfce4util
+SUBDIR+=	libzrtpcpp
 SUBDIR+=	lidia
 SUBDIR+=	lilo
 SUBDIR+=	lingoteach-lesson
