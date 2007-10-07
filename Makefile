@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2680 2007/10/02 13:44:37 tnn2 Exp $
+# $Id: Makefile,v 1.2681 2007/10/06 02:24:46 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1634,6 +1634,7 @@ SUBDIR+=	twinkle
 SUBDIR+=	txt2tags
 SUBDIR+=	typespeed
 SUBDIR+=	typhoon
+SUBDIR+=	u-boot
 SUBDIR+=	uade
 SUBDIR+=	ubit
 SUBDIR+=	uclibc
