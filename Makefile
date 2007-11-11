@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2687 2007/11/09 02:24:29 jgoamakf Exp $
+# $Id: Makefile,v 1.2688 2007/11/11 01:37:22 pmatias Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -860,6 +860,7 @@ SUBDIR+=	mingw-gcc
 SUBDIR+=	mingw-runtime-bin
 SUBDIR+=	mingw-w32api-bin
 SUBDIR+=	minimalist
+SUBDIR+=	miniupnpc
 SUBDIR+=	mixer.tk
 SUBDIR+=	mixmaster
 SUBDIR+=	mixxx
