@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2688 2007/11/11 01:37:22 pmatias Exp $
+# $Id: Makefile,v 1.2689 2007/11/11 15:04:15 pmatias Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -688,6 +688,7 @@ SUBDIR+=	kawa
 SUBDIR+=	kino
 SUBDIR+=	kissme
 SUBDIR+=	klamav
+SUBDIR+=	knutclient
 SUBDIR+=	korelib
 SUBDIR+=	kpanta
 SUBDIR+=	kplayer
