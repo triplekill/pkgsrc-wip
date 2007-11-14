@@ -1,5 +1,5 @@
 # $NetBSD: Makefile,v 1.15 2005/09/22 02:08:14 minskim Exp $
-# $Id: Makefile,v 1.8 2006/04/25 20:04:35 ahallmann Exp $
+# $Id: Makefile,v 1.9 2006/10/14 10:10:48 shattered Exp $
 
 .include "Makefile.common"
 
@@ -14,7 +14,7 @@ COMMENT=	Automate configuration and administration of large systems, networks
 GNU_CONFIGURE=		YES
 PTHREAD_OPTS+=		require
 
-BUILD_DEFS+=		USE_INET6
+BUILD_DEFS+=		IPV6_READY
 
 CONFIGURE_ARGS+=	--with-berkeleydb=${BUILDLINK_PREFIX.db4:Q}
 CONFIGURE_ARGS+=	--with-openssl=${BUILDLINK_PREFIX.openssl:Q}
