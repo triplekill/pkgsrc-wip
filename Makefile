@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2691 2007/11/13 21:27:25 shattered Exp $
+# $Id: Makefile,v 1.2692 2007/11/17 10:05:11 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -682,6 +682,7 @@ SUBDIR+=	kahakai
 SUBDIR+=	kahua
 SUBDIR+=	kannel-gateway
 SUBDIR+=	kapital
+SUBDIR+=	katapult
 SUBDIR+=	kawa
 SUBDIR+=	kino
 SUBDIR+=	kissme
