@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2697 2007/11/22 01:49:56 geeohgeegeeoh Exp $
+# $Id: Makefile,v 1.2698 2007/11/22 01:58:18 geeohgeegeeoh Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1309,6 +1309,7 @@ SUBDIR+=	proxychains
 SUBDIR+=	proxyknife
 SUBDIR+=	prozilla
 SUBDIR+=	prtunnel
+SUBDIR+=	psi
 SUBDIR+=	pts
 SUBDIR+=	ptunnel
 SUBDIR+=	pulseaudio
