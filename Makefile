@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2700 2007/11/30 10:23:18 hfath Exp $
+# $Id: Makefile,v 1.2701 2007/12/01 00:02:33 uhabel Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1675,6 +1675,7 @@ SUBDIR+=	vncselector
 SUBDIR+=	vpr
 SUBDIR+=	vreng
 SUBDIR+=	wang-ttf
+SUBDIR+=	wbox
 SUBDIR+=	webcleaner
 SUBDIR+=	weplab
 SUBDIR+=	west
