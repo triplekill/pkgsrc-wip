@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2702 2007/12/01 08:28:20 bartoszkuzma Exp $
+# $Id: Makefile,v 1.2703 2007/12/01 22:13:34 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -634,7 +634,9 @@ SUBDIR+=	ipsvd
 SUBDIR+=	iptables
 SUBDIR+=	iptstate
 SUBDIR+=	isc-dhclient
+SUBDIR+=	isc-dhcp
 SUBDIR+=	isc-dhcpd
+SUBDIR+=	isc-dhcrelay
 SUBDIR+=	ispell-lietuviu
 #SUBDIR+=	jabberd			# not a real package
 SUBDIR+=	jabberd-aim
