@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2707 2007/12/04 03:54:16 netcap Exp $
+# $Id: Makefile,v 1.2708 2007/12/06 08:47:16 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -159,6 +159,7 @@ SUBDIR+=	cdogs
 SUBDIR+=	cdpr
 SUBDIR+=	cfengine
 SUBDIR+=	chbg
+SUBDIR+=	chicken-current
 SUBDIR+=	chora
 SUBDIR+=	chromium
 SUBDIR+=	chromium-data
