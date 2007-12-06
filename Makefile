@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2706 2007/12/03 17:39:24 netcap Exp $
+# $Id: Makefile,v 1.2707 2007/12/04 03:54:16 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -291,9 +291,12 @@ SUBDIR+=	enet
 SUBDIR+=	engine-pkcs11
 SUBDIR+=	ent
 SUBDIR+=	eot
+SUBDIR+=	epeg
 SUBDIR+=	epplets
+SUBDIR+=	epsilon
 SUBDIR+=	eq-xmms
 SUBDIR+=	erc
+SUBDIR+=	esmart
 SUBDIR+=	esdl
 SUBDIR+=	ethtool
 SUBDIR+=	evas
