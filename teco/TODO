@@ -1,0 +1,3 @@
+$Id$
+
+- Fix canonical tty mode, it should be non-canonical.
