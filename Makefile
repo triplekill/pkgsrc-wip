@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2710 2007/12/06 17:50:59 asau Exp $
+# $Id: Makefile,v 1.2711 2007/12/07 20:38:41 briandealwis Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1047,6 +1047,7 @@ SUBDIR+=	p5-CGI-Application-Plugin-AutoRunmode
 SUBDIR+=	p5-CGI-Application-Plugin-DevPopup
 SUBDIR+=	p5-CGI-Application-Plugin-TT
 SUBDIR+=	p5-CGI-Simple
+SUBDIR+=	p5-CLASS
 SUBDIR+=	p5-CPANPLUS
 SUBDIR+=	p5-Cache-FastMmap
 SUBDIR+=	p5-Cache-Mmap
@@ -1222,6 +1223,7 @@ SUBDIR+=	p5-URI-Find-Rule
 SUBDIR+=	p5-URI-Title
 SUBDIR+=	p5-Unicode-Map
 SUBDIR+=	p5-Unicode-MapUTF8
+SUBDIR+=	p5-WebService-Audioscrobbler
 SUBDIR+=	p5-WebService-CIA
 SUBDIR+=	p5-XML-DOM-XPath
 SUBDIR+=	p5-podlators
