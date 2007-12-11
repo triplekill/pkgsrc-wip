@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2713 2007/12/11 09:21:37 ghen Exp $
+# $Id: Makefile,v 1.2714 2007/12/11 12:34:07 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1822,6 +1822,7 @@ SUBDIR+=	yaws
 SUBDIR+=	yp-tools
 SUBDIR+=	ypbind-mt
 SUBDIR+=	ypserv
+SUBDIR+=	zabbix
 SUBDIR+=	zapping
 SUBDIR+=	zinf
 SUBDIR+=	zope3-unstable
