@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2712 2007/12/10 04:53:27 netcap Exp $
+# $Id: Makefile,v 1.2713 2007/12/11 09:21:37 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1031,6 +1031,7 @@ SUBDIR+=	or1ksim
 SUBDIR+=	orion
 SUBDIR+=	ortp
 SUBDIR+=	osmose
+SUBDIR+=	outguess
 SUBDIR+=	owl
 SUBDIR+=	p3nfs
 SUBDIR+=	p5-Aceperl
@@ -1568,6 +1569,7 @@ SUBDIR+=	squirrelmail-vlogin
 SUBDIR+=	srvx
 SUBDIR+=	ssu
 SUBDIR+=	stardict
+SUBDIR+=	stegdetect
 SUBDIR+=	stmpclean
 SUBDIR+=	stonx
 SUBDIR+=	stunnel3
