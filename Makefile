@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2726 2007/12/23 11:58:01 netcap Exp $
+# $Id: Makefile,v 1.2727 2007/12/24 02:03:35 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -996,6 +996,7 @@ SUBDIR+=	octave-nox11
 SUBDIR+=	ode
 SUBDIR+=	omniORB
 SUBDIR+=	oops
+SUBDIR+=	oorexx
 SUBDIR+=	opal
 SUBDIR+=	opax
 SUBDIR+=	opd
