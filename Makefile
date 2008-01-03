@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2734 2008/01/02 14:09:50 netcap Exp $
+# $Id: Makefile,v 1.2735 2008/01/03 05:42:13 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -171,6 +171,7 @@ SUBDIR+=	cjk-latex
 SUBDIR+=	cjk-latex-wadalab
 SUBDIR+=	clamassassin
 SUBDIR+=	clhep
+SUBDIR+=	clisp-current
 SUBDIR+=	clockspeed
 SUBDIR+=	clustalx
 SUBDIR+=	com_err
