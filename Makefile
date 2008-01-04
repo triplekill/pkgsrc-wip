@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2736 2008/01/03 15:07:30 asau Exp $
+# $Id: Makefile,v 1.2737 2008/01/03 18:11:45 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1319,6 +1319,7 @@ SUBDIR+=	pkg_select
 SUBDIR+=	pkg_update_summary
 SUBDIR+=	pkgmanager
 SUBDIR+=	planner
+SUBDIR+=	plod
 SUBDIR+=	plugger
 SUBDIR+=	pmars
 SUBDIR+=	png2ico
