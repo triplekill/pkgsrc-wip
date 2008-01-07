@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2740 2008/01/05 19:05:36 cetrox Exp $
+# $Id: Makefile,v 1.2741 2008/01/05 21:42:26 martijnb Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1614,6 +1614,7 @@ SUBDIR+=	stegdetect
 SUBDIR+=	stmpclean
 SUBDIR+=	stonx
 SUBDIR+=	strigi
+SUBDIR+=	stumpwm
 SUBDIR+=	stunnel3
 SUBDIR+=	sudoscript
 SUBDIR+=	sugarCRM
