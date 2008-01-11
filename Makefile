@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2742 2008/01/07 10:29:38 netcap Exp $
+# $Id: Makefile,v 1.2743 2008/01/10 21:07:00 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1482,7 +1482,7 @@ SUBDIR+=	quodlibet
 SUBDIR+=	r8s
 SUBDIR+=	radare
 SUBDIR+=	rar3
-SUBDIR+= 	rasqal
+SUBDIR+=	rasqal
 SUBDIR+=	rawphoto
 SUBDIR+=	rc.d.Interix
 SUBDIR+=	rc.subr
