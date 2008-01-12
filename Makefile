@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2746 2008/01/12 21:53:25 tnn2 Exp $
+# $Id: Makefile,v 1.2747 2008/01/12 22:54:59 christian_gall Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -979,7 +979,6 @@ SUBDIR+=	netrik
 SUBDIR+=	netwib
 SUBDIR+=	netwox
 SUBDIR+=	netx
-SUBDIR+=	nfdump
 SUBDIR+=	nicotine+
 SUBDIR+=	ninvaders
 SUBDIR+=	nnrpd
