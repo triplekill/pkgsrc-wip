@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2748 2008/01/12 22:58:38 christian_gall Exp $
+# $Id: Makefile,v 1.2749 2008/01/12 23:26:19 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -199,6 +199,7 @@ SUBDIR+=	cvsproxy
 SUBDIR+=	cvstrac
 SUBDIR+=	cvsutils
 SUBDIR+=	cyrus-imapd
+SUBDIR+=	cycle
 SUBDIR+=	d4x
 SUBDIR+=	dansguardian
 SUBDIR+=	daphne
