@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2751 2008/01/13 13:25:59 plunky Exp $
+# $Id: Makefile,v 1.2752 2008/01/15 23:27:47 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1805,6 +1805,7 @@ SUBDIR+=	xfce4-xmms-plugin
 SUBDIR+=	xgfe
 SUBDIR+=	xgobi
 SUBDIR+=	xhkeys1
+SUBDIR+=	xine-xcb
 SUBDIR+=	xinetd
 SUBDIR+=	xkeyboard-config
 SUBDIR+=	xlsfonts
