@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2752 2008/01/15 23:27:47 tnn2 Exp $
+# $Id: Makefile,v 1.2753 2008/01/16 19:56:14 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1044,7 +1044,6 @@ SUBDIR+=	openoffice2-bin-xh
 SUBDIR+=	openoffice2-bin-zu
 SUBDIR+=	opensc
 SUBDIR+=	openscep
-SUBDIR+=	openssl
 SUBDIR+=	openvrml
 SUBDIR+=	opera-devel
 SUBDIR+=	oqtplayer
