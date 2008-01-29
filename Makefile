@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2762 2008/01/23 12:26:18 anielski Exp $
+# $Id: Makefile,v 1.2763 2008/01/25 13:08:54 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1831,7 +1831,6 @@ SUBDIR+=	xchat2-python
 SUBDIR+=	xchat2-tcl
 SUBDIR+=	xcursor-themes
 SUBDIR+=	xdiskusage
-SUBDIR+=	xdm
 SUBDIR+=	xf86-video-ati
 SUBDIR+=	xf86rushproto
 SUBDIR+=	xfce4
