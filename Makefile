@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2764 2008/01/29 10:34:48 tnn2 Exp $
+# $Id: Makefile,v 1.2765 2008/01/29 17:05:45 athaba Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1369,7 +1369,6 @@ SUBDIR+=	pizza
 SUBDIR+=	pjproject
 SUBDIR+=	pkg_fake
 #SUBDIR+=	pkg_get
-SUBDIR+=	pkg_install-testing
 SUBDIR+=	pkg_rmleaves
 SUBDIR+=	pkg_select
 SUBDIR+=	pkg_update_summary
