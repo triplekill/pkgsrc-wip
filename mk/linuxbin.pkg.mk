@@ -1,7 +1,10 @@
 # $NetBSD$
+
+BROKEN=		Please update linuxbin.pkg.mk for the new emulator framework.
+
 ###########################################################################
 #
-# $Id: linuxbin.pkg.mk,v 1.24 2007/05/21 11:33:03 rillig Exp $
+# $Id: linuxbin.pkg.mk,v 1.25 2007/06/09 11:02:55 rillig Exp $
 #
 # Proposal: how should we deal with Linux binary packages packages
 #
