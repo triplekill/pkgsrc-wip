@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2777 2008/02/04 17:29:02 schnoebe Exp $
+# $Id: Makefile,v 1.2778 2008/02/04 21:29:07 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1651,6 +1651,7 @@ SUBDIR+=	smbldap-tools
 SUBDIR+=	smc
 SUBDIR+=	smlnj-current
 SUBDIR+=	smproxy
+SUBDIR+=	smstools
 SUBDIR+=	smtp-gated
 SUBDIR+=	smtp.proxy
 SUBDIR+=	smtprc
