@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2784 2008/02/10 00:33:51 h2m Exp $
+# $Id: Makefile,v 1.2785 2008/02/12 14:59:16 jeremy-c-reed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1245,6 +1245,7 @@ SUBDIR+=	p5-Mail-Webmail-Gmail
 SUBDIR+=	p5-MasonX-Apache2Handler
 SUBDIR+=	p5-Math-FixedPrecision
 SUBDIR+=	p5-Math-IntervalSearch
+SUBDIR+=	p5-Metadata
 SUBDIR+=	p5-Module-Find
 SUBDIR+=	p5-Module-Pluggable-Fast
 SUBDIR+=	p5-Module-Pluggable-Ordered
