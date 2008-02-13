@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2785 2008/02/12 14:59:16 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.2786 2008/02/13 11:19:08 athaba Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -479,7 +479,6 @@ SUBDIR+=	gtkada
 SUBDIR+=	gtkfontsel
 SUBDIR+=	gtkglk
 SUBDIR+=	gtklookat
-SUBDIR+=	gtksourceview-sharp
 SUBDIR+=	gtuxnes
 SUBDIR+=	gtypist
 SUBDIR+=	guichan
@@ -793,7 +792,6 @@ SUBDIR+=	libdrm
 SUBDIR+=	libdshconfig
 SUBDIR+=	libdssialsacompat
 SUBDIR+=	libgadu
-SUBDIR+=	libgdiplus
 SUBDIR+=	libgeotiff
 SUBDIR+=	libgksu
 SUBDIR+=	libgksuui
@@ -944,10 +942,6 @@ SUBDIR+=	modular-xorg-wip
 SUBDIR+=	moe
 SUBDIR+=	molmol
 SUBDIR+=	monkey-bubble
-SUBDIR+=	mono
-SUBDIR+=	mono-addins
-SUBDIR+=	monodevelop
-SUBDIR+=	monodoc
 SUBDIR+=	mopac
 SUBDIR+=	moregroupware
 SUBDIR+=	moto4lin
