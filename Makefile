@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2793 2008/02/16 19:43:31 cheusov Exp $
+# $Id: Makefile,v 1.2794 2008/02/16 23:53:03 leot1990 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1038,6 +1038,7 @@ SUBDIR+=	nuppelvideo
 SUBDIR+=	nvidia-freebsd
 SUBDIR+=	nx-client-bin
 SUBDIR+=	nzbget
+SUBDIR+=	ocp
 SUBDIR+=	octave-nox11
 SUBDIR+=	ode
 SUBDIR+=	omniORB
