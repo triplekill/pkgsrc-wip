@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2795 2008/02/17 00:22:51 shattered Exp $
+# $Id: Makefile,v 1.2796 2008/02/17 13:26:28 smoppy Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -382,7 +382,6 @@ SUBDIR+=	gauche-dbd-pg
 SUBDIR+=	gauche-fastcgi
 SUBDIR+=	gcc42
 SUBDIR+=	gcl
-SUBDIR+=	gcl-nox11
 SUBDIR+=	gdal
 SUBDIR+=	gdal-docs
 SUBDIR+=	gdal-grass
