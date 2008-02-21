@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2796 2008/02/17 13:26:28 smoppy Exp $
+# $Id: Makefile,v 1.2797 2008/02/19 14:22:18 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -886,7 +886,6 @@ SUBDIR+=	lua-pgsql
 SUBDIR+=	luacheia
 SUBDIR+=	luaposix
 SUBDIR+=	luasocket
-SUBDIR+=	luit
 SUBDIR+=	lwc
 SUBDIR+=	lxbios
 SUBDIR+=	lzs-lkm
