@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2802 2008/02/21 21:17:59 pmatias Exp $
+# $Id: Makefile,v 1.2803 2008/02/21 23:49:44 shindenmorr Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -210,6 +210,7 @@ SUBDIR+=	d4x
 SUBDIR+=	dansguardian
 SUBDIR+=	daphne
 SUBDIR+=	darcnes-svgalib
+SUBDIR+=	darcs
 SUBDIR+=	db1
 SUBDIR+=	dbf
 SUBDIR+=	ddate
@@ -421,6 +422,7 @@ SUBDIR+=	gmc2mid
 SUBDIR+=	gmediaserver
 SUBDIR+=	gmp-ecm
 SUBDIR+=	gnash
+SUBDIR+=	gnash-devel
 SUBDIR+=	gnocky
 SUBDIR+=	gnokii
 SUBDIR+=	gnomad2
