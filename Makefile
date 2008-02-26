@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2806 2008/02/25 11:48:35 smoppy Exp $
+# $Id: Makefile,v 1.2807 2008/02/25 18:13:38 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1032,7 +1032,6 @@ SUBDIR+=	noip
 SUBDIR+=	noiptun
 SUBDIR+=	nomadio
 SUBDIR+=	nos-tun
-SUBDIR+=	nrpe
 SUBDIR+=	nullpop
 SUBDIR+=	nuppelvideo
 SUBDIR+=	nvidia-freebsd
