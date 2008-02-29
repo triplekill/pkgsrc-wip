@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2809 2008/02/27 05:43:59 ficovh Exp $
+# $Id: Makefile,v 1.2810 2008/02/28 22:57:35 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -927,7 +927,6 @@ SUBDIR+=	mdbtools
 SUBDIR+=	memdump
 SUBDIR+=	memgrep
 SUBDIR+=	menumaker
-SUBDIR+=	mesa-dri
 SUBDIR+=	metalog
 SUBDIR+=	metatheme
 SUBDIR+=	mg-lsh
