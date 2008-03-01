@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2815 2008/03/01 12:53:36 hoka_adam Exp $
+# $Id: Makefile,v 1.2816 2008/03/01 13:20:26 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1968,7 +1968,6 @@ SUBDIR+=	xpdq
 SUBDIR+=	xpilot-ng
 SUBDIR+=	xplore
 SUBDIR+=	xrdp
-SUBDIR+=	xscribble-fs
 SUBDIR+=	xspd
 SUBDIR+=	xspdapp
 SUBDIR+=	xspread
