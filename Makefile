@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2816 2008/03/01 13:20:26 asau Exp $
+# $Id: Makefile,v 1.2817 2008/03/01 13:22:33 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1834,7 +1834,6 @@ SUBDIR+=	uschedule
 SUBDIR+=	ushare
 SUBDIR+=	ussp-push
 SUBDIR+=	util-linux
-SUBDIR+=	vcdgear
 SUBDIR+=	vche
 SUBDIR+=	vdesk
 SUBDIR+=	vidalia
