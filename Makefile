@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2811 2008/02/29 00:41:56 tnn2 Exp $
+# $Id: Makefile,v 1.2812 2008/02/29 15:29:24 pmatias Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1608,7 +1608,7 @@ SUBDIR+=	rhapsody
 SUBDIR+=	ripe-rpsl-objectlibrary
 SUBDIR+=	ripit
 SUBDIR+=	ripole
-SUBDIR+=	rlab
+#SUBDIR+=	rlab
 SUBDIR+=	rolo
 SUBDIR+=	rootcheck
 SUBDIR+=	rosegarden-current
