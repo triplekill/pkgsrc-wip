@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2822 2008/03/03 02:26:59 tnn2 Exp $
+# $Id: Makefile,v 1.2823 2008/03/03 15:33:59 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -506,6 +506,7 @@ SUBDIR+=	gune
 SUBDIR+=	gurlchecker
 SUBDIR+=	gwhois
 SUBDIR+=	gxmms2
+SUBDIR+=	glx-utils
 SUBDIR+=	haddock
 SUBDIR+=	hal
 SUBDIR+=	hal-dev
