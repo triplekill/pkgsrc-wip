@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2829 2008/03/06 06:13:22 ficovh Exp $
+# $Id: Makefile,v 1.2830 2008/03/06 16:26:16 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -322,6 +322,7 @@ SUBDIR+=	epsilon
 SUBDIR+=	eq-xmms
 SUBDIR+=	erc
 SUBDIR+=	es40
+SUBDIR+=	es40-firmware
 SUBDIR+=	esdl
 SUBDIR+=	esmart
 SUBDIR+=	ethtool
