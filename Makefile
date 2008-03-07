@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2831 2008/03/06 17:46:17 tnn2 Exp $
+# $Id: Makefile,v 1.2832 2008/03/07 03:35:36 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1630,7 +1630,7 @@ SUBDIR+=	samhain
 SUBDIR+=	sara
 SUBDIR+=	sarg
 SUBDIR+=	sbcl
-SUBDIR+=	sbcl-boot
+#SUBDIR+=	sbcl-boot	# in case self-bootstrap is required
 SUBDIR+=	scare
 SUBDIR+=	schismtracker
 SUBDIR+=	scim
