@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2839 2008/03/08 18:59:15 jeremy-c-reed Exp $
+# $Id: Makefile,v 1.2840 2008/03/08 20:31:01 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -11,7 +11,6 @@ SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	Mesa
 SUBDIR+=	MesaLib
-#SUBDIR+=	MesaLib-dri
 SUBDIR+=	MyServer
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
