@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2847 2008/03/13 05:48:34 tnn2 Exp $
+# $Id: Makefile,v 1.2848 2008/03/14 02:04:08 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1699,7 +1699,6 @@ SUBDIR+=	snark
 SUBDIR+=	snes9express
 SUBDIR+=	socklog
 SUBDIR+=	softflowd
-SUBDIR+=	sonata
 SUBDIR+=	songwrite
 SUBDIR+=	soundtracker
 SUBDIR+=	spamassassin-cvs
