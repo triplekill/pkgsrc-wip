@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2846 2008/03/12 23:06:11 tnn2 Exp $
+# $Id: Makefile,v 1.2847 2008/03/13 05:48:34 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1727,6 +1727,7 @@ SUBDIR+=	sun-j2me
 SUBDIR+=	sunterlib
 SUBDIR+=	super-smack
 SUBDIR+=	supertux
+SUBDIR+=	suse100_32_SDL
 SUBDIR+=	suse100_SDL
 SUBDIR+=	suse100_devel
 SUBDIR+=	suse100_gdb
