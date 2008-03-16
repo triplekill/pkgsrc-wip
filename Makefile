@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2848 2008/03/14 02:04:08 thomasklausner Exp $
+# $Id: Makefile,v 1.2849 2008/03/14 18:32:08 netcap Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -328,6 +328,7 @@ SUBDIR+=	evolution-sharp
 SUBDIR+=	expiretable
 SUBDIR+=	ezbounce
 SUBDIR+=	ezstream
+SUBDIR+=	f-spot
 SUBDIR+=	fakenes
 SUBDIR+=	fasta
 SUBDIR+=	fbida
