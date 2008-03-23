@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2857 2008/03/18 01:43:34 tnn2 Exp $
+# $Id: Makefile,v 1.2858 2008/03/23 02:43:31 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1453,7 +1453,6 @@ SUBDIR+=	pop-before-smtp
 SUBDIR+=	pop3.proxy
 SUBDIR+=	postal2-mpdemo-bin
 SUBDIR+=	postgresql-uniqueidentifier
-SUBDIR+=	postgresql80-postgis
 SUBDIR+=	postoffice
 SUBDIR+=	pound
 SUBDIR+=	powerdns-recursor
