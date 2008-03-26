@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2858 2008/03/23 02:43:31 obache Exp $
+# $Id: Makefile,v 1.2859 2008/03/23 13:23:30 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1822,6 +1822,7 @@ SUBDIR+=	tuareg-mode
 SUBDIR+=	tumble
 SUBDIR+=	tutos
 SUBDIR+=	tuxtype2
+SUBDIR+=	tw_cli
 SUBDIR+=	twinkle
 SUBDIR+=	txt2tags
 SUBDIR+=	typespeed
