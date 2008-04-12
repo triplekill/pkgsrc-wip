@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2871 2008/04/09 10:24:49 cheusov Exp $
+# $Id: Makefile,v 1.2872 2008/04/10 02:03:57 hitscan Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -12,6 +12,7 @@ SUBDIR+=	LabPlot
 SUBDIR+=	Mesa
 SUBDIR+=	MesaLib
 SUBDIR+=	MyServer
+SUBDIR+=	OdfConverter
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
