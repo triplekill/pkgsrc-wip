@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2873 2008/04/12 07:56:07 thomasklausner Exp $
+# $Id: Makefile,v 1.2874 2008/04/14 23:33:56 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -320,6 +320,7 @@ SUBDIR+=	epeg
 SUBDIR+=	epplets
 SUBDIR+=	epsilon
 SUBDIR+=	eq-xmms
+SUBDIR+=	erlang
 SUBDIR+=	erc
 SUBDIR+=	es40
 SUBDIR+=	es40-firmware
