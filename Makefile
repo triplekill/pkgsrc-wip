@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2876 2008/04/19 21:47:20 mj_turner Exp $
+# $Id: Makefile,v 1.2877 2008/04/20 11:59:12 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -971,8 +971,6 @@ SUBDIR+=	modular-xorg-wip
 SUBDIR+=	moe
 SUBDIR+=	molmol
 SUBDIR+=	monkey-bubble
-SUBDIR+=	mono
-SUBDIR+=	mono-tools
 SUBDIR+=	monotone-cvsimport
 SUBDIR+=	moregroupware
 SUBDIR+=	moto4lin
