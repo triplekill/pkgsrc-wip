@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2877 2008/04/20 11:59:12 tnn2 Exp $
+# $Id: Makefile,v 1.2878 2008/04/20 17:05:05 koifren Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -159,7 +159,6 @@ SUBDIR+=	c2hs
 SUBDIR+=	cabal
 SUBDIR+=	cabocha
 SUBDIR+=	cabot
-SUBDIR+=	cairo
 SUBDIR+=	cairo-java
 SUBDIR+=	calcurse
 SUBDIR+=	castget
