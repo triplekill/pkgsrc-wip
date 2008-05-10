@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2891 2008/05/09 20:24:08 shattered Exp $
+# $Id: Makefile,v 1.2892 2008/05/09 22:08:34 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1986,6 +1986,7 @@ SUBDIR+=	xrdp
 SUBDIR+=	xspd
 SUBDIR+=	xspdapp
 SUBDIR+=	xspread
+SUBDIR+=	xtags
 SUBDIR+=	xtrace
 SUBDIR+=	xtrlock
 SUBDIR+=	xvidtune
