@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2893 2008/05/10 13:43:28 leot1990 Exp $
+# $Id: Makefile,v 1.2894 2008/05/11 14:42:19 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1576,6 +1576,7 @@ SUBDIR+=	pygments
 SUBDIR+=	pygopherd
 SUBDIR+=	pynfo
 SUBDIR+=	pypanel
+SUBDIR+=	pypod
 SUBDIR+=	pysite
 SUBDIR+=	python25
 SUBDIR+=	pytz
