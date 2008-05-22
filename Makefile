@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2895 2008/05/11 15:19:49 shattered Exp $
+# $Id: Makefile,v 1.2896 2008/05/21 23:26:27 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2060,6 +2060,11 @@ ${.CURDIR}/INDEX: ${.CURDIR}/PKGDB
 	${RM} -f ${.CURDIR}/PKGDB
 	${GREP} -v '||||||||||$$' ${.CURDIR}/INDEX > ${.CURDIR}/INDEX.tmp && \
 		${MV} ${.CURDIR}/INDEX.tmp ${.CURDIR}/INDEX
+
+limited_list: .PHONY
+	${RM} -f ${.CURDIR}/limited_list
+	(for X in ${SUBDIR}; do echo wip/$$X; done) > ${.CURDIR}/limited_list.tmp
+	${MV} ${.CURDIR}/limited_list.tmp ${.CURDIR}/limited_list
 
 .if exists(../mk/misc/category.mk)
 .include "../mk/misc/category.mk"
