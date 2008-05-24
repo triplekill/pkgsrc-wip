@@ -1,5 +1,9 @@
 # $NetBSD$
-# $Id: Makefile.common,v 1.3 2005/11/03 14:29:57 rillig Exp $
+# $Id: Makefile.common,v 1.4 2005/11/03 14:34:40 rillig Exp $
+# used by wip/debian_base/Makefile
+# used by wip/debian_glib/Makefile
+# used by wip/debian_gtk/Makefile
+# used by wip/debian_x11/Makefile
 
 MAINTAINER?=		grant@NetBSD.org
 HOMEPAGE?=		http://www.debian.org/
