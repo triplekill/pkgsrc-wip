@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2903 2008/05/27 16:57:35 tnn2 Exp $
+# $Id: Makefile,v 1.2904 2008/05/27 18:29:20 shindenmorr Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -954,7 +954,6 @@ SUBDIR+=	mowgli
 SUBDIR+=	mozplugger
 SUBDIR+=	mp3chop
 SUBDIR+=	mp3gain
-SUBDIR+=	mpdscribble
 SUBDIR+=	mpg123
 SUBDIR+=	mpg123-0.65
 SUBDIR+=	mpg123-nightly
