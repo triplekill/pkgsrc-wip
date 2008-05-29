@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2907 2008/05/29 09:09:36 asau Exp $
+# $Id: Makefile,v 1.2908 2008/05/29 12:27:06 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -364,7 +364,6 @@ SUBDIR+=	fragrouter
 SUBDIR+=	freedict-tools-xsl
 SUBDIR+=	freedup
 SUBDIR+=	freej
-SUBDIR+=	freetds
 SUBDIR+=	freevo
 SUBDIR+=	freevrrpd
 SUBDIR+=	fricas
