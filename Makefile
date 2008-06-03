@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2913 2008/05/30 13:15:27 asau Exp $
+# $Id: Makefile,v 1.2914 2008/06/01 13:32:27 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -92,6 +92,7 @@ SUBDIR+=	archimedes
 SUBDIR+=	argouml
 SUBDIR+=	aria2
 SUBDIR+=	arla-3.99.14
+SUBDIR+=	armagetronad
 SUBDIR+=	artemis
 SUBDIR+=	atftp
 SUBDIR+=	ati-xfree86-bin
