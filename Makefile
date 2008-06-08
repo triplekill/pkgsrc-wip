@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2915 2008/06/03 22:28:25 hoka_adam Exp $
+# $Id: Makefile,v 1.2916 2008/06/05 23:12:30 schnoebe Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1947,6 +1947,7 @@ SUBDIR+=	xmms-status
 SUBDIR+=	xmms-xmp
 SUBDIR+=	xmms2
 SUBDIR+=	xmonad
+SUBDIR+=	xmonad-contrib
 SUBDIR+=	xmoto
 #SUBDIR+=	xpde
 SUBDIR+=	xpdq
