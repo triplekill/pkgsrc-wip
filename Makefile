@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2921 2008/06/13 16:27:51 jakllsch Exp $
+# $Id: Makefile,v 1.2922 2008/06/13 17:50:47 jakllsch Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -947,7 +947,6 @@ SUBDIR+=	monkey-bubble
 SUBDIR+=	monotone-cvsimport
 SUBDIR+=	moregroupware
 SUBDIR+=	moto4lin
-SUBDIR+=	mowgli
 SUBDIR+=	mozplugger
 SUBDIR+=	mp3chop
 SUBDIR+=	mp3gain
