@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2925 2008/06/19 21:37:07 tonnerre Exp $
+# $Id: Makefile,v 1.2926 2008/06/22 08:15:23 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -248,8 +248,6 @@ SUBDIR+=	dnswalk
 SUBDIR+=	docbook-xsl-ko
 SUBDIR+=	doorman
 SUBDIR+=	dotproject
-SUBDIR+=	dovecot
-SUBDIR+=	dovecot-sieve
 SUBDIR+=	dpic
 SUBDIR+=	drow
 SUBDIR+=	drpython
