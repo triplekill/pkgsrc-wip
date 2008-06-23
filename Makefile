@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2926 2008/06/22 08:15:23 thomasklausner Exp $
+# $Id: Makefile,v 1.2927 2008/06/22 17:46:57 ghen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -775,7 +775,6 @@ SUBDIR+=	ldapdns
 SUBDIR+=	lde
 SUBDIR+=	ldp
 SUBDIR+=	leim-current
-SUBDIR+=	lemon
 SUBDIR+=	leo
 SUBDIR+=	lhs2tex
 SUBDIR+=	libGenome
