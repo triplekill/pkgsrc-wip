@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2929 2008/06/23 15:13:42 jsonn Exp $
+# $Id: Makefile,v 1.2930 2008/06/25 11:23:44 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -337,7 +337,6 @@ SUBDIR+=	ficl
 SUBDIR+=	filepp
 SUBDIR+=	firebird
 SUBDIR+=	fireflysung-ttf
-SUBDIR+=	firefox
 SUBDIR+=	firefox-wrapper
 SUBDIR+=	firehose
 SUBDIR+=	fish
