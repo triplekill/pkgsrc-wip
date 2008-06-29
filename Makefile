@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2932 2008/06/28 11:39:42 hoka_adam Exp $
+# $Id: Makefile,v 1.2933 2008/06/28 22:50:21 tonnerre Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1845,7 +1845,7 @@ SUBDIR+=	weplab
 SUBDIR+=	west
 SUBDIR+=	which
 SUBDIR+=	wimon-devel
-SUBDIR+=	wine
+#SUBDIR+=	wine		# merged into pkgsrc
 SUBDIR+=	wings
 SUBDIR+=	wireless-tools
 SUBDIR+=	wise2
