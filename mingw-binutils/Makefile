@@ -1,21 +1,21 @@
 # $NetBSD$
-# $Id: Makefile,v 1.16 2006/07/16 16:08:39 shattered Exp $
+# $Id: Makefile,v 1.17 2006/10/29 08:32:47 shattered Exp $
 
-DISTNAME=	binutils-2.15.91-20040904-1-src
+DISTNAME=	binutils-2.18
 PKGNAME=	mingw-${DISTNAME:C/-200.*-src//}
 WRKSRC=		${WRKDIR}/${DISTNAME:S/-src//}
 CATEGORIES=	cross
-MASTER_SITES=	${MASTER_SITE_MINGW}
+EXTRACT_SUFX=	.tar.bz2
 
-MAINTAINER=	pkgsrc-users@NetBSD.org
+MAINTAINER=	makoto@ki.nu
 HOMEPAGE=	http://mingw.sourceforge.net/
-COMMENT=	GNU C Compiler ported to win32 platforms
+COMMENT=	GNU binutils ported to win32 platforms
 
 USE_PKGLOCALEDIR=	yes
 GNU_CONFIGURE=		yes
 USE_CROSSBASE=		yes
-USE_TOOLS+=		gmake
-INFO_FILES=		# PLIST
+USE_TOOLS+=		pax
+INFO_FILES=		yes
 
 post-install:
 .for f in windres dllwrap
