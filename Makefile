@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2942 2008/07/16 04:57:14 phonohawk Exp $
+# $Id: Makefile,v 1.2943 2008/07/16 05:07:17 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -334,6 +334,7 @@ SUBDIR+=	ezbounce
 SUBDIR+=	ezstream
 SUBDIR+=	f-spot
 SUBDIR+=	fakenes
+SUBDIR+=	fasm
 SUBDIR+=	fasta
 SUBDIR+=	fbida
 SUBDIR+=	fbpager
