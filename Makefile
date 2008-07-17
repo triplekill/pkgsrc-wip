@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2943 2008/07/16 05:07:17 phonohawk Exp $
+# $Id: Makefile,v 1.2944 2008/07/16 23:22:51 athaba Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1758,6 +1758,7 @@ SUBDIR+=	tleenx2
 SUBDIR+=	tleenx3
 SUBDIR+=	tmux
 SUBDIR+=	tmw
+SUBDIR+=	tome
 SUBDIR+=	topless
 SUBDIR+=	toppler
 SUBDIR+=	tops-bin
