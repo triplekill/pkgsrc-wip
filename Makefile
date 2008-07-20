@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2957 2008/07/20 06:52:02 phonohawk Exp $
+# $Id: Makefile,v 1.2958 2008/07/20 07:01:39 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -633,6 +633,7 @@ SUBDIR+=	hs-dataenc
 SUBDIR+=	hs-utf8-string
 SUBDIR+=	hs-x11
 SUBDIR+=	hs-x11-extras
+SUBDIR+=	hs-zlib
 SUBDIR+=	ht2html
 SUBDIR+=	html2latex
 SUBDIR+=	httrack
