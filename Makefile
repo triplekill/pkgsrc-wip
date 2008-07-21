@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2964 2008/07/20 14:00:32 phonohawk Exp $
+# $Id: Makefile,v 1.2965 2008/07/20 23:34:43 absd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1715,6 +1715,7 @@ SUBDIR+=	sxemacs
 SUBDIR+=	sxid
 SUBDIR+=	symon
 SUBDIR+=	synfig
+SUBDIR+=	synfigstudio
 SUBDIR+=	sysjail
 SUBDIR+=	sysklogd
 SUBDIR+=	syslog-ng2
