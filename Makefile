@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2967 2008/07/22 21:20:45 tnn2 Exp $
+# $Id: Makefile,v 1.2968 2008/07/23 06:22:54 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -941,6 +941,7 @@ SUBDIR+=	mg-lsh
 SUBDIR+=	mic-paren
 SUBDIR+=	microcom
 SUBDIR+=	mid2gmc
+SUBDIR+=	midori
 SUBDIR+=	milkytracker
 SUBDIR+=	mime-support
 SUBDIR+=	min12xxw
