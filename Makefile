@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2969 2008/07/23 11:07:25 hoka_adam Exp $
+# $Id: Makefile,v 1.2970 2008/07/24 10:53:54 cryonator Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1733,7 +1733,7 @@ SUBDIR+=	talksoup
 SUBDIR+=	taskbar
 SUBDIR+=	tcc
 SUBDIR+=	tcc-devel
-SUBDIR+=	tcl
+SUBDIR+=	tcl85
 SUBDIR+=	tcmplex-panteltje
 SUBDIR+=	tcpspy
 SUBDIR+=	tcptrack
@@ -1763,6 +1763,7 @@ SUBDIR+=	tinyca2
 SUBDIR+=	tinycobol
 SUBDIR+=	tinyfugue-beta
 SUBDIR+=	tinylogin
+SUBDIR+=	tk85
 SUBDIR+=	tleenx2
 SUBDIR+=	tleenx3
 SUBDIR+=	tmux
