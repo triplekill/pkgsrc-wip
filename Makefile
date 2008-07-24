@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2968 2008/07/23 06:22:54 asau Exp $
+# $Id: Makefile,v 1.2969 2008/07/23 11:07:25 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1316,6 +1316,7 @@ SUBDIR+=	p5-UNIVERSAL-exports
 SUBDIR+=	p5-URI-Find
 SUBDIR+=	p5-URI-Find-Rule
 SUBDIR+=	p5-URI-Title
+SUBDIR+=	p5-Unicode-CheckUTF8
 SUBDIR+=	p5-Unicode-Collate
 SUBDIR+=	p5-Unicode-Normalize
 SUBDIR+=	p5-WebService-Audioscrobbler
