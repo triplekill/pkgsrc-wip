@@ -1,10 +1,11 @@
 # $NetBSD$
-# $Id: Makefile,v 1.17 2006/10/29 08:32:47 shattered Exp $
+# $Id: Makefile,v 1.18 2008/07/12 09:38:39 makoto Exp $
 
 DISTNAME=	binutils-2.18
 PKGNAME=	mingw-${DISTNAME:C/-200.*-src//}
 WRKSRC=		${WRKDIR}/${DISTNAME:S/-src//}
 CATEGORIES=	cross
+MASTER_SITES=	${MASTER_SITE_GNU:=binutils/}
 EXTRACT_SUFX=	.tar.bz2
 
 MAINTAINER=	makoto@ki.nu
