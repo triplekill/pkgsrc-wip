@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2994 2008/08/11 21:18:59 tnn2 Exp $
+# $Id: Makefile,v 1.2995 2008/08/12 06:31:29 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -362,6 +362,7 @@ SUBDIR+=	flashrom
 SUBDIR+=	flasm
 SUBDIR+=	flc
 SUBDIR+=	flexdump
+SUBDIR+=	flimsel
 SUBDIR+=	fltk2
 SUBDIR+=	fluxspace
 SUBDIR+=	flv2mpeg4
