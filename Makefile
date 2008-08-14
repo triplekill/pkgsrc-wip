@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3000 2008/08/13 11:44:44 hoka_adam Exp $
+# $Id: Makefile,v 1.3001 2008/08/13 13:09:12 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1870,7 +1870,6 @@ SUBDIR+=	wkf
 SUBDIR+=	wmii-devel
 SUBDIR+=	wmitime
 SUBDIR+=	wmnetload
-SUBDIR+=	wordnet
 SUBDIR+=	workrave
 SUBDIR+=	wput
 SUBDIR+=	wrcs
