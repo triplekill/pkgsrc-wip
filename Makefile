@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3001 2008/08/13 13:09:12 hoka_adam Exp $
+# $Id: Makefile,v 1.3002 2008/08/14 09:10:24 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1331,6 +1331,7 @@ SUBDIR+=	p5-Unicode-Collate
 SUBDIR+=	p5-Unicode-Normalize
 SUBDIR+=	p5-WebService-Audioscrobbler
 SUBDIR+=	p5-WebService-CIA
+SUBDIR+=	p5-WWW-YouTube-VideoURI
 SUBDIR+=	p5-XML-DOM-XPath
 SUBDIR+=	p5-XML-DT
 SUBDIR+=	p5-XML-DTDParser
