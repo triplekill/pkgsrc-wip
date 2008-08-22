@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3005 2008/08/20 08:20:20 tonnerre Exp $
+# $Id: Makefile,v 1.3006 2008/08/20 15:24:00 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -627,6 +627,7 @@ SUBDIR+=	heirloom-yes
 SUBDIR+=	heliodor
 SUBDIR+=	hellanzb
 SUBDIR+=	help2man
+SUBDIR+=	hengband
 SUBDIR+=	heroes
 SUBDIR+=	hgview
 SUBDIR+=	hping3
