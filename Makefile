@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3009 2008/08/23 20:17:39 leot1990 Exp $
+# $Id: Makefile,v 1.3010 2008/08/24 10:09:36 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1841,6 +1841,7 @@ SUBDIR+=	ushare
 SUBDIR+=	using-mpi
 SUBDIR+=	ussp-push
 SUBDIR+=	util-linux
+SUBDIR+=	vala
 SUBDIR+=	vamps
 SUBDIR+=	vche
 SUBDIR+=	vdesk
