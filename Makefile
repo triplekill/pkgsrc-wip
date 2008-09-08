@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3036 2008/09/07 16:56:00 milosn Exp $
+# $Id: Makefile,v 1.3037 2008/09/07 16:58:12 milosn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -823,6 +823,7 @@ SUBDIR+=	ldapdns
 SUBDIR+=	lde
 SUBDIR+=	ldp
 SUBDIR+=	leim-current
+SUBDIR+=	lensfun
 SUBDIR+=	leo
 SUBDIR+=	lhs2tex
 SUBDIR+=	libGenome
