@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3037 2008/09/07 16:58:12 milosn Exp $
+# $Id: Makefile,v 1.3038 2008/09/08 14:52:19 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -404,6 +404,7 @@ SUBDIR+=	gDesklets-rssgrab
 SUBDIR+=	gDesklets-starterbar
 SUBDIR+=	gajim
 SUBDIR+=	galib
+SUBDIR+=	gallery2
 SUBDIR+=	gambas2
 SUBDIR+=	gauche-dbd-pg
 SUBDIR+=	gauche-fastcgi
@@ -1757,6 +1758,7 @@ SUBDIR+=	swftools
 SUBDIR+=	sxemacs
 SUBDIR+=	sxid
 SUBDIR+=	symon
+SUBDIR+=	sysmon
 SUBDIR+=	synfig
 SUBDIR+=	synfigstudio
 SUBDIR+=	sysjail
