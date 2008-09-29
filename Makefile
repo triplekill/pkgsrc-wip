@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3054 2008/09/12 21:07:53 ficovh Exp $
+# $Id: Makefile,v 1.3055 2008/09/19 19:10:42 jsonn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1360,6 +1360,7 @@ SUBDIR+=	p5-Tie-DB_Lock
 SUBDIR+=	p5-Time-Piece-Range
 SUBDIR+=	p5-Tk-TableMatrix
 SUBDIR+=	p5-UNIVERSAL-exports
+SUBDIR+=	p5-URI-Escape-XS
 SUBDIR+=	p5-URI-Find
 SUBDIR+=	p5-URI-Find-Rule
 SUBDIR+=	p5-URI-Title
