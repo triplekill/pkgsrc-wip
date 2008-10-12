@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3064 2008/10/10 19:42:18 leot1990 Exp $
+# $Id: Makefile,v 1.3065 2008/10/12 10:48:07 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -879,7 +879,6 @@ SUBDIR+=	libneural
 SUBDIR+=	libnjb
 SUBDIR+=	libopenmodeller
 SUBDIR+=	libopensync-plugin-moto
-SUBDIR+=	libosip222
 SUBDIR+=	libp11
 SUBDIR+=	libpano12
 SUBDIR+=	libparsifal
