@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3071 2008/10/15 18:38:08 christtrekker Exp $
+# $Id: Makefile,v 1.3072 2008/10/20 00:09:21 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1065,7 +1065,6 @@ SUBDIR+=	ncbi
 SUBDIR+=	ncbi-bin
 SUBDIR+=	ncbi-c++-lib
 SUBDIR+=	ncbi-lib
-SUBDIR+=	ncc
 #SUBDIR+=	ncurses-devel	# missing Makefile.common
 SUBDIR+=	neb-cd512
 SUBDIR+=	neb-hdtoolbox
