@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3072 2008/10/20 00:09:21 minskim Exp $
+# $Id: Makefile,v 1.3073 2008/10/20 07:54:15 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -106,8 +106,6 @@ SUBDIR+=	atftp
 SUBDIR+=	ati-xfree86-bin
 SUBDIR+=	ati-xfree86-bin-unstable
 SUBDIR+=	atlas
-SUBDIR+=	audacious
-SUBDIR+=	audacious-plugins
 SUBDIR+=	audacity-devel
 SUBDIR+=	audio-mml
 SUBDIR+=	audit-system
