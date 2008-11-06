@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3088 2008/11/06 11:51:21 thomasklausner Exp $
+# $Id: Makefile,v 1.3089 2008/11/06 19:56:33 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1909,7 +1909,6 @@ SUBDIR+=	viewglob
 SUBDIR+=	virus
 SUBDIR+=	vis
 SUBDIR+=	vkeybd
-SUBDIR+=	vlc-devel
 SUBDIR+=	vm-pop3d
 SUBDIR+=	vmsbackup
 SUBDIR+=	vncselector
