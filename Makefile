@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3091 2008/11/07 12:37:32 plunky Exp $
+# $Id: Makefile,v 1.3092 2008/11/07 17:40:45 christtrekker Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -358,7 +358,6 @@ SUBDIR+=	esmart
 SUBDIR+=	ethtool
 SUBDIR+=	evas
 SUBDIR+=	eventlog
-SUBDIR+=	evolution-sharp
 SUBDIR+=	ewl
 SUBDIR+=	expiretable
 SUBDIR+=	ezbounce
