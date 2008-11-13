@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3097 2008/11/12 08:52:43 marttikuparinen Exp $
+# $Id: Makefile,v 1.3098 2008/11/12 09:15:02 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -828,6 +828,7 @@ SUBDIR+=	kdesdk4
 SUBDIR+=	kdetoys4
 SUBDIR+=	kdeutils4
 SUBDIR+=	kdewebdev4
+SUBDIR+=	kegs
 SUBDIR+=	kino
 SUBDIR+=	kissme
 SUBDIR+=	klamav
