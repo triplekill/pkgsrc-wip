@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3100 2008/11/14 02:20:04 obache Exp $
+# $Id: Makefile,v 1.3101 2008/11/15 15:33:22 jym-netbsd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -15,6 +15,7 @@ SUBDIR+=	HsSVN
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	Lucu
+SUBDIR+=	MissingH
 SUBDIR+=	MyServer
 SUBDIR+=	OdfConverter
 SUBDIR+=	OpenGLUT
