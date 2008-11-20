@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3110 2008/11/18 11:04:25 thomasklausner Exp $
+# $Id: Makefile,v 1.3111 2008/11/18 13:24:18 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -999,6 +999,7 @@ SUBDIR+=	mcats-iodbc
 SUBDIR+=	mcpp
 SUBDIR+=	mdadm
 SUBDIR+=	mdbtools
+SUBDIR+=	mediawiki
 SUBDIR+=	memdump
 SUBDIR+=	memgrep
 SUBDIR+=	menumaker
