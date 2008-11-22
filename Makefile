@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3115 2008/11/22 14:57:20 thomasklausner Exp $
+# $Id: Makefile,v 1.3116 2008/11/22 15:34:56 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -123,6 +123,7 @@ SUBDIR+=	awk-pkgsrc-dewey
 SUBDIR+=	axe
 SUBDIR+=	axel
 SUBDIR+=	azureus
+SUBDIR+=	backintime
 SUBDIR+=	backplane
 SUBDIR+=	bakery
 SUBDIR+=	barnyard
