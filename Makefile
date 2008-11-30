@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3121 2008/11/26 18:17:40 marttikuparinen Exp $
+# $Id: Makefile,v 1.3122 2008/11/27 16:34:01 jym-netbsd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -366,7 +366,6 @@ SUBDIR+=	ewl
 SUBDIR+=	expiretable
 SUBDIR+=	ezbounce
 SUBDIR+=	ezstream
-SUBDIR+=	f-spot
 SUBDIR+=	fakenes
 SUBDIR+=	fasm
 SUBDIR+=	fasta
