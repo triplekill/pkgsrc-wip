@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3130 2008/12/05 22:58:34 tnn2 Exp $
+# $Id: Makefile,v 1.3131 2008/12/05 23:01:03 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1703,7 +1703,6 @@ SUBDIR+=	send-pr
 SUBDIR+=	sendmailX
 SUBDIR+=	serlook
 SUBDIR+=	service
-SUBDIR+=	sex
 SUBDIR+=	sflphoned
 SUBDIR+=	sgmltools-lite
 SUBDIR+=	shadow
