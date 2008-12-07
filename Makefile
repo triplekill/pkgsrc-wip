@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3136 2008/12/06 13:26:00 tnn2 Exp $
+# $Id: Makefile,v 1.3137 2008/12/07 01:24:32 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -18,7 +18,6 @@ SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
 SUBDIR+=	Lucu
 SUBDIR+=	MissingH
-SUBDIR+=	MyServer
 SUBDIR+=	OdfConverter
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
