@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3138 2008/12/07 09:30:17 bartoszkuzma Exp $
+# $Id: Makefile,v 1.3139 2008/12/07 10:12:16 bartoszkuzma Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -126,7 +126,6 @@ SUBDIR+=	azureus
 SUBDIR+=	backintime
 SUBDIR+=	backplane
 SUBDIR+=	bakery
-SUBDIR+=	barnyard
 SUBDIR+=	bashdb
 SUBDIR+=	bastard
 SUBDIR+=	bastille
