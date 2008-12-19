@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3153 2008/12/18 10:41:14 cheusov Exp $
+# $Id: Makefile,v 1.3154 2008/12/18 20:12:41 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1336,6 +1336,7 @@ SUBDIR+=	p5-RTF-Writer
 SUBDIR+=	p5-Spread
 SUBDIR+=	p5-Startup
 SUBDIR+=	p5-String-Similarity
+SUBDIR+=	p5-TAP-Harness-Archive
 SUBDIR+=	p5-Task-Catalyst
 SUBDIR+=	p5-Template-Plugin-Class
 SUBDIR+=	p5-Template-Provider-Encoding
