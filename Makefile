@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3163 2008/12/22 17:38:54 pebog Exp $
+# $Id: Makefile,v 1.3164 2008/12/23 10:09:17 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -159,6 +159,7 @@ SUBDIR+=	brltty
 SUBDIR+=	bscript
 SUBDIR+=	bsdbuild
 SUBDIR+=	bsfilter
+SUBDIR+=	bsnes
 SUBDIR+=	bss
 SUBDIR+=	bsvc
 SUBDIR+=	btscanner
