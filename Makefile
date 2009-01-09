@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3182 2009/01/09 11:52:56 thomasklausner Exp $
+# $Id: Makefile,v 1.3183 2009/01/09 12:30:52 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1615,7 +1615,6 @@ SUBDIR+=	r8s
 SUBDIR+=	radare
 SUBDIR+=	rancid
 SUBDIR+=	rar3
-SUBDIR+=	rasqal
 SUBDIR+=	ratproxy
 SUBDIR+=	rawphoto
 SUBDIR+=	rc.d.Interix
