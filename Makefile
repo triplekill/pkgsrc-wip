@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3192 2009/01/11 10:00:22 cheusov Exp $
+# $Id: Makefile,v 1.3193 2009/01/11 21:56:11 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -671,6 +671,7 @@ SUBDIR+=	hs-curl
 SUBDIR+=	hs-dataenc
 SUBDIR+=	hs-irc
 SUBDIR+=	hs-magic
+SUBDIR+=	hs-mtl
 SUBDIR+=	hs-pcre-light
 SUBDIR+=	hs-utf8-string
 SUBDIR+=	hs-x11
