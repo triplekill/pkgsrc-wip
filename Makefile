@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3202 2009/01/12 07:08:52 phonohawk Exp $
+# $Id: Makefile,v 1.3203 2009/01/12 07:30:05 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -676,6 +676,7 @@ SUBDIR+=	hs-irc
 SUBDIR+=	hs-magic
 SUBDIR+=	hs-mtl
 SUBDIR+=	hs-network
+SUBDIR+=	hs-parallel
 SUBDIR+=	hs-pcre-light
 SUBDIR+=	hs-time
 SUBDIR+=	hs-utf8-string
