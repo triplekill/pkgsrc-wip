@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3194 2009/01/12 02:42:27 phonohawk Exp $
+# $Id: Makefile,v 1.3195 2009/01/12 03:29:48 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1877,6 +1877,7 @@ SUBDIR+=	udns
 SUBDIR+=	uebimiau
 SUBDIR+=	uffizi
 SUBDIR+=	umix
+SUBDIR+=	uniplate
 SUBDIR+=	unix2tcp
 SUBDIR+=	unmo3
 SUBDIR+=	unrealtournament-server
