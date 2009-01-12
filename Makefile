@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3200 2009/01/12 06:33:24 ficovh Exp $
+# $Id: Makefile,v 1.3201 2009/01/12 06:56:21 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1750,6 +1750,7 @@ SUBDIR+=	squirrelmail-vlogin
 SUBDIR+=	srvx
 SUBDIR+=	ssu
 SUBDIR+=	stardict
+SUBDIR+=	stm
 SUBDIR+=	stmpclean
 SUBDIR+=	stonx
 SUBDIR+=	stumpwm
