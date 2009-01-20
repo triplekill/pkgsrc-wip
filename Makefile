@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3212 2009/01/18 16:07:16 thomasklausner Exp $
+# $Id: Makefile,v 1.3213 2009/01/18 17:41:16 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -667,6 +667,7 @@ SUBDIR+=	hping3
 SUBDIR+=	hplip
 SUBDIR+=	hpoj
 SUBDIR+=	hs-HTTP
+SUBDIR+=	hs-binary
 SUBDIR+=	hs-curl
 SUBDIR+=	hs-dataenc
 SUBDIR+=	hs-irc
