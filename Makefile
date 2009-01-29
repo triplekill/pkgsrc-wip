@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3232 2009/01/27 15:07:21 shindenmorr Exp $
+# $Id: Makefile,v 1.3233 2009/01/29 06:52:57 ficovh Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -26,6 +26,7 @@ SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
 SUBDIR+=	Pythonol
 SUBDIR+=	QLandkarte
+SUBDIR+=	QuickCheck
 SUBDIR+=	R-Rdbi
 SUBDIR+=	R-Rdbi.PgSQL
 SUBDIR+=	R-Rserve
