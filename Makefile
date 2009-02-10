@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3249 2009/02/09 00:32:01 minskim Exp $
+# $Id: Makefile,v 1.3250 2009/02/09 19:08:00 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1928,6 +1928,7 @@ SUBDIR+=	vagalume
 SUBDIR+=	vala
 SUBDIR+=	vale-current
 SUBDIR+=	vamps
+SUBDIR+=	vcf
 SUBDIR+=	vche
 SUBDIR+=	vdesk
 SUBDIR+=	vee
