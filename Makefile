@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3252 2009/02/10 09:23:15 othyro Exp $
+# $Id: Makefile,v 1.3253 2009/02/10 20:10:05 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1833,6 +1833,7 @@ SUBDIR+=	testdisk
 SUBDIR+=	tetrinet
 SUBDIR+=	tex-arphic-ttf
 SUBDIR+=	tex-baekmuk-ttf
+SUBDIR+=	tex-bin-dvipsk
 SUBDIR+=	tex-bin-tex
 SUBDIR+=	tex-cm
 SUBDIR+=	tex-etex
