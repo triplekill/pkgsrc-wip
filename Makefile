@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3254 2009/02/11 19:23:04 minskim Exp $
+# $Id: Makefile,v 1.3255 2009/02/12 01:51:02 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -386,6 +386,7 @@ SUBDIR+=	fdm
 SUBDIR+=	ffmpeg-snapshot
 SUBDIR+=	ficl
 SUBDIR+=	filepp
+SUBDIR+=	filezilla
 SUBDIR+=	firebird
 SUBDIR+=	fireflysung-ttf
 SUBDIR+=	firefox-wrapper
