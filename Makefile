@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3253 2009/02/10 20:10:05 minskim Exp $
+# $Id: Makefile,v 1.3254 2009/02/11 19:23:04 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -991,8 +991,6 @@ SUBDIR+=	lua-lrexlib-pcre
 SUBDIR+=	lua-lrexlib-posix
 SUBDIR+=	lua-mode
 SUBDIR+=	lua-pgsql
-SUBDIR+=	lua-stdlib
-SUBDIR+=	lua-stdlib-doc
 SUBDIR+=	luacheia
 SUBDIR+=	luaposix
 SUBDIR+=	luasocket
