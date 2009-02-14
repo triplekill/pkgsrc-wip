@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3256 2009/02/12 14:19:00 tnn2 Exp $
+# $Id: Makefile,v 1.3257 2009/02/13 21:16:57 absd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2091,8 +2091,6 @@ SUBDIR+=	zope3-unstable
 SUBDIR+=	zsh
 SUBDIR+=	zsh-snapshot
 SUBDIR+=	zvbi
-SUBDIR+=	zyGrib
-SUBDIR+=	zyGrib-maps
 
 ${.CURDIR}/PKGDB:
 	${RM} -f ${.CURDIR}/PKGDB
