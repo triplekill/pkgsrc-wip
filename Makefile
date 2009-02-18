@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3260 2009/02/17 07:48:38 minskim Exp $
+# $Id: Makefile,v 1.3261 2009/02/17 19:19:10 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1214,6 +1214,7 @@ SUBDIR+=	openoffice2-bin-ts
 SUBDIR+=	openoffice2-bin-xh
 SUBDIR+=	openoffice2-bin-zu
 SUBDIR+=	opensc
+SUBDIR+=	opensc-signer
 SUBDIR+=	openscep
 SUBDIR+=	opentracker-current
 SUBDIR+=	openvrml
