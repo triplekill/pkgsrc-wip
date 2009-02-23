@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3267 2009/02/23 08:56:09 htepper Exp $
+# $Id: Makefile,v 1.3268 2009/02/23 18:05:58 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2013,7 +2013,6 @@ SUBDIR+=	xclipboard
 SUBDIR+=	xcowsay
 SUBDIR+=	xcursor-themes
 SUBDIR+=	xdiskusage
-SUBDIR+=	xdvik
 SUBDIR+=	xf86-video-nouveau
 SUBDIR+=	xf86rushproto
 SUBDIR+=	xfce4
