@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3279 2009/03/05 05:54:43 phonohawk Exp $
+# $Id: Makefile,v 1.3280 2009/03/05 17:12:08 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -263,9 +263,6 @@ SUBDIR+=	desmume
 SUBDIR+=	dfbpoint
 SUBDIR+=	dfbsee
 SUBDIR+=	dfu-util
-SUBDIR+=	dhcpcd
-SUBDIR+=	dhcpcd-dbus
-SUBDIR+=	dhcpcd-gtk
 SUBDIR+=	di
 SUBDIR+=	dicom3tools
 SUBDIR+=	dict-client
