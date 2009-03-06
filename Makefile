@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3280 2009/03/05 17:12:08 phonohawk Exp $
+# $Id: Makefile,v 1.3281 2009/03/06 00:02:46 rsmarples Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -352,7 +352,6 @@ SUBDIR+=	emerald-themes
 SUBDIR+=	emirror
 SUBDIR+=	endeavour
 SUBDIR+=	enet
-SUBDIR+=	engine-pkcs11
 SUBDIR+=	ent
 SUBDIR+=	entrance
 SUBDIR+=	eot
@@ -926,7 +925,6 @@ SUBDIR+=	libneural
 SUBDIR+=	libnjb
 SUBDIR+=	libopenmodeller
 SUBDIR+=	libopensync-plugin-moto
-SUBDIR+=	libp11
 SUBDIR+=	libpano12
 SUBDIR+=	libparsifal
 SUBDIR+=	libpcap-latest
