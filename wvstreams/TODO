@@ -1,4 +1,10 @@
-$Id$
+$Id: TODO,v 1.1.1.1 2009/03/11 14:14:51 udontknow Exp $
 
 Try it out, at least in Linux and NetBSD
+
+Use options.mk to integrate:
+- DBus
+- PAM
+- Qt
+- Valgrind
 
