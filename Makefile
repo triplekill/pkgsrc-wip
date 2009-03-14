@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3293 2009/03/12 00:58:00 minskim Exp $
+# $Id: Makefile,v 1.3294 2009/03/13 18:33:28 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -903,6 +903,7 @@ SUBDIR+=	libdbi-driver-sqlite
 SUBDIR+=	libdbi-driver-sqlite3
 SUBDIR+=	libdialog
 SUBDIR+=	libdisasm
+SUBDIR+=	libdjconsole
 SUBDIR+=	libdmx
 #SUBDIR+=	libdrm			# we have x11/libdrm, is this obsolete?
 SUBDIR+=	libdshconfig
