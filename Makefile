@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3294 2009/03/13 18:33:28 jihbed Exp $
+# $Id: Makefile,v 1.3295 2009/03/14 05:40:26 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -546,6 +546,7 @@ SUBDIR+=	guitone
 SUBDIR+=	gune
 SUBDIR+=	gurlchecker
 SUBDIR+=	gwhois
+SUBDIR+=	gxconsole
 SUBDIR+=	gxmms2
 SUBDIR+=	habak
 SUBDIR+=	haddock
