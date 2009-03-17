@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3305 2009/03/16 18:55:58 lexort Exp $
+# $Id: Makefile,v 1.3306 2009/03/17 02:56:01 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -461,6 +461,7 @@ SUBDIR+=	ghc
 SUBDIR+=	giggle
 SUBDIR+=	gimmie
 SUBDIR+=	gipfel
+SUBDIR+=	glista
 SUBDIR+=	git
 SUBDIR+=	givaro
 SUBDIR+=	gjots2
