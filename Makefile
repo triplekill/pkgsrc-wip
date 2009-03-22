@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3314 2009/03/21 23:31:58 jihbed Exp $
+# $Id: Makefile,v 1.3315 2009/03/21 23:53:16 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -537,6 +537,7 @@ SUBDIR+=	gtk2-engines-qt
 SUBDIR+=	gtk2-theme-pack
 SUBDIR+=	gtk2hs
 SUBDIR+=	gtkada
+SUBDIR+=	gtkaml
 SUBDIR+=	gtkfontsel
 SUBDIR+=	gtkglk
 SUBDIR+=	gtk-grdc
