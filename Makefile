@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3325 2009/03/23 13:05:03 mstapelberg Exp $
+# $Id: Makefile,v 1.3326 2009/03/23 21:48:23 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1565,6 +1565,7 @@ SUBDIR+=	py-aspects
 SUBDIR+=	py-aspell
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
+SUBDIR+=	py-chm
 SUBDIR+=	py-configobj
 SUBDIR+=	py-divmod-axiom
 SUBDIR+=	py-divmod-epsilon
