@@ -110,6 +110,7 @@ SUBDIR+=	armagetronad
 SUBDIR+=	artemis
 SUBDIR+=	aspell-finnish
 SUBDIR+=	asymptote
+SUBDIR+=	aspyct
 SUBDIR+=	atftp
 SUBDIR+=	ati-xfree86-bin
 SUBDIR+=	ati-xfree86-bin-unstable
