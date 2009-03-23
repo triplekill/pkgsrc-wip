@@ -453,6 +453,7 @@ SUBDIR+=	gdmap
 SUBDIR+=	gdvb
 SUBDIR+=	geant
 SUBDIR+=	geany
+SUBDIR+=	gecko-sharp
 SUBDIR+=	gfa
 SUBDIR+=	gfontview
 SUBDIR+=	gforge
