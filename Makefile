@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3339 2009/03/29 18:49:34 cheusov Exp $
+# $Id: Makefile,v 1.3340 2009/03/29 23:40:13 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2000,6 +2000,7 @@ SUBDIR+=	vlevel
 SUBDIR+=	vm-pop3d
 SUBDIR+=	vmsbackup
 SUBDIR+=	vncselector
+SUBDIR+=	vnstat
 SUBDIR+=	vpr
 SUBDIR+=	vreng
 SUBDIR+=	wang-ttf
