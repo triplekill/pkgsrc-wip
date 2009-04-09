@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3349 2009/04/08 07:54:33 pettai Exp $
+# $Id: Makefile,v 1.3350 2009/04/08 09:08:42 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1869,6 +1869,7 @@ SUBDIR+=	talksoup
 SUBDIR+=	tango-icon-theme
 SUBDIR+=	task
 SUBDIR+=	taskbar
+SUBDIR+=	tasks
 SUBDIR+=	tcc
 SUBDIR+=	tcc-devel
 SUBDIR+=	tcl85
