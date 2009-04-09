@@ -537,6 +537,7 @@ SUBDIR+=	gromacs
 SUBDIR+=	grsync
 SUBDIR+=	grub2
 SUBDIR+=	gstat
+SUBDIR+=	gst-inspector
 SUBDIR+=	gstreamer-plugins
 SUBDIR+=	gtk-gnutella-current
 SUBDIR+=	gtk-grdc
