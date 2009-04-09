@@ -1584,6 +1584,7 @@ SUBDIR+=	py-Soya
 SUBDIR+=	py-albatross
 SUBDIR+=	py-aspects
 SUBDIR+=	py-aspell
+SUBDIR+=	py-bitstring
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
 SUBDIR+=	py-chm
