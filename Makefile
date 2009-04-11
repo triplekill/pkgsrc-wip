@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3353 2009/04/09 16:29:19 jihbed Exp $
+# $Id: Makefile,v 1.3354 2009/04/10 23:01:57 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -951,6 +951,7 @@ SUBDIR+=	libgtksourceviewmm
 SUBDIR+=	libgxim
 SUBDIR+=	libharu
 SUBDIR+=	libhttpd
+SUBDIR+=	libipctdata
 SUBDIR+=	liblingoteach
 SUBDIR+=	liblo
 SUBDIR+=	libmusclecard
