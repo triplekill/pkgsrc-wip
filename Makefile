@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3355 2009/04/11 12:50:47 jihbed Exp $
+# $Id: Makefile,v 1.3354 2009/04/10 23:01:57 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -968,6 +968,7 @@ SUBDIR+=	libpciaccess
 SUBDIR+=	libpthread-stubs
 SUBDIR+=	libpusb
 SUBDIR+=	libraw1394
+SUBDIR+=	librmss
 SUBDIR+=	libsidplay2
 SUBDIR+=	libstacktrace
 SUBDIR+=	libtextcat
