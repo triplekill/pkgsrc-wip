@@ -954,6 +954,7 @@ SUBDIR+=	libhttpd
 SUBDIR+=	libipctdata
 SUBDIR+=	liblingoteach
 SUBDIR+=	liblo
+SUBDIR+=	libmrss
 SUBDIR+=	libmusclecard
 SUBDIR+=	libnettle
 SUBDIR+=	libneural
