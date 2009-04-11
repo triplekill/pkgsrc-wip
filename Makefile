@@ -968,7 +968,6 @@ SUBDIR+=	libpciaccess
 SUBDIR+=	libpthread-stubs
 SUBDIR+=	libpusb
 SUBDIR+=	libraw1394
-SUBDIR+=	librmss
 SUBDIR+=	libsidplay2
 SUBDIR+=	libstacktrace
 SUBDIR+=	libtextcat
