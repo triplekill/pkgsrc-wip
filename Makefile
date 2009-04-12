@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3354 2009/04/10 23:01:57 jihbed Exp $
+# $Id: Makefile,v 1.3359 2009/04/11 15:31:02 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -111,7 +111,6 @@ SUBDIR+=	armagetronad
 SUBDIR+=	arora
 SUBDIR+=	artemis
 SUBDIR+=	aspell-finnish
-SUBDIR+=	aspyct
 SUBDIR+=	asymptote
 SUBDIR+=	atftp
 SUBDIR+=	ati-xfree86-bin
