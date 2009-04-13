@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3369 2009/04/13 19:01:36 minskim Exp $
+# $Id: Makefile,v 1.3370 2009/04/13 19:07:30 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1635,6 +1635,7 @@ SUBDIR+=	py-rcsparse
 SUBDIR+=	py-rlcompleter2
 SUBDIR+=	py-scipy
 SUBDIR+=	py-scrobbler
+SUBDIR+=	py-sendmail-admin
 SUBDIR+=	py-shtoom
 SUBDIR+=	py-snmp
 SUBDIR+=	py-spambayes
