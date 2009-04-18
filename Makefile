@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3372 2009/04/14 18:34:36 thomasklausner Exp $
+# $Id: Makefile,v 1.3373 2009/04/15 22:45:00 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1153,6 +1153,7 @@ SUBDIR+=	natali
 SUBDIR+=	naturaldocs
 SUBDIR+=	nautilus-image-converter
 SUBDIR+=	nautilus-open-terminal
+SUBDIR+=	nautilus-search-tool
 SUBDIR+=	nautilus-sound-converter
 SUBDIR+=	navigatrix
 SUBDIR+=	nbfc
