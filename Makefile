@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3380 2009/04/18 00:36:17 jihbed Exp $
+# $Id: Makefile,v 1.3381 2009/04/18 00:38:23 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -411,6 +411,7 @@ SUBDIR+=	flimp
 SUBDIR+=	flimsel
 SUBDIR+=	fluxspace
 SUBDIR+=	flv2mpeg4
+SUBDIR+=	flvmeta
 SUBDIR+=	flyback
 SUBDIR+=	fnord
 SUBDIR+=	fnteditfs
