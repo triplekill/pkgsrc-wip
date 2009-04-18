@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3376 2009/04/18 00:25:23 jihbed Exp $
+# $Id: Makefile,v 1.3377 2009/04/18 00:27:51 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -898,6 +898,7 @@ SUBDIR+=	kyra2
 SUBDIR+=	l2tpd
 SUBDIR+=	lasi
 SUBDIR+=	last.fm
+SUBDIR+=	lastfm-sharp
 SUBDIR+=	lat
 SUBDIR+=	lcdproc
 SUBDIR+=	lcrack
