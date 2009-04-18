@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3381 2009/04/18 00:38:23 jihbed Exp $
+# $Id: Makefile,v 1.3382 2009/04/18 00:41:47 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1600,6 +1600,7 @@ SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
 SUBDIR+=	py-chm
 SUBDIR+=	py-configobj
+SUBDIR+=	py-csp
 SUBDIR+=	py-divmod-axiom
 SUBDIR+=	py-divmod-epsilon
 SUBDIR+=	py-divmod-mantissa
