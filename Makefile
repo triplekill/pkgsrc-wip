@@ -1640,6 +1640,7 @@ SUBDIR+=	py-omniORBpy
 SUBDIR+=	py-orm
 SUBDIR+=	py-osd
 SUBDIR+=	py-pcapy
+SUBDIR+=	py-pp
 SUBDIR+=	py-plucker
 SUBDIR+=	py-rcsparse
 SUBDIR+=	py-rlcompleter2
