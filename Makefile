@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3387 2009/04/24 06:37:56 minskim Exp $
+# $Id: Makefile,v 1.3392 2009/04/24 23:01:11 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1198,6 +1198,7 @@ SUBDIR+=	nginx
 SUBDIR+=	nginx-devel
 SUBDIR+=	nicotine+
 SUBDIR+=	ninvaders
+SUBDIR+=	njb-sharp
 SUBDIR+=	nmzmail
 SUBDIR+=	nnrpd
 SUBDIR+=	noip
