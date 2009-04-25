@@ -1642,6 +1642,7 @@ SUBDIR+=	py-oak
 SUBDIR+=	py-omniORBpy
 SUBDIR+=	py-orm
 SUBDIR+=	py-osd
+SUBDIR+=	py-papyros
 SUBDIR+=	py-pcapy
 SUBDIR+=	py-pp
 SUBDIR+=	py-plucker
