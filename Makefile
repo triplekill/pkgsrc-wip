@@ -227,6 +227,7 @@ SUBDIR+=	common-mml
 SUBDIR+=	commoncpp2
 SUBDIR+=	compare
 SUBDIR+=	compiz-gnome-current
+SUBDIR+=	converttomp3
 SUBDIR+=	cops
 SUBDIR+=	copytape
 SUBDIR+=	courierpassd
