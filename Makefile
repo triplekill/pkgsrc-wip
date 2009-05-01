@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3402 2009/04/29 15:56:00 mjoellnir Exp $
+# $Id: Makefile,v 1.3403 2009/04/30 21:06:55 rsmarples Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1305,6 +1305,10 @@ SUBDIR+=	p5-CGI-Application-Plugin-Redirect
 SUBDIR+=	p5-CGI-Application-Plugin-Session
 SUBDIR+=	p5-CGI-Application-Plugin-Stream
 SUBDIR+=	p5-CGI-Application-Plugin-TT
+SUBDIR+=	p5-CGI-Application-Plugin-LogDispatch
+SUBDIR+=	p5-CGI-Application-Standard-Config
+SUBDIR+=	p5-Module-Starter-Plugin-CGIApp
+SUBDIR+=	p5-Sub-WrapPackages
 SUBDIR+=	p5-CGI-Application-Server
 SUBDIR+=	p5-CGI-Untaint
 SUBDIR+=	p5-CGI-Untaint-date
