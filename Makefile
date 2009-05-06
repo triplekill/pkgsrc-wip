@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3407 2009/05/05 21:05:57 msorc Exp $
+# $Id: Makefile,v 1.3408 2009/05/05 21:35:37 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -931,6 +931,7 @@ SUBDIR+=	libbtctl
 SUBDIR+=	libchewing
 SUBDIR+=	libcli
 SUBDIR+=	libcm
+SUBDIR+=	libcmt
 SUBDIR+=	libdbi
 SUBDIR+=	libdbi-driver-mysql
 SUBDIR+=	libdbi-driver-pgsql
