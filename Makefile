@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3409 2009/05/06 10:32:43 jihbed Exp $
+# $Id: Makefile,v 1.3410 2009/05/07 01:35:25 ficovh Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -903,7 +903,6 @@ SUBDIR+=	kylix-openedition
 SUBDIR+=	kyra
 SUBDIR+=	kyra2
 SUBDIR+=	l2tpd
-SUBDIR+=	laby
 SUBDIR+=	lasi
 SUBDIR+=	last.fm
 SUBDIR+=	lastfm-sharp
