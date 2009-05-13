@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3415 2009/05/11 22:43:29 imilh Exp $
+# $Id: Makefile,v 1.3416 2009/05/12 15:25:15 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -178,7 +178,6 @@ SUBDIR+=	busybox
 SUBDIR+=	bwm-ng
 SUBDIR+=	c-news
 SUBDIR+=	c2hs
-SUBDIR+=	cabal
 SUBDIR+=	cabal-upload
 SUBDIR+=	cabocha
 SUBDIR+=	cacti
@@ -706,8 +705,10 @@ SUBDIR+=	hpoj
 SUBDIR+=	hs-HTTP
 SUBDIR+=	hs-SHA
 SUBDIR+=	hs-binary
+SUBDIR+=	hs-cabal
 SUBDIR+=	hs-curl
 SUBDIR+=	hs-dataenc
+SUBDIR+=	hs-hopenssl
 SUBDIR+=	hs-html
 SUBDIR+=	hs-iconv
 SUBDIR+=	hs-irc
