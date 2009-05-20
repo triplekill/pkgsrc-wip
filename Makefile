@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3423 2009/05/19 09:21:57 thomasklausner Exp $
+# $Id: Makefile,v 1.3424 2009/05/19 17:29:44 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -56,7 +56,6 @@ SUBDIR+=	WEPCrack
 SUBDIR+=	aamath
 SUBDIR+=	a2ps-sharatype
 SUBDIR+=	abclock
-SUBDIR+=	abuse_sdl
 SUBDIR+=	acpid
 SUBDIR+=	adamem
 SUBDIR+=	adms
@@ -1961,7 +1960,6 @@ SUBDIR+=	tmw
 SUBDIR+=	tome
 SUBDIR+=	tome2
 SUBDIR+=	topless
-SUBDIR+=	toppler
 SUBDIR+=	tops-bin
 SUBDIR+=	tor-dev
 SUBDIR+=	torcs
