@@ -561,6 +561,7 @@ SUBDIR+=	gtkfontsel
 SUBDIR+=	gtkglk
 SUBDIR+=	gtkhotkey
 SUBDIR+=	gtklookat
+SUBDIR+=	gtksourcecompletion
 SUBDIR+=	gtuxnes
 SUBDIR+=	gtypist
 SUBDIR+=	guichan
