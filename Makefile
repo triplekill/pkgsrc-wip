@@ -252,6 +252,7 @@ SUBDIR+=	cycle
 SUBDIR+=	cygwin
 SUBDIR+=	cygwin-binutils
 SUBDIR+=	cyrus-imapd
+SUBDIR+=	d-feet
 SUBDIR+=	d4x
 SUBDIR+=	daphne
 SUBDIR+=	darcnes-svgalib
