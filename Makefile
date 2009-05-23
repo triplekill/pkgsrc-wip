@@ -1,4 +1,20 @@
-# $Id: Makefile,v 1.3428 2009/05/23 07:38:20 phonohawk Exp $
+<<<<<<< Makefile
+<<<<<<< Makefile
+<<<<<<< Makefile
+<<<<<<< Makefile
+# $Id: Makefile,v 1.3414 2009/05/08 21:05:37 cheusov Exp $
+=======
+# $Id: Makefile,v 1.3416 2009/05/12 15:25:15 jihbed Exp $
+>>>>>>> 1.3416
+=======
+# $Id: Makefile,v 1.3424 2009/05/19 17:29:44 minskim Exp $
+>>>>>>> 1.3424
+=======
+# $Id: Makefile,v 1.3427 2009/05/22 05:27:22 blef Exp $
+>>>>>>> 1.3427
+=======
+# $Id: Makefile,v 1.3431 2009/05/23 15:36:28 jihbed Exp $
+>>>>>>> 1.3431
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1616,6 +1632,7 @@ SUBDIR+=	py-buildbot
 SUBDIR+=	py-cherry
 SUBDIR+=	py-chm
 SUBDIR+=	py-configobj
+SUBDIR+=	py-coverage
 SUBDIR+=	py-csp
 SUBDIR+=	py-dbutils
 SUBDIR+=	py-divmod-axiom
@@ -1624,6 +1641,7 @@ SUBDIR+=	py-divmod-mantissa
 SUBDIR+=	py-divmod-nevow
 SUBDIR+=	py-divmod-vertex
 SUBDIR+=	py-fastaudio
+SUBDIR+= 	py-foolscap
 SUBDIR+=	py-gcalendarsync
 SUBDIR+=	py-gdata
 SUBDIR+=	py-generateDS
