@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3437 2009/05/29 04:13:57 phonohawk Exp $
+# $Id: Makefile,v 1.3438 2009/05/29 05:25:11 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -703,6 +703,7 @@ SUBDIR+=	homebank
 SUBDIR+=	hping3
 SUBDIR+=	hplip
 SUBDIR+=	hpoj
+SUBDIR+=	hs-HDBC
 SUBDIR+=	hs-HTTP
 SUBDIR+=	hs-SHA
 SUBDIR+=	hs-binary
