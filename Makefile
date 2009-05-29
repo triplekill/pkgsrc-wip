@@ -1,20 +1,4 @@
-<<<<<<< Makefile
-<<<<<<< Makefile
-<<<<<<< Makefile
-<<<<<<< Makefile
-# $Id: Makefile,v 1.3434 2009/05/25 15:28:42 jihbed Exp $
-=======
-# $Id: Makefile,v 1.3434 2009/05/25 15:28:42 jihbed Exp $
->>>>>>> 1.3416
-=======
-# $Id: Makefile,v 1.3434 2009/05/25 15:28:42 jihbed Exp $
->>>>>>> 1.3424
-=======
-# $Id: Makefile,v 1.3434 2009/05/25 15:28:42 jihbed Exp $
->>>>>>> 1.3427
-=======
-# $Id: Makefile,v 1.3434 2009/05/25 15:28:42 jihbed Exp $
->>>>>>> 1.3431
+# $Id$
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -910,6 +894,7 @@ SUBDIR+=	kino
 SUBDIR+=	kissme
 SUBDIR+=	klamav
 SUBDIR+=	kmldonkey
+SUBDIR+=	kmymoney2-devel
 SUBDIR+=	knutclient
 SUBDIR+=	koha
 SUBDIR+=	korelib
