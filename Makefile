@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3442 2009/05/29 06:19:10 phonohawk Exp $
+# $Id: Makefile,v 1.3443 2009/05/30 09:48:04 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -104,6 +104,7 @@ SUBDIR+=	archimedes
 SUBDIR+=	argouml
 SUBDIR+=	argtable2
 SUBDIR+=	aria2
+SUDBIR+=	arista
 SUBDIR+=	arla-3.99.14
 SUBDIR+=	armagetronad
 SUBDIR+=	arora
