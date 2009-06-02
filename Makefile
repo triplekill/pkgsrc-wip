@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3446 2009/05/31 19:05:22 jihbed Exp $
+# $Id: Makefile,v 1.3447 2009/06/02 06:47:53 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -733,6 +733,7 @@ SUBDIR+=	hs-readline
 SUBDIR+=	hs-regex-base
 SUBDIR+=	hs-regex-compat
 SUBDIR+=	hs-regex-posix
+SUBDIR+=	hs-tagsoup
 SUBDIR+=	hs-time
 SUBDIR+=	hs-uconv
 SUBDIR+=	hs-utf8-string
