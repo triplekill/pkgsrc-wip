@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3445 2009/05/31 16:45:35 jihbed Exp $
+# $Id: Makefile,v 1.3446 2009/05/31 19:05:22 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1925,7 +1925,6 @@ SUBDIR+=	tac_plus-libradius
 SUBDIR+=	tacacs-shrubbery
 SUBDIR+=	taglib-extras
 SUBDIR+=	taglib-sharp
-SUBDIR+=	tagsoup
 SUBDIR+=	tagtool
 SUBDIR+=	ta-lib
 SUBDIR+=	talksoup
