@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3462 2009/06/03 07:25:34 phonohawk Exp $
+# $Id: Makefile,v 1.3463 2009/06/03 08:49:43 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -984,7 +984,6 @@ SUBDIR+=	libmusclecard
 SUBDIR+=	libnettle
 SUBDIR+=	libneural
 SUBDIR+=	libnjb
-SUBDIR+=	libnxml
 SUBDIR+=	libopenmodeller
 SUBDIR+=	libopensync-plugin-moto
 SUBDIR+=	libpano12
