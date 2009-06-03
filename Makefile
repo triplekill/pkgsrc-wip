@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3459 2009/06/03 07:10:18 phonohawk Exp $
+# $Id: Makefile,v 1.3460 2009/06/03 07:16:10 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -229,7 +229,6 @@ SUBDIR+=	copytape
 SUBDIR+=	courierpassd
 SUBDIR+=	cpdup
 SUBDIR+=	cpm
-SUBDIR+=	cpphs
 SUBDIR+=	cream
 SUBDIR+=	crfpp
 SUBDIR+=	crm114
