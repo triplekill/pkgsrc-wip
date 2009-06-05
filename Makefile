@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3470 2009/06/05 04:22:30 phonohawk Exp $
+# $Id: Makefile,v 1.3471 2009/06/05 04:29:13 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1679,6 +1679,7 @@ SUBDIR+=	py-osd
 SUBDIR+=	py-papyros
 SUBDIR+=	py-pcapy
 SUBDIR+=	py-pp
+SUBDIR+=	py-ptrace
 SUBDIR+=	py-plucker
 SUBDIR+=	py-rcsparse
 SUBDIR+=	py-rlcompleter2
