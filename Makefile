@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3472 2009/06/05 21:51:49 jihbed Exp $
+# $Id: Makefile,v 1.3473 2009/06/06 23:07:20 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2090,6 +2090,7 @@ SUBDIR+=	wpro
 SUBDIR+=	wput
 SUBDIR+=	wrcs
 SUBDIR+=	wsmake
+SUBDIR+=	wtf
 SUBDIR+=	wvstreams
 SUBDIR+=	wxGTK-contrib-unicode
 SUBDIR+=	wxGTK-unicode
