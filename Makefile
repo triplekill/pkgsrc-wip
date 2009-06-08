@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3473 2009/06/06 23:07:20 jihbed Exp $
+# $Id: Makefile,v 1.3474 2009/06/07 05:58:52 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1883,6 +1883,7 @@ SUBDIR+=	spawnfcgi
 SUBDIR+=	spe
 SUBDIR+=	speedx
 SUBDIR+=	spfmilter
+SUBDIR+=	spin
 SUBDIR+=	squirrelmail-avelsieve
 SUBDIR+=	squirrelmail-chg_sasl_passwd
 SUBDIR+=	squirrelmail-compatibility
