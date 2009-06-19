@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3483 2009/06/18 00:50:44 jihbed Exp $
+# $Id: Makefile,v 1.3484 2009/06/18 16:12:05 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1055,6 +1055,7 @@ SUBDIR+=	linuxigd-current
 SUBDIR+=	linuxtv-dvb-apps
 SUBDIR+=	lirc
 SUBDIR+=	lire
+SUBDIR+=	lissac
 SUBDIR+=	lives
 SUBDIR+=	lletters
 SUBDIR+=	llvm
