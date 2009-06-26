@@ -1660,6 +1660,7 @@ SUBDIR+=	py-chm
 SUBDIR+=	py-configobj
 SUBDIR+=	py-coverage
 SUBDIR+=	py-csp
+SUBDIR+=	py-daemon
 SUBDIR+=	py-dbutils
 SUBDIR+=	py-divmod-axiom
 SUBDIR+=	py-divmod-epsilon
