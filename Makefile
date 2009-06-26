@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3487 2009/06/22 02:50:36 phonohawk Exp $
+# $Id: Makefile,v 1.3488 2009/06/23 21:09:31 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -16,6 +16,7 @@ SUBDIR+=	HsHyperEstraier
 SUBDIR+=	HsSVN
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
+SUBDIR+=	LuaJIT
 SUBDIR+=	MissingH
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
