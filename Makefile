@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3488 2009/06/23 21:09:31 jihbed Exp $
+# $Id: Makefile,v 1.3489 2009/06/26 01:49:11 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1648,6 +1648,7 @@ SUBDIR+=	py-RXP
 SUBDIR+=	py-SQLObject
 SUBDIR+=	py-Soya
 SUBDIR+=	py-albatross
+SUBDIR+=	py-amqplib
 SUBDIR+=	py-aspects
 SUBDIR+=	py-aspell
 SUBDIR+=	py-aspyct
