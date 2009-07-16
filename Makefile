@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3500 2009/07/14 09:12:06 yhardy Exp $
+# $Id: Makefile,v 1.3501 2009/07/16 02:23:48 prudhvikrishna Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1133,6 +1133,7 @@ SUBDIR+=	mingw-w32api-bin
 SUBDIR+=	minimalist
 SUBDIR+=	minisat2
 SUBDIR+=	miniupnpc
+SUBDIR+=	miracl
 SUBDIR+=	mirage
 SUBDIR+=	mixer.tk
 SUBDIR+=	mixmaster
