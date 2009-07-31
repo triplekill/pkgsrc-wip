@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3524 2009/07/27 09:44:52 minskim Exp $
+# $Id: Makefile,v 1.3525 2009/07/30 05:50:46 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -99,7 +99,6 @@ SUBDIR+=	apstget
 SUBDIR+=	ar7
 SUBDIR+=	archimedes
 SUBDIR+=	argouml
-SUBDIR+=	argtable2
 SUBDIR+=	aria2
 SUBDIR+=	arista
 SUBDIR+=	arla-3.99.14
@@ -1667,7 +1666,6 @@ SUBDIR+=	py-behaviour
 SUBDIR+=	py-bitstring
 SUBDIR+=	py-bsddb
 SUBDIR+=	py-buildbot
-SUBDIR+=	py-cherry
 SUBDIR+=	py-chm
 SUBDIR+=	py-configobj
 SUBDIR+=	py-coverage
