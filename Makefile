@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3531 2009/08/03 13:02:03 yhardy Exp $
+# $Id: Makefile,v 1.3532 2009/08/03 19:41:39 athaba Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -908,9 +908,11 @@ SUBDIR+=	kdebindings4-python
 SUBDIR+=	kdeedu4
 SUBDIR+=	kdegames4
 SUBDIR+=	kdegraphics4
+SUBDIR+=	kdelibs-experimental4
 SUBDIR+=	kdelibs4
 SUBDIR+=	kdemultimedia4
 SUBDIR+=	kdenetwork4
+SUBDIR+=	kdepim-runtime4
 SUBDIR+=	kdepim4
 SUBDIR+=	kdepimlibs4
 SUBDIR+=	kdeplasma-addons4
@@ -1330,6 +1332,7 @@ SUBDIR+=	outguess
 SUBDIR+=	overgod
 SUBDIR+=	owl
 SUBDIR+=	oww-nox11
+SUBDIR+=	oxygen-icons
 SUBDIR+=	ozymandns
 SUBDIR+=	p2kmoto
 SUBDIR+=	p3nfs
