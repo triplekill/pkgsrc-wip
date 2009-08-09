@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3538 2009/08/08 23:11:45 jihbed Exp $
+# $Id: Makefile,v 1.3539 2009/08/09 22:09:10 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -763,6 +763,7 @@ SUBDIR+=	html2latex
 SUBDIR+=	httrack
 SUBDIR+=	hu-go
 SUBDIR+=	hunspell-af_ZA
+SUBDIR+=	hunspell-ar
 SUBDIR+=	hunspell-fr_FR_1990
 SUBDIR+=	hunspell-fr_FR_classique
 SUBDIR+=	hunspell-ga_IE
