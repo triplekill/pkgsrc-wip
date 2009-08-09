@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3537 2009/08/08 15:14:23 thomasklausner Exp $
+# $Id: Makefile,v 1.3538 2009/08/08 23:11:45 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2184,6 +2184,7 @@ SUBDIR+=	xcowsay
 SUBDIR+=	xcursor-themes
 SUBDIR+=	xdiskusage
 SUBDIR+=	xesam-glib
+SUBDIR+=	xf86-video-geode
 SUBDIR+=	xf86-video-nouveau
 SUBDIR+=	xf86rushproto
 SUBDIR+=	xfce4
