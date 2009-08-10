@@ -1,4 +1,8 @@
-# $Id: Makefile,v 1.3540 2009/08/09 23:09:32 jihbed Exp $
+<<<<<<< Makefile
+# $Id: Makefile,v 1.3539 2009/08/09 22:09:10 thomasklausner Exp $
+=======
+# $Id: Makefile,v 1.3541 2009/08/10 09:33:12 jukka Exp $
+>>>>>>> 1.3541
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -252,6 +256,7 @@ SUBDIR+=	cycle
 SUBDIR+=	cygwin
 SUBDIR+=	cygwin-binutils
 SUBDIR+=	cyrus-imapd
+SUBDIR+=	cython
 SUBDIR+=	d-feet
 SUBDIR+=	d4x
 SUBDIR+=	daphne
