@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3542 2009/08/10 21:16:31 jihbed Exp $
+# $Id: Makefile,v 1.3543 2009/08/11 02:40:00 christtrekker Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -582,6 +582,7 @@ SUBDIR+=	gxmms2
 SUBDIR+=	habak
 SUBDIR+=	haddock
 SUBDIR+=	happy
+SUBDIR+=	haproxy
 SUBDIR+=	hasciicam
 SUBDIR+=	haserl
 SUBDIR+=	haskell-mode
