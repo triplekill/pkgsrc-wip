@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3554 2009/08/19 16:52:49 udontknow Exp $
+# $Id: Makefile,v 1.3555 2009/08/19 18:11:26 udontknow Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1158,6 +1158,7 @@ SUBDIR+=	mono-zeroconf
 SUBDIR+=	monotone-cvsimport
 SUBDIR+=	moregroupware
 SUBDIR+=	moto4lin
+SUBDIR+=	mozldap
 SUBDIR+=	mozplugger
 SUBDIR+=	mp3chop
 SUBDIR+=	mp3gain
