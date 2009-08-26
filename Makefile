@@ -1,8 +1,9 @@
-# $Id: Makefile,v 1.3563 2009/08/25 22:58:20 leot1990 Exp $
+# $Id: Makefile,v 1.3564 2009/08/25 22:59:41 leot1990 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
 
+SUBDIR+=	389-ds-base
 SUBDIR+=	Chinput
 SUBDIR+=	GNUMail-pgp
 SUBDIR+=	GSCommander
