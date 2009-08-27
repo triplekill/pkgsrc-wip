@@ -2046,6 +2046,7 @@ SUBDIR+=	texlive-bin
 SUBDIR+=	texlive-texmf-base
 SUBDIR+=	texlive-texmf-minimal
 SUBDIR+=	tftp-hpa
+SUBDIR+=	thabit
 SUBDIR+=	thcrut
 SUBDIR+=	theme-gtk-bluecurve
 SUBDIR+=	thunderbird-bin
