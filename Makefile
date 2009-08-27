@@ -1160,6 +1160,7 @@ SUBDIR+=	monkey-bubble
 SUBDIR+=	mono-zeroconf
 SUBDIR+=	monotone-cvsimport
 SUBDIR+=	moregroupware
+SUBDIR+=	mothanna
 SUBDIR+=	moto4lin
 SUBDIR+=	mozldap
 SUBDIR+=	mozplugger
