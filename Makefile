@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3570 2009/08/29 11:51:37 jihbed Exp $
+# $Id: Makefile,v 1.3571 2009/08/29 15:39:18 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1450,6 +1450,7 @@ SUBDIR+=	p5-Lingua-Stem-Snowball-Da
 SUBDIR+=	p5-Lingua-Stem-Snowball-No
 SUBDIR+=	p5-Lingua-Stem-Snowball-Se
 SUBDIR+=	p5-Lingua-StopWords
+SUBDIR+=	p5-Lingua-Translate
 SUBDIR+=	p5-List-Compare
 SUBDIR+=	p5-MARC-Charset
 SUBDIR+=	p5-MARC-XML
@@ -1486,6 +1487,7 @@ SUBDIR+=	p5-Picasa
 SUBDIR+=	p5-Plucene
 SUBDIR+=	p5-Plucene-Plugin-Analyzer-SnowballAnalyzer
 SUBDIR+=	p5-PluceneSimple
+SUBDIR+=	p5-Pod-Constants
 SUBDIR+=	p5-Quota
 SUBDIR+=	p5-RRD-Simple
 SUBDIR+=	p5-RTF-Writer
