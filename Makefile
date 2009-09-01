@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3577 2009/08/31 22:26:53 jihbed Exp $
+# $Id: Makefile,v 1.3578 2009/09/01 12:49:29 udontknow Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1424,6 +1424,7 @@ SUBDIR+=	p5-Encode-compat
 SUBDIR+=	p5-Exception-Base
 SUBDIR+=	p5-Exception-Class-TryCatch
 SUBDIR+=	p5-Exporter-Tidy
+SUBDIR+=	p5-File-ReadBackwards
 SUBDIR+=	p5-Frontier-RPC
 SUBDIR+=	p5-Getopt-GUI-Long
 SUBDIR+=	p5-GD-Barcode
