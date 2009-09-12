@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3591 2009/09/12 12:10:27 cheusov Exp $
+# $Id: Makefile,v 1.3592 2009/09/12 17:44:32 yacht Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1939,6 +1939,7 @@ SUBDIR+=	sleuthkit.dev
 SUBDIR+=	slim
 SUBDIR+=	slime
 SUBDIR+=	slocate
+SUBDIR+=	slrn-devel
 SUBDIR+=	slrn-pl
 SUBDIR+=	slune
 SUBDIR+=	sm-change_ldappass
