@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3594 2009/09/13 18:26:33 cheusov Exp $
+# $Id: Makefile,v 1.3595 2009/09/15 10:11:21 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1608,7 +1608,6 @@ SUBDIR+=	pinball
 SUBDIR+=	pipestatus
 SUBDIR+=	pizza
 SUBDIR+=	pjproject
-SUBDIR+=	pkcs11-helper
 SUBDIR+=	pkg_conflicts
 SUBDIR+=	pkg_fake
 #SUBDIR+=	pkg_get			# not a package (yet?)
