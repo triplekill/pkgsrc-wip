@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3596 2009/09/16 08:30:30 spzeidler Exp $
+# $Id: Makefile,v 1.3597 2009/09/22 12:39:15 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -721,6 +721,7 @@ SUBDIR+=	hs-Lucu
 SUBDIR+=	hs-SHA
 SUBDIR+=	hs-binary
 SUBDIR+=	hs-cabal
+SUBDIR+=	hs-chalkboard
 SUBDIR+=	hs-convertible
 SUBDIR+=	hs-cpphs
 SUBDIR+=	hs-curl
