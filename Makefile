@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3606 2009/09/22 14:47:32 phonohawk Exp $
+# $Id: Makefile,v 1.3607 2009/09/22 15:13:46 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1101,6 +1101,7 @@ SUBDIR+=	lzs-lkm
 SUBDIR+=	mac-robber
 SUBDIR+=	mailfilter
 SUBDIR+=	majordomo-devel
+SUBDIR+=	makedict
 SUBDIR+=	man
 SUBDIR+=	man-db
 SUBDIR+=	manatee
