@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3621 2009/09/23 11:40:37 phonohawk Exp $
+# $Id: Makefile,v 1.3622 2009/09/23 11:53:42 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -740,6 +740,7 @@ SUBDIR+=	hs-digest
 SUBDIR+=	hs-event-list
 SUBDIR+=	hs-explicit-exception
 SUBDIR+=	hs-extensible-exceptions
+SUBDIR+=	hs-gnuplot
 SUBDIR+=	hs-haskeline
 SUBDIR+=	hs-haskell-src
 SUBDIR+=	hs-haskell-src-exts
