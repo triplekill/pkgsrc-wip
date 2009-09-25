@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3626 2009/09/24 05:36:56 phonohawk Exp $
+# $Id: Makefile,v 1.3627 2009/09/24 06:12:07 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -456,7 +456,6 @@ SUBDIR+=	gauche-dbd-pg
 SUBDIR+=	gauche-fastcgi
 SUBDIR+=	gcc42
 SUBDIR+=	gcc43
-SUBDIR+=	gcc44
 SUBDIR+=	gconf-cleaner
 SUBDIR+=	gdal
 SUBDIR+=	gdal-docs
