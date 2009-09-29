@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3629 2009/09/25 10:28:17 thomasklausner Exp $
+# $Id: Makefile,v 1.3630 2009/09/25 15:08:01 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1314,6 +1314,7 @@ SUBDIR+=	openbgpd-as4byte
 SUBDIR+=	openbsd-input-usbtablet
 SUBDIR+=	openca
 SUBDIR+=	opendchub
+SUBDIR+=	opendnssec
 SUBDIR+=	openjdk
 SUBDIR+=	openlogos
 SUBDIR+=	openmpi
