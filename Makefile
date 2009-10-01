@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3631 2009/09/29 22:58:44 pettai Exp $
+# $Id: Makefile,v 1.3632 2009/09/30 10:30:35 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -14,7 +14,6 @@ SUBDIR+=	HSH
 SUBDIR+=	HsSVN
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
-SUBDIR+=	MissingH
 SUBDIR+=	MoleInvasion
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
@@ -717,6 +716,7 @@ SUBDIR+=	hs-HsHyperEstraier
 SUBDIR+=	hs-HsOpenSSL
 SUBDIR+=	hs-HsSVN
 SUBDIR+=	hs-Lucu
+SUBDIR+=	hs-MissingH
 SUBDIR+=	hs-ObjectName
 SUBDIR+=	hs-OpenGL
 SUBDIR+=	hs-OpenGLRaw
