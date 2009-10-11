@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3649 2009/10/11 10:28:58 thomasklausner Exp $
+# $Id: Makefile,v 1.3650 2009/10/11 12:46:50 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1662,6 +1662,7 @@ SUBDIR+=	ptunnel
 SUBDIR+=	pudb
 SUBDIR+=	pxlib
 SUBDIR+=	pxview
+SUBDIR+=	py-4Suite
 SUBDIR+=	py-Beaker
 SUBDIR+=	py-Brenda
 SUBDIR+=	py-CVSToys
