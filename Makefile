@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3655 2009/10/14 10:25:19 rodo6510 Exp $
+# $Id: Makefile,v 1.3656 2009/10/14 11:47:49 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1721,6 +1721,7 @@ SUBDIR+=	py-generateDS
 SUBDIR+=	py-gettext-tools
 SUBDIR+=	py-gmpy
 SUBDIR+=	py-gnucash
+SUBDIR+=	py-greenlet
 SUBDIR+=	py-gtk2-docs
 SUBDIR+=	py-gts
 SUBDIR+=	py-httplib2
