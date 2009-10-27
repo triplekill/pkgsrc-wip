@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3660 2009/10/27 11:26:31 pettai Exp $
+# $Id: Makefile,v 1.3661 2009/10/27 11:29:57 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1930,6 +1930,7 @@ SUBDIR+=	shadow
 SUBDIR+=	shaper
 SUBDIR+=	shed
 SUBDIR+=	shell-fm
+SUBDIR+=	shibboleth2
 SUBDIR+=	shoutcast
 SUBDIR+=	showmesh
 SUBDIR+=	shttpd
