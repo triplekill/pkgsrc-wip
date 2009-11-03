@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3663 2009/11/03 17:37:21 schnoebe Exp $
+# $Id: Makefile,v 1.3664 2009/11/03 17:54:28 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -213,7 +213,6 @@ SUBDIR+=	clips
 SUBDIR+=	clisp
 SUBDIR+=	clockspeed
 SUBDIR+=	clustalx
-SUBDIR+=	cntlm
 SUBDIR+=	codeblocks
 SUBDIR+=	coldfire
 SUBDIR+=	collectd
