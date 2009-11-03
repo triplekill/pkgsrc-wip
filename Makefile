@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3661 2009/10/27 11:29:57 pettai Exp $
+# $Id: Makefile,v 1.3662 2009/10/27 11:34:29 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1643,6 +1643,9 @@ SUBDIR+=	png2ico
 SUBDIR+=	pngnq
 SUBDIR+=	pnmcurve
 SUBDIR+=	poco
+SUBDIR+=	poco-data
+SUBDIR+=	poco-data-mysql
+SUBDIR+=	poco-data-sqlite
 SUBDIR+=	pointfree
 SUBDIR+=	pointless
 SUBDIR+=	polipo
