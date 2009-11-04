@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3664 2009/11/03 17:54:28 thomasklausner Exp $
+# $Id: Makefile,v 1.3665 2009/11/03 20:53:06 jym-netbsd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1921,6 +1921,7 @@ SUBDIR+=	scummvm-nightly
 SUBDIR+=	scx
 SUBDIR+=	sdd
 SUBDIR+=	sdict-tools
+SUBDIR+=	seamonkey
 SUBDIR+=	send-pr
 SUBDIR+=	sendmailX
 SUBDIR+=	serlook
