@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3668 2009/11/05 19:16:47 plunky Exp $
+# $Id: Makefile,v 1.3669 2009/11/07 21:14:55 leot1990 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2246,7 +2246,6 @@ SUBDIR+=	xgobi
 SUBDIR+=	xhkeys1
 SUBDIR+=	xine-plugin
 SUBDIR+=	xinetd
-SUBDIR+=	xlsfonts
 SUBDIR+=	xmail
 SUBDIR+=	xmim
 SUBDIR+=	xmlformat-docs
