@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3681 2009/11/12 11:40:14 mwdavies Exp $
+# $Id: Makefile,v 1.3682 2009/11/14 23:50:05 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -100,6 +100,7 @@ SUBDIR+=	arla-3.99.14
 SUBDIR+=	armagetronad
 SUBDIR+=	arora
 SUBDIR+=	arpdig
+SUBDIR+=	aspell-dictionaries
 SUBDIR+=	artemis
 SUBDIR+=	aspell-finnish
 SUBDIR+=	aspell-telugu
@@ -882,6 +883,7 @@ SUBDIR+=	ipsvd
 SUBDIR+=	iptables
 SUBDIR+=	iptstate
 SUBDIR+=	ironpython
+SUBDIR+=	ispell-dictionaries
 SUBDIR+=	ispell-lietuviu
 SUBDIR+=	itask-ng
 #SUBDIR+=	jabberd			# not a real package
