@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3684 2009/11/18 12:33:05 thomasklausner Exp $
+# $Id: Makefile,v 1.3685 2009/11/18 15:00:49 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -209,6 +209,7 @@ SUBDIR+=	cinelerra
 SUBDIR+=	cjk-latex
 SUBDIR+=	cjk-latex-wadalab
 SUBDIR+=	clamassassin
+SUBDIR+=	classic-mac-font-pack
 SUBDIR+=	clhep
 SUBDIR+=	clips
 SUBDIR+=	clisp
