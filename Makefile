@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3687 2009/11/19 14:22:06 fhajny Exp $
+# $Id: Makefile,v 1.3688 2009/11/22 00:55:57 jym-netbsd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1064,10 +1064,6 @@ SUBDIR+=	libuxre
 SUBDIR+=	libvc
 SUBDIR+=	libvg
 SUBDIR+=	libwbxml2-patched
-SUBDIR+=	libxfce4gui
-SUBDIR+=	libxfce4mcs
-SUBDIR+=	libxfce4menu
-SUBDIR+=	libxfce4util
 SUBDIR+=	libzdb
 SUBDIR+=	libzrtpcpp
 SUBDIR+=	lidia
