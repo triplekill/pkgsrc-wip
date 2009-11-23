@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3689 2009/11/22 11:03:59 roelants Exp $
+# $Id: Makefile,v 1.3690 2009/11/23 10:12:46 absd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1954,6 +1954,7 @@ SUBDIR+=	scare
 SUBDIR+=	schismtracker
 SUBDIR+=	scim
 SUBDIR+=	scim-anthy
+SUBDIR+=	scim-array
 SUBDIR+=	scim-bridge
 SUBDIR+=	scim-canna
 SUBDIR+=	scim-ccinput
