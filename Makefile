@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3690 2009/11/23 10:12:46 absd Exp $
+# $Id: Makefile,v 1.3691 2009/11/23 12:03:59 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1971,6 +1971,7 @@ SUBDIR+=	scim-tables
 SUBDIR+=	scim-thai
 SUBDIR+=	scim-tomoe
 SUBDIR+=	scim-uim
+SUBDIR+=	scim-unikey
 SUBDIR+=	scite
 SUBDIR+=	scm
 SUBDIR+=	scmail
