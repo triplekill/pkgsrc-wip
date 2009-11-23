@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3688 2009/11/22 00:55:57 jym-netbsd Exp $
+# $Id: Makefile,v 1.3689 2009/11/22 11:03:59 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -965,7 +965,6 @@ SUBDIR+=	kpathsea
 SUBDIR+=	kplayer
 SUBDIR+=	krusader
 SUBDIR+=	kstart
-SUBDIR+=	ktorrent3
 SUBDIR+=	kuickshow
 SUBDIR+=	kvirc
 SUBDIR+=	kxmleditor
