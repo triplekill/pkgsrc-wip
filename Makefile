@@ -1,7 +1,7 @@
 <<<<<<< Makefile
-# $Id: Makefile,v 1.3576 2009/08/31 13:58:39 jihbed Exp $
+# $Id: Makefile,v 1.3707 2009/11/29 21:17:54 jihbed Exp $
 =======
-# $Id: Makefile,v 1.3706 2009/11/29 08:13:43 obache Exp $
+# $Id: Makefile,v 1.3707 2009/11/29 21:17:54 jihbed Exp $
 >>>>>>> 1.3706
 #
 
@@ -2108,7 +2108,6 @@ SUBDIR+=	taglib-extras
 SUBDIR+=	taglib-sharp
 SUBDIR+=	tagtool
 SUBDIR+=	talksoup
-SUBDIR+=	tango-icon-theme
 SUBDIR+=	tardy
 SUBDIR+=	task
 SUBDIR+=	taskbar
