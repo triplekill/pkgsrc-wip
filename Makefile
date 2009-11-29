@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3703 2009/11/29 00:48:01 tnn2 Exp $
+# $Id: Makefile,v 1.3704 2009/11/29 03:11:15 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2160,7 +2160,6 @@ SUBDIR+=	tmux
 SUBDIR+=	tmw
 SUBDIR+=	tome
 SUBDIR+=	tome2
-SUBDIR+=	topless
 SUBDIR+=	tops-bin
 SUBDIR+=	tor-dev
 SUBDIR+=	torcs
