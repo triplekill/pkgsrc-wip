@@ -1,4 +1,8 @@
-# $Id: Makefile,v 1.3705 2009/11/29 07:35:07 obache Exp $
+<<<<<<< Makefile
+# $Id: Makefile,v 1.3576 2009/08/31 13:58:39 jihbed Exp $
+=======
+# $Id: Makefile,v 1.3706 2009/11/29 08:13:43 obache Exp $
+>>>>>>> 1.3706
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1747,6 +1751,7 @@ SUBDIR+=	py-SQLObject
 SUBDIR+=	py-Soya
 SUBDIR+=	py-albatross
 SUBDIR+=	py-amqplib
+SUBDIR+=	py-anyjson
 SUBDIR+=	py-aspects
 SUBDIR+=	py-aspell
 SUBDIR+=	py-aspyct
