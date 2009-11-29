@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3701 2009/11/27 15:50:25 tnn2 Exp $
+# $Id: Makefile,v 1.3702 2009/11/28 11:05:59 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1975,7 +1975,6 @@ SUBDIR+=	scummvm-nightly
 SUBDIR+=	scx
 SUBDIR+=	sdd
 SUBDIR+=	sdict-tools
-SUBDIR+=	seamonkey
 SUBDIR+=	send-pr
 SUBDIR+=	sendmailX
 SUBDIR+=	serlook
