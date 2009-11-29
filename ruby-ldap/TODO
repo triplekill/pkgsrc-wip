@@ -1,5 +1,0 @@
-$Id$
-
-* Install examples and documents.
-
-* Add option.mk for select databases/openldap-client or devel/ldapsdk
