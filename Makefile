@@ -1,7 +1,7 @@
 <<<<<<< Makefile
-# $Id: Makefile,v 1.3707 2009/11/29 21:17:54 jihbed Exp $
+# $Id: Makefile,v 1.3708 2009/11/29 22:23:07 blef Exp $
 =======
-# $Id: Makefile,v 1.3707 2009/11/29 21:17:54 jihbed Exp $
+# $Id: Makefile,v 1.3708 2009/11/29 22:23:07 blef Exp $
 >>>>>>> 1.3706
 #
 
@@ -533,6 +533,7 @@ SUBDIR+=	gnunet
 SUBDIR+=	gnupoc-makesis
 SUBDIR+=	gnupod
 SUBDIR+=	goattracker
+SUBDIR+=	gobject-introspection
 SUBDIR+=	godura
 SUBDIR+=	goldwater
 SUBDIR+=	google-perftools
