@@ -1,11 +1,11 @@
 <<<<<<< Makefile
 <<<<<<< Makefile
-# $Id: Makefile,v 1.3576 2009/08/31 13:58:39 jihbed Exp $
+# $Id: Makefile,v 1.3713 2009/12/03 20:17:48 jihbed Exp $
 =======
-# $Id: Makefile,v 1.3706 2009/11/29 08:13:43 obache Exp $
+# $Id: Makefile,v 1.3713 2009/12/03 20:17:48 jihbed Exp $
 >>>>>>> 1.3706
 =======
-# $Id: Makefile,v 1.3712 2009/12/02 15:17:50 tnn2 Exp $
+# $Id: Makefile,v 1.3713 2009/12/03 20:17:48 jihbed Exp $
 >>>>>>> 1.3712
 #
 
@@ -1852,6 +1852,7 @@ SUBDIR+=	py-pcapy
 SUBDIR+=	py-plucker
 SUBDIR+=	py-pp
 SUBDIR+=	py-ptrace
+SUBDIR+=	py-pygr
 SUBDIR+=	py-rcsparse
 SUBDIR+=	py-rdflib
 SUBDIR+=	py-remctl
