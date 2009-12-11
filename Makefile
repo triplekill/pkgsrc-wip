@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3724 2009/12/10 18:58:32 absd Exp $
+# $Id: Makefile,v 1.3725 2009/12/11 14:24:11 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -311,7 +311,6 @@ SUBDIR+=	docbook-xsl-ko
 SUBDIR+=	doorman
 SUBDIR+=	dotconf
 SUBDIR+=	dotproject
-SUBDIR+=	dovecot
 SUBDIR+=	dpic
 SUBDIR+=	dragbox
 SUBDIR+=	drow
