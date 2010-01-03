@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3748 2010/01/03 14:56:56 pallegra Exp $
+# $Id: Makefile,v 1.3749 2010/01/03 15:17:03 pallegra Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -10,6 +10,7 @@ SUBDIR+=	GSCommander
 SUBDIR+=	GoogleEarth
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
+SUBDIR+=	Mesa
 SUBDIR+=	MoleInvasion
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
