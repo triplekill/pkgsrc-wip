@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3744 2010/01/03 09:23:32 jihbed Exp $
+# $Id: Makefile,v 1.3745 2010/01/03 14:34:38 pallegra Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -515,6 +515,7 @@ SUBDIR+=	glkterm
 SUBDIR+=	globulation2
 SUBDIR+=	gloox
 SUBDIR+=	glulxe
+SUBDIR+=	glw
 SUBDIR+=	gmc2mid
 SUBDIR+=	gmediaserver
 SUBDIR+=	gmp-ecm
