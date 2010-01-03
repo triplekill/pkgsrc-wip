@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3742 2010/01/02 04:41:08 ryo-on Exp $
+# $Id: Makefile,v 1.3743 2010/01/02 18:09:01 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1788,6 +1788,7 @@ SUBDIR+=	py-coverage
 SUBDIR+=	py-cryptoidlib
 SUBDIR+=	py-cscope
 SUBDIR+=	py-csp
+SUBDIR+=	py-cvxopt
 SUBDIR+=	py-daemon
 SUBDIR+=	py-dbutils
 SUBDIR+=	py-decorator
