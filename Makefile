@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3757 2010/01/10 13:30:45 obache Exp $
+# $Id: Makefile,v 1.3758 2010/01/10 19:23:16 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -858,6 +858,7 @@ SUBDIR+=	ibus-hangul
 SUBDIR+=	ibus-m17n
 SUBDIR+=	ibus-pinyin
 SUBDIR+=	ibus-qt
+SUBDIR+=	ibus-skk
 SUBDIR+=	ibus-table
 SUBDIR+=	icc10
 SUBDIR+=	icc11
