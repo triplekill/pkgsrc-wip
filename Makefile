@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3764 2010/01/14 10:29:33 obache Exp $
+# $Id: Makefile,v 1.3765 2010/01/14 10:53:02 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -862,6 +862,8 @@ SUBDIR+=	ibus-skk
 SUBDIR+=	ibus-table
 SUBDIR+=	ibus-table-array30
 SUBDIR+=	ibus-table-cangjie
+SUBDIR+=	ibus-table-cantonese
+SUBDIR+=	ibus-table-code
 SUBDIR+=	icc10
 SUBDIR+=	icc11
 SUBDIR+=	icecast
