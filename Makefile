@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3768 2010/01/15 11:53:20 obache Exp $
+# $Id: Makefile,v 1.3769 2010/01/16 04:45:52 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -406,6 +406,7 @@ SUBDIR+=	expiretable
 SUBDIR+=	ezbounce
 SUBDIR+=	ezstream
 SUBDIR+=	fakenes
+SUBDIR+=	fakeroot
 SUBDIR+=	fasm
 SUBDIR+=	fasta
 SUBDIR+=	fastrpc
@@ -1101,6 +1102,7 @@ SUBDIR+=	libuuid
 SUBDIR+=	libuxre
 SUBDIR+=	libvc
 SUBDIR+=	libvg
+SUBDIR+=	libvdpau
 SUBDIR+=	libwbxml2-patched
 SUBDIR+=	libxc
 SUBDIR+=	libzdb
