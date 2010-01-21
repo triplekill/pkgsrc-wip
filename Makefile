@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3770 2010/01/17 17:58:35 cheusov Exp $
+# $Id: Makefile,v 1.3771 2010/01/18 10:02:19 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -961,7 +961,6 @@ SUBDIR+=	java-swt
 SUBDIR+=	java-xmlrpc
 SUBDIR+=	javascript-guide
 SUBDIR+=	javascript-reference
-SUBDIR+=	jbigkit
 SUBDIR+=	jbmgen
 SUBDIR+=	jc
 SUBDIR+=	jdk14
