@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3777 2010/01/23 16:35:21 jsonn Exp $
+# $Id: Makefile,v 1.3778 2010/01/24 03:17:42 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -112,6 +112,7 @@ SUBDIR+=	atftp
 SUBDIR+=	ati-xfree86-bin
 SUBDIR+=	ati-xfree86-bin-unstable
 SUBDIR+=	atlas
+SUBDIR+=	aubio
 SUBDIR+=	audacity-devel
 SUBDIR+=	audio-mml
 SUBDIR+=	audit-system
