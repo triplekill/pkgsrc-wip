@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3779 2010/01/27 06:52:20 phonohawk Exp $
+# $Id: Makefile,v 1.3780 2010/01/28 10:30:25 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2225,7 +2225,6 @@ SUBDIR+=	tex-arphic-ttf
 SUBDIR+=	tex-baekmuk-ttf
 SUBDIR+=	tex-collection-basicbin
 SUBDIR+=	tex-kochi-ttf
-SUBDIR+=	tex-kpathsea
 SUBDIR+=	tex-texdoc
 SUBDIR+=	tex-texdoc-doc
 SUBDIR+=	texlive
