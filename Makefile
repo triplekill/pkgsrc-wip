@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3787 2010/02/02 05:18:31 phonohawk Exp $
+# $Id: Makefile,v 1.3788 2010/02/02 07:53:05 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1184,7 +1184,6 @@ SUBDIR+=	map-browse
 SUBDIR+=	mapnik
 SUBDIR+=	mapserver
 SUBDIR+=	marathon-scenarios
-SUBDIR+=	marathon-trilogy
 SUBDIR+=	marsyas
 SUBDIR+=	matanza
 SUBDIR+=	mathopd
