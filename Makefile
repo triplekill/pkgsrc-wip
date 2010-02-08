@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3791 2010/02/03 23:40:36 thomasklausner Exp $
+# $Id: Makefile,v 1.3792 2010/02/05 21:05:25 athaba Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2224,7 +2224,6 @@ SUBDIR+=	testdisk
 SUBDIR+=	tetrinet
 SUBDIR+=	tex-arphic-ttf
 SUBDIR+=	tex-baekmuk-ttf
-SUBDIR+=	tex-collection-basicbin
 SUBDIR+=	tex-kochi-ttf
 SUBDIR+=	tex-texdoc
 SUBDIR+=	tex-texdoc-doc
