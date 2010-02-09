@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3793 2010/02/08 05:08:50 minskim Exp $
+# $Id: Makefile,v 1.3794 2010/02/09 03:27:02 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -810,6 +810,7 @@ SUBDIR+=	hs-hscolour
 SUBDIR+=	hs-hslogger
 SUBDIR+=	hs-html
 SUBDIR+=	hs-hxt
+SUBDIR+=	hs-hxt-xpath
 SUBDIR+=	hs-iconv
 SUBDIR+=	hs-irc
 SUBDIR+=	hs-magic
