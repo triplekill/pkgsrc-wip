@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3792 2010/02/05 21:05:25 athaba Exp $
+# $Id: Makefile,v 1.3793 2010/02/08 05:08:50 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -790,6 +790,7 @@ SUBDIR+=	hs-cpphs
 SUBDIR+=	hs-curl
 SUBDIR+=	hs-data-accessor
 SUBDIR+=	hs-dataenc
+SUBDIR+=	hs-deepseq
 SUBDIR+=	hs-derive
 SUBDIR+=	hs-digest
 SUBDIR+=	hs-event-list
