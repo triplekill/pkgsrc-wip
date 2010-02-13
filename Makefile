@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3797 2010/02/10 16:35:23 phonohawk Exp $
+# $Id: Makefile,v 1.3798 2010/02/12 16:08:42 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1051,6 +1051,7 @@ SUBDIR+=	libbtctl
 SUBDIR+=	libcli
 SUBDIR+=	libcm
 SUBDIR+=	libcmt
+SUBDIR+=	libcpu
 SUBDIR+=	libdbi
 SUBDIR+=	libdbi-driver-mysql
 SUBDIR+=	libdbi-driver-pgsql
