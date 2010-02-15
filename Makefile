@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3798 2010/02/12 16:08:42 asau Exp $
+# $Id: Makefile,v 1.3799 2010/02/13 16:23:42 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -303,7 +303,6 @@ SUBDIR+=	dicom3tools
 SUBDIR+=	dict-est-rus
 SUBDIR+=	dict-freedict-eng-fra
 SUBDIR+=	dict-mueller7
-SUBDIR+=	digikam
 SUBDIR+=	ding
 SUBDIR+=	dir2ogg
 SUBDIR+=	directfb
