@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3806 2010/02/15 16:02:36 thomasklausner Exp $
+# $Id: Makefile,v 1.3807 2010/02/15 16:47:13 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1299,7 +1299,6 @@ SUBDIR+=	mwf-designer
 SUBDIR+=	mxallowd
 SUBDIR+=	mysql++
 SUBDIR+=	mysql-docs
-SUBDIR+=	mysql5-embedded
 SUBDIR+=	mysqltcl
 SUBDIR+=	mythtv
 SUBDIR+=	nanoblogger
