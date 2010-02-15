@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3799 2010/02/13 16:23:42 tnn2 Exp $
+# $Id: Makefile,v 1.3800 2010/02/15 14:28:39 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -998,7 +998,6 @@ SUBDIR+=	kgrab
 SUBDIR+=	kgraphviewer
 SUBDIR+=	kile
 SUBDIR+=	kino
-SUBDIR+=	kipi-plugins
 SUBDIR+=	kissme
 SUBDIR+=	klamav
 SUBDIR+=	kmldonkey
