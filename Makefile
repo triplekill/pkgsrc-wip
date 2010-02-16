@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3807 2010/02/15 16:47:13 thomasklausner Exp $
+# $Id: Makefile,v 1.3808 2010/02/15 17:03:52 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -808,6 +808,7 @@ SUBDIR+=	hs-haskore
 SUBDIR+=	hs-hopenssl
 SUBDIR+=	hs-hscolour
 SUBDIR+=	hs-hslogger
+SUBDIR+=	hs-hslogger-template
 SUBDIR+=	hs-html
 SUBDIR+=	hs-hxt
 SUBDIR+=	hs-hxt-xpath
