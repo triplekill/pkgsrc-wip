@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3811 2010/02/17 08:50:17 pettai Exp $
+# $Id: Makefile,v 1.3812 2010/02/17 09:10:19 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2245,7 +2245,6 @@ SUBDIR+=	tinylogin
 SUBDIR+=	tk85
 SUBDIR+=	tleenx2
 SUBDIR+=	tleenx3
-SUBDIR+=	tmux
 SUBDIR+=	tmw
 SUBDIR+=	tome
 SUBDIR+=	tome2
