@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3814 2010/02/20 22:48:23 jihbed Exp $
+# $Id: Makefile,v 1.3815 2010/02/21 00:10:25 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -745,7 +745,6 @@ SUBDIR+=	heirloom-whodo
 SUBDIR+=	heirloom-xargs
 SUBDIR+=	heirloom-yes
 SUBDIR+=	heliodor
-SUBDIR+=	hellanzb
 SUBDIR+=	hengband
 SUBDIR+=	heroes
 SUBDIR+=	hgview
