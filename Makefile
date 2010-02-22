@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3815 2010/02/21 00:10:25 pettai Exp $
+# $Id: Makefile,v 1.3816 2010/02/21 22:07:37 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2301,6 +2301,7 @@ SUBDIR+=	udhcp
 SUBDIR+=	uebimiau
 SUBDIR+=	uffizi
 SUBDIR+=	umix
+SUBDIR+=	undo-tree
 SUBDIR+=	uni2ascii
 SUBDIR+=	unix2tcp
 SUBDIR+=	unmo3
