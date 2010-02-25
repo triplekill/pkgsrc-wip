@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3821 2010/02/23 10:02:11 jihbed Exp $
+# $Id: Makefile,v 1.3822 2010/02/24 10:49:56 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -623,6 +623,7 @@ SUBDIR+=	gune
 SUBDIR+=	gupnp-ui
 SUBDIR+=	gupnp-vala
 SUBDIR+=	gurlchecker
+SUBDIR+=	gvariant
 SUBDIR+=	gwhois
 SUBDIR+=	gwsmhg
 SUBDIR+=	gxconsole
