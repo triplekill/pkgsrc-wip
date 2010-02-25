@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3822 2010/02/24 10:49:56 jihbed Exp $
+# $Id: Makefile,v 1.3823 2010/02/25 12:57:00 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1958,7 +1958,6 @@ SUBDIR+=	py-yamcha
 SUBDIR+=	py-yapgvb
 SUBDIR+=	py-zeitgeist
 SUBDIR+=	py-zinnia
-SUBDIR+=	pycrypto
 SUBDIR+=	pydance
 SUBDIR+=	pydb
 SUBDIR+=	pylibpcap
