@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3827 2010/02/28 15:30:48 rhialto Exp $
+# $Id: Makefile,v 1.3828 2010/03/01 20:59:09 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2039,6 +2039,7 @@ SUBDIR+=	ruby-ming
 SUBDIR+=	ruby-term-ansicolor
 SUBDIR+=	ruby-thor
 SUBDIR+=	ruby-treetop
+SUBDIR+=	ruby-trollop
 SUBDIR+=	ruby-xmpp4r
 SUBDIR+=	ruby-yamcha
 SUBDIR+=	ruby-zinnia
