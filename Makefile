@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3831 2010/03/03 09:38:05 phonohawk Exp $
+# $Id: Makefile,v 1.3832 2010/03/03 09:44:00 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -837,6 +837,7 @@ SUBDIR+=	hs-parseargs
 SUBDIR+=	hs-parsec
 SUBDIR+=	hs-pcre-light
 SUBDIR+=	hs-readline
+SUBDIR+=	hs-regions
 SUBDIR+=	hs-regex-base
 SUBDIR+=	hs-regex-compat
 SUBDIR+=	hs-regex-posix
