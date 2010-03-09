@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3834 2010/03/07 13:02:53 cheusov Exp $
+# $Id: Makefile,v 1.3835 2010/03/09 15:34:52 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1944,6 +1944,7 @@ SUBDIR+=	py-storm
 SUBDIR+=	py-sympy-core
 SUBDIR+=	py-tagger
 SUBDIR+=	py-taglib
+SUBDIR+=	py-telepathy
 SUBDIR+=	py-tranquil
 SUBDIR+=	py-twisted
 SUBDIR+=	py-twisted-kqueue
