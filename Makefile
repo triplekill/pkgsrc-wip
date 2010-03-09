@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3833 2010/03/03 09:52:52 phonohawk Exp $
+# $Id: Makefile,v 1.3834 2010/03/07 13:02:53 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1911,6 +1911,7 @@ SUBDIR+=	py-omniORBpy
 SUBDIR+=	py-openxmllib
 SUBDIR+=	py-orm
 SUBDIR+=	py-osd
+SUBDIR+=	py-papyon
 SUBDIR+=	py-papyros
 SUBDIR+=	py-parsing
 SUBDIR+=	py-pcapy
