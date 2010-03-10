@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3838 2010/03/09 23:50:55 othyro Exp $
+# $Id: Makefile,v 1.3839 2010/03/10 19:16:17 marttikuparinen Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -17,7 +17,6 @@ SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
 SUBDIR+=	Pythonol
-SUBDIR+=	QLandkarte
 SUBDIR+=	R-Rdbi
 SUBDIR+=	R-Rdbi.PgSQL
 SUBDIR+=	R-Rserve
