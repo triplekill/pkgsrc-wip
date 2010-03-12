@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3843 2010/03/11 12:14:25 pettai Exp $
+# $Id: Makefile,v 1.3844 2010/03/11 14:39:20 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -170,7 +170,6 @@ SUBDIR+=	briquolo
 SUBDIR+=	brltty
 SUBDIR+=	bscript
 SUBDIR+=	bsdbuild
-SUBDIR+=	bsdstats
 SUBDIR+=	bsfilter
 SUBDIR+=	bsnes
 SUBDIR+=	bss
