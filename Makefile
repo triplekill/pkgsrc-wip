@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3850 2010/03/12 23:12:42 pettai Exp $
+# $Id: Makefile,v 1.3851 2010/03/12 23:53:05 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1961,7 +1961,6 @@ SUBDIR+=	pydb
 SUBDIR+=	pylibpcap
 SUBDIR+=	pynfo
 SUBDIR+=	pypanel
-SUBDIR+=	pypcap
 SUBDIR+=	pypod
 SUBDIR+=	pysite
 SUBDIR+=	python31
