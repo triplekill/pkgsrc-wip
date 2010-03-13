@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3853 2010/03/13 11:01:25 pettai Exp $
+# $Id: Makefile,v 1.3854 2010/03/13 18:06:46 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2468,7 +2468,6 @@ SUBDIR+=	zapping
 SUBDIR+=	zinf
 SUBDIR+=	zinnia
 SUBDIR+=	zinnia-tomoe
-SUBDIR+=	zkt
 SUBDIR+=	zope3-unstable
 SUBDIR+=	zsh-snapshot
 SUBDIR+=	zvbi
