@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3854 2010/03/13 18:06:46 pettai Exp $
+# $Id: Makefile,v 1.3855 2010/03/13 19:26:20 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1013,6 +1013,7 @@ SUBDIR+=	kmymoney2-devel
 SUBDIR+=	knutclient
 SUBDIR+=	koffice
 SUBDIR+=	koha
+SUBDIR+=	konatu-ttf
 SUBDIR+=	konversation
 SUBDIR+=	korelib
 SUBDIR+=	kpanta
