@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3856 2010/03/14 12:23:46 ryo-on Exp $
+# $Id: Makefile,v 1.3857 2010/03/14 19:03:08 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -755,7 +755,6 @@ SUBDIR+=	hijra
 SUBDIR+=	hitori
 SUBDIR+=	hlint
 SUBDIR+=	homebank
-SUBDIR+=	hping3
 SUBDIR+=	hplip
 SUBDIR+=	hpoj
 SUBDIR+=	hs-FileManip
