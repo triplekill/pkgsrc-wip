@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3868 2010/03/19 17:49:46 jihbed Exp $
+# $Id: Makefile,v 1.3871 2010/03/19 21:11:53 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1250,6 +1250,7 @@ SUBDIR+=	mlmmj
 SUBDIR+=	mlton-svn
 SUBDIR+=	mmm-mode
 SUBDIR+=	mnogosearch
+SUBDIR+=	modplugplay
 SUBDIR+=	modular-xorg-server
 SUBDIR+=	moe
 SUBDIR+=	molmol
