@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3880 2010/03/24 08:48:52 phonohawk Exp $
+# $Id: Makefile,v 1.3881 2010/03/25 07:57:55 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -322,6 +322,7 @@ SUBDIR+=	docbook-xsl-ko
 SUBDIR+=	doorman
 SUBDIR+=	dotconf
 SUBDIR+=	dotproject
+SUBDIR+=	dovecot-antispam
 SUBDIR+=	dpic
 SUBDIR+=	dragbox
 SUBDIR+=	dri
