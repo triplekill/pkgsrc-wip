@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3887 2010/03/28 21:29:24 ryo-on Exp $
+# $Id: Makefile,v 1.3888 2010/03/29 06:16:55 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -215,6 +215,7 @@ SUBDIR+=	chora
 SUBDIR+=	chrsh
 SUBDIR+=	cinelerra
 SUBDIR+=	cinelerra-cv
+SUBDIR+=	ciwiki
 SUBDIR+=	cjk-latex
 SUBDIR+=	cjk-latex-wadalab
 SUBDIR+=	clamassassin
@@ -2059,6 +2060,7 @@ SUBDIR+=	ruby-zinnia
 SUBDIR+=	runawk
 SUBDIR+=	runit
 SUBDIR+=	s3funnel
+SUBDIR+=	sakura
 SUBDIR+=	samhain
 SUBDIR+=	sara
 SUBDIR+=	sbcl
