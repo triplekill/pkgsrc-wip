@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3889 2010/03/29 12:13:30 ryo-on Exp $
+# $Id: Makefile,v 1.3890 2010/03/29 18:37:56 christtrekker Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1358,6 +1358,7 @@ SUBDIR+=	newsbeuter
 SUBDIR+=	nginx
 SUBDIR+=	nicotine+
 SUBDIR+=	njb-sharp
+SUBDIR+=	nmap-beta
 SUBDIR+=	nmzmail
 SUBDIR+=	nnrpd
 SUBDIR+=	noip
