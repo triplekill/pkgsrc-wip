@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3890 2010/03/29 18:37:56 christtrekker Exp $
+# $Id: Makefile,v 1.3891 2010/03/30 21:14:20 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2154,6 +2154,7 @@ SUBDIR+=	spfmilter
 SUBDIR+=	sphinxsearch
 SUBDIR+=	spin
 SUBDIR+=	splix
+SUBDIR+=	squidview
 SUBDIR+=	squirrelmail-avelsieve
 SUBDIR+=	squirrelmail-chg_sasl_passwd
 SUBDIR+=	squirrelmail-compatibility
