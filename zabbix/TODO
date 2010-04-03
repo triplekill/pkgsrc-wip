@@ -1,4 +1,4 @@
-$Id: TODO,v 1.8 2009/03/05 11:12:50 tnn2 Exp $
+$Id: TODO,v 1.9 2009/12/21 00:48:02 tonnerre Exp $
 
 2. Install sample configuration files.
 3. Options: provide sane default values.
@@ -18,3 +18,4 @@ https://support.zabbix.com/browse/ZBX-1030
 https://support.zabbix.com/browse/ZBX-1031
 https://support.zabbix.com/browse/ZBX-1032
 https://support.zabbix.com/browse/ZBX-1355
+http://archives.neohapsis.com/archives/fulldisclosure/2010-04/0001.html
