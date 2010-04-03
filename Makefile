@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3892 2010/04/01 08:25:48 shindenmorr Exp $
+# $Id: Makefile,v 1.3893 2010/04/01 13:51:38 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1856,6 +1856,7 @@ SUBDIR+=	py-divmod-vertex
 SUBDIR+=	py-django-diario
 SUBDIR+=	py-django-tagging
 SUBDIR+=	py-duali
+SUBDIR+=	py-eyeD3
 SUBDIR+=	py-eventlet
 SUBDIR+=	py-ezPyCrypto
 SUBDIR+=	py-fastaudio
