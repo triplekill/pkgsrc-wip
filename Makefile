@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3901 2010/04/10 21:30:09 jihbed Exp $
+# $Id: Makefile,v 1.3902 2010/04/10 22:16:06 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1027,7 +1027,6 @@ SUBDIR+=	knutclient
 SUBDIR+=	koffice
 SUBDIR+=	koha
 SUBDIR+=	konatu-ttf
-SUBDIR+=	konversation
 SUBDIR+=	korelib
 SUBDIR+=	kpanta
 SUBDIR+=	kpathsea
