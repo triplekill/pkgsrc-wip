@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3903 2010/04/10 22:29:51 mwdavies Exp $
+# $Id: Makefile,v 1.3904 2010/04/11 12:57:51 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -763,6 +763,7 @@ SUBDIR+=	hlint
 SUBDIR+=	homebank
 SUBDIR+=	hplip
 SUBDIR+=	hpoj
+SUBDIR+=	hs-ConfigFile
 SUBDIR+=	hs-FileManip
 SUBDIR+=	hs-GLURaw
 SUBDIR+=	hs-GLUT
