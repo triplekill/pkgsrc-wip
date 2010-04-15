@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3912 2010/04/14 22:10:12 thomasklausner Exp $
+# $Id: Makefile,v 1.3913 2010/04/15 06:35:09 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1069,7 +1069,6 @@ SUBDIR+=	libargp
 SUBDIR+=	libassa
 SUBDIR+=	libatomic_ops
 SUBDIR+=	libavc1394
-SUBDIR+=	libbind
 SUBDIR+=	libbtctl
 SUBDIR+=	libcli
 SUBDIR+=	libcm
