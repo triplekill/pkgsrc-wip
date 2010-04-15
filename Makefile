@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3913 2010/04/15 06:35:09 othyro Exp $
+# $Id: Makefile,v 1.3914 2010/04/15 13:01:29 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1035,7 +1035,6 @@ SUBDIR+=	kpanta
 SUBDIR+=	kpathsea
 SUBDIR+=	kplayer
 SUBDIR+=	krusader
-SUBDIR+=	kstart
 SUBDIR+=	kuickshow
 SUBDIR+=	kvirc
 SUBDIR+=	kxmleditor
