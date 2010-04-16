@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3914 2010/04/15 13:01:29 obache Exp $
+# $Id: Makefile,v 1.3915 2010/04/15 20:35:30 jakllsch Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1077,7 +1077,6 @@ SUBDIR+=	libdialog
 SUBDIR+=	libdisasm
 SUBDIR+=	libdjconsole
 SUBDIR+=	libdmx
-SUBDIR+=	libdrm
 SUBDIR+=	libdshconfig
 SUBDIR+=	libdssialsacompat
 SUBDIR+=	libexosip
