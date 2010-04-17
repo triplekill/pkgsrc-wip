@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3918 2010/04/17 12:09:21 obache Exp $
+# $Id: Makefile,v 1.3919 2010/04/17 12:16:48 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -516,7 +516,6 @@ SUBDIR+=	ghc
 SUBDIR+=	giggle
 SUBDIR+=	gimmie
 SUBDIR+=	gimp-high-pass-filter
-SUBDIR+=	gipfel
 SUBDIR+=	git
 SUBDIR+=	givaro
 SUBDIR+=	gjots2
