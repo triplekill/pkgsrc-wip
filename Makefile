@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3922 2010/04/20 03:40:38 phonohawk Exp $
+# $Id: Makefile,v 1.3923 2010/04/20 04:30:06 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2053,6 +2053,7 @@ SUBDIR+=	rootcheck
 SUBDIR+=	rope
 SUBDIR+=	rosegarden-current
 SUBDIR+=	roundcube-skin-mvision2
+SUBDIR+=	rrdtool
 SUBDIR+=	rss-glib
 SUBDIR+=	rst-mode
 SUBDIR+=	rsyslog
