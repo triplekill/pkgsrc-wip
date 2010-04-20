@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3921 2010/04/18 05:57:42 schaecsn Exp $
+# $Id: Makefile,v 1.3922 2010/04/20 03:40:38 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -516,6 +516,7 @@ SUBDIR+=	ghc
 SUBDIR+=	giggle
 SUBDIR+=	gimmie
 SUBDIR+=	gimp-high-pass-filter
+SUBDIR+=	gimp-resynthesizer
 SUBDIR+=	git
 SUBDIR+=	givaro
 SUBDIR+=	gjots2
