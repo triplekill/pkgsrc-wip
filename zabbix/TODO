@@ -1,4 +1,6 @@
-$Id: TODO,v 1.9 2009/12/21 00:48:02 tonnerre Exp $
+$Id: TODO,v 1.10 2010/04/03 12:50:04 koifren Exp $
+
+All this may be obsolete after update to Zabbix 1.8.1
 
 2. Install sample configuration files.
 3. Options: provide sane default values.
