@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3935 2010/04/30 10:14:06 thomasklausner Exp $
+# $Id: Makefile,v 1.3936 2010/05/01 19:51:13 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1683,6 +1683,7 @@ SUBDIR+=	pam-yubico
 SUBDIR+=	pan2-git
 SUBDIR+=	panda
 SUBDIR+=	pandoc
+SUBDIR+=	paperbox
 SUBDIR+=	parcellite
 SUBDIR+=	parted
 SUBDIR+=	pasmo
