@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3937 2010/05/01 22:48:16 thomasklausner Exp $
+# $Id: Makefile,v 1.3938 2010/05/01 23:07:36 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1381,6 +1381,7 @@ SUBDIR+=	nomadio
 SUBDIR+=	noor
 SUBDIR+=	nos-tun
 SUBDIR+=	notify-sharp
+SUBDIR+=	notmuch
 SUBDIR+=	nullpop
 SUBDIR+=	nuppelvideo
 SUBDIR+=	nuttcp
