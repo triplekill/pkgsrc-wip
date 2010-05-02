@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3938 2010/05/01 23:07:36 thomasklausner Exp $
+# $Id: Makefile,v 1.3939 2010/05/01 23:12:47 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1090,6 +1090,7 @@ SUBDIR+=	libdjconsole
 SUBDIR+=	libdmx
 SUBDIR+=	libdshconfig
 SUBDIR+=	libdssialsacompat
+SUBDIR+=	libepc
 SUBDIR+=	libexosip
 SUBDIR+=	libfplll
 SUBDIR+=	libgadu
