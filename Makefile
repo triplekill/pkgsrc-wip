@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3939 2010/05/01 23:12:47 thomasklausner Exp $
+# $Id: Makefile,v 1.3940 2010/05/02 10:27:16 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1915,7 +1915,6 @@ SUBDIR+=	py-lockfile
 SUBDIR+=	py-logilab-astng
 SUBDIR+=	py-logilab-common
 SUBDIR+=	py-logilab-doctools
-SUBDIR+=	py-logilab-lint
 SUBDIR+=	py-logilab-mtconverter
 SUBDIR+=	py-logilab-pigg
 SUBDIR+=	py-matplotlib
