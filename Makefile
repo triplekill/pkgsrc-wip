@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3941 2010/05/03 08:37:18 jihbed Exp $
+# $Id: Makefile,v 1.3942 2010/05/03 15:04:44 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2254,7 +2254,6 @@ SUBDIR+=	tcpxtract
 SUBDIR+=	tctool
 SUBDIR+=	tde
 SUBDIR+=	teamspeak
-SUBDIR+=	teapot
 SUBDIR+=	teco
 SUBDIR+=	tegaki-pygtk
 SUBDIR+=	tegaki-python
