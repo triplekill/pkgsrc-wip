@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3944 2010/05/05 04:25:20 othyro Exp $
+# $Id: Makefile,v 1.3945 2010/05/05 16:29:43 hfath Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -89,6 +89,7 @@ SUBDIR+=	ap2-evasive
 SUBDIR+=	ap2-jk2
 SUBDIR+=	ap2-layout
 SUBDIR+=	ap2-limitipconn
+SUBDIR+=	ap2-lisp
 SUBDIR+=	ap2-macro
 SUBDIR+=	ap2-passenger
 SUBDIR+=	ap2-xsendfile
