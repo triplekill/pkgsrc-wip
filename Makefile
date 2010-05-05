@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3945 2010/05/05 16:29:43 hfath Exp $
+# $Id: Makefile,v 1.3946 2010/05/05 19:53:01 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -79,6 +79,7 @@ SUBDIR+=	ap-bunzip2
 SUBDIR+=	ap-choke
 SUBDIR+=	ap-chxj
 SUBDIR+=	ap-evasive
+SUBDIR+=	ap-lisp
 SUBDIR+=	ap-macro
 SUBDIR+=	ap-mod_geoip2
 SUBDIR+=	ap-ometer
