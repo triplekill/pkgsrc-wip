@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3946 2010/05/05 19:53:01 othyro Exp $
+# $Id: Makefile,v 1.3947 2010/05/05 21:30:54 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1977,7 +1977,6 @@ SUBDIR+=	py-sshpt
 SUBDIR+=	py-statgrap
 SUBDIR+=	py-stem
 SUBDIR+=	py-storm
-SUBDIR+=	py-sympy-core
 SUBDIR+=	py-tagger
 SUBDIR+=	py-taglib
 SUBDIR+=	py-telepathy
