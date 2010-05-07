@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3951 2010/05/07 10:48:35 jihbed Exp $
+# $Id: Makefile,v 1.3954 2010/05/07 11:05:11 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -579,6 +579,7 @@ SUBDIR+=	gobject-introspection
 SUBDIR+=	godura
 SUBDIR+=	goldwater
 SUBDIR+=	google-perftools
+SUBDIR+=	googlesharing
 SUBDIR+=	gosmore
 SUBDIR+=	gov2
 SUBDIR+=	gpak
