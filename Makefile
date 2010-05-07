@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3950 2010/05/06 10:20:11 jihbed Exp $
+# $Id: Makefile,v 1.3951 2010/05/07 10:48:35 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -341,6 +341,7 @@ SUBDIR+=	dspam
 SUBDIR+=	dssi
 SUBDIR+=	duali-data
 SUBDIR+=	dumb
+SUBDIR+=	duplo
 SUBDIR+=	dvbsnoop
 SUBDIR+=	dvd2xvid
 SUBDIR+=	dwepcrack
