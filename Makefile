@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3960 2010/05/08 18:57:25 jihbed Exp $
+# $Id: Makefile,v 1.3961 2010/05/08 22:42:43 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1421,6 +1421,7 @@ SUBDIR+=	openbgpd-as4byte
 SUBDIR+=	openbsd-input-usbtablet
 SUBDIR+=	openca
 SUBDIR+=	opencobol
+SUBDIR+=	openconnect
 SUBDIR+=	opendchub
 SUBDIR+=	opendesktop-fonts
 SUBDIR+=	opendnssec
@@ -2411,6 +2412,7 @@ SUBDIR+=	vlevel
 SUBDIR+=	vm-pop3d
 SUBDIR+=	vmsbackup
 SUBDIR+=	vncselector
+SUBDIR+=	vpnc-script
 SUBDIR+=	vpr
 SUBDIR+=	vreng
 SUBDIR+=	wang-ttf
