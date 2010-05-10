@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3962 2010/05/09 07:49:21 pdtafti Exp $
+# $Id: Makefile,v 1.3963 2010/05/10 05:00:43 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1975,6 +1975,7 @@ SUBDIR+=	py-rlcompleter2
 SUBDIR+=	py-sage
 SUBDIR+=	py-scipy
 SUBDIR+=	py-scrobbler
+SUBDIR+=	py-sfepy
 SUBDIR+=	py-shtoom
 SUBDIR+=	py-simpleparse-mxtexttools
 SUBDIR+=	py-snmp
