@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3970 2010/05/15 23:48:06 jym-netbsd Exp $
+# $Id: Makefile,v 1.3971 2010/05/16 16:22:01 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -281,6 +281,7 @@ SUBDIR+=	darcs-to-git
 SUBDIR+=	dasm
 SUBDIR+=	datapipe
 SUBDIR+=	dates
+SUBDIR+=	davical
 SUBDIR+=	db1
 SUBDIR+=	dbf
 SUBDIR+=	dbus-explorer
