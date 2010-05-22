@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3977 2010/05/20 04:31:16 obache Exp $
+# $Id: Makefile,v 1.3978 2010/05/20 09:18:34 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -593,7 +593,6 @@ SUBDIR+=	gpsdrive
 SUBDIR+=	gpx2shp
 SUBDIR+=	grandr
 SUBDIR+=	granule
-SUBDIR+=	grape
 SUBDIR+=	grass
 SUBDIR+=	grass-JockeyRidge
 SUBDIR+=	grass-Maas
