@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3980 2010/05/22 23:38:33 jihbed Exp $
+# $Id: Makefile,v 1.3981 2010/05/23 08:24:06 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -984,6 +984,7 @@ SUBDIR+=	itask-ng
 #SUBDIR+=	jabberd			# not a real package
 SUBDIR+=	jabberd-aim
 SUBDIR+=	jabberd2
+SUBDIR+=	jabref
 SUBDIR+=	jacorb-lib
 SUBDIR+=	jad
 SUBDIR+=	jakarta-log4j
@@ -2247,6 +2248,7 @@ SUBDIR+=	sugarCRM
 SUBDIR+=	sun-j2me
 SUBDIR+=	sunterlib
 SUBDIR+=	supertux
+SUBDIR+=	surf
 SUBDIR+=	suse100_32_SDL
 SUBDIR+=	suse100_SDL
 SUBDIR+=	suse100_devel
