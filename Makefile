@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3984 2010/05/23 21:57:54 jym-netbsd Exp $
+# $Id: Makefile,v 1.3985 2010/05/24 18:49:05 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1270,7 +1270,6 @@ SUBDIR+=	miniupnpc
 SUBDIR+=	miracl
 SUBDIR+=	mirage
 SUBDIR+=	miro
-SUBDIR+=	misaki-fonts
 SUBDIR+=	mixer.tk
 SUBDIR+=	mixmaster
 SUBDIR+=	mixxx
