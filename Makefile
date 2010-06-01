@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3989 2010/05/27 09:37:55 cheusov Exp $
+# $Id: Makefile,v 1.3990 2010/06/01 21:16:31 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2008,6 +2008,7 @@ SUBDIR+=	py-sparce
 SUBDIR+=	py-speex
 SUBDIR+=	py-psychopy
 SUBDIR+=	py-srpy
+SUBDIR+=	py-ssh2
 SUBDIR+=	py-sshpt
 SUBDIR+=	py-statgrap
 SUBDIR+=	py-stem
