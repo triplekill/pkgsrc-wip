@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3991 2010/06/01 21:40:36 guigui2 Exp $
+# $Id: Makefile,v 1.3992 2010/06/02 08:40:16 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -232,6 +232,7 @@ SUBDIR+=	clisp
 SUBDIR+=	cloc
 SUBDIR+=	clockspeed
 SUBDIR+=	clustalx
+SUBDIR+=	cmetrics
 SUBDIR+=	codeblocks
 SUBDIR+=	coldfire
 SUBDIR+=	collectd
