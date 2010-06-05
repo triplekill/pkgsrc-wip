@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3995 2010/06/03 14:03:59 jihbed Exp $
+# $Id: Makefile,v 1.3996 2010/06/03 19:10:41 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -155,7 +155,6 @@ SUBDIR+=	bird6
 SUBDIR+=	blam
 SUBDIR+=	blassic
 SUBDIR+=	bleachbit
-SUBDIR+=	blop
 SUBDIR+=	blueproxy
 SUBDIR+=	bluez-gnome
 SUBDIR+=	bluez-hcidump
