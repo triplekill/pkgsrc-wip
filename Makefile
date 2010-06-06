@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3996 2010/06/03 19:10:41 jihbed Exp $
+# $Id: Makefile,v 1.3997 2010/06/05 09:30:26 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -529,6 +529,7 @@ SUBDIR+=	ggz-gtk-client
 SUBDIR+=	ggz-gtk-games
 SUBDIR+=	ggz-server
 SUBDIR+=	ghc
+SUBDIR+=	ghemical
 SUBDIR+=	giggle
 SUBDIR+=	gimmie
 SUBDIR+=	gimp-high-pass-filter
@@ -1133,12 +1134,13 @@ SUBDIR+=	libhttpd
 SUBDIR+=	libipctdata
 SUBDIR+=	libjingle
 SUBDIR+=	liblingoteach
-SUBDIR+=	liblo
+SUBDIR+=	liboglappth
 SUBDIR+=	libmemcached
 SUBDIR+=	libmrss
 SUBDIR+=	libmusclecard
 SUBDIR+=	libnettle
 SUBDIR+=	libneural
+SUBDIR+=	libog
 SUBDIR+=	libopenmodeller
 SUBDIR+=	libopensync-plugin-moto
 SUBDIR+=	libowl-av
