@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.3997 2010/06/05 09:30:26 obache Exp $
+# $Id: Makefile,v 1.3998 2010/06/06 16:05:46 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1240,7 +1240,6 @@ SUBDIR+=	manatee
 SUBDIR+=	manifold
 SUBDIR+=	map-browse
 SUBDIR+=	mapnik
-SUBDIR+=	mapserver
 SUBDIR+=	marathon-scenarios
 SUBDIR+=	marsyas
 SUBDIR+=	matanza
