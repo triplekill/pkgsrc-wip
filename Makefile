@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4005 2010/06/15 14:24:10 minskim Exp $
+# $Id: Makefile,v 1.4006 2010/06/16 13:52:48 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1965,7 +1965,6 @@ SUBDIR+=	py-mpmath
 SUBDIR+=	py-mx-base
 SUBDIR+=	py-mysqldb-docs
 SUBDIR+=	py-netcdf
-SUBDIR+=	py-nose
 SUBDIR+=	py-nose-senario
 SUBDIR+=	py-ntch
 SUBDIR+=	py-numpy
