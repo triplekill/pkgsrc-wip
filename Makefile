@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4027 2010/07/17 09:05:34 obache Exp $
+# $Id: Makefile,v 1.4028 2010/07/17 20:33:30 gschwarz Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1407,7 +1407,7 @@ SUBDIR+=	newsbeuter
 SUBDIR+=	nginx
 SUBDIR+=	nicotine+
 SUBDIR+=	njb-sharp
-SUBDIR+=	nmap-beta
+SUBDIR+=	nmap
 SUBDIR+=	nmzmail
 SUBDIR+=	nnrpd
 SUBDIR+=	noip
