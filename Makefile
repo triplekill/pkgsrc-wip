@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4032 2010/07/21 11:22:41 ryo-on Exp $
+# $Id: Makefile,v 1.4033 2010/07/23 21:52:28 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -15,6 +15,7 @@ SUBDIR+=	Mesa
 SUBDIR+=	MesaLib
 SUBDIR+=	MoleInvasion
 SUBDIR+=	OmegaT-bin
+SUBDIR+=	OmegaT-devel-bin
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PPower4
 SUBDIR+=	PyBabelFish
