@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4033 2010/07/23 21:52:28 lexort Exp $
+# $Id: Makefile,v 1.4034 2010/07/23 23:51:28 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2160,7 +2160,6 @@ SUBDIR+=	rst-mode
 SUBDIR+=	rsyslog
 SUBDIR+=	rte
 SUBDIR+=	rthread
-SUBDIR+=	rtmpdump
 SUBDIR+=	rtpbreak
 SUBDIR+=	ruby-GalleryAdministrator
 SUBDIR+=	ruby-actionmessenger
