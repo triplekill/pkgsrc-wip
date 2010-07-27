@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4036 2010/07/24 09:45:34 thomasklausner Exp $
+# $Id: Makefile,v 1.4037 2010/07/25 13:36:19 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1877,6 +1877,7 @@ SUBDIR+=	py-addons
 SUBDIR+=	py-albatross
 SUBDIR+=	py-amqplib
 SUBDIR+=	py-anyjson
+SUBDIR+=	py-argparse
 SUBDIR+=	py-aspects
 SUBDIR+=	py-aspell
 SUBDIR+=	py-aspyct
