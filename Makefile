@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4048 2010/08/04 16:23:12 ura Exp $
+# $Id: Makefile,v 1.4049 2010/08/05 12:22:58 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2161,11 +2161,7 @@ SUBDIR+=	relaydb
 SUBDIR+=	remctl
 SUBDIR+=	resid-builder
 SUBDIR+=	residual-nightly
-<<<<<<< Makefile
-=======
-SUBDIR+=	repositoryhandler
 SUBDIR+=	resin
->>>>>>> 1.4027
 SUBDIR+=	rhapsody
 SUBDIR+=	ripe-rpsl-objectlibrary
 SUBDIR+=	ripit
