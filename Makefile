@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4047 2010/08/04 16:16:41 ura Exp $
+# $Id: Makefile,v 1.4048 2010/08/04 16:23:12 ura Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2103,7 +2103,6 @@ SUBDIR+=	py-workerpool
 SUBDIR+=	py-wxWidgets-unicode
 SUBDIR+=	py-xdgapp
 SUBDIR+=	py-xlib
-SUBDIR+=	py-xlrd
 SUBDIR+=	py-xmiparser
 SUBDIR+=	py-xmpppy
 SUBDIR+=	py-xsdb
