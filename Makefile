@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4057 2010/08/08 09:29:59 obache Exp $
+# $Id: Makefile,v 1.4058 2010/08/08 23:17:23 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2066,6 +2066,8 @@ SUBDIR+=	py-toscawidgets
 SUBDIR+=	py-trackers
 SUBDIR+=	py-tranquil
 SUBDIR+=	py-transaction
+SUBDIR+=	py-traits
+SUBDIR+=	py-traitsgui
 SUBDIR+=	py-turbojson
 SUBDIR+=	py-twisted
 SUBDIR+=	py-twisted-kqueue
