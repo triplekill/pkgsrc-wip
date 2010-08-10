@@ -1,9 +1,10 @@
-# $Id: Makefile,v 1.4059 2010/08/09 20:32:19 jihbed Exp $
+# $Id: Makefile,v 1.4060 2010/08/10 03:12:43 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	389-ds-base
+SUBDIR+=	Box2D
 SUBDIR+=	Chinput
 SUBDIR+=	FontManager
 SUBDIR+=	GNUMail-pgp
