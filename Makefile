@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4067 2010/08/16 22:34:35 nthauvin Exp $
+# $Id: Makefile,v 1.4068 2010/08/17 12:19:12 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1937,9 +1937,9 @@ SUBDIR+=	py-gcalendarsync
 SUBDIR+=	py-generateDS
 SUBDIR+=	py-gettext-tools
 SUBDIR+=	py-gevent
-SUBDIR+=	py-gmpy
 SUBDIR+=	py-gnucash
 SUBDIR+=	py-greenlet
+SUBDIR+=	py-gsl
 SUBDIR+=	py-gtk2-docs
 SUBDIR+=	py-gts
 SUBDIR+=	py-guppy
@@ -1975,7 +1975,7 @@ SUBDIR+=	py-libtunepimp
 SUBDIR+=	py-lockfile
 SUBDIR+=	py-logilab-astng
 SUBDIR+=	py-logilab-common
-SUBDIR+=	py-logilab-databse
+SUBDIR+=	py-logilab-database
 SUBDIR+=	py-logilab-mtconverter
 SUBDIR+=	py-logilab-pigg
 SUBDIR+=	py-plex
