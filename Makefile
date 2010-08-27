@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4075 2010/08/25 08:07:15 obache Exp $
+# $Id: Makefile,v 1.4076 2010/08/27 07:00:57 moubctez Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2113,7 +2113,6 @@ SUBDIR+=	qcomicbook
 SUBDIR+=	qdevelop
 SUBDIR+=	qemu-neo1973
 SUBDIR+=	qemu-neo1973-images
-SUBDIR+=	qgis
 SUBDIR+=	qhacc
 SUBDIR+=	qico
 SUBDIR+=	qinx
