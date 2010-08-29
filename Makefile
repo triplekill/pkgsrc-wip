@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4076 2010/08/27 07:00:57 moubctez Exp $
+# $Id: Makefile,v 1.4077 2010/08/27 11:54:22 moubctez Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1485,6 +1485,10 @@ SUBDIR+=	openoffice2-bin-zu
 SUBDIR+=	openscep
 SUBDIR+=	opensips
 SUBDIR+=	opentracker-current
+SUBDIR+=	openttd
+SUBDIR+=	openttd-opengfx
+SUBDIR+=	openttd-openmsx
+SUBDIR+=	openttd-opensfx
 SUBDIR+=	openvrml
 SUBDIR+=	opera
 SUBDIR+=	opera-devel
