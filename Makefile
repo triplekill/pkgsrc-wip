@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4091 2010/09/10 09:14:14 obache Exp $
+# $Id: Makefile,v 1.4092 2010/09/10 20:10:35 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2195,7 +2195,6 @@ SUBDIR+=	ruby-easyjour
 SUBDIR+=	ruby-git
 SUBDIR+=	ruby-term-ansicolor
 SUBDIR+=	ruby-thor
-SUBDIR+=	ruby-treetop
 SUBDIR+=	ruby-trollop
 SUBDIR+=	ruby-xmpp4r
 SUBDIR+=	runawk
