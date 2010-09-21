@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4096 2010/09/17 11:13:51 fhajny Exp $
+# $Id: Makefile,v 1.4097 2010/09/17 16:56:37 crocusino Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1088,6 +1088,7 @@ SUBDIR+=	lcdproc
 SUBDIR+=	lcrack
 SUBDIR+=	ldapbrowser
 SUBDIR+=	ldapdns
+SUBDIR+=	ldapuseradd
 SUBDIR+=	lde
 SUBDIR+=	ldtp
 SUBDIR+=	ledger
