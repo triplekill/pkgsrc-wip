@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4106 2010/10/06 19:16:34 asau Exp $
+# $Id: Makefile,v 1.4107 2010/10/11 07:15:39 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1279,6 +1279,7 @@ SUBDIR+=	mic-paren
 SUBDIR+=	microcom
 SUBDIR+=	microtetris
 SUBDIR+=	mid2gmc
+SUBDIR+=	mikutter
 SUBDIR+=	milter-greylist-devel
 SUBDIR+=	milter-manager
 SUBDIR+=	mime-support
