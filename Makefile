@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4108 2010/10/11 07:44:16 obache Exp $
+# $Id: Makefile,v 1.4109 2010/10/14 07:34:36 makoto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2473,6 +2473,7 @@ SUBDIR+=	udhcp
 SUBDIR+=	uebimiau
 SUBDIR+=	uffizi
 SUBDIR+=	umix
+SUBDIR+=	umurmur
 SUBDIR+=	undo-tree
 SUBDIR+=	unix2tcp
 SUBDIR+=	unmo3
