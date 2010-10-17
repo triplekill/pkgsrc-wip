@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4109 2010/10/14 07:34:36 makoto Exp $
+# $Id: Makefile,v 1.4110 2010/10/16 17:10:48 hoka_adam Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -134,7 +134,6 @@ SUBDIR+=	avida2
 SUBDIR+=	avifile-devel
 SUBDIR+=	awesome
 SUBDIR+=	awflwm
-SUBDIR+=	awk-pkgsrc-dewey
 SUBDIR+=	axe
 SUBDIR+=	axel
 SUBDIR+=	azureus
