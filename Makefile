@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4111 2010/10/17 16:26:46 cheusov Exp $
+# $Id: Makefile,v 1.4112 2010/10/17 20:06:39 shindenmorr Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2413,6 +2413,7 @@ SUBDIR+=	tinycobol
 SUBDIR+=	tinyfugue-beta
 SUBDIR+=	tinylogin
 SUBDIR+=	tk85
+SUBDIR+=	tkpng
 SUBDIR+=	tleenx2
 SUBDIR+=	tleenx3
 SUBDIR+=	tmw
