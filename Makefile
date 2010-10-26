@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4114 2010/10/19 22:40:10 othyro Exp $
+# $Id: Makefile,v 1.4115 2010/10/20 14:02:41 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -265,6 +265,7 @@ SUBDIR+=	creal
 SUBDIR+=	cream
 SUBDIR+=	crfpp
 SUBDIR+=	crm114
+SUBDIR+=	crrcsim
 SUBDIR+=	cryptcat
 SUBDIR+=	csoap
 SUBDIR+=	csp2b
