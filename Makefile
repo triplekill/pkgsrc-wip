@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4115 2010/10/20 14:02:41 othyro Exp $
+# $Id: Makefile,v 1.4116 2010/10/26 15:31:53 hfath Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -52,6 +52,9 @@ SUBDIR+=	WEPCrack
 SUBDIR+=	a2ps-sharatype
 SUBDIR+=	abclock
 SUBDIR+=	acpid
+SUBDIR+=	acroread9
+SUBDIR+=	acroread9-font-share
+SUBDIR+=	acroread9-jpnfont
 SUBDIR+=	adamem
 SUBDIR+=	adms
 SUBDIR+=	admsmb
