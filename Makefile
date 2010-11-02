@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4125 2010/11/02 16:44:55 phonohawk Exp $
+# $Id: Makefile,v 1.4126 2010/11/02 16:47:30 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -902,6 +902,7 @@ SUBDIR+=	hs-numeric-quest
 SUBDIR+=	hs-parallel
 SUBDIR+=	hs-parseargs
 SUBDIR+=	hs-parsec
+SUBDIR+=	hs-pathtype
 SUBDIR+=	hs-pcre-light
 SUBDIR+=	hs-readline
 SUBDIR+=	hs-regex-base
