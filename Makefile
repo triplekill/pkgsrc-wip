@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4128 2010/11/02 17:04:57 phonohawk Exp $
+# $Id: Makefile,v 1.4129 2010/11/02 17:11:55 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2485,6 +2485,7 @@ SUBDIR+=	typhoon
 SUBDIR+=	u-boot
 SUBDIR+=	uade
 SUBDIR+=	ubit
+SUBDIR+=	ubuntu-font-ttf
 SUBDIR+=	uclibc
 SUBDIR+=	udhcp
 SUBDIR+=	uebimiau
