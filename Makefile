@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4133 2010/11/04 21:32:43 cheusov Exp $
+# $Id: Makefile,v 1.4134 2010/11/05 16:05:33 ggergely Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1155,6 +1155,7 @@ SUBDIR+=	liboglappth
 SUBDIR+=	libmemcached
 SUBDIR+=	libmrss
 SUBDIR+=	libmusclecard
+SUBDIR+=	libnfo
 SUBDIR+=	libnettle
 SUBDIR+=	libneural
 SUBDIR+=	libopenmodeller
@@ -1178,6 +1179,7 @@ SUBDIR+=	libtlen2
 SUBDIR+=	libtorrent-rasterbar
 SUBDIR+=	libuuid
 SUBDIR+=	libuxre
+SUBDIR+=	libvalhalla
 SUBDIR+=	libvc
 SUBDIR+=	libvg
 SUBDIR+=	libvpx
