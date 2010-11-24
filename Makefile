@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4152 2010/11/23 12:29:41 ryo-on Exp $
+# $Id: Makefile,v 1.4153 2010/11/23 21:56:08 dolecek Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -692,6 +692,7 @@ SUBDIR+=	gurlchecker
 SUBDIR+=	gvariant
 SUBDIR+=	gwget
 SUBDIR+=	gwhois
+SUBDIR+=	gwibber
 SUBDIR+=	gwsmhg
 SUBDIR+=	gxconsole
 SUBDIR+=	gxmessage
