@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4154 2010/11/24 09:33:33 ryo-on Exp $
+# $Id: Makefile,v 1.4155 2010/11/25 13:32:46 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1435,6 +1435,8 @@ SUBDIR+=	newsbeuter
 SUBDIR+=	nginx
 SUBDIR+=	nicotine+
 SUBDIR+=	nicovideo-dl
+SUBDIR+=	nios2-binutils
+SUBDIR+=	nios2-gcc
 SUBDIR+=	njb-sharp
 SUBDIR+=	nmap
 SUBDIR+=	nmzmail
