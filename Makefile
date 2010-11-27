@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4155 2010/11/25 13:32:46 ryo-on Exp $
+# $Id: Makefile,v 1.4156 2010/11/26 13:02:53 makoto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -235,7 +235,7 @@ SUBDIR+=	chbg
 SUBDIR+=	chems
 SUBDIR+=	chicken
 SUBDIR+=	chora
-SUBDIR+=	chromium-devel
+SUBDIR+=	chromium
 SUBDIR+=	chrsh
 SUBDIR+=	cinelerra
 SUBDIR+=	cinelerra-cv
