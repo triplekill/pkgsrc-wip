@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4157 2010/11/27 02:38:46 rxg Exp $
+# $Id: Makefile,v 1.4158 2010/12/01 15:50:18 anielski Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -160,6 +160,7 @@ SUBDIR+=	beryl-settings-bindings
 SUBDIR+=	beryl-settings-simple
 SUBDIR+=	bibliographer
 SUBDIR+=	bicho
+SUBDIR+=	bindgraph
 SUBDIR+=	biopython
 SUBDIR+=	bioruby
 SUBDIR+=	bird
