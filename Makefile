@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4162 2010/12/07 21:22:51 pallegra Exp $
+# $Id: Makefile,v 1.4163 2010/12/07 21:25:40 pallegra Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -460,6 +460,7 @@ SUBDIR+=	exact-image
 SUBDIR+=	expiretable
 SUBDIR+=	ezbounce
 SUBDIR+=	ezstream
+SUBDIR+=	fail2ban
 SUBDIR+=	fakenes
 SUBDIR+=	fakeroot
 SUBDIR+=	farsi-ttf
