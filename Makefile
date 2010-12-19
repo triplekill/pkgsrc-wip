@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4169 2010/12/14 17:03:52 noud4 Exp $
+# $Id: Makefile,v 1.4170 2010/12/14 22:37:37 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1428,7 +1428,6 @@ SUBDIR+=	net-quanta
 SUBDIR+=	net-tools
 SUBDIR+=	netbsd-awk
 SUBDIR+=	netbsd-make
-SUBDIR+=	netbt-hcidump
 SUBDIR+=	netclasses
 SUBDIR+=	netkit-base
 SUBDIR+=	netkit-routed
