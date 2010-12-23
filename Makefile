@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4172 2010/12/21 11:35:39 obache Exp $
+# $Id: Makefile,v 1.4173 2010/12/22 23:36:26 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1396,7 +1396,6 @@ SUBDIR+=	muttvcquery
 SUBDIR+=	mvsis
 SUBDIR+=	mwf-designer
 SUBDIR+=	mxallowd
-SUBDIR+=	mypaint
 SUBDIR+=	mysql++
 SUBDIR+=	mysql-docs
 SUBDIR+=	mysql-workbench
