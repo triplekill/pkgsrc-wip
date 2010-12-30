@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4175 2010/12/24 00:03:39 thomasklausner Exp $
+# $Id: Makefile,v 1.4176 2010/12/30 07:25:08 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -903,6 +903,7 @@ SUBDIR+=	hs-midi
 SUBDIR+=	hs-mime
 SUBDIR+=	hs-mmap
 SUBDIR+=	hs-mmap4
+SUBDIR+=	hs-monad-peel
 SUBDIR+=	hs-monoid-transformer
 SUBDIR+=	hs-mtl
 SUBDIR+=	hs-network
