@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4178 2010/12/30 09:22:21 phonohawk Exp $
+# $Id: Makefile,v 1.4179 2010/12/30 09:31:41 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1189,6 +1189,7 @@ SUBDIR+=	libraw1394
 SUBDIR+=	libscscp
 SUBDIR+=	libsidplay2
 SUBDIR+=	libslab
+SUBDIR+=	libspt
 SUBDIR+=	libstacktrace
 SUBDIR+=	libtextcat
 SUBDIR+=	libticables
