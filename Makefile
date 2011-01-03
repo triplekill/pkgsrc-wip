@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4181 2010/12/31 17:59:16 anielski Exp $
+# $Id: Makefile,v 1.4182 2011/01/01 09:55:47 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2159,6 +2159,7 @@ SUBDIR+=	py-wxWidgets-unicode
 SUBDIR+=	py-xdgapp
 SUBDIR+=	py-xmiparser
 SUBDIR+=	py-xmpppy
+SUBDIR+=	py-jabberbot
 SUBDIR+=	py-xsdb
 SUBDIR+=	py-yapgvb
 SUBDIR+=	py-yapps2
