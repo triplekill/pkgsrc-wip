@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4182 2011/01/01 09:55:47 ryo-on Exp $
+# $Id: Makefile,v 1.4183 2011/01/03 03:06:06 schnoebe Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1893,7 +1893,6 @@ SUBDIR+=	proxyknife
 SUBDIR+=	prozilla
 SUBDIR+=	prtunnel
 SUBDIR+=	psh
-SUBDIR+=	psi
 SUBDIR+=	psybnc
 SUBDIR+=	pt-cyrillic-ttf
 SUBDIR+=	pts
