@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4187 2011/01/05 13:56:19 obache Exp $
+# $Id: Makefile,v 1.4188 2011/01/06 13:08:32 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -854,6 +854,7 @@ SUBDIR+=	hs-QuickCheck1
 SUBDIR+=	hs-SHA
 SUBDIR+=	hs-StateVar
 SUBDIR+=	hs-Tensor
+SUBDIR+=	hs-ansi-terminal
 SUBDIR+=	hs-base-unicode-symbols
 SUBDIR+=	hs-binary
 SUBDIR+=	hs-binary-strict
