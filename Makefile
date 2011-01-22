@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4205 2011/01/20 00:35:55 jym-netbsd Exp $
+# $Id: Makefile,v 1.4206 2011/01/22 14:22:20 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1224,7 +1224,6 @@ SUBDIR+=	libuxre
 SUBDIR+=	libvalhalla
 SUBDIR+=	libvc
 SUBDIR+=	libvg
-SUBDIR+=	libvpx
 SUBDIR+=	libwbxml2-patched
 SUBDIR+=	libxc
 SUBDIR+=	libyubikey
