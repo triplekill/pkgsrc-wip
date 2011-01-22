@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4204 2011/01/19 14:41:07 jihbed Exp $
+# $Id: Makefile,v 1.4205 2011/01/20 00:35:55 jym-netbsd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1097,6 +1097,7 @@ SUBDIR+=	kaffe
 SUBDIR+=	kaffe-x11
 SUBDIR+=	kahakai
 SUBDIR+=	kahua
+SUBDIR+=	kanjistrokeorders-ttf
 SUBDIR+=	kannel-gateway
 SUBDIR+=	kapital
 SUBDIR+=	kacst-ttf
