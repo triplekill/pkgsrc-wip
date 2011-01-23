@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4207 2011/01/22 14:23:06 ryo-on Exp $
+# $Id: Makefile,v 1.4208 2011/01/23 11:13:23 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1312,7 +1312,6 @@ SUBDIR+=	mawk-rxspencer
 SUBDIR+=	mawk-tre
 SUBDIR+=	mawk-uxre
 SUBDIR+=	maxima
-SUBDIR+=	mc
 SUBDIR+=	mc-mp
 SUBDIR+=	mcabber
 SUBDIR+=	mcats
