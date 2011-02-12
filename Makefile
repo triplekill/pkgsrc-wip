@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4212 2011/02/11 00:16:02 ryo-on Exp $
+# $Id: Makefile,v 1.4213 2011/02/11 08:31:53 moubctez Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2599,6 +2599,7 @@ SUBDIR+=	wordwarvi
 SUBDIR+=	workrave
 SUBDIR+=	wpro
 SUBDIR+=	wput
+SUBDIR+=	wqy-zenhei-ttf
 SUBDIR+=	wrcs
 SUBDIR+=	writrecogn
 SUBDIR+=	wsmake
