@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4215 2011/02/12 12:23:31 cheusov Exp $
+# $Id: Makefile,v 1.4216 2011/02/14 21:24:44 christtrekker Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -668,7 +668,6 @@ SUBDIR+=	groonga
 SUBDIR+=	grsync
 SUBDIR+=	grub2
 SUBDIR+=	grub2-current
-SUBDIR+=	gst123
 SUBDIR+=	gst-inspector
 SUBDIR+=	gst-plugins0.10-farsight
 SUBDIR+=	gstat
