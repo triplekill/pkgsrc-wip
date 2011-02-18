@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4222 2011/02/18 04:43:06 jym-netbsd Exp $
+# $Id: Makefile,v 1.4223 2011/02/18 04:48:14 jym-netbsd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -291,6 +291,7 @@ SUBDIR+=	cmetrics
 SUBDIR+=	codeblocks
 SUBDIR+=	coldfire
 SUBDIR+=	collectd
+SUBDIR+=	color-theme
 SUBDIR+=	com_err
 SUBDIR+=	common-mml
 SUBDIR+=	commoncpp2
