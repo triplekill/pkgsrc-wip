@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4225 2011/02/18 12:05:50 rodo6510 Exp $
+# $Id: Makefile,v 1.4226 2011/02/18 14:51:06 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -487,7 +487,6 @@ SUBDIR+=	eor
 SUBDIR+=	eot
 SUBDIR+=	epeg
 SUBDIR+=	epm
-SUBDIR+=	epplets
 SUBDIR+=	epsilon
 SUBDIR+=	eq-xmms
 SUBDIR+=	erc
