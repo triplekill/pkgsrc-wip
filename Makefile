@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4227 2011/02/19 12:25:12 thomasklausner Exp $
+# $Id: Makefile,v 1.4228 2011/02/19 13:38:55 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -627,18 +627,6 @@ SUBDIR+=	ghostpcl-urwfonts-ttf
 SUBDIR+=	ghostscript
 SUBDIR+=	giggle
 SUBDIR+=	gimmie
-SUBDIR+=	gimp-docs-de
-SUBDIR+=	gimp-docs-en
-SUBDIR+=	gimp-docs-es
-SUBDIR+=	gimp-docs-fr
-SUBDIR+=	gimp-docs-it
-SUBDIR+=	gimp-docs-ko
-SUBDIR+=	gimp-docs-nl
-SUBDIR+=	gimp-docs-nn
-SUBDIR+=	gimp-docs-pl
-SUBDIR+=	gimp-docs-ru
-SUBDIR+=	gimp-docs-sv
-SUBDIR+=	gimp-docs-zh_CN
 SUBDIR+=	gimp-high-pass-filter
 SUBDIR+=	git
 SUBDIR+=	givaro
