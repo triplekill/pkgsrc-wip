@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4236 2011/02/23 08:49:49 moubctez Exp $
+# $Id: Makefile,v 1.4237 2011/02/24 15:16:27 pallegra Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2720,6 +2720,7 @@ SUBDIR+=	ups-nut
 SUBDIR+=	uptimed
 SUBDIR+=	uqm
 SUBDIR+=	uqwk
+SUBDIR+=	urbanrenewal
 SUBDIR+=	uschedule
 SUBDIR+=	user_irix
 SUBDIR+=	ushare
