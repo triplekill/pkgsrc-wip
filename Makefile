@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4247 2011/02/27 12:58:57 obache Exp $
+# $Id: Makefile,v 1.4248 2011/02/27 15:38:10 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -671,6 +671,7 @@ SUBDIR+=	gmc2mid
 SUBDIR+=	gmm
 SUBDIR+=	gmp-ecm
 SUBDIR+=	gmpc-lyricsplugin
+SUBDIR+=	gmpc-wikipedia
 SUBDIR+=	gmrun
 SUBDIR+=	gnocchi
 SUBDIR+=	gnochm
