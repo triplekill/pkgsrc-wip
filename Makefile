@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4256 2011/03/01 21:54:15 ddeus Exp $
+# $Id: Makefile,v 1.4257 2011/03/06 16:03:06 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2846,8 +2846,6 @@ SUBDIR+=	xmlformat-docs
 SUBDIR+=	xmlformat-perl
 SUBDIR+=	xmlformat-ruby
 SUBDIR+=	xmlsysinfo
-SUBDIR+=	xmms-cdread
-SUBDIR+=	xmms-nas
 SUBDIR+=	xmms-skin-AdamAmp
 SUBDIR+=	xmms-skin-Chaos
 SUBDIR+=	xmms-skin-CherryBest
