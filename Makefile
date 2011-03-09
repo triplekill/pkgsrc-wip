@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4259 2011/03/07 13:14:50 jihbed Exp $
+# $Id: Makefile,v 1.4260 2011/03/08 14:07:27 pdtafti Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1300,6 +1300,7 @@ SUBDIR+=	libplist
 SUBDIR+=	libpthread-stubs
 SUBDIR+=	libpusb
 SUBDIR+=	libraw1394
+SUBDIR+=	libreoffice3-bin
 SUBDIR+=	libscscp
 SUBDIR+=	libsidplay2
 SUBDIR+=	libslab
