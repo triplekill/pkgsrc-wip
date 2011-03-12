@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4264 2011/03/11 12:36:53 ryo-on Exp $
+# $Id: Makefile,v 1.4265 2011/03/12 10:42:48 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1245,6 +1245,7 @@ SUBDIR+=	libatomic_ops
 SUBDIR+=	libavc1394
 SUBDIR+=	libbrahe
 SUBDIR+=	libbtctl
+SUBDIR+=	libburn
 SUBDIR+=	libcli
 SUBDIR+=	libcm
 SUBDIR+=	libcmt
