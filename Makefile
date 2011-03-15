@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4266 2011/03/12 10:44:28 ryo-on Exp $
+# $Id: Makefile,v 1.4267 2011/03/12 10:51:26 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -409,6 +409,7 @@ SUBDIR+=	directfb
 SUBDIR+=	discident-glib
 SUBDIR+=	discount
 SUBDIR+=	distbb
+SUBDIR+=	distbb-current
 SUBDIR+=	distella
 SUBDIR+=	diveintopython
 SUBDIR+=	djview4
