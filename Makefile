@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4270 2011/03/15 19:45:32 ryo-on Exp $
+# $Id: Makefile,v 1.4271 2011/03/16 11:58:14 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -411,6 +411,7 @@ SUBDIR+=	discount
 SUBDIR+=	distbb
 SUBDIR+=	distbb-current
 SUBDIR+=	distella
+SUBDIR+=	ditz-commander
 SUBDIR+=	diveintopython
 SUBDIR+=	djview4
 SUBDIR+=	dk-milter
