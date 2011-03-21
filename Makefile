@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4273 2011/03/20 23:59:11 jihbed Exp $
+# $Id: Makefile,v 1.4274 2011/03/21 12:33:50 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -6,6 +6,7 @@ COMMENT=	WIP pkgsrc packages
 SUBDIR+=	389-ds-base
 SUBDIR+=	Box2D
 SUBDIR+=	Chinput
+SUBDIR+=	ETL
 SUBDIR+=	FontManager
 SUBDIR+=	GNUMail-pgp
 SUBDIR+=	GSCommander
