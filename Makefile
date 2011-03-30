@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4278 2011/03/23 12:38:09 jihbed Exp $
+# $Id: Makefile,v 1.4279 2011/03/25 18:15:15 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -745,6 +745,7 @@ SUBDIR+=	gstat
 SUBDIR+=	gstreamer-plugins
 SUBDIR+=	gsview
 SUBDIR+=	gtg
+SUBDIR+=	gtimelog
 SUBDIR+=	gtk-gnutella-current
 SUBDIR+=	gtk-grdc
 SUBDIR+=	gtk-imonc
