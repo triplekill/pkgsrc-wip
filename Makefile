@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4280 2011/03/30 21:13:21 shindenmorr Exp $
+# $Id: Makefile,v 1.4281 2011/03/30 21:20:42 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -27,6 +27,8 @@ SUBDIR+=	R-Rdbi
 SUBDIR+=	R-Rdbi.PgSQL
 SUBDIR+=	R-Rserve
 SUBDIR+=	R-digest
+SUBDIR+=	R-entropy
+SUBDIR+=	R-mclust
 SUBDIR+=	R-rgdal
 SUBDIR+=	Radiator
 SUBDIR+=	Radiator-all
