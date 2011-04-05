@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4286 2011/04/04 14:03:24 obache Exp $
+# $Id: Makefile,v 1.4287 2011/04/05 11:50:45 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2042,7 +2042,6 @@ SUBDIR+=	pxview
 SUBDIR+=	py-Beaker
 SUBDIR+=	py-Brenda
 SUBDIR+=	py-CVSToys
-SUBDIR+=	py-CherryPy
 SUBDIR+=	py-Climate
 SUBDIR+=	py-DNS
 SUBDIR+=	py-DirectoryStorage
