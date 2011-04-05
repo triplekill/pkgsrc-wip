@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4287 2011/04/05 11:50:45 obache Exp $
+# $Id: Makefile,v 1.4288 2011/04/05 12:06:24 moubctez Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1211,7 +1211,6 @@ SUBDIR+=	koha
 SUBDIR+=	konatu-ttf
 SUBDIR+=	korelib
 SUBDIR+=	kpanta
-SUBDIR+=	kpathsea
 SUBDIR+=	kplayer
 SUBDIR+=	krusader
 SUBDIR+=	kuickshow
