@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4292 2011/04/10 08:58:21 obache Exp $
+# $Id: Makefile,v 1.4293 2011/04/10 14:49:43 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -444,6 +444,7 @@ SUBDIR+=	dsh
 SUBDIR+=	dspam
 SUBDIR+=	dssi
 SUBDIR+=	duali-data
+SUBDIR+=	duff
 SUBDIR+=	dumb
 SUBDIR+=	duplo
 SUBDIR+=	dvbsnoop
