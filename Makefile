@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4298 2011/04/18 19:52:35 genolopolis Exp $
+# $Id: Makefile,v 1.4299 2011/04/19 11:25:09 genolopolis Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2400,6 +2400,7 @@ SUBDIR+=	pynfo
 SUBDIR+=	pypanel
 SUBDIR+=	pypod
 SUBDIR+=	pysite
+SUBDIR+=	pythia6
 SUBDIR+=	pysvn
 SUBDIR+=	python31
 SUBDIR+=	pythoncad
