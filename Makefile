@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4299 2011/04/19 11:25:09 genolopolis Exp $
+# $Id: Makefile,v 1.4300 2011/04/23 22:03:00 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -437,7 +437,6 @@ SUBDIR+=	dovecot-antispam
 SUBDIR+=	dpic
 SUBDIR+=	dragbox
 SUBDIR+=	dri
-SUBDIR+=	droid-fonts
 SUBDIR+=	drow
 SUBDIR+=	drpython
 SUBDIR+=	drumpiler
