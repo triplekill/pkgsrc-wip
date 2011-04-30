@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4303 2011/04/27 23:45:47 jihbed Exp $
+# $Id: Makefile,v 1.4304 2011/04/28 14:39:13 makoto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -793,6 +793,7 @@ SUBDIR+=	hanazono-ttf
 SUBDIR+=	happy
 SUBDIR+=	haproxy
 SUBDIR+=	haproxy14
+SUBDIR+=	harminv
 SUBDIR+=	hasciicam
 SUBDIR+=	haserl
 SUBDIR+=	haskell-mode
