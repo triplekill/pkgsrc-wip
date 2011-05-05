@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4307 2011/05/03 11:31:03 ryo-on Exp $
+# $Id: Makefile,v 1.4308 2011/05/04 05:49:07 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2849,6 +2849,8 @@ SUBDIR+=	wmii-devel
 SUBDIR+=	wmitime
 SUBDIR+=	wmname
 SUBDIR+=	wmnetload
+SUBDIR+=	wmx
+SUBDIR+=	wmx-gnome
 SUBDIR+=	wordcut
 SUBDIR+=	wordpress-mu
 SUBDIR+=	wordwarvi
