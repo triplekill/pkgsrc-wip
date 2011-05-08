@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4311 2011/05/07 20:10:50 ryo-on Exp $
+# $Id: Makefile,v 1.4312 2011/05/08 11:15:47 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2792,7 +2792,6 @@ SUBDIR+=	uptimed
 SUBDIR+=	uqm
 SUBDIR+=	uqwk
 SUBDIR+=	uschedule
-SUBDIR+=	user_irix
 SUBDIR+=	ushare
 SUBDIR+=	using-mpi
 SUBDIR+=	ussp-push
