@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4322 2011/05/10 12:58:03 phonohawk Exp $
+# $Id: Makefile,v 1.4323 2011/05/10 13:49:34 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1024,6 +1024,7 @@ SUBDIR+=	hs-regex-posix
 SUBDIR+=	hs-regional-pointers
 SUBDIR+=	hs-regions
 SUBDIR+=	hs-safer-file-handles
+SUBDIR+=	hs-semigroups
 SUBDIR+=	hs-stm
 SUBDIR+=	hs-storable-record
 SUBDIR+=	hs-storablevector
