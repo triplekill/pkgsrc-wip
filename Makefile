@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4323 2011/05/10 13:49:34 ryo-on Exp $
+# $Id: Makefile,v 1.4324 2011/05/10 23:25:56 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -487,6 +487,7 @@ SUBDIR+=	elinks-snapshot
 SUBDIR+=	elk
 SUBDIR+=	emacs-current
 SUBDIR+=	emacs-current-nox11
+SUBDIR+=	emacs-ditz
 SUBDIR+=	emacs-jabber
 SUBDIR+=	emacs-pr-el
 SUBDIR+=	emacs-w3m-current
