@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4324 2011/05/10 23:25:56 phonohawk Exp $
+# $Id: Makefile,v 1.4325 2011/05/11 05:08:18 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -90,6 +90,7 @@ SUBDIR+=	amarok
 SUBDIR+=	and
 SUBDIR+=	anki
 SUBDIR+=	ann
+SUBDIR+=	anthy-dic-jis34
 SUBDIR+=	aoi
 SUBDIR+=	aokell
 SUBDIR+=	aols-freetds
