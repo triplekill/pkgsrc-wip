@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4332 2011/05/13 04:09:36 ryo-on Exp $
+# $Id: Makefile,v 1.4333 2011/05/13 04:33:04 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -751,7 +751,6 @@ SUBDIR+=	gstat
 SUBDIR+=	gstreamer-plugins
 SUBDIR+=	gsview
 SUBDIR+=	gtg
-SUBDIR+=	gtest
 SUBDIR+=	gtimelog
 SUBDIR+=	gtk-gnutella-current
 SUBDIR+=	gtk-grdc
