@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4334 2011/05/13 22:24:10 ryo-on Exp $
+# $Id: Makefile,v 1.4335 2011/05/14 20:21:30 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2108,6 +2108,7 @@ SUBDIR+=	py-clonedigger
 SUBDIR+=	py-codepy
 SUBDIR+=	py-cogent
 SUBDIR+=	py-configobj
+SUBDIR+=	py-construct
 SUBDIR+=	py-cosmolopy
 SUBDIR+=	py-couchdb
 SUBDIR+=	py-cryptoidlib
