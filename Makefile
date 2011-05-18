@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4340 2011/05/16 19:26:46 cheusov Exp $
+# $Id: Makefile,v 1.4341 2011/05/16 22:33:06 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -717,6 +717,7 @@ SUBDIR+=	goldwater
 SUBDIR+=	google-perftools
 SUBDIR+=	googlecl
 SUBDIR+=	googlesharing
+SUBDIR+=	gource
 SUBDIR+=	gosmore
 SUBDIR+=	gov2
 SUBDIR+=	gpac-devel
