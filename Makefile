@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4344 2011/05/23 13:39:41 makoto Exp $
+# $Id: Makefile,v 1.4345 2011/05/23 21:11:44 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1919,7 +1919,6 @@ SUBDIR+=	pan2-git
 SUBDIR+=	panda
 SUBDIR+=	pandoc
 SUBDIR+=	paperbox
-SUBDIR+=	parallel
 SUBDIR+=	paraview
 SUBDIR+=	parcellite
 SUBDIR+=	parted
