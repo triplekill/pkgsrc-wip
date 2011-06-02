@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4350 2011/05/31 06:51:15 makoto Exp $
+# $Id: Makefile,v 1.4351 2011/06/01 14:44:38 makoto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -623,6 +623,7 @@ SUBDIR+=	gaphor
 SUBDIR+=	gappa
 SUBDIR+=	gauche-dbd-pg
 SUBDIR+=	gauche-fastcgi
+SUBDIR+=	gbase
 SUBDIR+=	gcap
 SUBDIR+=	gcc42
 SUBDIR+=	gcc43
