@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4353 2011/06/03 00:27:53 othyro Exp $
+# $Id: Makefile,v 1.4354 2011/06/04 07:52:02 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1395,6 +1395,7 @@ SUBDIR+=	mkcabal
 SUBDIR+=	mkdep
 SUBDIR+=	mksend
 SUBDIR+=	mlmmj
+SUBDIR+=	mlocate
 SUBDIR+=	mlton-svn
 SUBDIR+=	mmdb
 SUBDIR+=	mmm-mode
