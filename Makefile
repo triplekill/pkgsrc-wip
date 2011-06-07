@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4354 2011/06/04 07:52:02 obache Exp $
+# $Id: Makefile,v 1.4355 2011/06/07 16:41:35 emil_s Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2749,6 +2749,7 @@ SUBDIR+=	umurmur
 SUBDIR+=	undo-tree
 SUBDIR+=	unix2tcp
 SUBDIR+=	unmo3
+SUBDIR+=	unnethack
 SUBDIR+=	unrealtournament-server
 SUBDIR+=	ups-nut
 SUBDIR+=	uptimed
