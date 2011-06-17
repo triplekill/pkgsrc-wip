@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4360 2011/06/11 22:49:15 ryo-on Exp $
+# $Id: Makefile,v 1.4361 2011/06/13 21:26:05 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2368,7 +2368,6 @@ SUBDIR+=	pypod
 SUBDIR+=	pysite
 SUBDIR+=	pysvn
 SUBDIR+=	pythia6
-SUBDIR+=	python31
 SUBDIR+=	pythoncad
 SUBDIR+=	pywm
 SUBDIR+=	pyzor
