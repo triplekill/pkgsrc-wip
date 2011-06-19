@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4363 2011/06/19 10:11:14 obache Exp $
+# $Id: Makefile,v 1.4364 2011/06/19 10:23:47 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -311,6 +311,7 @@ SUBDIR+=	clips
 SUBDIR+=	clisp
 SUBDIR+=	cloc
 SUBDIR+=	clockspeed
+SUBDIR+=	cloog
 SUBDIR+=	clustalx
 SUBDIR+=	clustershell
 SUBDIR+=	cmetrics
