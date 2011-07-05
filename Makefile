@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4368 2011/06/27 21:00:48 jmmv Exp $
+# $Id: Makefile,v 1.4369 2011/07/02 22:34:17 genolopolis Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1679,6 +1679,7 @@ SUBDIR+=	p5-Crypt-CAST5
 SUBDIR+=	p5-Crypt-Serpent
 SUBDIR+=	p5-DBIx-Easy
 SUBDIR+=	p5-DBIx-Simple
+SUBDIR+=	p5-Dancer
 SUBDIR+=	p5-Data-ObjectDriver
 SUBDIR+=	p5-Data-Properties
 SUBDIR+=	p5-Data-Random
