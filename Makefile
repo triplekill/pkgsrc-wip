@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4369 2011/07/02 22:34:17 genolopolis Exp $
+# $Id: Makefile,v 1.4370 2011/07/05 17:50:11 ficovh Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1603,6 +1603,7 @@ SUBDIR+=	oxygen-icons
 SUBDIR+=	ozymandns
 SUBDIR+=	p2kmoto
 SUBDIR+=	p3nfs
+SUBDIR+=	p4
 SUBDIR+=	p5-AI-NeuralNet-Simple
 SUBDIR+=	p5-AI-Prolog
 SUBDIR+=	p5-Aceperl
