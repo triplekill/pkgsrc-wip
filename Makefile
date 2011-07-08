@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4382 2011/07/08 09:52:32 jmmv Exp $
+# $Id: Makefile,v 1.4383 2011/07/08 09:53:38 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -897,6 +897,7 @@ SUBDIR+=	hs-html
 SUBDIR+=	hs-hxt
 SUBDIR+=	hs-hxt-xpath
 SUBDIR+=	hs-iconv
+SUBDIR+=	hs-io-storage
 SUBDIR+=	hs-irc
 SUBDIR+=	hs-magic
 SUBDIR+=	hs-markov-chain
