@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4385 2011/07/08 10:04:04 phonohawk Exp $
+# $Id: Makefile,v 1.4386 2011/07/08 10:12:25 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1889,6 +1889,7 @@ SUBDIR+=	php-fileinfo
 SUBDIR+=	php-fpm
 SUBDIR+=	php-http
 SUBDIR+=	php-igbinary
+SUBDIR+=	php-imagick
 SUBDIR+=	php-memcached
 SUBDIR+=	php-oauth
 SUBDIR+=	php-recode
