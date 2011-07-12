@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4399 2011/07/12 08:11:25 phonohawk Exp $
+# $Id: Makefile,v 1.4400 2011/07/12 08:18:14 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -960,6 +960,7 @@ SUBDIR+=	hs-time-w3c
 SUBDIR+=	hs-transformers
 SUBDIR+=	hs-uconv
 SUBDIR+=	hs-uniplate
+SUBDIR+=	hs-unix-compat
 SUBDIR+=	hs-utf8-string
 SUBDIR+=	hs-utility-ht
 SUBDIR+=	hs-vector
