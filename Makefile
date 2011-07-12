@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4412 2011/07/12 15:59:35 phonohawk Exp $
+# $Id: Makefile,v 1.4413 2011/07/12 16:19:18 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2973,6 +2973,7 @@ SUBDIR+=	yauap
 SUBDIR+=	yaws
 SUBDIR+=	yelp-xsl
 SUBDIR+=	yersinia
+SUBDIR+=	yi
 SUBDIR+=	ykclient
 SUBDIR+=	yp-tools
 SUBDIR+=	ypbind-mt
