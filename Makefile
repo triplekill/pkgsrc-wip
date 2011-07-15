@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4413 2011/07/12 16:19:18 phonohawk Exp $
+# $Id: Makefile,v 1.4414 2011/07/12 23:09:00 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -262,7 +262,7 @@ SUBDIR+=	canna-canuum
 SUBDIR+=	canna-dict
 SUBDIR+=	canna-lib
 SUBDIR+=	canna-server
-SUBDIR+=	cartago
+SUBDIR+=	cantarell-fonts
 SUBDIR+=	castget
 SUBDIR+=	cb2bib
 SUBDIR+=	cclive
