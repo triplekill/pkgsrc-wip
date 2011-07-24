@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4415 2011/07/15 03:58:33 ryo-on Exp $
+# $Id: Makefile,v 1.4416 2011/07/21 00:54:24 makoto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1341,10 +1341,6 @@ SUBDIR+=	lrslib
 SUBDIR+=	lsw
 SUBDIR+=	ltrace
 SUBDIR+=	lua-filesystem
-SUBDIR+=	lua-lrexlib
-SUBDIR+=	lua-lrexlib-onig
-SUBDIR+=	lua-lrexlib-pcre
-SUBDIR+=	lua-lrexlib-posix
 SUBDIR+=	lua-pgsql
 SUBDIR+=	luacheia
 SUBDIR+=	luaposix
