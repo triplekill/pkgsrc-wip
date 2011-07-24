@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4417 2011/07/24 09:51:27 cheusov Exp $
+# $Id: Makefile,v 1.4418 2011/07/24 10:05:42 alnsn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -998,7 +998,6 @@ SUBDIR+=	i3lock
 SUBDIR+=	iText
 SUBDIR+=	iTextXML
 SUBDIR+=	ibus-sogoupycc
-SUBDIR+=	icc11
 SUBDIR+=	icecast
 SUBDIR+=	icecat
 SUBDIR+=	ices
