@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4422 2011/07/27 05:46:00 phonohawk Exp $
+# $Id: Makefile,v 1.4423 2011/07/27 05:53:05 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1539,6 +1539,7 @@ SUBDIR+=	nemo
 SUBDIR+=	nestra
 SUBDIR+=	net-quanta
 SUBDIR+=	net-tools
+SUBDIR+=	netatalk22
 SUBDIR+=	netbsd-awk
 SUBDIR+=	netbsd-make
 SUBDIR+=	netclasses
