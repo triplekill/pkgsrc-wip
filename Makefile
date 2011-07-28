@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4424 2011/07/27 16:28:12 hfath Exp $
+# $Id: Makefile,v 1.4425 2011/07/28 09:56:42 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -886,6 +886,7 @@ SUBDIR+=	hs-executable-path
 SUBDIR+=	hs-explicit-exception
 SUBDIR+=	hs-explicit-iomodes
 SUBDIR+=	hs-fclabels
+SUBDIR+=	hs-filemanip
 SUBDIR+=	hs-fingertree
 SUBDIR+=	hs-ghc-mtl
 SUBDIR+=	hs-ghc-paths
