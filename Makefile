@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4423 2011/07/27 05:53:05 phonohawk Exp $
+# $Id: Makefile,v 1.4424 2011/07/27 16:28:12 hfath Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -825,7 +825,6 @@ SUBDIR+=	hplip3
 SUBDIR+=	hpoj
 SUBDIR+=	hs-ConfigFile
 SUBDIR+=	hs-Diff
-SUBDIR+=	hs-FileManip
 SUBDIR+=	hs-GLURaw
 SUBDIR+=	hs-GLUT
 SUBDIR+=	hs-HCL
