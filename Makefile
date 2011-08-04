@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4446 2011/08/04 11:51:30 hfath Exp $
+# $Id: Makefile,v 1.4447 2011/08/04 15:42:07 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1275,6 +1275,7 @@ SUBDIR+=	libpano12
 SUBDIR+=	libpar2
 SUBDIR+=	libparsifal
 SUBDIR+=	libpcap-latest
+SUBDIR+=	libpeas
 SUBDIR+=	libplist
 SUBDIR+=	libpthread-stubs
 SUBDIR+=	libpusb
