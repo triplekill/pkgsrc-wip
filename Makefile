@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4447 2011/08/04 15:42:07 ryo-on Exp $
+# $Id: Makefile,v 1.4448 2011/08/04 20:41:26 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -135,6 +135,7 @@ SUBDIR+=	apvlv
 SUBDIR+=	ar7
 SUBDIR+=	arabeyes-qr-ttf
 SUBDIR+=	arandr
+SUBDIR+=	aravis
 SUBDIR+=	arcem-current
 SUBDIR+=	archimedes
 SUBDIR+=	argouml
