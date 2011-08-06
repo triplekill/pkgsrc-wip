@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4449 2011/08/05 10:24:12 jihbed Exp $
+# $Id: Makefile,v 1.4450 2011/08/06 04:35:15 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1893,6 +1893,7 @@ SUBDIR+=	pear-channel-phpunit
 SUBDIR+=	pessulus
 SUBDIR+=	petsc
 SUBDIR+=	pfe
+SUBDIR+=	pgbuildfarm
 SUBDIR+=	pgp6
 SUBDIR+=	phlib
 SUBDIR+=	phonon
