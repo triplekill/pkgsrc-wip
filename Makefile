@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4454 2011/08/07 15:02:14 ryo-on Exp $
+# $Id: Makefile,v 1.4455 2011/08/09 13:18:10 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2066,7 +2066,6 @@ SUBDIR+=	py-calverter
 SUBDIR+=	py-captcha
 SUBDIR+=	py-cclib
 SUBDIR+=	py-ccuracy
-SUBDIR+=	py-cdb
 SUBDIR+=	py-cdecimal
 SUBDIR+=	py-chaco
 SUBDIR+=	py-chaintipy
