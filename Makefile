@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4461 2011/08/18 20:53:49 bubuchka Exp $
+# $Id: Makefile,v 1.4462 2011/08/22 12:38:00 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2452,6 +2452,7 @@ SUBDIR+=	r8s
 SUBDIR+=	rabbitmq
 SUBDIR+=	radare
 SUBDIR+=	radiotray
+SUBDIR+=	ranmacgen
 SUBDIR+=	rar4
 SUBDIR+=	rast
 SUBDIR+=	raster3d
