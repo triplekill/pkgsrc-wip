@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4463 2011/08/24 15:21:26 othyro Exp $
+# $Id: Makefile,v 1.4464 2011/09/04 03:16:23 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -578,7 +578,6 @@ SUBDIR+=	flvstreamer
 SUBDIR+=	flyback
 SUBDIR+=	fnord
 SUBDIR+=	fnteditfs
-SUBDIR+=	fntsample
 SUBDIR+=	fontedit
 SUBDIR+=	fonttosfnt
 SUBDIR+=	foo2zjs
