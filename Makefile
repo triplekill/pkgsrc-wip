@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4465 2011/09/13 10:30:32 thomasklausner Exp $
+# $Id: Makefile,v 1.4466 2011/09/13 10:49:59 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1855,6 +1855,7 @@ SUBDIR+=	p5-XML-RSS-LibXML
 SUBDIR+=	p5-XML-Writer-Simple
 SUBDIR+=	p5-mozldap
 SUBDIR+=	p5-qt3
+SUBDIR+=	p5-spf-policyd
 SUBDIR+=	packman
 SUBDIR+=	pagetools
 SUBDIR+=	pal
