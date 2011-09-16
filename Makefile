@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4466 2011/09/13 10:49:59 thomasklausner Exp $
+# $Id: Makefile,v 1.4467 2011/09/14 16:58:00 shindenmorr Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1312,7 +1312,6 @@ SUBDIR+=	libzn-poly
 SUBDIR+=	libzrtpcpp
 SUBDIR+=	lidia
 SUBDIR+=	linbox
-SUBDIR+=	lincity-ng
 SUBDIR+=	lingoteach-lesson
 SUBDIR+=	lingoteach-ui
 SUBDIR+=	links-hacked
