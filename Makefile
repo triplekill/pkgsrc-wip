@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4476 2011/09/23 15:29:06 ryo-on Exp $
+# $Id: Makefile,v 1.4477 2011/09/24 18:40:44 crocusino Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2017,6 +2017,7 @@ SUBDIR+=	pt-cyrillic-ttf
 SUBDIR+=	pts
 SUBDIR+=	ptunnel
 SUBDIR+=	pudb
+SUBDIR+=	pure
 SUBDIR+=	pxlib
 SUBDIR+=	pxview
 SUBDIR+=	py-Beaker
