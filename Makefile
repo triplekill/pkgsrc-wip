@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4478 2011/09/26 21:21:30 crocusino Exp $
+# $Id: Makefile,v 1.4479 2011/09/27 10:10:49 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -887,6 +887,7 @@ SUBDIR+=	hs-deepseq
 SUBDIR+=	hs-derive
 SUBDIR+=	hs-digest
 SUBDIR+=	hs-dlist
+SUBDIR+=	hs-double-conversion
 SUBDIR+=	hs-dyre
 SUBDIR+=	hs-entropy
 SUBDIR+=	hs-event-list
