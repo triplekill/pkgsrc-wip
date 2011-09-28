@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4480 2011/09/27 13:45:02 phonohawk Exp $
+# $Id: Makefile,v 1.4481 2011/09/27 15:21:00 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1128,6 +1128,7 @@ SUBDIR+=	joomla
 SUBDIR+=	jp2a
 SUBDIR+=	jpgtn
 SUBDIR+=	jpicedt
+SUBDIR+=	jruby
 SUBDIR+=	jsl
 SUBDIR+=	json-c
 SUBDIR+=	jumpnbump
