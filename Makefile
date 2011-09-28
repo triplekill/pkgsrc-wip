@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4481 2011/09/27 15:21:00 phonohawk Exp $
+# $Id: Makefile,v 1.4482 2011/09/28 12:11:59 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -76,6 +76,7 @@ SUBDIR+=	alberta
 SUBDIR+=	alex
 SUBDIR+=	algol68g
 SUBDIR+=	alive
+SUBDIR+=	allegro
 SUBDIR+=	alphamail
 SUBDIR+=	alsa-lib
 SUBDIR+=	alsa-plugins
