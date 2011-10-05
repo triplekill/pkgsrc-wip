@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4485 2011/10/01 19:29:47 shattered Exp $
+# $Id: Makefile,v 1.4486 2011/10/03 11:03:27 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -957,6 +957,7 @@ SUBDIR+=	hs-pcre-light
 SUBDIR+=	hs-pointedlist
 SUBDIR+=	hs-pointedlist03
 SUBDIR+=	hs-primitive
+SUBDIR+=	hs-punycode
 SUBDIR+=	hs-pureMD5
 SUBDIR+=	hs-readline
 SUBDIR+=	hs-regex-base
