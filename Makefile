@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4495 2011/10/11 08:59:14 jihbed Exp $
+# $Id: Makefile,v 1.4496 2011/10/11 12:48:55 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -318,7 +318,6 @@ SUBDIR+=	cmetrics
 SUBDIR+=	codeblocks
 SUBDIR+=	coldfire
 SUBDIR+=	collectd
-SUBDIR+=	color-theme
 SUBDIR+=	com_err
 SUBDIR+=	common-mml
 SUBDIR+=	commoncpp2
