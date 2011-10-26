@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4509 2011/10/20 14:12:52 ryo-on Exp $
+# $Id: Makefile,v 1.4510 2011/10/24 21:36:48 crocusino Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -967,6 +967,7 @@ SUBDIR+=	hs-storable-record
 SUBDIR+=	hs-storablevector
 SUBDIR+=	hs-stream-fusion
 SUBDIR+=	hs-strict
+SUBDIR+=	hs-stringsearch
 SUBDIR+=	hs-syb
 SUBDIR+=	hs-tagged
 SUBDIR+=	hs-tagsoup
