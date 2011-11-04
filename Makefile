@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4520 2011/11/03 06:08:22 ryo-on Exp $
+# $Id: Makefile,v 1.4521 2011/11/03 18:21:44 absd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2755,6 +2755,7 @@ SUBDIR+=	tkpng
 SUBDIR+=	tktable
 SUBDIR+=	tleenx2
 SUBDIR+=	tleenx3
+SUBDIR+=	tmuni-ttf
 SUBDIR+=	tmw
 SUBDIR+=	tnt
 SUBDIR+=	tome
