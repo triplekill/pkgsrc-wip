@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4521 2011/11/03 18:21:44 absd Exp $
+# $Id: Makefile,v 1.4522 2011/11/04 07:03:10 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2989,6 +2989,8 @@ SUBDIR+=	xspread
 SUBDIR+=	xtags
 SUBDIR+=	xtrace
 SUBDIR+=	xtraceroute
+SUBDIR+=	xtreemfs-client
+SUBDIR+=	xtreemfs-server
 SUBDIR+=	xtrlock
 SUBDIR+=	xulrunner
 SUBDIR+=	xvmware
