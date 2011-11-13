@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4526 2011/11/08 20:46:27 ryo-on Exp $
+# $Id: Makefile,v 1.4527 2011/11/12 04:58:31 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -71,6 +71,7 @@ SUBDIR+=	aida
 SUBDIR+=	aircrack-ng
 SUBDIR+=	airsnort
 SUBDIR+=	akonadi
+SUBDIR+=	alacconvert
 SUBDIR+=	alberta
 SUBDIR+=	alex
 SUBDIR+=	alive
@@ -1218,6 +1219,7 @@ SUBDIR+=	lhs2tex
 SUBDIR+=	libAppleWM
 SUBDIR+=	libGenome
 SUBDIR+=	libSoundTouch
+SUBDIR+=	libalac
 SUBDIR+=	libanimal
 SUBDIR+=	libargp
 SUBDIR+=	libassa
