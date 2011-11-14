@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4528 2011/11/13 11:12:23 ryo-on Exp $
+# $Id: Makefile,v 1.4529 2011/11/13 22:05:20 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -871,6 +871,7 @@ SUBDIR+=	hs-cereal
 SUBDIR+=	hs-chalkboard
 SUBDIR+=	hs-chalkboard-viewer
 SUBDIR+=	hs-chunks
+SUBDIR+=	hs-collections-api
 SUBDIR+=	hs-colorize-haskell
 SUBDIR+=	hs-containers-unicode-symbols
 SUBDIR+=	hs-convertible
