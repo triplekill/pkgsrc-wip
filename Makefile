@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4534 2011/11/18 02:38:04 jgoamakf Exp $
+# $Id: Makefile,v 1.4535 2011/11/18 13:25:26 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -576,6 +576,7 @@ SUBDIR+=	flimp
 SUBDIR+=	flimsel
 SUBDIR+=	flpsed
 SUBDIR+=	fltk13
+SUBDIR+=	fluxbox
 SUBDIR+=	fluxspace
 SUBDIR+=	flv2mpeg4
 SUBDIR+=	flvmeta
