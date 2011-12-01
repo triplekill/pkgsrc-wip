@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4547 2011/12/01 09:47:31 pettai Exp $
+# $Id: Makefile,v 1.4548 2011/12/01 09:52:03 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -861,6 +861,7 @@ SUBDIR+=	hs-bindings-EsounD
 SUBDIR+=	hs-bindings-audiofile
 SUBDIR+=	hs-bindings-librrd
 SUBDIR+=	hs-blaze-builder
+SUBDIR+=	hs-blaze-html
 SUBDIR+=	hs-blaze-textual
 SUBDIR+=	hs-bytestring-trie
 SUBDIR+=	hs-cabal-query
