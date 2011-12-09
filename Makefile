@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4560 2011/12/07 12:31:40 bubuchka Exp $
+# $Id: Makefile,v 1.4561 2011/12/07 20:49:28 tezdog Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2530,6 +2530,7 @@ SUBDIR+=	ruby-xmpp4r
 SUBDIR+=	runit
 SUBDIR+=	s3cmd
 SUBDIR+=	s3funnel
+SUBDIR+=	samba
 SUBDIR+=	samhain
 SUBDIR+=	sara
 SUBDIR+=	saxon
