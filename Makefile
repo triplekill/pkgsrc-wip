@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4565 2011/12/17 20:24:00 ishit Exp $
+# $Id: Makefile,v 1.4566 2011/12/18 21:47:29 dukzcry Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -886,6 +886,7 @@ SUBDIR+=	hs-data-accessor-template
 SUBDIR+=	hs-data-default
 SUBDIR+=	hs-dataenc
 SUBDIR+=	hs-deepseq
+SUBDIR+=	hs-dependent-sum
 SUBDIR+=	hs-derive
 SUBDIR+=	hs-digest
 SUBDIR+=	hs-dlist
