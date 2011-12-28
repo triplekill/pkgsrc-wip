@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4568 2011/12/27 15:44:08 jihbed Exp $
+# $Id: Makefile,v 1.4569 2011/12/28 06:58:01 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2198,6 +2198,7 @@ SUBDIR+=	py-kaa-metadata
 SUBDIR+=	py-kcs11
 SUBDIR+=	py-keyczar
 SUBDIR+=	py-keyring
+SUBDIR+=	py-kivy
 SUBDIR+=	py-knockknock
 SUBDIR+=	py-kyra
 SUBDIR+=	py-lapack
@@ -2261,6 +2262,7 @@ SUBDIR+=	py-parsing
 SUBDIR+=	py-pcapy
 SUBDIR+=	py-peak-rules
 SUBDIR+=	py-pebl
+SUBDIR+=	py-pep8
 SUBDIR+=	py-pip
 SUBDIR+=	py-piquant
 SUBDIR+=	py-plex
