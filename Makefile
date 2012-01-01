@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4574 2011/12/29 22:58:31 jihbed Exp $
+# $Id: Makefile,v 1.4575 2011/12/31 17:08:29 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -396,7 +396,6 @@ SUBDIR+=	deforaos-todo
 SUBDIR+=	depsolver
 SUBDIR+=	deskcribe
 SUBDIR+=	desktop-data-model
-SUBDIR+=	desktopcouch
 SUBDIR+=	desmume
 SUBDIR+=	despotify
 SUBDIR+=	detachtty
