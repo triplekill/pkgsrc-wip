@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4587 2012/01/06 11:37:02 jihbed Exp $
+# $Id: Makefile,v 1.4588 2012/01/07 21:04:39 bubuchka Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1504,6 +1504,7 @@ SUBDIR+=	mpg123-oss
 SUBDIR+=	mpg123-sun
 SUBDIR+=	mpgedit
 SUBDIR+=	mpi-ch
+SUBDIR+=	mpibzip2
 SUBDIR+=	mplayer
 SUBDIR+=	mplayer-mt
 SUBDIR+=	mplayer-share
