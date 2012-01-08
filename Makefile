@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4588 2012/01/07 21:04:39 bubuchka Exp $
+# $Id: Makefile,v 1.4589 2012/01/08 04:33:18 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -598,6 +598,7 @@ SUBDIR+=	fragrouter
 SUBDIR+=	freecell
 SUBDIR+=	freedict-tools-xsl
 SUBDIR+=	freedup
+SUBDIR+=	freedup16
 SUBDIR+=	freej
 SUBDIR+=	freevo
 SUBDIR+=	freevrrpd
