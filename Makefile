@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4589 2012/01/08 04:33:18 noud4 Exp $
+# $Id: Makefile,v 1.4590 2012/01/08 13:28:03 draga Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -456,7 +456,7 @@ SUBDIR+=	dvbsnoop
 SUBDIR+=	dvd2xvid
 SUBDIR+=	dwepcrack
 SUBDIR+=	dxmake
-SUBDIR+=	dzen
+SUBDIR+=	dzen2
 SUBDIR+=	e-uae
 SUBDIR+=	e00pg
 SUBDIR+=	e16keyedit
