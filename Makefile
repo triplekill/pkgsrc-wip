@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4599 2012/01/12 04:46:04 noud4 Exp $
+# $Id: Makefile,v 1.4600 2012/01/13 16:10:16 ishit Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1599,6 +1599,7 @@ SUBDIR+=	netkit-tftp
 SUBDIR+=	netlogo
 SUBDIR+=	netrik
 SUBDIR+=	netwib
+SUBDIR+=	netwmpager
 SUBDIR+=	netwox
 SUBDIR+=	netx
 SUBDIR+=	newlisp
