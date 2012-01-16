@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4603 2012/01/16 05:11:54 phonohawk Exp $
+# $Id: Makefile,v 1.4604 2012/01/16 05:50:59 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1276,6 +1276,9 @@ SUBDIR+=	libexecinfo
 SUBDIR+=	libexosip
 SUBDIR+=	libfplll
 SUBDIR+=	libgadu
+SUBDIR+=	libgda-bdb
+SUBDIR+=	libgda-ldap
+SUBDIR+=	libgda-odbc
 SUBDIR+=	libgeotiff
 SUBDIR+=	libghemical
 SUBDIR+=	libginac
