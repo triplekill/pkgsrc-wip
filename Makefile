@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4601 2012/01/14 14:35:11 thomasklausner Exp $
+# $Id: Makefile,v 1.4602 2012/01/16 01:02:42 dukzcry Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1008,6 +1008,7 @@ SUBDIR+=	hs-tfp
 SUBDIR+=	hs-time-http
 SUBDIR+=	hs-time-w3c
 SUBDIR+=	hs-transformers
+SUBDIR+=	hs-transformers-base
 SUBDIR+=	hs-uconv
 SUBDIR+=	hs-uniplate
 SUBDIR+=	hs-unix-compat
