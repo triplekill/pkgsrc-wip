@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4604 2012/01/16 05:50:59 phonohawk Exp $
+# $Id: Makefile,v 1.4605 2012/01/16 14:16:43 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1279,6 +1279,7 @@ SUBDIR+=	libgadu
 SUBDIR+=	libgda-bdb
 SUBDIR+=	libgda-ldap
 SUBDIR+=	libgda-odbc
+#SUBDIR+=	libgda-sqlite3	# PR pkg/45845
 SUBDIR+=	libgeotiff
 SUBDIR+=	libghemical
 SUBDIR+=	libginac
