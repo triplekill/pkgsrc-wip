@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4615 2012/01/23 10:21:05 mwdavies Exp $
+# $Id: Makefile,v 1.4616 2012/01/23 11:13:08 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2626,6 +2626,7 @@ SUBDIR+=	serlook
 SUBDIR+=	service
 SUBDIR+=	sflphoned
 SUBDIR+=	sgmltools-lite
+SUBDIR+=	shaarli
 SUBDIR+=	shadow
 SUBDIR+=	shaper
 SUBDIR+=	shared-desktop-ontologies
