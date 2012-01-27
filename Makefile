@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4624 2012/01/27 20:33:15 mwdavies Exp $
+# $Id: Makefile,v 1.4625 2012/01/27 21:33:31 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1201,6 +1201,9 @@ SUBDIR+=	kde-runtime4
 SUBDIR+=	kde-wallpapers4
 SUBDIR+=	kde-workspace4
 SUBDIR+=	kdegames4
+SUBDIR+=	kdegraphics-mobipocket
+SUBDIR+=	kdegraphics-strigi-analyzer
+SUBDIR+=	kdegraphics-thumbnailers
 SUBDIR+=	kdelibs4
 SUBDIR+=	kdemultimedia4
 SUBDIR+=	kdenetwork4
