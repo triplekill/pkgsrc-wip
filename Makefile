@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4628 2012/01/28 19:50:31 mwdavies Exp $
+# $Id: Makefile,v 1.4629 2012/01/29 22:16:45 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1112,7 +1112,6 @@ SUBDIR+=	ispell-dictionaries
 SUBDIR+=	ispell-lietuviu
 SUBDIR+=	itask-ng
 SUBDIR+=	itools
-SUBDIR+=	itstool
 SUBDIR+=	ja-freewnn-cvs
 SUBDIR+=	ja-freewnn-lib
 SUBDIR+=	ja-freewnn-server
@@ -2272,6 +2271,7 @@ SUBDIR+=	py-igraph
 SUBDIR+=	py-imgSeek
 SUBDIR+=	py-ipaddr
 SUBDIR+=	py-ipython
+SUBDIR+=	py-itstool
 SUBDIR+=	py-jabber-aimt
 SUBDIR+=	py-jabber-icqt
 SUBDIR+=	py-jabber-msnt
