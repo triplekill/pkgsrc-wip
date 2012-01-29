@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4627 2012/01/28 19:17:44 mwdavies Exp $
+# $Id: Makefile,v 1.4628 2012/01/28 19:50:31 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1112,6 +1112,7 @@ SUBDIR+=	ispell-dictionaries
 SUBDIR+=	ispell-lietuviu
 SUBDIR+=	itask-ng
 SUBDIR+=	itools
+SUBDIR+=	itstool
 SUBDIR+=	ja-freewnn-cvs
 SUBDIR+=	ja-freewnn-lib
 SUBDIR+=	ja-freewnn-server
