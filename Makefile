@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4630 2012/01/29 22:28:28 jihbed Exp $
+# $Id: Makefile,v 1.4631 2012/01/30 05:06:43 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2704,7 +2704,6 @@ SUBDIR+=	siptoolbox
 SUBDIR+=	sipwitch
 SUBDIR+=	sis
 SUBDIR+=	sjg-mk-files
-SUBDIR+=	ski
 SUBDIR+=	sks
 SUBDIR+=	slackpkg2pkgsrc
 SUBDIR+=	slashem
