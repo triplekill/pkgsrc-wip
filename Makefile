@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4643 2012/02/02 13:13:00 phonohawk Exp $
+# $Id: Makefile,v 1.4644 2012/02/02 23:56:44 mrampke Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3001,6 +3001,7 @@ SUBDIR+=	virtualbox
 SUBDIR+=	virtualjaguar
 SUBDIR+=	virus
 SUBDIR+=	vis
+SUBDIR+=	vista-fonts
 SUBDIR+=	vkeybd
 SUBDIR+=	vlc
 SUBDIR+=	vlevel
