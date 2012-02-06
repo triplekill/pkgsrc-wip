@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 #
 # $Id: import-package.sh,v 1.3 2008/03/28 02:51:46 tnn2 Exp $
 #
