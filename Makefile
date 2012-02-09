@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4645 2012/02/04 09:46:33 shattered Exp $
+# $Id: Makefile,v 1.4646 2012/02/09 09:08:53 slitvinov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2871,8 +2871,6 @@ SUBDIR+=	tex-arabxtex
 SUBDIR+=	tex-arabxtex-doc
 SUBDIR+=	tex-feynmf
 SUBDIR+=	tex-feynmf-doc
-SUBDIR+=	tex-texdoc
-SUBDIR+=	tex-texdoc-doc
 SUBDIR+=	texlive
 SUBDIR+=	texlive-bin
 SUBDIR+=	texlive-texmf-base
