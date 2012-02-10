@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4646 2012/02/09 09:08:53 slitvinov Exp $
+# $Id: Makefile,v 1.4647 2012/02/09 21:30:41 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3143,7 +3143,6 @@ SUBDIR+=	yafray
 SUBDIR+=	yajl
 SUBDIR+=	yakuake
 SUBDIR+=	yauap
-SUBDIR+=	yaws
 SUBDIR+=	yelp-tools
 SUBDIR+=	yelp-xsl
 SUBDIR+=	yersinia
