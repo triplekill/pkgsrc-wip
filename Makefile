@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4648 2012/02/10 14:33:01 bartoszkuzma Exp $
+# $Id: Makefile,v 1.4649 2012/02/11 05:35:30 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2274,7 +2274,6 @@ SUBDIR+=	py-igraph
 SUBDIR+=	py-imgSeek
 SUBDIR+=	py-ipaddr
 SUBDIR+=	py-ipython
-SUBDIR+=	py-itstool
 SUBDIR+=	py-jabber-aimt
 SUBDIR+=	py-jabber-icqt
 SUBDIR+=	py-jabber-msnt
