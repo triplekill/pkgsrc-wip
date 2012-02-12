@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4650 2012/02/12 08:22:31 jihbed Exp $
+# $Id: Makefile,v 1.4651 2012/02/12 18:56:20 absd Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2628,7 +2628,6 @@ SUBDIR+=	rrdtool
 SUBDIR+=	rsget
 SUBDIR+=	rss-glib
 SUBDIR+=	rst-mode
-SUBDIR+=	rsyslog
 SUBDIR+=	rsyslog5
 SUBDIR+=	rsyslog6
 SUBDIR+=	rte
