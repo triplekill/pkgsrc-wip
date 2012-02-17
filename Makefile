@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4653 2012/02/15 15:11:37 slitvinov Exp $
+# $Id: Makefile,v 1.4654 2012/02/16 15:31:13 christtrekker Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1841,7 +1841,6 @@ SUBDIR+=	p5-Exception-Base
 SUBDIR+=	p5-Exception-Class-TryCatch
 SUBDIR+=	p5-Exporter-Tidy
 SUBDIR+=	p5-File-Map
-SUBDIR+=	p5-File-ReadBackwards
 SUBDIR+=	p5-File-ShareDir-Install
 SUBDIR+=	p5-Frontier-RPC
 SUBDIR+=	p5-GPS-Garmin
@@ -1856,7 +1855,6 @@ SUBDIR+=	p5-HTML-WebMake
 SUBDIR+=	p5-HTML-Widget
 SUBDIR+=	p5-HTTP-BrowserDetect
 SUBDIR+=	p5-Hash-AsObject
-SUBDIR+=	p5-Hash-MultiValue
 SUBDIR+=	p5-IO-Lambda
 SUBDIR+=	p5-Image-EXIF
 SUBDIR+=	p5-Imager
