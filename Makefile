@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4664 2012/02/24 17:51:31 reinoudz70 Exp $
+# $Id: Makefile,v 1.4665 2012/03/02 20:44:28 outpaddling Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1027,6 +1027,7 @@ SUBDIR+=	hs-transformers-base
 SUBDIR+=	hs-uconv
 SUBDIR+=	hs-uniplate
 SUBDIR+=	hs-unix-compat
+SUBDIR+=	hs-unordered-containers
 SUBDIR+=	hs-utf8-string
 SUBDIR+=	hs-utility-ht
 SUBDIR+=	hs-vector
