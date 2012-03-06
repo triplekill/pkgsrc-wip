@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4669 2012/03/04 09:00:59 phonohawk Exp $
+# $Id: Makefile,v 1.4670 2012/03/04 22:29:27 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -347,8 +347,8 @@ SUBDIR+=	csoap
 SUBDIR+=	csmith
 SUBDIR+=	csp2b
 SUBDIR+=	cspchecker
-SUBDIR+=	css-mode
 SUBDIR+=	csstidy
+SUBDIR+=	csv-mode
 SUBDIR+=	cubature
 SUBDIR+=	cup
 SUBDIR+=	cvs-syncmail
