@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4673 2012/03/06 12:07:03 ftigeot Exp $
+# $Id: Makefile,v 1.4674 2012/03/07 15:07:30 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2432,7 +2432,6 @@ SUBDIR+=	py-pcapy
 SUBDIR+=	py-peak-rules
 SUBDIR+=	py-pebl
 SUBDIR+=	py-pep8
-SUBDIR+=	py-pip
 SUBDIR+=	py-piquant
 SUBDIR+=	py-plex
 SUBDIR+=	py-plink
