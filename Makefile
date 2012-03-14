@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4679 2012/03/11 08:40:51 phonohawk Exp $
+# $Id: Makefile,v 1.4680 2012/03/13 16:13:52 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1898,6 +1898,7 @@ SUBDIR+=	p5-Data-AMF
 SUBDIR+=	p5-Data-ObjectDriver
 SUBDIR+=	p5-Data-Properties
 SUBDIR+=	p5-Data-Random
+SUBDIR+=	p5-Data-Types
 SUBDIR+=	p5-Date-Range
 SUBDIR+=	p5-Devel-Profiler
 SUBDIR+=	p5-Email-AddressParser
