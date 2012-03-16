@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4682 2012/03/14 21:52:50 bubuchka Exp $
+# $Id: Makefile,v 1.4683 2012/03/16 17:32:16 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1449,7 +1449,6 @@ SUBDIR+=	libuuid
 SUBDIR+=	libvalhalla
 SUBDIR+=	libvc
 SUBDIR+=	libvg
-SUBDIR+=	libvisio
 SUBDIR+=	libwbxml2-patched
 SUBDIR+=	libxc
 SUBDIR+=	libxfce4gui
