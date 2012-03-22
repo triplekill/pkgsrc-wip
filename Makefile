@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4686 2012/03/17 11:42:35 bubuchka Exp $
+# $Id: Makefile,v 1.4687 2012/03/17 14:29:55 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1796,7 +1796,6 @@ SUBDIR+=	openttd-opengfx
 SUBDIR+=	openttd-openmsx
 SUBDIR+=	openttd-opensfx
 SUBDIR+=	openvrml
-SUBDIR+=	opera
 SUBDIR+=	oqtplayer
 SUBDIR+=	or1ksim
 SUBDIR+=	orion
