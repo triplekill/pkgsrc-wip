@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4687 2012/03/17 14:29:55 roelants Exp $
+# $Id: Makefile,v 1.4688 2012/03/22 09:30:10 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -135,6 +135,7 @@ SUBDIR+=	apachebench2
 SUBDIR+=	applewmproto
 SUBDIR+=	apstget
 SUBDIR+=	apvlv
+SUBDIR+=	armadillo
 SUBDIR+=	ar7
 SUBDIR+=	arabeyes-qr-ttf
 SUBDIR+=	arandr
