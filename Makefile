@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4691 2012/03/22 21:08:51 outpaddling Exp $
+# $Id: Makefile,v 1.4692 2012/03/22 21:18:20 outpaddling Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1626,6 +1626,7 @@ SUBDIR+=	mozldap
 SUBDIR+=	mozplugger
 SUBDIR+=	mp3chop
 SUBDIR+=	mp3gain
+SUBDIR+=	mpb
 SUBDIR+=	mpc-el
 SUBDIR+=	mpg123
 SUBDIR+=	mpg123-0.65
