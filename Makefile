@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4710 2012/04/04 10:24:07 mwdavies Exp $
+# $Id: Makefile,v 1.4711 2012/04/04 10:33:08 mwdavies Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -328,7 +328,6 @@ SUBDIR+=	cloc
 SUBDIR+=	clockspeed
 SUBDIR+=	clojure
 SUBDIR+=	clojure-contrib
-SUBDIR+=	cloog
 SUBDIR+=	clustalx
 SUBDIR+=	clustershell
 SUBDIR+=	cm-unicode-ttf
