@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4715 2012/04/08 21:24:36 thomasklausner Exp $
+# $Id: Makefile,v 1.4716 2012/04/08 22:01:37 bubuchka Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1719,6 +1719,7 @@ SUBDIR+=	openlogos
 SUBDIR+=	openmpi
 SUBDIR+=	openscep
 SUBDIR+=	opensips
+SUBDIR+=	opensmtpd
 SUBDIR+=	opentracker-current
 SUBDIR+=	openttd-opengfx
 SUBDIR+=	openttd-openmsx
