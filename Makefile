@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4718 2012/04/13 23:59:10 obache Exp $
+# $Id: Makefile,v 1.4719 2012/04/14 00:00:46 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -68,7 +68,6 @@ SUBDIR+=	afflib
 SUBDIR+=	aida
 SUBDIR+=	aircrack-ng
 SUBDIR+=	airsnort
-SUBDIR+=	akonadi
 SUBDIR+=	alac_decoder
 SUBDIR+=	alberta
 SUBDIR+=	alex
@@ -2586,9 +2585,7 @@ SUBDIR+=	r8s
 SUBDIR+=	radare
 SUBDIR+=	radiotray
 SUBDIR+=	ranmacgen
-SUBDIR+=	raptor2
 SUBDIR+=	rar4
-SUBDIR+=	rasqal
 SUBDIR+=	rast
 SUBDIR+=	raster3d
 SUBDIR+=	ratpoints
@@ -2604,7 +2601,6 @@ SUBDIR+=	realvnc
 SUBDIR+=	recutils
 SUBDIR+=	redfang
 SUBDIR+=	redis
-SUBDIR+=	redland
 SUBDIR+=	reduze
 SUBDIR+=	regexxer
 SUBDIR+=	reinteract
@@ -2754,7 +2750,6 @@ SUBDIR+=	socnetv
 SUBDIR+=	sofia-sip
 SUBDIR+=	softflowd
 SUBDIR+=	songwrite
-SUBDIR+=	soprano
 SUBDIR+=	soqt
 SUBDIR+=	spade
 SUBDIR+=	spai
