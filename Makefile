@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4724 2012/04/18 11:55:44 bubuchka Exp $
+# $Id: Makefile,v 1.4725 2012/04/20 14:54:09 roelants Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1282,6 +1282,7 @@ SUBDIR+=	libavc1394
 SUBDIR+=	libbrahe
 SUBDIR+=	libbtctl
 SUBDIR+=	libburn
+SUBDIR+=	libcdr
 SUBDIR+=	libcli
 SUBDIR+=	libcm
 SUBDIR+=	libcmt
