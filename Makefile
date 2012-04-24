@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4727 2012/04/22 19:03:31 cmfuhrman Exp $
+# $Id: Makefile,v 1.4728 2012/04/24 15:55:33 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1282,7 +1282,6 @@ SUBDIR+=	libavc1394
 SUBDIR+=	libbrahe
 SUBDIR+=	libbtctl
 SUBDIR+=	libburn
-SUBDIR+=	libcdr
 SUBDIR+=	libcli
 SUBDIR+=	libcm
 SUBDIR+=	libcmt
@@ -1357,6 +1356,7 @@ SUBDIR+=	libpthread-stubs
 SUBDIR+=	libpusb
 SUBDIR+=	libraw1394
 SUBDIR+=	libreoffice
+SUBDIR+=	libreoffice-devel
 SUBDIR+=	libscscp
 SUBDIR+=	libsidplay2
 SUBDIR+=	libslab
