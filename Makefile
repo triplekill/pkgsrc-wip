@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4732 2012/05/02 08:46:59 noud4 Exp $
+# $Id: Makefile,v 1.4733 2012/05/03 22:40:38 bubuchka Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -28,6 +28,7 @@ SUBDIR+=	R-biganalytics
 SUBDIR+=	R-bigmemory
 SUBDIR+=	R-bigtabulate
 SUBDIR+=	R-digest
+SUBDIR+=	R-doParallel
 SUBDIR+=	R-entropy
 SUBDIR+=	R-foreach
 SUBDIR+=	R-gsl
