@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4735 2012/05/04 11:10:10 ryo-on Exp $
+# $Id: Makefile,v 1.4736 2012/05/04 11:57:52 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -460,7 +460,6 @@ SUBDIR+=	docbook-xsl-ko
 SUBDIR+=	docbook2X
 SUBDIR+=	dolfin
 SUBDIR+=	doorman
-SUBDIR+=	dos2unix
 SUBDIR+=	dotconf
 SUBDIR+=	dotproject
 SUBDIR+=	dovecot-antispam
