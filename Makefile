@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4742 2012/05/07 11:53:06 thomasklausner Exp $
+# $Id: Makefile,v 1.4743 2012/05/08 16:55:07 minskim Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -453,7 +453,6 @@ SUBDIR+=	dmt-ux
 SUBDIR+=	dmxproto
 SUBDIR+=	dnrd
 SUBDIR+=	dns2tcp
-SUBDIR+=	dnscheck-engine
 SUBDIR+=	dnswalk
 SUBDIR+=	docbook-xsl-ko
 SUBDIR+=	docbook2X
