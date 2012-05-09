@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4743 2012/05/08 16:55:07 minskim Exp $
+# $Id: Makefile,v 1.4744 2012/05/08 21:49:02 pettai Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1756,6 +1756,7 @@ SUBDIR+=	p5-Arch
 SUBDIR+=	p5-Astro-SpaceTrack
 SUBDIR+=	p5-AxKit
 SUBDIR+=	p5-B-Deobfuscate
+SUBDIR+=	p5-BSD-arc4random
 SUBDIR+=	p5-Bit-Vector-Minimal
 SUBDIR+=	p5-CGI-Application-Dispatch
 SUBDIR+=	p5-CGI-Application-Plugin-AutoRunmode
