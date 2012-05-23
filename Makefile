@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4756 2012/05/16 07:06:04 triaxx Exp $
+# $Id: Makefile,v 1.4757 2012/05/19 16:28:57 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3044,6 +3044,7 @@ SUBDIR+=	vm-pop3d
 SUBDIR+=	vmsbackup
 SUBDIR+=	vncselector
 SUBDIR+=	vpnc-script
+SUBDIR+=	vpnc-svn
 SUBDIR+=	vpr
 SUBDIR+=	vreng
 SUBDIR+=	wang-ttf
