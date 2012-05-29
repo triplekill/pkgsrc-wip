@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4759 2012/05/24 06:11:48 thomasklausner Exp $
+# $Id: Makefile,v 1.4760 2012/05/24 06:24:00 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -151,7 +151,6 @@ SUBDIR+=	arla-3.99.14
 SUBDIR+=	armadillo
 SUBDIR+=	armagetronad
 SUBDIR+=	arora
-SUBDIR+=	arpack
 SUBDIR+=	arpdig
 SUBDIR+=	arphic-ukai-ttf
 SUBDIR+=	arphic-uming-ttf
