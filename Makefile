@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4764 2012/05/30 11:18:49 thomasklausner Exp $
+# $Id: Makefile,v 1.4765 2012/05/30 11:44:01 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2346,7 +2346,6 @@ SUBDIR+=	py-knockknock
 SUBDIR+=	py-kyra
 SUBDIR+=	py-lapack
 SUBDIR+=	py-larry
-SUBDIR+=	py-last
 SUBDIR+=	py-lazr.uri
 SUBDIR+=	py-lib
 SUBDIR+=	py-libmc
