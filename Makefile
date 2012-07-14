@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4778 2012/07/12 14:06:37 khorben Exp $
+# $Id: Makefile,v 1.4779 2012/07/13 03:17:27 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2163,6 +2163,7 @@ SUBDIR+=	py-Climate
 SUBDIR+=	py-DNS
 SUBDIR+=	py-DirectoryStorage
 SUBDIR+=	py-EditObj2
+SUBDIR+=	py-EmPy
 SUBDIR+=	py-Fnorb
 SUBDIR+=	py-Fnorb-docs
 SUBDIR+=	py-Genetic
