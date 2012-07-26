@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4785 2012/07/20 08:37:32 phonohawk Exp $
+# $Id: Makefile,v 1.4786 2012/07/21 19:08:43 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1297,6 +1297,7 @@ SUBDIR+=	libbtctl
 SUBDIR+=	libburn
 SUBDIR+=	libcli
 SUBDIR+=	libcm
+SUBDIR+=	libcmis
 SUBDIR+=	libcmt
 SUBDIR+=	libcpu
 SUBDIR+=	libctl
