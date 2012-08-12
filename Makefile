@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4792 2012/08/12 10:10:05 thomasklausner Exp $
+# $Id: Makefile,v 1.4793 2012/08/12 16:29:17 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2647,6 +2647,7 @@ SUBDIR+=	qvamps
 SUBDIR+=	r8s
 SUBDIR+=	rabbitmq-c
 SUBDIR+=	radare
+SUBDIR+=	radicale
 SUBDIR+=	radiotray
 SUBDIR+=	ranmacgen
 SUBDIR+=	rar4
@@ -3327,3 +3328,4 @@ limited_list: .PHONY
 .else
 .include "../mk/bsd.pkg.subdir.mk"
 .endif
+
