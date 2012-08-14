@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4794 2012/08/12 17:38:42 trontor Exp $
+# $Id: Makefile,v 1.4795 2012/08/12 19:21:44 trontor Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1433,6 +1433,7 @@ SUBDIR+=	lirc
 SUBDIR+=	lire
 SUBDIR+=	lissac
 SUBDIR+=	lives
+SUBDIR+=	llvm
 SUBDIR+=	lmdbg-current
 SUBDIR+=	lmfit
 SUBDIR+=	lmtp2nntp
