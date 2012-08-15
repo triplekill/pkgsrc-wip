@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4796 2012/08/14 13:59:51 asau Exp $
+# $Id: Makefile,v 1.4797 2012/08/14 17:46:21 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2851,6 +2851,7 @@ SUBDIR+=	stfl
 SUBDIR+=	stksolver
 SUBDIR+=	stmpclean
 SUBDIR+=	stonx
+SUBDIR+=	stud
 SUBDIR+=	stumpwm
 SUBDIR+=	stunnel3
 SUBDIR+=	subversion17-base
