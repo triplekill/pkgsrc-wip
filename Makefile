@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4797 2012/08/14 17:46:21 asau Exp $
+# $Id: Makefile,v 1.4798 2012/08/15 11:12:10 fhajny Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2305,6 +2305,7 @@ SUBDIR+=	py-gaphas
 SUBDIR+=	py-gcalendarsync
 SUBDIR+=	py-gccxml
 SUBDIR+=	py-generateDS
+SUBDIR+=	py-genesis
 SUBDIR+=	py-gettext-tools
 SUBDIR+=	py-gevent
 SUBDIR+=	py-ghalatawi
