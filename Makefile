@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4802 2012/08/20 11:22:19 thomasklausner Exp $
+# $Id: Makefile,v 1.4803 2012/08/23 21:29:39 jihbed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3143,6 +3143,7 @@ SUBDIR+=	x264-devel
 SUBDIR+=	xace
 SUBDIR+=	xar
 SUBDIR+=	xaralx-bin
+SUBDIR+=	xautomation
 SUBDIR+=	xbase
 SUBDIR+=	xbelmark
 SUBDIR+=	xbmc
