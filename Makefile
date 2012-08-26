@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4803 2012/08/23 21:29:39 jihbed Exp $
+# $Id: Makefile,v 1.4804 2012/08/24 12:24:27 slitvinov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2922,7 +2922,6 @@ SUBDIR+=	tcc
 SUBDIR+=	tcc-devel
 SUBDIR+=	tcl-curl
 SUBDIR+=	tcl-expect
-SUBDIR+=	tcl-tDOM
 SUBDIR+=	tcl-tclOO
 SUBDIR+=	tcl85
 SUBDIR+=	tcl86
