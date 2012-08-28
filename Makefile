@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4811 2012/08/27 08:20:24 kristerw Exp $
+# $Id: Makefile,v 1.4812 2012/08/28 11:41:21 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -34,6 +34,7 @@ SUBDIR+=	R-digest
 SUBDIR+=	R-doParallel
 SUBDIR+=	R-entropy
 SUBDIR+=	R-foreach
+SUBDIR+=	R-gmp
 SUBDIR+=	R-graph
 SUBDIR+=	R-gsl
 SUBDIR+=	R-iterators
