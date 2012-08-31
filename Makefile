@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4815 2012/08/28 19:50:15 kristerw Exp $
+# $Id: Makefile,v 1.4816 2012/08/30 18:53:08 bubuchka Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -852,8 +852,6 @@ SUBDIR+=	habak
 SUBDIR+=	haddock
 SUBDIR+=	hanazono-ttf
 SUBDIR+=	happy
-SUBDIR+=	haproxy
-SUBDIR+=	haproxy14
 SUBDIR+=	harminv
 SUBDIR+=	hasciicam
 SUBDIR+=	haserl
