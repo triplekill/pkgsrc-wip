@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4817 2012/08/31 13:40:28 shindenmorr Exp $
+# $Id: Makefile,v 1.4818 2012/09/03 05:59:48 moubctez Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3249,6 +3249,7 @@ SUBDIR+=	xmms2
 SUBDIR+=	xmonad
 SUBDIR+=	xmonad-contrib
 SUBDIR+=	xmoto
+SUBDIR+=	xombrero
 SUBDIR+=	xoo
 SUBDIR+=	xpde
 SUBDIR+=	xpdq
