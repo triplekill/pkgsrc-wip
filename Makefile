@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4855 2012/09/09 20:27:54 othyro Exp $
+# $Id: Makefile,v 1.4856 2012/09/09 20:37:14 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -396,6 +396,7 @@ SUBDIR+=	dates
 SUBDIR+=	db1
 SUBDIR+=	dbf
 SUBDIR+=	dbus-explorer
+SUBDIR+=	dbus-sharp
 SUBDIR+=	ddate
 SUBDIR+=	deadbeef
 SUBDIR+=	debian_base
