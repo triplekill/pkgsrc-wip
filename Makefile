@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4861 2012/09/13 01:47:58 outpaddling Exp $
+# $Id: Makefile,v 1.4862 2012/09/13 13:28:44 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1338,7 +1338,6 @@ SUBDIR+=	leo
 SUBDIR+=	leveldb
 SUBDIR+=	lhapdf
 SUBDIR+=	lhs2tex
-SUBDIR+=	libAppleWM
 SUBDIR+=	libGenome
 SUBDIR+=	libSoundTouch
 SUBDIR+=	libalkimia
