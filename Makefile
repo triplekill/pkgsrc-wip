@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4858 2012/09/10 23:53:25 othyro Exp $
+# $Id: Makefile,v 1.4859 2012/09/12 12:44:57 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2179,6 +2179,7 @@ SUBDIR+=	pkgin
 SUBDIR+=	pkgmanager
 SUBDIR+=	plasti
 SUBDIR+=	plconfig
+SUBDIR+=	plink
 SUBDIR+=	plod
 SUBDIR+=	plplot
 SUBDIR+=	plugger
