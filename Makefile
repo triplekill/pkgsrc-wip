@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4862 2012/09/13 13:28:44 thomasklausner Exp $
+# $Id: Makefile,v 1.4863 2012/09/13 13:41:49 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2381,7 +2381,6 @@ SUBDIR+=	py-gist
 SUBDIR+=	py-git
 SUBDIR+=	py-gitdb
 SUBDIR+=	py-gnm
-SUBDIR+=	py-gnucash
 SUBDIR+=	py-gpaw
 SUBDIR+=	py-graphite-web
 SUBDIR+=	py-graphmin
