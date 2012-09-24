@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6 2008/09/06 20:54:43 thomasklausner Exp $
+# $Id: Makefile,v 1.7 2010/01/17 12:03:23 thomasklausner Exp $
 # $NetBSD$
 
 DISTNAME=	mod_auth_imap2-2.2.0
@@ -10,6 +10,8 @@ MASTER_SITES=	http://ben.brillat.net/files/projects/mod_auth_imap2/
 MAINTAINER=	cg@cgall.de
 HOMEPAGE=	http://ben.brillat.net/projects/mod_auth_imap/
 COMMENT=	Module to allow apache2 authentication against an IMAP server
+
+PKG_DESTDIR_SUPPORT=	none
 
 APACHE_MODULE=		YES
 APACHE_MODULE_NAME=	auth_imap_module
