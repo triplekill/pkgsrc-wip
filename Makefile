@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4873 2012/09/21 17:46:38 kristerw Exp $
+# $Id: Makefile,v 1.4874 2012/09/22 16:55:40 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -182,6 +182,7 @@ SUBDIR+=	auto-complete-mode
 SUBDIR+=	autocutsel
 SUBDIR+=	autoproject
 SUBDIR+=	autopsy
+SUBDIR+=	autoq3d
 SUBDIR+=	autossh
 SUBDIR+=	avida2
 SUBDIR+=	avifile-devel
