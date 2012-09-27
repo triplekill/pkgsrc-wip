@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4876 2012/09/27 12:21:37 mwdavies Exp $
+# $Id: Makefile,v 1.4877 2012/09/27 12:24:34 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2745,6 +2745,7 @@ SUBDIR+=	qn-x11
 SUBDIR+=	qrint
 SUBDIR+=	qrq
 SUBDIR+=	qtcreator
+SUBDIR+=	qtnotifydaemon
 SUBDIR+=	qtre
 SUBDIR+=	quantlib
 SUBDIR+=	qucs
