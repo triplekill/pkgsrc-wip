@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4879 2012/09/28 00:03:30 mwilhelmy Exp $
+# $Id: Makefile,v 1.4880 2012/09/28 03:21:08 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3022,6 +3022,7 @@ SUBDIR+=	tagtool
 SUBDIR+=	talksoup
 SUBDIR+=	talloc
 SUBDIR+=	tamago-anthy
+SUBDIR+=	tap-plugins
 SUBDIR+=	tardy
 SUBDIR+=	task
 SUBDIR+=	taskcoach
