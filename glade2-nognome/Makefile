@@ -1,5 +1,5 @@
 # $NetBSD: Makefile,v 1.28 2004/03/26 02:27:37 wiz Exp $
-# $Id: Makefile,v 1.12 2009/07/22 09:53:12 thomasklausner Exp $
+# $Id: Makefile,v 1.13 2010/06/13 22:47:05 thomasklausner Exp $
 #
 
 DISTNAME=		glade-2.0.1
@@ -14,6 +14,8 @@ HOMEPAGE=		http://glade.gnome.org/
 COMMENT=		User interface builder for the GTK2+ toolkit and GNOME2
 
 CONFLICTS+=		glade-*
+
+PKG_DESTDIR_SUPPORT=	none
 
 GNU_CONFIGURE=		YES
 USE_PKGLOCALEDIR=	YES
