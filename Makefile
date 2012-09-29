@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4883 2012/09/28 18:51:50 othyro Exp $
+# $Id: Makefile,v 1.4884 2012/09/29 02:14:29 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3034,6 +3034,7 @@ SUBDIR+=	tcc
 SUBDIR+=	tcc-devel
 SUBDIR+=	tcl-curl
 SUBDIR+=	tcl-expect
+SUBDIR+=	tcl-iwidgets
 SUBDIR+=	tcl-tclOO
 SUBDIR+=	tcl85
 SUBDIR+=	tcl85-itcl
