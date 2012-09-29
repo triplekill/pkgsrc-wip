@@ -16,8 +16,10 @@ ONLY_FOR_PLATFORM+=	Linux-*-* # Need to check swprintf on other OSs
 
 WRKSRC=		${WRKDIR}/makesis-2.0.0
 
+INSTALLATION_DIRS=	bin
+
 do-install:
-	${INSTALL_PROGRAM} ${WRKSRC}/src/makesis ${PREFIX}/bin/
+	${INSTALL_PROGRAM} ${WRKSRC}/src/makesis ${DESTDIR}${PREFIX}/bin/
 
 .include "../../devel/zlib/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
