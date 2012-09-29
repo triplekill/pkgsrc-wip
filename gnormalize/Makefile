@@ -17,7 +17,9 @@ USE_TOOLS+=	perl
 NO_BUILD=	YES
 REPLACE_PERL=${WRKSRC}/gnormalize
 
+INSTALLATION_DIRS=	bin
+
 do-install:
-	${INSTALL_SCRIPT} ${WRKSRC}/gnormalize ${PREFIX}/bin
+	${INSTALL_SCRIPT} ${WRKSRC}/gnormalize ${DESTDIR}${PREFIX}/bin
 
 .include "../../mk/bsd.pkg.mk"
