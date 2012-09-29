@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4885 2012/09/29 03:00:50 othyro Exp $
+# $Id: Makefile,v 1.4886 2012/09/29 19:06:37 mwilhelmy Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1596,7 +1596,6 @@ SUBDIR+=	microblog-purple
 SUBDIR+=	microcom
 SUBDIR+=	microtetris
 SUBDIR+=	mid2gmc
-SUBDIR+=	mikutter-snapshot
 SUBDIR+=	milter-greylist-devel
 SUBDIR+=	mime-support
 SUBDIR+=	mimedefang
