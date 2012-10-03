@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4890 2012/10/02 19:53:10 othyro Exp $
+# $Id: Makefile,v 1.4891 2012/10/02 21:49:23 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -14,6 +14,7 @@ SUBDIR+=	GSCommander
 SUBDIR+=	GoogleEarth
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
+SUBDIR+=	labelnation
 SUBDIR+=	Mesa
 SUBDIR+=	MesaLib
 SUBDIR+=	MoleInvasion
