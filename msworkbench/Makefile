@@ -19,11 +19,13 @@ SUBST_FILES.wishpath=	install.sh
 SUBST_SED.qtbindir=	's:$${PREFIX}:${PREFIX}:g'
 SUBST_MESSAGE.wishpath= Fixing Wish path
 
+INSTALLATION_DIRS=	bin
+
 do-install:
-	${INSTALL_DATA_DIR} ${PREFIX}/bin/${DISTNAME}
-	cd ${WRKSRC};${SH} ./install.sh ${PREFIX}/bin/${DISTNAME} ${PREFIX}/bin
-	${INSTALL_DATA_DIR} ${PREFIX}/share/examples/${DISTNAME}
-	${INSTALL_DATA} ${WRKSRC}/test/*.* ${PREFIX}/share/examples/${DISTNAME}
+	${INSTALL_DATA_DIR} ${DESTDIR}${PREFIX}/bin/${DISTNAME}
+	cd ${WRKSRC};${SH} ./install.sh ${PREFIX}/bin/${DISTNAME} ${DESTDIR}${PREFIX}/bin
+	${INSTALL_DATA_DIR} ${DESTDIR}${PREFIX}/share/examples/${DISTNAME}
+	${INSTALL_DATA} ${WRKSRC}/test/*.* ${DESTDIR}${PREFIX}/share/examples/${DISTNAME}
 
 .include "../../lang/tcl/buildlink3.mk"
 .include "../../x11/tk/buildlink3.mk"

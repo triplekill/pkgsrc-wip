@@ -30,10 +30,12 @@ MAKE_FILE=		Makefile.nol
 # BUILD_DEPENDS+=		nasm>=0.0:../../devel/nasm
 # .endif
 
+INSTALLATION_DIRS=	bin
+
 do-install:
-	${INSTALL_PROGRAM} ${WRKSRC}/mppdec ${PREFIX}/bin/mppdec
-	${INSTALL_DATA_DIR} ${PREFIX}/share/doc/mppdec
-	${INSTALL_DATA} ${WRKSRC}/MANUAL.TXT ${PREFIX}/share/doc/mppdec
+	${INSTALL_PROGRAM} ${WRKSRC}/mppdec ${DESTDIR}${PREFIX}/bin/mppdec
+	${INSTALL_DATA_DIR} ${DESTDIR}${PREFIX}/share/doc/mppdec
+	${INSTALL_DATA} ${WRKSRC}/MANUAL.TXT ${DESTDIR}${PREFIX}/share/doc/mppdec
 
 .include "../../mk/oss.buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
