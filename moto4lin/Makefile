@@ -14,11 +14,13 @@ COMMENT=		Filemanager and seem editor for Motorola P2k phones
 USE_LANGUAGES=		c++
 USE_TOOLS+=		gmake
 
+INSTALLATION_DIRS=	bin
+
 pre-build:
 	cd ${WRKSRC} && ${QTDIR}/bin/qmake
 
 do-install:
-	${INSTALL_PROGRAM} ${WRKSRC}/moto_ui/moto4lin ${PREFIX}/bin
+	${INSTALL_PROGRAM} ${WRKSRC}/moto_ui/moto4lin ${DESTDIR}${PREFIX}/bin
 
 .include "../../devel/libusb/buildlink3.mk"
 .include "../../wip/p2kmoto/buildlink3.mk"
