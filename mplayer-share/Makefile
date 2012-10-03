@@ -23,16 +23,16 @@ post-extract:
 	${FIND} ${WRKDIR} -type d -name CVS | ${XARGS} ${RM} -rf
 
 do-install:
-	${INSTALL_MAN} ${WRKSRC}/DOCS/man/en/mplayer.1 ${PREFIX}/${PKGMANDIR}/man1
-	${INSTALL_DATA_DIR} ${PREFIX}/share/mplayer
-	${INSTALL_DATA_DIR} ${PREFIX}/share/mplayer/DOCS
-	${INSTALL_DATA} ${WRKSRC}/etc/codecs.conf ${PREFIX}/share/mplayer
-	${INSTALL_DATA} ${WRKSRC}/etc/input.conf ${PREFIX}/share/mplayer
+	${INSTALL_MAN} ${WRKSRC}/DOCS/man/en/mplayer.1 ${DESTDIR}${PREFIX}/${PKGMANDIR}/man1
+	${INSTALL_DATA_DIR} ${DESTDIR}${PREFIX}/share/mplayer
+	${INSTALL_DATA_DIR} ${DESTDIR}${PREFIX}/share/mplayer/DOCS
+	${INSTALL_DATA} ${WRKSRC}/etc/codecs.conf ${DESTDIR}${PREFIX}/share/mplayer
+	${INSTALL_DATA} ${WRKSRC}/etc/input.conf ${DESTDIR}${PREFIX}/share/mplayer
 	(cd ${WRKSRC}/DOCS && \
-		pax -rwpppm * ${PREFIX}/share/mplayer/DOCS); \
-	${FIND} ${PREFIX}/share/mplayer/DOCS -type d -exec ${CHMOD} \
-     		${PKGDIRMODE} \{\} \;
-	${FIND} ${PREFIX}/share/mplayer/DOCS -type f -exec ${CHMOD} \
-  		${SHAREMODE} \{\} \;
+		pax -rwpppm * ${DESTDIR}${PREFIX}/share/mplayer/DOCS); \
+	${FIND} ${DESTDIR}${PREFIX}/share/mplayer/DOCS -type d -exec ${CHMOD} \
+		${PKGDIRMODE} \{\} \;
+	${FIND} ${DESTDIR}${PREFIX}/share/mplayer/DOCS -type f -exec ${CHMOD} \
+		${SHAREMODE} \{\} \;
 
 .include "../../mk/bsd.pkg.mk"

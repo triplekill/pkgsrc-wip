@@ -22,12 +22,12 @@ do-build:
 		all
 
 do-install:
-	${INSTALL_DATA_DIR} ${EMACS_LISPPREFIX}/mpc
-	${INSTALL_DATA} ${WRKSRC}/*.el  ${EMACS_LISPPREFIX}/mpc
-	${INSTALL_DATA} ${WRKSRC}/*.elc ${EMACS_LISPPREFIX}/mpc
+	${INSTALL_DATA_DIR} ${DESTDIR}${EMACS_LISPPREFIX}/mpc
+	${INSTALL_DATA} ${WRKSRC}/*.el  ${DESTDIR}${EMACS_LISPPREFIX}/mpc
+	${INSTALL_DATA} ${WRKSRC}/*.elc ${DESTDIR}${EMACS_LISPPREFIX}/mpc
 
-	${INSTALL_DATA_DIR} ${EMACS_LISPPREFIX}/mpc/images/mpc
-	${INSTALL_DATA} ${WRKSRC}/images/mpc/*.xpm ${EMACS_LISPPREFIX}/mpc/images/mpc
+	${INSTALL_DATA_DIR} ${DESTDIR}${EMACS_LISPPREFIX}/mpc/images/mpc
+	${INSTALL_DATA} ${WRKSRC}/images/mpc/*.xpm ${DESTDIR}${EMACS_LISPPREFIX}/mpc/images/mpc
 
 .include "../../editors/emacs/modules.mk"
 .include "../../mk/bsd.pkg.mk"
