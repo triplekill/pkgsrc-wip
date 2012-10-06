@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4902 2012/10/05 09:58:48 khorben Exp $
+# $Id: Makefile,v 1.4903 2012/10/05 11:36:00 asau Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -181,7 +181,6 @@ SUBDIR+=	audiere
 SUBDIR+=	audio-mml
 SUBDIR+=	audit-system
 SUBDIR+=	auto-complete-mode
-SUBDIR+=	autocutsel
 SUBDIR+=	autoproject
 SUBDIR+=	autopsy
 SUBDIR+=	autoq3d
