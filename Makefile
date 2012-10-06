@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4903 2012/10/05 11:36:00 asau Exp $
+# $Id: Makefile,v 1.4904 2012/10/06 06:01:59 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -850,7 +850,6 @@ SUBDIR+=	guile2
 SUBDIR+=	guilerxspencer
 SUBDIR+=	guitone
 SUBDIR+=	gune
-SUBDIR+=	gupnp-dlna
 SUBDIR+=	gupnp-ui
 SUBDIR+=	gupnp-vala
 SUBDIR+=	gurlchecker
