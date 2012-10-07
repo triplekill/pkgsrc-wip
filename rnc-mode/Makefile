@@ -21,9 +21,9 @@ do-build:
 	&& ${EMACS_BIN} -batch -f batch-byte-compile rnc-mode.el
 
 do-install:
-	${INSTALL_DATA_DIR} ${EMACS_LISPPREFIX}
-	${INSTALL_DATA} ${WRKSRC}/*.el  ${EMACS_LISPPREFIX}
-	${INSTALL_DATA} ${WRKSRC}/*.elc ${EMACS_LISPPREFIX}
+	${INSTALL_DATA_DIR} ${DESTDIR}${EMACS_LISPPREFIX}
+	${INSTALL_DATA} ${WRKSRC}/*.el  ${DESTDIR}${EMACS_LISPPREFIX}
+	${INSTALL_DATA} ${WRKSRC}/*.elc ${DESTDIR}${EMACS_LISPPREFIX}
 
 .include "../../editors/emacs/modules.mk"
 .include "../../mk/bsd.pkg.mk"
