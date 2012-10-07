@@ -29,11 +29,11 @@ pre-install:
 
 do-install:
 	cd ${WRKSRC}; \
-		${INSTALL_DATA} ChangeLog ${SLIME_LISPDIR}; \
-		${INSTALL_DATA} *.el ${SLIME_LISPDIR}; \
-		${INSTALL_DATA} *.elc ${SLIME_LISPDIR}; \
-		${INSTALL_DATA} *.lisp ${SLIME_LISPDIR}
-		${INSTALL_DATA} ${WRKSRC}/doc/slime.info ${EMACS_INFOPREFIX}
+		${INSTALL_DATA} ChangeLog ${DESTDIR}${SLIME_LISPDIR}; \
+		${INSTALL_DATA} *.el ${DESTDIR}${SLIME_LISPDIR}; \
+		${INSTALL_DATA} *.elc ${DESTDIR}${SLIME_LISPDIR}; \
+		${INSTALL_DATA} *.lisp ${DESTDIR}${SLIME_LISPDIR}
+		${INSTALL_DATA} ${WRKSRC}/doc/slime.info ${DESTDIR}${EMACS_INFOPREFIX}
 
 .include "../../editors/emacs/modules.mk"
 .include "../../mk/bsd.pkg.mk"
