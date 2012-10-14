@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4914 2012/10/11 18:53:25 kristerw Exp $
+# $Id: Makefile,v 1.4915 2012/10/12 11:17:23 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1785,6 +1785,7 @@ SUBDIR+=	nostromo
 SUBDIR+=	notify-sharp
 SUBDIR+=	notmuch
 SUBDIR+=	nsc2ke
+SUBDIR+=	nsd4-svn
 SUBDIR+=	nsp
 SUBDIR+=	nullpop
 SUBDIR+=	nuppelvideo
