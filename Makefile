@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4925 2012/10/17 01:41:12 asau Exp $
+# $Id: Makefile,v 1.4926 2012/10/19 16:08:02 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3014,6 +3014,7 @@ SUBDIR+=	symmetrica
 SUBDIR+=	symon
 SUBDIR+=	sympol
 SUBDIR+=	sympow
+SUBDIR+=	sylfilter
 SUBDIR+=	syn68k
 SUBDIR+=	synce-dynamite
 #SUBDIR+=	synce-kde	# requires buildlink3 file to be put in pkgsrc tree
