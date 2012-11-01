@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4930 2012/10/27 15:11:16 kristerw Exp $
+# $Id: Makefile,v 1.4931 2012/10/29 04:42:25 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2231,7 +2231,6 @@ SUBDIR+=	probcons
 SUBDIR+=	probe
 SUBDIR+=	procps
 SUBDIR+=	progreiserfs
-SUBDIR+=	protobuf
 SUBDIR+=	prover9
 SUBDIR+=	proxychains
 SUBDIR+=	proxyknife
