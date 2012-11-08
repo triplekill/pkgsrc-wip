@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4938 2012/11/04 12:21:16 othyro Exp $
+# $Id: Makefile,v 1.4939 2012/11/06 22:21:32 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -187,7 +187,6 @@ SUBDIR+=	avifile-devel
 SUBDIR+=	avr-binutils
 SUBDIR+=	avr-gcc
 SUBDIR+=	avr-libc
-SUBDIR+=	awesome
 SUBDIR+=	awflwm
 SUBDIR+=	axe
 SUBDIR+=	axel
