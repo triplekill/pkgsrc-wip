@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4940 2012/11/08 16:47:18 pallegra Exp $
+# $Id: Makefile,v 1.4941 2012/11/08 20:54:28 outpaddling Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3001,7 +3001,6 @@ SUBDIR+=	swarp
 SUBDIR+=	swfmill
 SUBDIR+=	swftools
 SUBDIR+=	swift
-SUBDIR+=	swig2
 SUBDIR+=	sword
 SUBDIR+=	sxemacs
 SUBDIR+=	sxid
