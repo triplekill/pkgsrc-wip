@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4942 2012/11/09 14:39:25 lexort Exp $
+# $Id: Makefile,v 1.4943 2012/11/11 10:56:51 zul_ Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3396,6 +3396,7 @@ SUBDIR+=	ypserv
 SUBDIR+=	zabbix
 SUBDIR+=	zapping
 SUBDIR+=	zathura
+SUBDIR+=	zathura-poppler
 SUBDIR+=	zinf
 SUBDIR+=	ziparchive
 SUBDIR+=	zipios
