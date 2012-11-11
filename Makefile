@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4941 2012/11/08 20:54:28 outpaddling Exp $
+# $Id: Makefile,v 1.4942 2012/11/09 14:39:25 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -722,6 +722,7 @@ SUBDIR+=	giggle
 SUBDIR+=	gimmie
 SUBDIR+=	gimp-high-pass-filter
 SUBDIR+=	gin
+SUBDIR+=	girara
 SUBDIR+=	git
 SUBDIR+=	gitg
 SUBDIR+=	givaro
