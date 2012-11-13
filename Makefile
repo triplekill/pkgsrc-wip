@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4944 2012/11/11 11:40:31 zul_ Exp $
+# $Id: Makefile,v 1.4945 2012/11/12 14:08:14 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2876,6 +2876,7 @@ SUBDIR+=	scourge
 SUBDIR+=	scr2png
 SUBDIR+=	scratchpad
 SUBDIR+=	scrc
+SUBDIR+=	scrollz
 SUBDIR+=	scsh-install-lib
 SUBDIR+=	scummvm-nightly
 SUBDIR+=	scx
