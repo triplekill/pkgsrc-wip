@@ -8,7 +8,7 @@ MASTER_SITES=		http://www.pldaniels.com/ripole/
 
 MAINTAINER=		charlie@rubberduck.com
 HOMEPAGE=		http://www.pldaniels.com/ripole/
-COMMENT=		a small program/library designed to pull out attachments from OLE2 data files
+COMMENT=		Program/library designed to extract attachments from OLE2 files
 
 PKG_INSTALLATION_TYPES=	overwrite pkgviews
 
