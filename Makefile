@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4947 2012/11/13 16:46:36 othyro Exp $
+# $Id: Makefile,v 1.4948 2012/11/14 14:45:46 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -867,7 +867,6 @@ SUBDIR+=	haydar-fonts
 SUBDIR+=	haze
 SUBDIR+=	hdhomerun_config
 SUBDIR+=	hdparm
-SUBDIR+=	heliodor
 SUBDIR+=	hengband
 SUBDIR+=	hepmc
 SUBDIR+=	hepmcvisual
