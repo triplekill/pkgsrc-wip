@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4953 2012/11/15 23:43:26 bubuchka Exp $
+# $Id: Makefile,v 1.4954 2012/11/16 04:18:59 schnoebe Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -90,10 +90,6 @@ SUBDIR+=	alsa-plugins
 SUBDIR+=	alsa-utils
 SUBDIR+=	alt-ergo
 SUBDIR+=	am-utils
-SUBDIR+=	amanda3-client
-SUBDIR+=	amanda3-common
-SUBDIR+=	amanda3-plot
-SUBDIR+=	amanda3-server
 SUBDIR+=	analizo
 SUBDIR+=	and
 SUBDIR+=	ann
