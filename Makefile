@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4957 2012/11/17 10:55:43 kristerw Exp $
+# $Id: Makefile,v 1.4958 2012/11/21 22:27:39 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1409,7 +1409,6 @@ SUBDIR+=	libjingle
 SUBDIR+=	liblingoteach
 SUBDIR+=	liblo
 SUBDIR+=	liblognorm
-SUBDIR+=	libmemcached
 SUBDIR+=	libmpg123
 SUBDIR+=	libmrss
 SUBDIR+=	libmusclecard
