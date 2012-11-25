@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4963 2012/11/23 01:17:39 othyro Exp $
+# $Id: Makefile,v 1.4964 2012/11/23 14:58:12 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -814,7 +814,6 @@ SUBDIR+=	gtk2-engines-magicchicken
 SUBDIR+=	gtk2-engines-qt
 SUBDIR+=	gtk2-theme-pack
 SUBDIR+=	gtk2hs-buildtools
-SUBDIR+=	gtkada
 SUBDIR+=	gtkaml
 SUBDIR+=	gtkfontsel
 SUBDIR+=	gtkglextmm
