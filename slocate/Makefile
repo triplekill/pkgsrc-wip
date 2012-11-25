@@ -5,7 +5,7 @@ DISTNAME=		slocate-3.1
 CATEGORIES=		sysutils
 MASTER_SITES=	http://slocate.trakker.ca/files/
 
-MAINTAINER=		pancake@phreaker.net
+MAINTAINER=		pkgsrc-users@NetBSD.org
 HOMEPAGE=		http://slocate.trakker.ca/
 COMMENT=		Secure Locate
 

@@ -5,7 +5,7 @@ DISTNAME=		sleuthkit-2.04
 CATEGORIES=		sysutils
 MASTER_SITES=		${MASTER_SITE_SOURCEFORGE:=sleuthkit/}
 
-MAINTAINER=		pancake@phreaker.net
+MAINTAINER=		pkgsrc-users@NetBSD.org
 HOMEPAGE=		http://www.sleuthkit.org/
 COMMENT=		OpenSource Forensic Toolkit
 

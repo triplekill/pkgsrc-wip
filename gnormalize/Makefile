@@ -5,7 +5,7 @@ DISTNAME=		gnormalize-0.35
 CATEGORIES=		audio
 MASTER_SITES=		${MASTER_SITE_SOURCEFORGE:=gnormalize/}
 
-MAINTAINER=		pancake@phreaker.net
+MAINTAINER=		pkgsrc-users@NetBSD.org
 HOMEPAGE=		http://gnormalize.sourceforge.net/
 COMMENT=		Gtk2::Perl frontend for audio conversion
 

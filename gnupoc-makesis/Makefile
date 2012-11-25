@@ -6,7 +6,7 @@ PKGNAME=		gnupoc-makesis-2.0.0
 CATEGORIES=		devel
 MASTER_SITES=		http://www.symbianos.org/download/
 
-MAINTAINER=		pancake@phreaker.net
+MAINTAINER=		pkgsrc-users@NetBSD.org
 HOMEPAGE=		http://www.symbianos.org/download/
 COMMENT=		GNU SIS file generator for SymbianOS
 

@@ -5,7 +5,7 @@ DISTNAME=		rootcheck-0.7
 CATEGORIES=		security
 MASTER_SITES=		http://www.ossec.net/rootcheck/files/
 
-MAINTAINER=		pancake@phreaker.net
+MAINTAINER=		pkgsrc-users@NetBSD.org
 HOMEPAGE=		http://www.ossec.net/rootcheck/
 COMMENT=		RootKit detection software
 
