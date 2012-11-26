@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4968 2012/11/26 14:49:05 othyro Exp $
+# $Id: Makefile,v 1.4969 2012/11/26 19:47:09 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2111,6 +2111,7 @@ SUBDIR+=	pear-channel-horde
 SUBDIR+=	pear-channel-phpunit
 SUBDIR+=	pessulus
 SUBDIR+=	petsc
+SUBDIR+=	pev
 SUBDIR+=	pfe
 SUBDIR+=	pgp6
 SUBDIR+=	phantomjs
