@@ -99,10 +99,10 @@ post-patch:
 
 do-build:
 	cd ${WRKSRC} ; ${SETENV} ${MAKE_ENV} PICFLAG= \
-		${GMAKE} ${_MAKE_JOBS} ${MAKE_ARGS}
+		${GMAKE} ${_MAKE_JOBS} ${MAKE_FLAGS}
 
 #	cd ${WRKSRC_SHARED} ; ${SETENV} ${MAKE_ENV} PICFLAG=${PICFLAG} \
-#		${GMAKE} ${_MAKE_JOBS} ${MAKE_ARGS}
+#		${GMAKE} ${_MAKE_JOBS} ${MAKE_FLAGS}
 
 # OS X ld does not support -Bshareable or --whole-archive
 # Find a portable way to add sonames
