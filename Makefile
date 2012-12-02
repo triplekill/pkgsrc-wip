@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4972 2012/11/29 01:53:13 othyro Exp $
+# $Id: Makefile,v 1.4973 2012/12/01 12:57:54 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1481,7 +1481,6 @@ SUBDIR+=	linuxdcpp
 SUBDIR+=	linuxigd
 SUBDIR+=	linuxigd-current
 SUBDIR+=	linuxtv-dvb-apps
-SUBDIR+=	lirc
 SUBDIR+=	lire
 SUBDIR+=	lissac
 SUBDIR+=	lives
