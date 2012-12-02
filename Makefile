@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4973 2012/12/01 12:57:54 othyro Exp $
+# $Id: Makefile,v 1.4974 2012/12/02 01:39:14 cheusov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1540,7 +1540,6 @@ SUBDIR+=	mashpodder
 SUBDIR+=	matanza
 SUBDIR+=	mathopd
 SUBDIR+=	matiec
-SUBDIR+=	mawk
 SUBDIR+=	mawk-libc
 SUBDIR+=	mawk-onig
 SUBDIR+=	mawk-rxspencer
