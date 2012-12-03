@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4985 2012/12/03 19:33:40 othyro Exp $
+# $Id: Makefile,v 1.4986 2012/12/03 20:53:20 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -451,6 +451,7 @@ SUBDIR+=	djplay
 SUBDIR+=	djview4
 SUBDIR+=	dk-milter
 SUBDIR+=	dlpoly-classic
+SUBDIR+=	dmapd
 SUBDIR+=	dmd
 SUBDIR+=	dmd-bin
 SUBDIR+=	dmt-ux
