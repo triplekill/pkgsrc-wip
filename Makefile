@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4992 2012/12/06 00:11:53 lexort Exp $
+# $Id: Makefile,v 1.4993 2012/12/06 19:41:05 triaxx Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1403,7 +1403,6 @@ SUBDIR+=	liblingoteach
 SUBDIR+=	liblo
 SUBDIR+=	liblognorm
 SUBDIR+=	libmpg123
-SUBDIR+=	libmrss
 SUBDIR+=	libmusclecard
 SUBDIR+=	libncl
 SUBDIR+=	libnestedsums
