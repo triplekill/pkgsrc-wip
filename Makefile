@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4994 2012/12/08 16:59:01 ryo-on Exp $
+# $Id: Makefile,v 1.4995 2012/12/08 22:42:46 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2349,7 +2349,6 @@ SUBDIR+=	py-django-gitrevision
 SUBDIR+=	py-django-helmholtz
 SUBDIR+=	py-django-nose
 SUBDIR+=	py-django-quran
-SUBDIR+=	py-django-tagging
 SUBDIR+=	py-django-uuidfield
 SUBDIR+=	py-djangopypi2
 SUBDIR+=	py-djvulibre
