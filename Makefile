@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4995 2012/12/08 22:42:46 othyro Exp $
+# $Id: Makefile,v 1.4996 2012/12/09 20:45:33 moubctez Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1977,6 +1977,7 @@ SUBDIR+=	p5-MongoDB
 SUBDIR+=	p5-NNTPClient
 SUBDIR+=	p5-Net-DBus-GLib
 SUBDIR+=	p5-Net-Delicious
+SUBDIR+=	p5-Net-DNS
 SUBDIR+=	p5-Net-IP-Match-Regexp
 SUBDIR+=	p5-Net-PcapUtils
 SUBDIR+=	p5-Net-SMTP-TLS
