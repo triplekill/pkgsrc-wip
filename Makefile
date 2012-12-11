@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4998 2012/12/11 20:25:32 ftigeot Exp $
+# $Id: Makefile,v 1.4999 2012/12/11 23:32:42 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1375,7 +1375,6 @@ SUBDIR+=	libgda-odbc
 #SUBDIR+=	libgda-sqlite3	# PR pkg/45845
 SUBDIR+=	libgda-xbase
 SUBDIR+=	libgda4
-SUBDIR+=	libgeotiff
 SUBDIR+=	libghemical
 SUBDIR+=	libginac
 SUBDIR+=	libgksu
