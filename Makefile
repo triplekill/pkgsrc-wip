@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5000 2012/12/11 23:37:13 lexort Exp $
+# $Id: Makefile,v 1.5001 2012/12/12 13:16:58 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1138,7 +1138,6 @@ SUBDIR+=	io-thread
 SUBDIR+=	io-user
 SUBDIR+=	io-vm
 SUBDIR+=	io-zlib
-SUBDIR+=	iodine
 SUBDIR+=	ion3
 SUBDIR+=	ipamjfont
 SUBDIR+=	ipax0208font-ttf
