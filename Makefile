@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.4999 2012/12/11 23:32:42 lexort Exp $
+# $Id: Makefile,v 1.5000 2012/12/11 23:37:13 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3263,7 +3263,6 @@ SUBDIR+=	wxGTK-contrib-unicode
 SUBDIR+=	wxGTK-unicode
 SUBDIR+=	wxMaxima
 SUBDIR+=	x264-devel
-SUBDIR+=	xa65
 SUBDIR+=	xace
 SUBDIR+=	xar
 SUBDIR+=	xaralx-bin
