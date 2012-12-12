@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5004 2012/12/12 15:19:16 thomasklausner Exp $
+# $Id: Makefile,v 1.5005 2012/12/12 15:27:54 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1531,7 +1531,6 @@ SUBDIR+=	manatee
 SUBDIR+=	manifold
 SUBDIR+=	map-browse
 SUBDIR+=	mapnik
-SUBDIR+=	marathon-evil
 SUBDIR+=	marathon-scenarios
 SUBDIR+=	marathon-tempus-irae
 SUBDIR+=	marsyas
