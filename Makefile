@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5006 2012/12/12 16:28:21 thomasklausner Exp $
+# $Id: Makefile,v 1.5007 2012/12/14 18:50:26 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2928,6 +2928,7 @@ SUBDIR+=	smtpscan
 SUBDIR+=	smw
 SUBDIR+=	snark
 SUBDIR+=	snes9express
+SUBDIR+=	snotes
 SUBDIR+=	socklog
 SUBDIR+=	socnetv
 SUBDIR+=	sofia-sip
