@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5015 2012/12/24 03:21:03 khorben Exp $
+# $Id: Makefile,v 1.5016 2012/12/25 09:46:24 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3201,6 +3201,7 @@ SUBDIR+=	vidrioclock
 SUBDIR+=	vidriolib
 SUBDIR+=	viewer
 SUBDIR+=	viewglob
+SUBDIR+=	vimprobable2
 SUBDIR+=	vimrc-mode
 SUBDIR+=	virtualbox
 SUBDIR+=	virtualjaguar
