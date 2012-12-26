@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5016 2012/12/25 09:46:24 ryo-on Exp $
+# $Id: Makefile,v 1.5017 2012/12/25 23:44:03 leot1990 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -542,6 +542,7 @@ SUBDIR+=	emboss-topo
 SUBDIR+=	emelfm2
 SUBDIR+=	emerald
 SUBDIR+=	emerald-themes
+SUBDIR+=	emesene
 SUBDIR+=	emirror
 SUBDIR+=	emovix
 SUBDIR+=	enet
