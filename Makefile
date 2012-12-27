@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5022 2012/12/27 05:44:02 othyro Exp $
+# $Id: Makefile,v 1.5023 2012/12/27 05:50:00 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -166,7 +166,6 @@ SUBDIR+=	ati-xfree86-bin-unstable
 SUBDIR+=	atlas
 SUBDIR+=	atompaw
 SUBDIR+=	atque
-SUBDIR+=	aubio
 SUBDIR+=	auctex-current
 SUBDIR+=	audacious
 SUBDIR+=	audacious-plugins
