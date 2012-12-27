@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5023 2012/12/27 05:50:00 othyro Exp $
+# $Id: Makefile,v 1.5024 2012/12/27 18:15:11 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -206,7 +206,6 @@ SUBDIR+=	biopython
 SUBDIR+=	bioruby
 SUBDIR+=	bkchem
 SUBDIR+=	blam
-SUBDIR+=	blassic
 SUBDIR+=	bleachbit
 SUBDIR+=	blueproxy
 SUBDIR+=	bluez-gnome
