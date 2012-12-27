@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5018 2012/12/26 16:41:42 othyro Exp $
+# $Id: Makefile,v 1.5019 2012/12/26 17:24:30 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1301,7 +1301,6 @@ SUBDIR+=	kvirc
 SUBDIR+=	kxmleditor
 SUBDIR+=	kyotocabinet
 SUBDIR+=	kyototycoon
-SUBDIR+=	kyra
 SUBDIR+=	kyra2
 SUBDIR+=	kytea
 SUBDIR+=	l2tpd
@@ -2768,7 +2767,6 @@ SUBDIR+=	rast
 SUBDIR+=	raster3d
 SUBDIR+=	ratpoints
 SUBDIR+=	ratproxy
-SUBDIR+=	rawphoto
 SUBDIR+=	rc.d.Interix
 SUBDIR+=	rc.subr
 SUBDIR+=	rdup
