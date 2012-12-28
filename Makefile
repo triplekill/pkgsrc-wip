@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5024 2012/12/27 18:15:11 ryo-on Exp $
+# $Id: Makefile,v 1.5025 2012/12/27 18:19:28 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -57,6 +57,7 @@ SUBDIR+=	SDL-intro-it
 SUBDIR+=	SDL-intro-jp
 SUBDIR+=	SDL-intro-pt
 SUBDIR+=	SDL-intro-ru
+SUBDIR+=	SDL2
 SUBDIR+=	Siesta
 SUBDIR+=	StepTalk
 SUBDIR+=	Terminal
