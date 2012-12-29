@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5026 2012/12/28 04:25:23 othyro Exp $
+# $Id: Makefile,v 1.5027 2012/12/29 01:02:37 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1581,6 +1581,7 @@ SUBDIR+=	mingw-w64-crt
 SUBDIR+=	mingw-w64-gcc
 SUBDIR+=	mingw-w64-headers
 SUBDIR+=	mingw-w64-libgcc
+SUBDIR+=	mini18n
 SUBDIR+=	minimalist
 SUBDIR+=	minisat2
 SUBDIR+=	miniupnpc
