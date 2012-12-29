@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5025 2012/12/27 18:19:28 ryo-on Exp $
+# $Id: Makefile,v 1.5026 2012/12/28 04:25:23 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1392,6 +1392,7 @@ SUBDIR+=	libgzstream
 SUBDIR+=	libharu
 SUBDIR+=	libhttpd
 SUBDIR+=	libinotify
+SUBDIR+=	libinstpatch
 SUBDIR+=	libipctdata
 SUBDIR+=	libisoburn
 SUBDIR+=	libisofs
