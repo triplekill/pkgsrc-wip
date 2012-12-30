@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5034 2012/12/30 01:58:25 othyro Exp $
+# $Id: Makefile,v 1.5035 2012/12/30 02:46:48 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -690,6 +690,7 @@ SUBDIR+=	get_iplayer
 SUBDIR+=	gf2x
 SUBDIR+=	gfa
 SUBDIR+=	gfan
+SUBDIR+=	gfm
 SUBDIR+=	gfontview
 SUBDIR+=	gforge
 SUBDIR+=	gforth
