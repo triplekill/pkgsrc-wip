@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5037 2012/12/30 20:14:40 roelants Exp $
+# $Id: Makefile,v 1.5038 2012/12/31 07:35:18 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3288,8 +3288,6 @@ SUBDIR+=	xbelmark
 SUBDIR+=	xbmc
 SUBDIR+=	xbnbt
 SUBDIR+=	xbsql
-SUBDIR+=	xchat2-perl
-SUBDIR+=	xchat2-python
 SUBDIR+=	xchat2-tcl
 SUBDIR+=	xclipboard
 SUBDIR+=	xcursor-themes
