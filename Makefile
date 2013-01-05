@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5048 2013/01/03 14:26:48 ryo-on Exp $
+# $Id: Makefile,v 1.5049 2013/01/03 21:07:39 mrampke Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3120,7 +3120,6 @@ SUBDIR+=	tmw
 SUBDIR+=	tnt
 SUBDIR+=	tome
 SUBDIR+=	tome2
-SUBDIR+=	toppler
 SUBDIR+=	tops-bin
 SUBDIR+=	tor-dev
 SUBDIR+=	torcs
@@ -3198,7 +3197,6 @@ SUBDIR+=	unnethack
 SUBDIR+=	unpaper
 SUBDIR+=	unrealtournament-server
 SUBDIR+=	uptimed
-SUBDIR+=	uqm
 SUBDIR+=	uqwk
 SUBDIR+=	uschedule
 SUBDIR+=	using-mpi
