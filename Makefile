@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5050 2013/01/05 22:20:45 thomasklausner Exp $
+# $Id: Makefile,v 1.5051 2013/01/06 23:11:02 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2579,6 +2579,7 @@ SUBDIR+=	py-pysal
 SUBDIR+=	py-pysb
 SUBDIR+=	py-pyslha
 SUBDIR+=	py-pysph
+SUBDIR+=	py-pyswisseph
 SUBDIR+=	py-pythia
 SUBDIR+=	py-pythics
 SUBDIR+=	py-pytkgen
