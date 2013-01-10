@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5057 2013/01/10 14:16:52 othyro Exp $
+# $Id: Makefile,v 1.5058 2013/01/10 18:17:01 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3003,7 +3003,6 @@ SUBDIR+=	sunterlib
 SUBDIR+=	superchic
 SUBDIR+=	supermodel
 SUBDIR+=	supertux
-SUBDIR+=	supertuxkart
 SUBDIR+=	surf
 SUBDIR+=	suse100_32_SDL
 SUBDIR+=	suse100_32_glut
