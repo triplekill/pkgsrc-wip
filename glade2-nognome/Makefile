@@ -1,25 +1,25 @@
 # $NetBSD: Makefile,v 1.28 2004/03/26 02:27:37 wiz Exp $
-# $Id: Makefile,v 1.14 2012/09/29 00:50:35 asau Exp $
+# $Id: Makefile,v 1.15 2012/11/13 20:09:30 othyro Exp $
 #
 
-DISTNAME=		glade-2.0.1
-PKGNAME=		${DISTNAME:S/-/2-nognome-/}
-PKGREVISION=		2
-CATEGORIES=		devel
-MASTER_SITES=		${MASTER_SITE_GNOME:=sources/glade/2.0/}
-EXTRACT_SUFX=		.tar.bz2
+DISTNAME=	glade-2.0.1
+PKGNAME=	${DISTNAME:S/-/2-nognome-/}
+PKGREVISION=	3
+CATEGORIES=	devel
+MASTER_SITES=	${MASTER_SITE_GNOME:=sources/glade/2.0/}
+EXTRACT_SUFX=	.tar.bz2
 
-MAINTAINER=		pkgsrc-users@NetBSD.org
-HOMEPAGE=		http://glade.gnome.org/
-COMMENT=		User interface builder for the GTK2+ toolkit and GNOME2
+MAINTAINER=	pkgsrc-users@NetBSD.org
+HOMEPAGE=	http://glade.gnome.org/
+COMMENT=	User interface builder for the GTK2+ toolkit and GNOME2
 
-CONFLICTS+=		glade-*
+CONFLICTS+=	glade-*
 
 PKG_DESTDIR_SUPPORT=	none
 
 GNU_CONFIGURE=		YES
 USE_PKGLOCALEDIR=	YES
-USE_TOOLS+=		gmake msgfmt pkg-config
+USE_TOOLS+=		gmake msgfmt perl pkg-config
 USE_LIBTOOL=		YES
 
 
