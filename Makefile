@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5058 2013/01/10 18:17:01 thomasklausner Exp $
+# $Id: Makefile,v 1.5059 2013/01/10 22:06:46 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1109,6 +1109,7 @@ SUBDIR+=	i3lock
 SUBDIR+=	i3status
 SUBDIR+=	iText
 SUBDIR+=	iTextXML
+SUBDIR+=	ibus-mozc
 SUBDIR+=	ibus-sogoupycc
 SUBDIR+=	icecast
 SUBDIR+=	icecat
