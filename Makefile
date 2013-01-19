@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5064 2013/01/19 13:18:40 szptvlfn Exp $
+# $Id: Makefile,v 1.5065 2013/01/19 20:10:41 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -343,6 +343,7 @@ SUBDIR+=	coxeter
 SUBDIR+=	cpdup
 SUBDIR+=	cpm
 SUBDIR+=	crabemu
+SUBDIR+=	crawl-stone-soup
 SUBDIR+=	creal
 SUBDIR+=	cream
 SUBDIR+=	crfpp
