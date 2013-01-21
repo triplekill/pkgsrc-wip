@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5068 2013/01/20 19:12:17 kristerw Exp $
+# $Id: Makefile,v 1.5069 2013/01/20 19:21:37 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1403,8 +1403,6 @@ SUBDIR+=	libgda4
 SUBDIR+=	libghemical
 SUBDIR+=	libginac
 SUBDIR+=	libgit2
-SUBDIR+=	libgksu
-SUBDIR+=	libgksuui
 SUBDIR+=	libglade-java
 SUBDIR+=	libgme
 SUBDIR+=	libgnome-java
