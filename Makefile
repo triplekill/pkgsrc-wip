@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5069 2013/01/20 19:21:37 kristerw Exp $
+# $Id: Makefile,v 1.5070 2013/01/21 00:42:00 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -787,7 +787,6 @@ SUBDIR+=	google-perftools
 SUBDIR+=	googlecl
 SUBDIR+=	googlesharing
 SUBDIR+=	gosmore
-SUBDIR+=	gov2
 SUBDIR+=	gpac-devel
 SUBDIR+=	gpak
 SUBDIR+=	gplbasic
