@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5072 2013/01/22 13:28:57 noud4 Exp $
+# $Id: Makefile,v 1.5073 2013/01/22 21:55:39 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3299,6 +3299,8 @@ SUBDIR+=	wxMaxima
 SUBDIR+=	x264-devel
 SUBDIR+=	xace
 SUBDIR+=	xalan-c
+SUBDIR+=	xalan-c-1.10
+SUBDIR+=	xerces-c-2.8.0
 SUBDIR+=	xar
 SUBDIR+=	xaralx-bin
 SUBDIR+=	xbase
