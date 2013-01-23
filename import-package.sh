@@ -1,6 +1,6 @@
 #! /bin/sh
 #
-# $Id: import-package.sh,v 1.9 2012/11/30 12:24:29 thomasklausner Exp $
+# $Id: import-package.sh,v 1.10 2013/01/13 12:36:08 roelants Exp $
 #
 # Script designed to make add packages into wip easier.
 #
@@ -85,7 +85,7 @@ CLEANUP="${CLEANUP} ${ADDLIST}"
 	find ${PACKAGE} \( -name CVS -prune \) -o -type f ! -name '*orig' \
 	    ! -name '.#*' -print
 ) | sort > ${ADDLIST}
-sed 's|^|CVS: will add: wip/|' ${ADDLIST} >> ${MSG}
+sed "s|^|CVS: will add: ${CATEGORY}/|" ${ADDLIST} >> ${MSG}
 
 ${EDITOR} ${MSG}
 
