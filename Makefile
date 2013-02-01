@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5086 2013/01/27 16:52:19 othyro Exp $
+# $Id: Makefile,v 1.5087 2013/01/31 03:35:54 jeremy-c-reed Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1526,7 +1526,6 @@ SUBDIR+=	lxmenu-data
 SUBDIR+=	lxmusic
 SUBDIR+=	lxpanel
 SUBDIR+=	lxrandr
-SUBDIR+=	lxsession
 SUBDIR+=	lxsession-edit
 SUBDIR+=	lxshortcut
 SUBDIR+=	lxtask
