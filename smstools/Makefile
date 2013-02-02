@@ -10,6 +10,7 @@ MASTER_SITES=		http://smstools3.kekekasvi.com/packages/
 MAINTAINER=		shattered@users.sourceforge.net
 HOMEPAGE=		http://smstools3.kekekasvi.com/
 COMMENT=		Send and receive short messages via GSM phones
+LICENSE=		gnu-gpl-v2
 
 USE_TOOLS+=		bash:run gmake
 CPPFLAGS+=		-DPKG_SYSCONFDIR="\"${PKG_SYSCONFDIR}\""
