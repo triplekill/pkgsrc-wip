@@ -1,10 +1,10 @@
-# $Id: Makefile,v 1.5092 2013/02/03 16:57:27 noud4 Exp $
+# $Id: Makefile,v 1.5093 2013/02/04 03:02:44 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
 
 SUBDIR+=	389-ds-base
-SUBDIR+=	BitchX	# TODO, fire
+SUBDIR+=	BitchX
 SUBDIR+=	Box2D
 SUBDIR+=	Cg-compiler
 SUBDIR+=	Chinput
