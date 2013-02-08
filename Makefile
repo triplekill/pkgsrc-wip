@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5099 2013/02/07 22:46:40 othyro Exp $
+# $Id: Makefile,v 1.5100 2013/02/08 03:22:52 outpaddling Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -625,6 +625,7 @@ SUBDIR+=	firefox3-bin
 SUBDIR+=	firehose
 SUBDIR+=	flam3-svn
 SUBDIR+=	flare-engine
+SUBDIR+=	flare-game
 SUBDIR+=	flasm
 SUBDIR+=	flc
 SUBDIR+=	fldigi
