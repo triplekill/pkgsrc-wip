@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5102 2013/02/09 21:36:49 thomasklausner Exp $
+# $Id: Makefile,v 1.5103 2013/02/10 12:23:23 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1178,6 +1178,7 @@ SUBDIR+=	ironpython
 SUBDIR+=	irrlicht
 SUBDIR+=	irrxml
 SUBDIR+=	ised
+SUBDIR+=	isl
 SUBDIR+=	islamic-menus
 SUBDIR+=	ispell-dictionaries
 SUBDIR+=	ispell-lietuviu
