@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5104 2013/02/12 21:44:26 keckhardt Exp $
+# $Id: Makefile,v 1.5105 2013/02/16 11:51:30 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -340,7 +340,6 @@ SUBDIR+=	converttomp3
 SUBDIR+=	cops
 SUBDIR+=	copytape
 SUBDIR+=	couchdb-glib
-SUBDIR+=	courier-prime
 SUBDIR+=	courierpassd
 SUBDIR+=	coxeter
 SUBDIR+=	cpdup
