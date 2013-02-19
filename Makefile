@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5109 2013/02/18 08:26:11 ahp-nils Exp $
+# $Id: Makefile,v 1.5110 2013/02/18 10:11:54 ahp-nils Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3023,6 +3023,10 @@ SUBDIR+=	suse100_devel
 SUBDIR+=	suse100_gdb
 SUBDIR+=	suse100_glut
 SUBDIR+=	suse100_gmp4
+SUBDIR+=	suse121_32_libgcrypt
+SUBDIR+=	suse121_32_libgpg-error
+SUBDIR+=	suse121_libgcrypt
+SUBDIR+=	suse121_libgpg-error
 SUBDIR+=	svgalib
 SUBDIR+=	svrcore
 SUBDIR+=	swami
