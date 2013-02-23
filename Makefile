@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5113 2013/02/22 22:46:23 kristerw Exp $
+# $Id: Makefile,v 1.5114 2013/02/23 10:18:06 keckhardt Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1034,6 +1034,7 @@ SUBDIR+=	hs-monad-peel
 SUBDIR+=	hs-monads-fd
 SUBDIR+=	hs-monoid-transformer
 SUBDIR+=	hs-mtl
+SUBDIR+=	hs-nats
 SUBDIR+=	hs-network
 SUBDIR+=	hs-network-bytestring
 SUBDIR+=	hs-non-negative
