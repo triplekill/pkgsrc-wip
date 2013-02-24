@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5115 2013/02/23 15:16:30 phonohawk Exp $
+# $Id: Makefile,v 1.5116 2013/02/23 15:17:06 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1395,6 +1395,7 @@ SUBDIR+=	libfm
 SUBDIR+=	libfplll
 SUBDIR+=	libfs
 SUBDIR+=	libgadu
+SUBDIR+=	libgcal
 SUBDIR+=	libgda-bdb
 SUBDIR+=	libgda-ldap
 SUBDIR+=	libgda-mdb
@@ -1437,6 +1438,7 @@ SUBDIR+=	libneural
 SUBDIR+=	libnfo
 SUBDIR+=	libode
 SUBDIR+=	liboglappth
+SUBDIR+=	libopensync-dev
 SUBDIR+=	libopenmodeller
 SUBDIR+=	libopensync-plugin-moto
 SUBDIR+=	libopensync-plugin-palm
