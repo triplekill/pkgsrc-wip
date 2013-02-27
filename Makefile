@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5120 2013/02/26 14:54:14 outpaddling Exp $
+# $Id: Makefile,v 1.5121 2013/02/27 12:35:57 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1441,8 +1441,8 @@ SUBDIR+=	libneural
 SUBDIR+=	libnfo
 SUBDIR+=	libode
 SUBDIR+=	liboglappth
-SUBDIR+=	libopensync-dev
 SUBDIR+=	libopenmodeller
+SUBDIR+=	libopensync-dev
 SUBDIR+=	libopensync-plugin-moto
 SUBDIR+=	libopensync-plugin-palm
 SUBDIR+=	libosmocore
