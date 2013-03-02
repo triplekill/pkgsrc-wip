@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5123 2013/02/27 21:00:45 kristerw Exp $
+# $Id: Makefile,v 1.5124 2013/02/27 21:03:00 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -983,6 +983,7 @@ SUBDIR+=	hs-event-list
 SUBDIR+=	hs-executable-path
 SUBDIR+=	hs-explicit-exception
 SUBDIR+=	hs-explicit-iomodes
+SUBDIR+=	hs-extensible-exceptions
 SUBDIR+=	hs-failure
 SUBDIR+=	hs-fclabels
 SUBDIR+=	hs-filemanip
