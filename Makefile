@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5125 2013/03/02 10:49:26 phonohawk Exp $
+# $Id: Makefile,v 1.5126 2013/03/02 15:43:36 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3216,6 +3216,7 @@ SUBDIR+=	udp-ping
 SUBDIR+=	uebimiau
 SUBDIR+=	ufc
 SUBDIR+=	uffizi
+SUBDIR+=	uget
 SUBDIR+=	uim-chewing
 SUBDIR+=	ukncbtl
 SUBDIR+=	umix
