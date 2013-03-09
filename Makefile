@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5140 2013/03/09 11:12:12 othyro Exp $
+# $Id: Makefile,v 1.5141 2013/03/09 11:55:22 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1373,6 +1373,7 @@ SUBDIR+=	libassa
 SUBDIR+=	libavc1394
 SUBDIR+=	libbfio
 SUBDIR+=	libbrahe
+SUBDIR+=	libbs2b
 SUBDIR+=	libbsd
 SUBDIR+=	libbtctl
 SUBDIR+=	libburn
