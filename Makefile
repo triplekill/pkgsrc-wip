@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5148 2013/03/10 13:59:28 othyro Exp $
+# $Id: Makefile,v 1.5149 2013/03/11 00:34:25 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -392,6 +392,7 @@ SUBDIR+=	dates
 SUBDIR+=	davical-current
 SUBDIR+=	db1
 SUBDIR+=	dbf
+SUBDIR+=	dbmail
 SUBDIR+=	dbus-explorer
 SUBDIR+=	dbus-sharp
 SUBDIR+=	dbus-sharp-glib
