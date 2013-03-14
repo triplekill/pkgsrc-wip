@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5149 2013/03/11 00:34:25 othyro Exp $
+# $Id: Makefile,v 1.5150 2013/03/13 21:37:27 tnn2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2536,7 +2536,6 @@ SUBDIR+=	py-mongo
 SUBDIR+=	py-mpich4py
 SUBDIR+=	py-mpop
 SUBDIR+=	py-multichain_mcmc
-SUBDIR+=	py-musicbrainz-ngs
 SUBDIR+=	py-mwavepy
 SUBDIR+=	py-mysqldb-docs
 SUBDIR+=	py-naftawayh
