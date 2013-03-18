@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5154 2013/03/16 08:00:34 szptvlfn Exp $
+# $Id: Makefile,v 1.5155 2013/03/18 17:01:14 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1115,9 +1115,9 @@ SUBDIR+=	hs-x11
 SUBDIR+=	hs-x11-extras
 SUBDIR+=	hs-x11-xft
 SUBDIR+=	hs-xdg-basedir
+SUBDIR+=	hs-xhtml
 SUBDIR+=	hs-xml
 SUBDIR+=	hs-xmobar
-SUBDIR+=	hs-xhtml
 SUBDIR+=	hs-zip-archive
 SUBDIR+=	hs-zlib
 SUBDIR+=	ht2html
