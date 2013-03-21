@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5159 2013/03/19 04:08:53 alnsn Exp $
+# $Id: Makefile,v 1.5160 2013/03/20 23:31:13 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1401,6 +1401,7 @@ SUBDIR+=	libdjconsole
 SUBDIR+=	libdmx
 SUBDIR+=	libdoozer
 SUBDIR+=	libdshconfig
+SUBDIR+=	libdsk
 SUBDIR+=	libdssialsacompat
 SUBDIR+=	libecc
 SUBDIR+=	libee
