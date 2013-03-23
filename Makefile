@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5161 2013/03/21 18:01:41 shattered Exp $
+# $Id: Makefile,v 1.5162 2013/03/21 20:13:52 zul_ Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1138,7 +1138,6 @@ SUBDIR+=	i3lock
 SUBDIR+=	i3status
 SUBDIR+=	iText
 SUBDIR+=	iTextXML
-SUBDIR+=	ibus-mozc
 SUBDIR+=	ibus-sogoupycc
 SUBDIR+=	icecast
 SUBDIR+=	icecat
@@ -1672,8 +1671,6 @@ SUBDIR+=	mopac7
 SUBDIR+=	mopher
 SUBDIR+=	moregroupware
 SUBDIR+=	moto4lin
-SUBDIR+=	mozc-server
-SUBDIR+=	mozc-tool
 SUBDIR+=	mozldap
 SUBDIR+=	mozplugger
 SUBDIR+=	mp3chop
