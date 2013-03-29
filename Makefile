@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5170 2013/03/28 21:04:24 othyro Exp $
+# $Id: Makefile,v 1.5171 2013/03/29 11:26:33 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3478,6 +3478,7 @@ SUBDIR+=	zathura-poppler
 SUBDIR+=	zinf
 SUBDIR+=	ziparchive
 SUBDIR+=	zipios
+SUBDIR+=	znc
 SUBDIR+=	zookeeper-client
 SUBDIR+=	zookeeper-server
 SUBDIR+=	zvbi
