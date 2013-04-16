@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5190 2013/04/13 08:49:36 jgoamakf Exp $
+# $Id: Makefile,v 1.5191 2013/04/13 14:52:13 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3187,7 +3187,6 @@ SUBDIR+=	typhoon
 SUBDIR+=	u-boot
 SUBDIR+=	uade
 SUBDIR+=	ubit
-SUBDIR+=	ubuntu-font-ttf
 SUBDIR+=	uclibc
 SUBDIR+=	ucommon
 SUBDIR+=	udhcp
