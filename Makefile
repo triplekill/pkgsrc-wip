@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5191 2013/04/13 14:52:13 othyro Exp $
+# $Id: Makefile,v 1.5192 2013/04/16 10:03:48 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -274,7 +274,6 @@ SUBDIR+=	cartago
 SUBDIR+=	castget
 SUBDIR+=	cb2bib
 SUBDIR+=	cclive
-SUBDIR+=	ccrtp
 SUBDIR+=	ccrypt
 SUBDIR+=	cddlib
 SUBDIR+=	cde
@@ -1453,7 +1452,6 @@ SUBDIR+=	libxfce4ui
 SUBDIR+=	libxfce4util
 SUBDIR+=	libzdb
 SUBDIR+=	libzn-poly
-SUBDIR+=	libzrtpcpp
 SUBDIR+=	lidia
 SUBDIR+=	light-desktop
 SUBDIR+=	lightdm
@@ -3188,7 +3186,6 @@ SUBDIR+=	u-boot
 SUBDIR+=	uade
 SUBDIR+=	ubit
 SUBDIR+=	uclibc
-SUBDIR+=	ucommon
 SUBDIR+=	udhcp
 SUBDIR+=	udp-ping
 SUBDIR+=	uebimiau
