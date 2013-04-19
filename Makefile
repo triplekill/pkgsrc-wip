@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5196 2013/04/18 21:27:44 szptvlfn Exp $
+# $Id: Makefile,v 1.5197 2013/04/19 13:16:07 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -16,6 +16,7 @@ SUBDIR+=	GSCommander
 SUBDIR+=	GoogleEarth
 SUBDIR+=	InfoNES
 SUBDIR+=	LabPlot
+SUBDIR+=	LuaJIT
 SUBDIR+=	Mesa
 SUBDIR+=	MesaLib
 SUBDIR+=	MoleInvasion
