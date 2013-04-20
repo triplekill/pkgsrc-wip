@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5197 2013/04/19 13:16:07 szptvlfn Exp $
+# $Id: Makefile,v 1.5198 2013/04/19 18:41:06 alnsn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -825,6 +825,7 @@ SUBDIR+=	groovy
 SUBDIR+=	grsync
 SUBDIR+=	grub2-current
 SUBDIR+=	gsdpdf
+SUBDIR+=	gsmartcontrol
 SUBDIR+=	gst-inspector
 SUBDIR+=	gst-plugins0.10-farsight
 SUBDIR+=	gstat
