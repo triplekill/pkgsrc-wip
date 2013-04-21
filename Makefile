@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5199 2013/04/20 19:52:27 noud4 Exp $
+# $Id: Makefile,v 1.5200 2013/04/21 03:34:57 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -971,6 +971,7 @@ SUBDIR+=	hs-convertible-text
 SUBDIR+=	hs-core
 SUBDIR+=	hs-cpphs
 SUBDIR+=	hs-crypto-api
+SUBDIR+=	hs-cryptohash
 SUBDIR+=	hs-curl
 SUBDIR+=	hs-data-accessor
 SUBDIR+=	hs-data-accessor-monads-fd
