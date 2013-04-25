@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5203 2013/04/24 03:09:40 othyro Exp $
+# $Id: Makefile,v 1.5204 2013/04/24 10:43:03 fhajny Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -922,6 +922,7 @@ SUBDIR+=	hs-Lucu
 SUBDIR+=	hs-MissingH
 SUBDIR+=	hs-MonadCatchIO-mtl
 SUBDIR+=	hs-MonadCatchIO-transformers
+SUBDIR+=	hs-NumInstances
 SUBDIR+=	hs-ObjectName
 SUBDIR+=	hs-OpenGL
 SUBDIR+=	hs-OpenGLRaw
