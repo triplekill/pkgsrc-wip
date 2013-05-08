@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5215 2013/05/07 11:36:30 ahp-nils Exp $
+# $Id: Makefile,v 1.5216 2013/05/08 02:46:00 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2224,6 +2224,7 @@ SUBDIR+=	polymul
 SUBDIR+=	pop-before-smtp
 SUBDIR+=	pop3.proxy
 SUBDIR+=	popup-el-current
+SUBDIR+=	portaudio
 SUBDIR+=	postal2-mpdemo-bin
 SUBDIR+=	postoffice
 SUBDIR+=	postr
