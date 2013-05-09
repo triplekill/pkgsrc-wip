@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5217 2013/05/08 23:58:44 othyro Exp $
+# $Id: Makefile,v 1.5218 2013/05/09 00:57:32 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1691,6 +1691,7 @@ SUBDIR+=	mxallowd
 SUBDIR+=	myfitter
 SUBDIR+=	mysql++
 SUBDIR+=	mysql-docs
+SUBDIR+=	mysql-proxy
 SUBDIR+=	mysql-sphinxse
 SUBDIR+=	mysqltcl
 SUBDIR+=	mythtv
