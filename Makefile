@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5218 2013/05/09 00:57:32 othyro Exp $
+# $Id: Makefile,v 1.5219 2013/05/09 12:37:24 fhajny Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -797,7 +797,6 @@ SUBDIR+=	gnupod
 SUBDIR+=	go
 SUBDIR+=	goattracker
 SUBDIR+=	godura
-SUBDIR+=	goldwater
 SUBDIR+=	google-perftools
 SUBDIR+=	googlecl
 SUBDIR+=	googlesharing
@@ -2143,7 +2142,6 @@ SUBDIR+=	pfe
 SUBDIR+=	pgp6
 SUBDIR+=	pgpool2
 SUBDIR+=	phantomjs
-SUBDIR+=	phlib
 SUBDIR+=	phonon-backend-xine
 #SUBDIR+=	php-doc			# not a package
 SUBDIR+=	php-doc-br
