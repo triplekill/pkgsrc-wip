@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5221 2013/05/11 14:43:29 makoto Exp $
+# $Id: Makefile,v 1.5222 2013/05/11 16:23:53 slitvinov Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2780,6 +2780,7 @@ SUBDIR+=	qmpdclient
 SUBDIR+=	qn-x11
 SUBDIR+=	qrint
 SUBDIR+=	qrq
+SUBDIR+=	qt4-gstreamer
 SUBDIR+=	qt5
 SUBDIR+=	qtcreator
 SUBDIR+=	qtnotifydaemon
