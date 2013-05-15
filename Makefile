@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5223 2013/05/12 01:14:09 othyro Exp $
+# $Id: Makefile,v 1.5224 2013/05/15 00:46:00 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2030,6 +2030,7 @@ SUBDIR+=	p5-Task-Catalyst
 SUBDIR+=	p5-Template-Plugin-Class
 SUBDIR+=	p5-Term-Encoding
 SUBDIR+=	p5-Test-Assertions-TestScript
+SUBDIR+=	p5-Test-Unit-Lite
 SUBDIR+=	p5-Test-WWW-Mechanize-CGIApp
 SUBDIR+=	p5-Test-XML
 SUBDIR+=	p5-Text-ASCIITable
