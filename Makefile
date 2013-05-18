@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5224 2013/05/15 00:46:00 othyro Exp $
+# $Id: Makefile,v 1.5225 2013/05/15 03:31:28 jgoamakf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1599,6 +1599,7 @@ SUBDIR+=	mixnet
 SUBDIR+=	mixxx
 #SUBDIR+=	mk 		# not a package
 SUBDIR+=	mkcabal
+SUBDIR+=	mkcomposecache
 SUBDIR+=	mkdep
 SUBDIR+=	mksend
 SUBDIR+=	mlmmj
