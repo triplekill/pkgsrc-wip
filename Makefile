@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5247 2013/05/21 00:46:53 othyro Exp $
+# $Id: Makefile,v 1.5248 2013/05/21 01:29:54 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3427,6 +3427,7 @@ SUBDIR+=	xrx
 SUBDIR+=	xspd
 SUBDIR+=	xspdapp
 SUBDIR+=	xspread
+SUBDIR+=	xstdcmap
 SUBDIR+=	xtags
 SUBDIR+=	xtrace
 SUBDIR+=	xtraceroute
