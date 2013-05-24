@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5255 2013/05/22 18:48:50 szptvlfn Exp $
+# $Id: Makefile,v 1.5256 2013/05/22 19:15:01 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3439,7 +3439,6 @@ SUBDIR+=	xtrap
 SUBDIR+=	xtreemfs-client
 SUBDIR+=	xtreemfs-server
 SUBDIR+=	xtrlock
-SUBDIR+=	xulrunner
 SUBDIR+=	xvmware
 SUBDIR+=	xwelltris
 SUBDIR+=	xwindiff
