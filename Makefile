@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5259 2013/05/24 11:56:17 othyro Exp $
+# $Id: Makefile,v 1.5260 2013/05/24 21:48:50 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -906,6 +906,7 @@ SUBDIR+=	hitori
 SUBDIR+=	hlint
 SUBDIR+=	homebank
 SUBDIR+=	hpoj
+SUBDIR+=	hs-Boolean
 SUBDIR+=	hs-ConfigFile
 SUBDIR+=	hs-Diff
 SUBDIR+=	hs-GLURaw
