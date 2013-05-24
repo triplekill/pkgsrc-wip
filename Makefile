@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5258 2013/05/24 04:18:40 othyro Exp $
+# $Id: Makefile,v 1.5259 2013/05/24 11:56:17 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -921,6 +921,7 @@ SUBDIR+=	hs-HsHyperEstraier
 SUBDIR+=	hs-HsOpenSSL
 SUBDIR+=	hs-HsSVN
 SUBDIR+=	hs-Lucu
+SUBDIR+=	hs-MemoTrie
 SUBDIR+=	hs-MissingH
 SUBDIR+=	hs-MonadCatchIO-mtl
 SUBDIR+=	hs-MonadCatchIO-transformers
