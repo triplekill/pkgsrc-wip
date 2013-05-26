@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5262 2013/05/24 22:18:28 szptvlfn Exp $
+# $Id: Makefile,v 1.5263 2013/05/25 09:49:00 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2753,6 +2753,7 @@ SUBDIR+=	py-webhelpers
 SUBDIR+=	py-webkit
 SUBDIR+=	py-webob
 SUBDIR+=	py-whisper
+SUBDIR+=	py-wifite
 SUBDIR+=	py-willow
 SUBDIR+=	py-workerpool
 SUBDIR+=	py-wsgi-intercept
