@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5278 2013/05/29 12:00:37 othyro Exp $
+# $Id: Makefile,v 1.5279 2013/05/31 02:37:57 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3228,6 +3228,7 @@ SUBDIR+=	unmo3
 SUBDIR+=	unnethack
 SUBDIR+=	unpaper
 SUBDIR+=	unrealtournament-server
+SUBDIR+=	unzip
 SUBDIR+=	uprof
 SUBDIR+=	uptimed
 SUBDIR+=	uqwk
