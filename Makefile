@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5282 2013/06/01 14:34:27 shattered Exp $
+# $Id: Makefile,v 1.5283 2013/06/01 18:23:42 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1507,7 +1507,6 @@ SUBDIR+=	llvm
 SUBDIR+=	lmdbg-current
 SUBDIR+=	lmfit
 SUBDIR+=	lmtp2nntp
-SUBDIR+=	lockf
 SUBDIR+=	logfmon-devel
 SUBDIR+=	lorder
 SUBDIR+=	lpdsrv
