@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5281 2013/05/31 14:44:07 thomasklausner Exp $
+# $Id: Makefile,v 1.5282 2013/06/01 14:34:27 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2453,9 +2453,9 @@ SUBDIR+=	py-isodate
 SUBDIR+=	py-jabber-aimt
 SUBDIR+=	py-jabber-icqt
 SUBDIR+=	py-jabber-msnt
-# SUBDIR+=	py-jabber-palaver
+#SUBDIR+=	py-jabber-palaver
 SUBDIR+=	py-jabber-proxy65
-# SUBDIR+=	py-jabber-punjab
+#SUBDIR+=	py-jabber-punjab
 SUBDIR+=	py-jabber-yahoo-transport
 SUBDIR+=	py-jabberbot
 SUBDIR+=	py-joblib
@@ -3415,9 +3415,9 @@ SUBDIR+=	xmonad-contrib
 SUBDIR+=	xmoto
 SUBDIR+=	xombrero
 SUBDIR+=	xoo
-SUBDIR+=	xphelloworld
 SUBDIR+=	xpde
 SUBDIR+=	xpdq
+SUBDIR+=	xphelloworld
 SUBDIR+=	xpi-quick_locale_switcher
 SUBDIR+=	xpilot-ng
 SUBDIR+=	xplore
