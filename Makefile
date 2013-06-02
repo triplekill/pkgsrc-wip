@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5288 2013/06/02 23:02:03 othyro Exp $
+# $Id: Makefile,v 1.5289 2013/06/02 23:33:53 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3339,6 +3339,7 @@ SUBDIR+=	xesam-glib
 SUBDIR+=	xf86-input-elographics
 SUBDIR+=	xf86-input-fpit
 SUBDIR+=	xf86-input-hyperpen
+SUBDIR+=	xf86-input-joystick
 SUBDIR+=	xf86-input-synaptics
 SUBDIR+=	xf86-video-geode
 SUBDIR+=	xf86-video-intel-old
