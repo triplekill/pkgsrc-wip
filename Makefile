@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5294 2013/06/03 02:21:42 othyro Exp $
+# $Id: Makefile,v 1.5295 2013/06/03 02:23:04 phonohawk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3000,7 +3000,6 @@ SUBDIR+=	spectrum
 SUBDIR+=	speedx
 SUBDIR+=	spfmilter
 SUBDIR+=	sphinxsearch
-SUBDIR+=	spice-protocol
 SUBDIR+=	spidermonkey185
 SUBDIR+=	splix
 SUBDIR+=	spyder
