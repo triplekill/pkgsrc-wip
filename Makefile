@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5293 2013/06/03 01:23:03 othyro Exp $
+# $Id: Makefile,v 1.5294 2013/06/03 02:21:42 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3100,6 +3100,7 @@ SUBDIR+=	tcl86
 SUBDIR+=	tcmplex-panteltje
 SUBDIR+=	tcpspy
 SUBDIR+=	tcptrack
+SUBDIR+=	tcptunnel
 SUBDIR+=	tcpxtract
 SUBDIR+=	tctool
 SUBDIR+=	tde
