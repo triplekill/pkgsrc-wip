@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5298 2013/06/04 03:54:09 othyro Exp $
+# $Id: Makefile,v 1.5299 2013/06/04 04:12:56 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2876,7 +2876,6 @@ SUBDIR+=	ruby-easyjour
 SUBDIR+=	ruby-git
 SUBDIR+=	ruby-passenger
 SUBDIR+=	ruby-teamocil
-SUBDIR+=	ruby-term-ansicolor
 SUBDIR+=	ruby-trollop
 SUBDIR+=	ruby-xmpp4r
 SUBDIR+=	ruby-yaml_waml
