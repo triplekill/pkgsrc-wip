@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5302 2013/06/07 13:43:20 makoto Exp $
+# $Id: Makefile,v 1.5303 2013/06/07 21:18:37 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -283,6 +283,7 @@ SUBDIR+=	cde
 SUBDIR+=	cdogs
 SUBDIR+=	cdpr
 SUBDIR+=	cedet
+SUBDIR+=	celery
 SUBDIR+=	cfengine
 SUBDIR+=	cgit
 SUBDIR+=	cglib
