@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5303 2013/06/07 21:18:37 othyro Exp $
+# $Id: Makefile,v 1.5304 2013/06/07 22:00:14 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2486,6 +2486,7 @@ SUBDIR+=	py-libtextcat
 SUBDIR+=	py-libtorrent-rasterbar
 SUBDIR+=	py-libtunepimp
 SUBDIR+=	py-liveplots
+SUBDIR+=	py-logan
 SUBDIR+=	py-loggly
 SUBDIR+=	py-logilab-database
 SUBDIR+=	py-logilab-mtconverter
