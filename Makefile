@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5316 2013/06/09 14:32:53 kristerw Exp $
+# $Id: Makefile,v 1.5317 2013/06/09 20:51:43 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1360,6 +1360,7 @@ SUBDIR+=	libburn
 SUBDIR+=	libcaca
 SUBDIR+=	libcdata
 SUBDIR+=	libcerror
+SUBDIR+=	libcfile
 SUBDIR+=	libcgi
 SUBDIR+=	libcli
 SUBDIR+=	libclocale
