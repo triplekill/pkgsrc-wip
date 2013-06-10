@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5320 2013/06/10 01:32:12 makoto Exp $
+# $Id: Makefile,v 1.5321 2013/06/10 05:10:30 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3470,6 +3470,7 @@ SUBDIR+=	yafray
 SUBDIR+=	yajl
 SUBDIR+=	yakuake
 SUBDIR+=	yaml-mode
+SUBDIR+=	yateclient
 SUBDIR+=	yauap
 SUBDIR+=	yaupspe
 SUBDIR+=	yelp-tools
