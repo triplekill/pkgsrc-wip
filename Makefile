@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5322 2013/06/10 12:34:30 othyro Exp $
+# $Id: Makefile,v 1.5323 2013/06/11 01:08:18 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1220,6 +1220,7 @@ SUBDIR+=	islamic-menus
 SUBDIR+=	ispell-dictionaries
 SUBDIR+=	itask-ng
 SUBDIR+=	itools
+SUBDIR+=	jansson
 SUBDIR+=	ja-freewnn-cvs
 SUBDIR+=	ja-freewnn-lib
 SUBDIR+=	ja-freewnn-server
