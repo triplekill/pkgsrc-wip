@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5328 2013/06/13 11:30:00 othyro Exp $
+# $Id: Makefile,v 1.5329 2013/06/13 21:56:11 lexort Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3061,7 +3061,6 @@ SUBDIR+=	swarp
 SUBDIR+=	swfmill
 SUBDIR+=	swftools
 SUBDIR+=	swift
-SUBDIR+=	swig2
 SUBDIR+=	swisseph
 SUBDIR+=	sword
 SUBDIR+=	sxemacs
