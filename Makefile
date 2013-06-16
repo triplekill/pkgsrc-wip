@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5331 2013/06/15 16:23:08 yvs4sf Exp $
+# $Id: Makefile,v 1.5332 2013/06/16 09:05:29 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -882,6 +882,7 @@ SUBDIR+=	gwyddion
 SUBDIR+=	gxconsole
 SUBDIR+=	gxmms2
 SUBDIR+=	gyp
+SUBDIR+=	h8300-elf-binutils
 SUBDIR+=	habak
 SUBDIR+=	haddock
 SUBDIR+=	hanazono-ttf
