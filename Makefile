@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5330 2013/06/14 18:43:01 thomasklausner Exp $
+# $Id: Makefile,v 1.5331 2013/06/15 16:23:08 yvs4sf Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -346,6 +346,7 @@ SUBDIR+=	common-mml
 SUBDIR+=	commoncpp2
 SUBDIR+=	compare
 SUBDIR+=	compiz-boxmenu
+SUBDIR+=	contacts
 SUBDIR+=	converttomp3
 SUBDIR+=	cops
 SUBDIR+=	copytape
