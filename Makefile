@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5338 2013/06/20 19:07:11 kristerw Exp $
+# $Id: Makefile,v 1.5339 2013/06/20 21:12:52 anthony_mallet Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1551,6 +1551,7 @@ SUBDIR+=	lzs-lkm
 SUBDIR+=	m4ri
 SUBDIR+=	mac-robber
 SUBDIR+=	macaulay2
+SUBDIR+=	magit-git
 SUBDIR+=	mago
 SUBDIR+=	mailfilter
 SUBDIR+=	majordomo-devel
