@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5342 2013/06/21 19:48:49 outpaddling Exp $
+# $Id: Makefile,v 1.5343 2013/06/22 11:16:21 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -628,6 +628,7 @@ SUBDIR+=	feynedit
 SUBDIR+=	feynhiggs
 SUBDIR+=	ffmpeg-current
 SUBDIR+=	fftjet
+SUBDIR+=	fftw-mpich
 SUBDIR+=	fftw-openmpi
 SUBDIR+=	fftw2-openmpi
 SUBDIR+=	ficl
