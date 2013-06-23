@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5343 2013/06/22 11:16:21 kristerw Exp $
+# $Id: Makefile,v 1.5344 2013/06/23 18:23:32 outpaddling Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1659,6 +1659,7 @@ SUBDIR+=	mozplugger
 SUBDIR+=	mp3chop
 SUBDIR+=	mpb
 SUBDIR+=	mpc-el
+SUBDIR+=	mpb-openmpi
 SUBDIR+=	mpg123-0.65
 SUBDIR+=	mpg123-nightly
 SUBDIR+=	mpgedit
