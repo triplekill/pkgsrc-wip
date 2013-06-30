@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5351 2013/06/30 13:45:28 noud4 Exp $
+# $Id: Makefile,v 1.5352 2013/06/30 17:25:57 guigui2 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3001,6 +3001,7 @@ SUBDIR+=	sm-change_ldappass
 SUBDIR+=	sm-change_qldforward
 SUBDIR+=	sm-compatibility
 SUBDIR+=	smc
+SUBDIR+=	smpeg2
 SUBDIR+=	smplayer
 SUBDIR+=	smproxy
 SUBDIR+=	smstools
