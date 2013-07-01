@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5352 2013/06/30 17:25:57 guigui2 Exp $
+# $Id: Makefile,v 1.5353 2013/06/30 22:59:14 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1525,6 +1525,7 @@ SUBDIR+=	lmdbg-current
 SUBDIR+=	lmfit
 SUBDIR+=	lmtp2nntp
 SUBDIR+=	logfmon-devel
+SUBDIR+=	logwatch
 SUBDIR+=	lorder
 SUBDIR+=	lpdsrv
 SUBDIR+=	lrslib
