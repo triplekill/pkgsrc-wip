@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5356 2013/07/01 11:45:56 noud4 Exp $
+# $Id: Makefile,v 1.5357 2013/07/02 11:19:38 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -303,7 +303,6 @@ SUBDIR+=	chrsh
 SUBDIR+=	cinelerra
 SUBDIR+=	cinelerra-cv
 SUBDIR+=	circe2
-SUBDIR+=	cityhash
 SUBDIR+=	ciwiki
 SUBDIR+=	cl-alexandria
 SUBDIR+=	cl-anaphora
