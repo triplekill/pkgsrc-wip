@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5362 2013/07/02 12:06:51 othyro Exp $
+# $Id: Makefile,v 1.5363 2013/07/06 01:17:20 othyro Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -802,7 +802,6 @@ SUBDIR+=	gnump3d
 SUBDIR+=	gnunet
 SUBDIR+=	gnupoc-makesis
 SUBDIR+=	gnupod
-SUBDIR+=	go
 SUBDIR+=	goattracker
 SUBDIR+=	godura
 SUBDIR+=	google-perftools
