@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5392 2013/07/14 12:41:39 noud4 Exp $
+# $Id: Makefile,v 1.5393 2013/07/14 12:44:11 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2115,6 +2115,7 @@ SUBDIR+=	pdnsd
 SUBDIR+=	pdq
 SUBDIR+=	pdsh
 SUBDIR+=	pear-Base
+SUBDIR+=	pear-CakePHP_CodeSniffer
 SUBDIR+=	pear-ConsoleTools
 SUBDIR+=	pear-DB_DataObject
 SUBDIR+=	pear-File_Iterator
