@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5378 2013/07/14 11:42:34 noud4 Exp $
+# $Id: Makefile,v 1.5379 2013/07/14 11:44:45 noud4 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3360,6 +3360,7 @@ SUBDIR+=	xclipboard
 SUBDIR+=	xcmsdb
 SUBDIR+=	xcursor-themes
 SUBDIR+=	xdbedizzy
+SUBDIR+=	xdebug
 SUBDIR+=	xdiskusage
 SUBDIR+=	xdotool
 SUBDIR+=	xebece
