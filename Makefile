@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5398 2013/07/20 17:38:26 thomasklausner Exp $
+# $Id: Makefile,v 1.5399 2013/07/21 15:39:15 shattered Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -43,8 +43,6 @@ SUBDIR+=	R-gsl
 SUBDIR+=	R-iterators
 SUBDIR+=	R-mclust
 SUBDIR+=	R-rgdal
-SUBDIR+=	Radiator
-SUBDIR+=	Radiator-all
 SUBDIR+=	ReZound
 SUBDIR+=	SDL-doc
 SUBDIR+=	SDL-doc-html
