@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5404 2013/07/24 12:47:54 ahp-nils Exp $
+# $Id: Makefile,v 1.5405 2013/07/29 20:15:38 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -897,6 +897,7 @@ SUBDIR+=	hawk
 SUBDIR+=	hawknl
 SUBDIR+=	haydar-fonts
 SUBDIR+=	haze
+SUBDIR+=	hdevtools
 SUBDIR+=	hdhomerun_config
 SUBDIR+=	hdparm
 SUBDIR+=	heimdall
