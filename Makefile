@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5405 2013/07/29 20:15:38 szptvlfn Exp $
+# $Id: Makefile,v 1.5406 2013/07/30 21:28:00 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3045,6 +3045,7 @@ SUBDIR+=	spatt
 SUBDIR+=	spawnfcgi
 SUBDIR+=	spe
 SUBDIR+=	spectrum
+SUBDIR+=	spectrwm
 SUBDIR+=	speedx
 SUBDIR+=	spfmilter
 SUBDIR+=	sphinxsearch
