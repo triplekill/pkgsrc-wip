@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5416 2013/08/14 01:27:23 outpaddling Exp $
+# $Id: Makefile,v 1.5417 2013/08/14 08:37:17 obache Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3069,6 +3069,7 @@ SUBDIR+=	srvx
 SUBDIR+=	sselp
 SUBDIR+=	ssid
 SUBDIR+=	ssu
+SUBDIR+=	st
 SUBDIR+=	stardict
 SUBDIR+=	stardict-tools
 SUBDIR+=	stfl
