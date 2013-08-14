@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5414 2013/08/13 23:08:18 outpaddling Exp $
+# $Id: Makefile,v 1.5415 2013/08/14 01:24:36 outpaddling Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -141,6 +141,7 @@ SUBDIR+=	apache-commons-pool
 SUBDIR+=	apache-log4j
 SUBDIR+=	apache-velocity
 SUBDIR+=	apachebench2
+SUBDIR+=	ape
 SUBDIR+=	apstget
 SUBDIR+=	apvlv
 SUBDIR+=	ar7
