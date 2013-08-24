@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5437 2013/08/23 11:32:50 thomasklausner Exp $
+# $Id: Makefile,v 1.5438 2013/08/23 20:58:17 wongk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -236,6 +236,7 @@ SUBDIR+=	bonnie++-current
 SUBDIR+=	boo
 SUBDIR+=	boost-test-suite
 SUBDIR+=	boost-threadpool
+SUBDIR+=	bowtie
 SUBDIR+=	bpmcounter
 SUBDIR+=	bridge-utils
 SUBDIR+=	briquolo
