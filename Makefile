@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5440 2013/08/28 09:04:16 fhajny Exp $
+# $Id: Makefile,v 1.5441 2013/08/28 20:21:06 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1715,6 +1715,7 @@ SUBDIR+=	multisync-palm
 SUBDIR+=	multisync-syncml
 SUBDIR+=	multisync-syncml-moto
 SUBDIR+=	mumble
+SUBDIR+=	munge
 SUBDIR+=	munin-common
 SUBDIR+=	munin-master
 SUBDIR+=	munin-node
