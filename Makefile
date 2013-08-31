@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5444 2013/08/30 20:18:07 asau Exp $
+# $Id: Makefile,v 1.5445 2013/08/31 07:14:19 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1029,6 +1029,7 @@ SUBDIR+=	hs-ghc-syb-utils
 SUBDIR+=	hs-gio
 SUBDIR+=	hs-glib
 SUBDIR+=	hs-gnuplot
+SUBDIR+=	hs-groupoids
 SUBDIR+=	hs-gtk
 SUBDIR+=	hs-hashable
 SUBDIR+=	hs-hashed-storage
