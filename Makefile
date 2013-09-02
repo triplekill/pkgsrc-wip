@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5451 2013/09/01 22:22:33 asau Exp $
+# $Id: Makefile,v 1.5452 2013/09/02 12:10:33 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2970,6 +2970,8 @@ SUBDIR+=	rygel
 SUBDIR+=	s3cmd
 SUBDIR+=	s3funnel
 SUBDIR+=	safekeep
+SUBDIR+=	sais
+SUBDIR+=	sais-demo-data
 SUBDIR+=	samba
 SUBDIR+=	samhain
 SUBDIR+=	sandy
@@ -2995,6 +2997,7 @@ SUBDIR+=	scummvm-nightly
 SUBDIR+=	scx
 SUBDIR+=	sdd
 SUBDIR+=	sdict-tools
+SUBDIR+=	seagull
 SUBDIR+=	sector-decomposition
 SUBDIR+=	seeks
 SUBDIR+=	semanticscuttle
