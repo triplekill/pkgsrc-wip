@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5457 2013/09/06 17:36:52 kristerw Exp $
+# $Id: Makefile,v 1.5458 2013/09/06 17:43:54 kristerw Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3217,7 +3217,6 @@ SUBDIR+=	tengwar-ttf
 SUBDIR+=	tenmado
 SUBDIR+=	tenshi
 SUBDIR+=	termit
-SUBDIR+=	testdisk
 SUBDIR+=	tetrinet
 SUBDIR+=	tex-abntex
 SUBDIR+=	tex-arabxtex
