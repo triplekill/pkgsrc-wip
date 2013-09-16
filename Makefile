@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5470 2013/09/16 21:27:28 szptvlfn Exp $
+# $Id: Makefile,v 1.5471 2013/09/16 23:05:30 szptvlfn Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1115,6 +1115,7 @@ SUBDIR+=	hs-regex-posix
 SUBDIR+=	hs-regex-tdfa
 SUBDIR+=	hs-regional-pointers
 SUBDIR+=	hs-regions
+SUBDIR+=	hs-resourcet
 SUBDIR+=	hs-rosezipper
 SUBDIR+=	hs-rosezipper1
 SUBDIR+=	hs-safer-file-handles
