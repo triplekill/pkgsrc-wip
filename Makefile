@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5479 2013/09/25 06:21:44 noud4 Exp $
+# $Id: Makefile,v 1.5480 2013/09/25 22:21:32 ryo-on Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3198,6 +3198,7 @@ SUBDIR+=	symon
 SUBDIR+=	sympol
 SUBDIR+=	sympow
 SUBDIR+=	syn68k
+SUBDIR+=	sync-server-dependencies
 SUBDIR+=	synce-dynamite
 SUBDIR+=	synce-kde
 SUBDIR+=	synce-orange
