@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5485 2013/10/01 09:48:55 phonohawk Exp $
+# $Id: Makefile,v 1.5486 2013/10/01 20:27:34 wongk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3071,6 +3071,7 @@ SUBDIR+=	showmesh
 SUBDIR+=	shttpd
 SUBDIR+=	shunt
 SUBDIR+=	sic
+SUBDIR+=	sickbeard
 SUBDIR+=	siege
 SUBDIR+=	sil-scheherazade-ttf
 SUBDIR+=	silky
