@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5492 2013/10/11 01:41:12 makoto Exp $
+# $Id: Makefile,v 1.5493 2013/10/11 11:50:46 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -531,7 +531,6 @@ SUBDIR+=	eclipse
 SUBDIR+=	ecore
 SUBDIR+=	edb
 SUBDIR+=	edelib
-SUBDIR+=	editline
 SUBDIR+=	edje
 SUBDIR+=	eet
 SUBDIR+=	efltk
