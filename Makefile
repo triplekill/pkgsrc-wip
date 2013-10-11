@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5493 2013/10/11 11:50:46 thomasklausner Exp $
+# $Id: Makefile,v 1.5494 2013/10/11 14:25:10 thomasklausner Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3421,6 +3421,7 @@ SUBDIR+=	vidrioclock
 SUBDIR+=	vidriolib
 SUBDIR+=	viewer
 SUBDIR+=	viewglob
+SUBDIR+=	vimb
 SUBDIR+=	vimprobable2
 SUBDIR+=	vimrc-mode
 SUBDIR+=	virtualbox
