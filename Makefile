@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5494 2013/10/11 14:25:10 thomasklausner Exp $
+# $Id: Makefile,v 1.5495 2013/10/11 16:47:49 leot1990 Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2370,6 +2370,7 @@ SUBDIR+=	pxlib
 SUBDIR+=	pxview
 SUBDIR+=	py-Beaker
 SUBDIR+=	py-Brenda
+SUBDIR+=	py-CalDAVClientLibrary
 SUBDIR+=	py-CVSToys
 SUBDIR+=	py-Climate
 SUBDIR+=	py-DNS
