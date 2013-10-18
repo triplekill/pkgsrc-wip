@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5499 2013/10/14 04:53:20 makoto Exp $
+# $Id: Makefile,v 1.5500 2013/10/15 12:24:53 makoto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -3024,6 +3024,7 @@ SUBDIR+=	rubrica2
 SUBDIR+=	ruby-GalleryAdministrator
 SUBDIR+=	ruby-actionmessenger
 SUBDIR+=	ruby-bdb
+SUBDIR+=	ruby-cabin
 SUBDIR+=	ruby-diaspora
 SUBDIR+=	ruby-ditz
 SUBDIR+=	ruby-dnssd
