@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5500 2013/10/15 12:24:53 makoto Exp $
+# $Id: Makefile,v 1.5501 2013/10/18 10:52:27 wongk Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -1200,8 +1200,6 @@ SUBDIR+=	hylafax
 SUBDIR+=	hylafax-devel
 SUBDIR+=	hyperrogue
 SUBDIR+=	hztool
-SUBDIR+=	i3
-SUBDIR+=	i3-devel
 SUBDIR+=	i3lock
 SUBDIR+=	i3status
 SUBDIR+=	iText
