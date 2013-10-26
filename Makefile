@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5506 2013/10/23 18:36:57 thomasklausner Exp $
+# $Id: Makefile,v 1.5507 2013/10/25 22:04:16 rhialto Exp $
 #
 
 COMMENT=	WIP pkgsrc packages
@@ -2969,6 +2969,7 @@ SUBDIR+=	ratpoints
 SUBDIR+=	ratproxy
 SUBDIR+=	rc.d.Interix
 SUBDIR+=	rc.subr
+SUBDIR+=	rdfind
 SUBDIR+=	rdup
 SUBDIR+=	re2
 SUBDIR+=	readseq
