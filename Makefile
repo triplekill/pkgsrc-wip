@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5510 2013/10/30 04:27:30 asau Exp $
+# $Id: Makefile,v 1.5511 2013/10/30 14:22:43 makoto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -824,6 +824,7 @@ SUBDIR+=	gpsdrive
 SUBDIR+=	gpx2shp
 SUBDIR+=	grandr
 SUBDIR+=	granule
+SUBDIR+=	graphite2
 SUBDIR+=	graphmonkey
 SUBDIR+=	grass
 SUBDIR+=	grass-JockeyRidge
