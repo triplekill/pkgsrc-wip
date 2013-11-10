@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5519 2013/11/07 18:55:35 nros Exp $
+# $Id: Makefile,v 1.5520 2013/11/10 13:40:54 ryo-on Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -528,6 +528,7 @@ SUBDIR+=	eclipse
 SUBDIR+=	ecore
 SUBDIR+=	edb
 SUBDIR+=	edelib
+SUBDIR+=	editorconfig-core
 SUBDIR+=	edje
 SUBDIR+=	eet
 SUBDIR+=	efltk
