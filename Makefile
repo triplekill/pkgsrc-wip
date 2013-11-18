@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5525 2013/11/16 21:07:34 asau Exp $
+# $Id: Makefile,v 1.5526 2013/11/17 07:03:05 makoto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1831,8 +1831,6 @@ SUBDIR+=	nih-current
 SUBDIR+=	ninja-ide
 SUBDIR+=	ninka
 #SUBDIR+=	nios2		# not a package
-SUBDIR+=	nios2-binutils
-SUBDIR+=	nios2-gcc
 SUBDIR+=	nios2-gdb
 SUBDIR+=	njb-sharp
 SUBDIR+=	nnrpd
