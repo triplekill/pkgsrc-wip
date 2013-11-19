@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5526 2013/11/17 07:03:05 makoto Exp $
+# $Id: Makefile,v 1.5527 2013/11/18 09:11:35 makoto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1895,7 +1895,6 @@ SUBDIR+=	openmx-openmpi
 SUBDIR+=	opennurbs
 SUBDIR+=	openscep
 SUBDIR+=	opensips
-SUBDIR+=	opensmtpd
 SUBDIR+=	opentracker-current
 SUBDIR+=	openttd-opengfx
 SUBDIR+=	openttd-openmsx
