@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5532 2013/11/27 00:21:28 szptvlfn Exp $
+# $Id: Makefile,v 1.5533 2013/11/29 06:34:19 phonohawk Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3148,6 +3148,7 @@ SUBDIR+=	sloccount
 SUBDIR+=	slrn-devel
 SUBDIR+=	slrn-pl
 SUBDIR+=	slune
+SUBDIR+=	slurm
 SUBDIR+=	sm-change_ldappass
 SUBDIR+=	sm-change_qldforward
 SUBDIR+=	sm-compatibility
