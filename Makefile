@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5531 2013/11/26 23:11:30 nros Exp $
+# $Id: Makefile,v 1.5532 2013/11/27 00:21:28 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2375,6 +2375,7 @@ SUBDIR+=	pudb
 SUBDIR+=	pulseaudio
 SUBDIR+=	pure
 SUBDIR+=	purple-translate
+SUBDIR+=	pwnat
 SUBDIR+=	pxlib
 SUBDIR+=	pxview
 SUBDIR+=	py-Beaker
