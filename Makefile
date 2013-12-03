@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5534 2013/11/29 17:58:28 outpaddling Exp $
+# $Id: Makefile,v 1.5535 2013/11/29 21:32:15 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -41,6 +41,7 @@ SUBDIR+=	R-graph
 SUBDIR+=	R-gsl
 SUBDIR+=	R-iterators
 SUBDIR+=	R-mclust
+SUBDIR+=	R-moonsun
 SUBDIR+=	R-rgdal
 SUBDIR+=	ReZound
 SUBDIR+=	SDL-doc
