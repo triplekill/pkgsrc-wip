@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5539 2013/12/05 02:54:26 phonohawk Exp $
+# $Id: Makefile,v 1.5540 2013/12/05 21:27:37 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2336,6 +2336,7 @@ SUBDIR+=	pnmcurve
 SUBDIR+=	pocketsphinx
 SUBDIR+=	pointfree
 SUBDIR+=	pointless
+SUBDIR+=	pokerth
 SUBDIR+=	polarssl11
 SUBDIR+=	polipo
 SUBDIR+=	polylib
