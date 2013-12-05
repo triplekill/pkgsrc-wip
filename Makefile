@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5538 2013/12/04 13:03:50 nros Exp $
+# $Id: Makefile,v 1.5539 2013/12/05 02:54:26 phonohawk Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1481,6 +1481,7 @@ SUBDIR+=	libindicator
 SUBDIR+=	libinotify
 SUBDIR+=	libinstpatch
 SUBDIR+=	libipctdata
+SUBDIR+=	libircclient
 SUBDIR+=	libisoburn
 SUBDIR+=	libisofs
 SUBDIR+=	libitl
