@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5542 2013/12/07 08:50:42 obache Exp $
+# $Id: Makefile,v 1.5543 2013/12/08 15:27:53 cheusov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1689,7 +1689,6 @@ SUBDIR+=	mixxx
 SUBDIR+=	mk-configure
 SUBDIR+=	mkcabal
 SUBDIR+=	mkcomposecache
-SUBDIR+=	mkdep
 SUBDIR+=	mksend
 SUBDIR+=	mlmmj
 SUBDIR+=	mlocate
