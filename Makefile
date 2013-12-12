@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5549 2013/12/12 15:36:07 noud4 Exp $
+# $Id: Makefile,v 1.5550 2013/12/12 19:12:38 slitvinov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -210,6 +210,7 @@ SUBDIR+=	bind10-devel
 SUBDIR+=	bindgraph
 SUBDIR+=	biopython
 SUBDIR+=	bioruby
+SUBDIR+=	bitcoin
 SUBDIR+=	bkchem
 SUBDIR+=	blam
 SUBDIR+=	bleachbit
