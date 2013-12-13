@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5550 2013/12/12 19:12:38 slitvinov Exp $
+# $Id: Makefile,v 1.5551 2013/12/12 20:48:00 noud4 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -202,6 +202,7 @@ SUBDIR+=	bashdb
 SUBDIR+=	bastard
 SUBDIR+=	beads
 SUBDIR+=	beast
+SUBDIR+=	bfgminer
 SUBDIR+=	bibliographer
 SUBDIR+=	bicho
 SUBDIR+=	bigdft
@@ -3432,6 +3433,7 @@ SUBDIR+=	uqwk
 SUBDIR+=	uschedule
 SUBDIR+=	using-mpi
 SUBDIR+=	ussp-push
+SUBDIR+=	uthash
 SUBDIR+=	util-linux
 SUBDIR+=	v8
 SUBDIR+=	vacuum
