@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5552 2013/12/13 00:54:00 noud4 Exp $
+# $Id: Makefile,v 1.5553 2013/12/13 13:17:21 hfath Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -175,6 +175,7 @@ SUBDIR+=	audacity-devel
 SUBDIR+=	audiere
 SUBDIR+=	audio-mml
 SUBDIR+=	audit-system
+SUBDIR+=	auto-admin
 SUBDIR+=	auto-complete-current
 SUBDIR+=	auto-complete-mode
 SUBDIR+=	autoproject
