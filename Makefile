@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5557 2013/12/20 14:00:26 makoto Exp $
+# $Id: Makefile,v 1.5558 2013/12/21 15:16:12 noud4 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -710,6 +710,7 @@ SUBDIR+=	gDesklets-starterbar
 SUBDIR+=	galib
 SUBDIR+=	galoisfieldarth
 SUBDIR+=	gambas2
+SUBDIR+=	gambatte-dev
 SUBDIR+=	gambc
 SUBDIR+=	gambit
 #SUBDIR+=	gaphor		# www/zope3 is gone
