@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5558 2013/12/21 15:16:12 noud4 Exp $
+# $Id: Makefile,v 1.5559 2013/12/24 13:26:02 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2115,6 +2115,7 @@ SUBDIR+=	p5-Startup
 SUBDIR+=	p5-String-Similarity
 SUBDIR+=	p5-Sub-Recursive
 SUBDIR+=	p5-Sub-WrapPackages
+SUBDIR+=	p5-Subtitles
 SUBDIR+=	p5-Syntax-Highlight-Perl-Improved
 SUBDIR+=	p5-Sys-CPU
 SUBDIR+=	p5-Sys-MemInfo
