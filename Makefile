@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5569 2014/01/02 09:27:35 szptvlfn Exp $
+# $Id: Makefile,v 1.5570 2014/01/02 19:21:16 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2755,7 +2755,6 @@ SUBDIR+=	py-pyevolve
 SUBDIR+=	py-pyexiv2
 SUBDIR+=	py-pyfaces
 SUBDIR+=	py-pyflation
-SUBDIR+=	py-pygi
 SUBDIR+=	py-pygit2
 SUBDIR+=	py-pyglet
 SUBDIR+=	py-pygr
