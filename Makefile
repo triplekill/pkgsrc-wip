@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5576 2014/01/03 04:09:18 othyro Exp $
+# $Id: Makefile,v 1.5577 2014/01/03 04:40:41 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -202,6 +202,7 @@ SUBDIR+=	banshee
 SUBDIR+=	bashdb
 SUBDIR+=	bastard
 SUBDIR+=	beads
+SUBDIR+=	beanstalkd
 SUBDIR+=	beast
 SUBDIR+=	bfgminer
 SUBDIR+=	bibliographer
