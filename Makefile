@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5577 2014/01/03 04:40:41 othyro Exp $
+# $Id: Makefile,v 1.5578 2014/01/03 05:32:49 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2449,6 +2449,7 @@ SUBDIR+=	py-astropy
 SUBDIR+=	py-astropysics
 SUBDIR+=	py-async
 SUBDIR+=	py-atpy
+SUBDIR+=	py-beanstalkc
 SUBDIR+=	py-behaviour
 SUBDIR+=	py-bidict
 SUBDIR+=	py-bigfloat
