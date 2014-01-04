@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5581 2014/01/04 03:01:32 othyro Exp $
+# $Id: Makefile,v 1.5582 2014/01/04 17:15:25 nros Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2844,7 +2844,6 @@ SUBDIR+=	py-sdt_metrics
 SUBDIR+=	py-se
 SUBDIR+=	py-selenium
 SUBDIR+=	py-sempy
-SUBDIR+=	py-serial
 SUBDIR+=	py-setupdocs
 SUBDIR+=	py-setuptools_git
 SUBDIR+=	py-sexy
