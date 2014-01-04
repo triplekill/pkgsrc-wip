@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5580 2014/01/03 07:27:17 makoto Exp $
+# $Id: Makefile,v 1.5581 2014/01/04 03:01:32 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2375,6 +2375,7 @@ SUBDIR+=	povray
 SUBDIR+=	ppp
 SUBDIR+=	ppr
 SUBDIR+=	premake
+SUBDIR+=	premake4
 SUBDIR+=	probcons
 SUBDIR+=	probe
 SUBDIR+=	procps
