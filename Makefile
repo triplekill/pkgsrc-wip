@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5586 2014/01/05 15:12:21 othyro Exp $
+# $Id: Makefile,v 1.5587 2014/01/05 18:15:36 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -927,6 +927,7 @@ SUBDIR+=	hepmc
 SUBDIR+=	hepmcvisual
 SUBDIR+=	heroes
 SUBDIR+=	herwig
+SUBDIR+=	hexchat
 SUBDIR+=	hgsubversion
 SUBDIR+=	hgview
 SUBDIR+=	higan
