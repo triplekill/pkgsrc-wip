@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5587 2014/01/05 18:15:36 thomasklausner Exp $
+# $Id: Makefile,v 1.5588 2014/01/06 23:06:21 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3474,7 +3474,6 @@ SUBDIR+=	vba-m
 SUBDIR+=	vche
 SUBDIR+=	vdesk
 SUBDIR+=	vee
-SUBDIR+=	verilog
 SUBDIR+=	verilog-current
 SUBDIR+=	vidalia
 SUBDIR+=	vidalia-devel
