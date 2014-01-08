@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5589 2014/01/07 11:35:47 makoto Exp $
+# $Id: Makefile,v 1.5590 2014/01/08 12:35:58 nsloss Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1489,6 +1489,7 @@ SUBDIR+=	libgxim
 SUBDIR+=	libgzstream
 SUBDIR+=	libharu
 SUBDIR+=	libhid
+SUBDIR+=	libhidapi
 SUBDIR+=	libhttpd
 SUBDIR+=	libifstat
 SUBDIR+=	libindicator
