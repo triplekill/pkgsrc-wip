@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5593 2014/01/09 09:38:54 szptvlfn Exp $
+# $Id: Makefile,v 1.5594 2014/01/09 12:04:17 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1874,7 +1874,6 @@ SUBDIR+=	noor
 SUBDIR+=	nos-tun
 SUBDIR+=	nostromo
 SUBDIR+=	notify-sharp
-SUBDIR+=	notmuch
 SUBDIR+=	nsc2ke
 SUBDIR+=	nsp
 SUBDIR+=	nspr
