@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5597 2014/01/10 09:51:21 thomasklausner Exp $
+# $Id: Makefile,v 1.5598 2014/01/11 15:31:52 cheusov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1787,7 +1787,6 @@ SUBDIR+=	muscle-pkcs11
 SUBDIR+=	muscletool
 SUBDIR+=	musepack
 SUBDIR+=	musescore
-SUBDIR+=	mutt-kz
 SUBDIR+=	mutt-ng
 SUBDIR+=	muttprint
 SUBDIR+=	muttvcquery
