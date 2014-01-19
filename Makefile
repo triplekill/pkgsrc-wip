@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5606 2014/01/19 11:26:03 thomasklausner Exp $
+# $Id: Makefile,v 1.5607 2014/01/19 16:45:43 keckhardt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2749,7 +2749,6 @@ SUBDIR+=	py-pyamg
 SUBDIR+=	py-pycifrw
 SUBDIR+=	py-pydec
 SUBDIR+=	py-pydelay
-SUBDIR+=	py-pydot
 SUBDIR+=	py-pyec
 SUBDIR+=	py-pyecm
 SUBDIR+=	py-pyentropy
