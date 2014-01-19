@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5604 2014/01/18 15:52:17 othyro Exp $
+# $Id: Makefile,v 1.5605 2014/01/19 09:34:37 makoto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1891,7 +1891,6 @@ SUBDIR+=	ogmrip
 SUBDIR+=	ogre
 SUBDIR+=	olsrd
 SUBDIR+=	omega
-SUBDIR+=	omniORB
 SUBDIR+=	oneloop
 SUBDIR+=	oolite
 SUBDIR+=	oops
@@ -2703,7 +2702,6 @@ SUBDIR+=	py-oak
 SUBDIR+=	py-oasa
 SUBDIR+=	py-obspy
 SUBDIR+=	py-oct2py
-SUBDIR+=	py-omniORBpy
 SUBDIR+=	py-ontopy
 SUBDIR+=	py-openastro
 SUBDIR+=	py-openopt
