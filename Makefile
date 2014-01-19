@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5605 2014/01/19 09:34:37 makoto Exp $
+# $Id: Makefile,v 1.5606 2014/01/19 11:26:03 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1635,6 +1635,7 @@ SUBDIR+=	mago
 SUBDIR+=	mailfilter
 SUBDIR+=	majordomo-devel
 SUBDIR+=	makedict
+SUBDIR+=	makepp
 SUBDIR+=	malaga
 SUBDIR+=	maloc
 SUBDIR+=	man
