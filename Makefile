@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5624 2014/01/28 16:37:50 nros Exp $
+# $Id: Makefile,v 1.5625 2014/01/29 19:54:38 christtrekker Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1010,6 +1010,7 @@ SUBDIR+=	hs-comonad-transformers
 SUBDIR+=	hs-comonads-fd
 SUBDIR+=	hs-concrete-typerep
 SUBDIR+=	hs-conduit
+SUBDIR+=	hs-constraints
 SUBDIR+=	hs-containers-unicode-symbols
 SUBDIR+=	hs-contravariant
 SUBDIR+=	hs-control-monad-failure
@@ -1041,6 +1042,7 @@ SUBDIR+=	hs-double-conversion
 SUBDIR+=	hs-dyre
 SUBDIR+=	hs-entropy
 SUBDIR+=	hs-event-list
+SUBDIR+=	hs-exceptions
 SUBDIR+=	hs-executable-path
 SUBDIR+=	hs-explicit-exception
 SUBDIR+=	hs-explicit-iomodes
@@ -1117,6 +1119,7 @@ SUBDIR+=	hs-nats
 SUBDIR+=	hs-network
 SUBDIR+=	hs-network-bytestring
 SUBDIR+=	hs-network-conduit
+SUBDIR+=	hs-newtype
 SUBDIR+=	hs-non-negative
 SUBDIR+=	hs-numeric-prelude
 SUBDIR+=	hs-numeric-quest
