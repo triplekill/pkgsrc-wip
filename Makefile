@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5623 2014/01/28 16:00:38 fhajny Exp $
+# $Id: Makefile,v 1.5624 2014/01/28 16:37:50 nros Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -669,6 +669,7 @@ SUBDIR+=	flyback
 SUBDIR+=	fnord
 SUBDIR+=	fnteditfs
 SUBDIR+=	font-bitstream-speedo
+SUBDIR+=	fontaine
 SUBDIR+=	fontedit
 SUBDIR+=	fonttosfnt
 SUBDIR+=	fortunes-it
