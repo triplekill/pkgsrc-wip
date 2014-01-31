@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5626 2014/01/29 22:34:37 szptvlfn Exp $
+# $Id: Makefile,v 1.5627 2014/01/30 22:17:47 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3120,6 +3120,7 @@ SUBDIR+=	scsh-install-lib
 SUBDIR+=	scummvm-nightly
 SUBDIR+=	scx
 SUBDIR+=	sdd
+SUBDIR+=	sdif-git
 SUBDIR+=	sdict-tools
 SUBDIR+=	seagull
 SUBDIR+=	sector-decomposition
