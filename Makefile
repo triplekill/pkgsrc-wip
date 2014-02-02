@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5632 2014/02/02 16:09:34 othyro Exp $
+# $Id: Makefile,v 1.5633 2014/02/02 23:24:01 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -788,7 +788,6 @@ SUBDIR+=	glulxe
 SUBDIR+=	glut
 SUBDIR+=	glw
 SUBDIR+=	glx-utils
-SUBDIR+=	glyr
 SUBDIR+=	gmc2mid
 SUBDIR+=	gmm
 SUBDIR+=	gmp-ecm
