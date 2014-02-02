@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5629 2014/01/31 15:41:04 nros Exp $
+# $Id: Makefile,v 1.5630 2014/02/02 00:13:27 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -57,7 +57,6 @@ SUBDIR+=	SDL-intro-jp
 SUBDIR+=	SDL-intro-pt
 SUBDIR+=	SDL-intro-ru
 SUBDIR+=	SDL2
-SUBDIR+=	SDL2_mixer
 SUBDIR+=	SDL2_ttf
 SUBDIR+=	Siesta
 SUBDIR+=	StepTalk
@@ -3184,7 +3183,6 @@ SUBDIR+=	sm-change_ldappass
 SUBDIR+=	sm-change_qldforward
 SUBDIR+=	sm-compatibility
 SUBDIR+=	smc
-SUBDIR+=	smpeg2
 SUBDIR+=	smplayer
 SUBDIR+=	smproxy
 SUBDIR+=	smstools
