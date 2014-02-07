@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5639 2014/02/06 15:13:34 fhajny Exp $
+# $Id: Makefile,v 1.5640 2014/02/06 15:25:44 outpaddling Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2984,6 +2984,7 @@ SUBDIR+=	qn-x11
 SUBDIR+=	qore
 SUBDIR+=	qore-freetds-module
 SUBDIR+=	qore-json-module
+SUBDIR+=	qore-mysql-module
 SUBDIR+=	qore-openldap-module
 SUBDIR+=	qore-pgsql-module
 SUBDIR+=	qore-ssh2-module
