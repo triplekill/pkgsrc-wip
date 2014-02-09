@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5640 2014/02/06 15:25:44 outpaddling Exp $
+# $Id: Makefile,v 1.5641 2014/02/07 14:19:56 nros Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3311,7 +3311,6 @@ SUBDIR+=	tc-svn
 SUBDIR+=	tcc
 SUBDIR+=	tcc-devel
 SUBDIR+=	tcl-curl
-SUBDIR+=	tcl-frink
 SUBDIR+=	tcl-iwidgets
 SUBDIR+=	tcl86
 SUBDIR+=	tcmplex-panteltje
