@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5644 2014/02/10 21:13:32 noud4 Exp $
+# $Id: Makefile,v 1.5645 2014/02/13 03:02:29 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3385,6 +3385,7 @@ SUBDIR+=	tops-bin
 SUBDIR+=	tor-dev
 SUBDIR+=	torcs
 SUBDIR+=	torsocks
+SUBDIR+=	tortoisehg
 SUBDIR+=	tortunnel
 SUBDIR+=	tpp
 SUBDIR+=	tqsllib
