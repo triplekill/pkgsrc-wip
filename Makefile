@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5645 2014/02/13 03:02:29 othyro Exp $
+# $Id: Makefile,v 1.5646 2014/02/13 19:07:38 nros Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -268,6 +268,7 @@ SUBDIR+=	cacti-plugin-settings
 SUBDIR+=	cacti-plugin-thold
 SUBDIR+=	cacti-plugin-tools
 SUBDIR+=	cacti-plugin-weathermap
+SUBDIR+=	cairo-dingbat-ttf
 SUBDIR+=	cairo-dock
 SUBDIR+=	cairo-dock-plugins
 SUBDIR+=	cairo-java
