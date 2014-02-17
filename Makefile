@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5653 2014/02/17 00:43:02 othyro Exp $
+# $Id: Makefile,v 1.5654 2014/02/17 09:13:58 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -7,7 +7,6 @@ SUBDIR+=	BitchX
 SUBDIR+=	Box2D
 SUBDIR+=	Chinput
 SUBDIR+=	ETL
-SUBDIR+=	Eina
 SUBDIR+=	FontManager
 SUBDIR+=	GNUMail-pgp
 SUBDIR+=	GSCommander
@@ -539,6 +538,7 @@ SUBDIR+=	efltk
 SUBDIR+=	efreet
 SUBDIR+=	eic
 SUBDIR+=	eina
+SUBDIR+=	eina-musicplayer
 SUBDIR+=	eio
 SUBDIR+=	ejourn
 SUBDIR+=	ekg2
