@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5656 2014/02/17 12:18:57 fhajny Exp $
+# $Id: Makefile,v 1.5657 2014/02/17 12:20:36 fhajny Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -735,7 +735,6 @@ SUBDIR+=	gde
 SUBDIR+=	gdmap
 SUBDIR+=	gdvb
 SUBDIR+=	geant
-SUBDIR+=	gearmand
 SUBDIR+=	gecko-sharp
 SUBDIR+=	gecode
 SUBDIR+=	gemrb
