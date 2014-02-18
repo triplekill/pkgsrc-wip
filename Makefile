@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5660 2014/02/17 12:27:38 fhajny Exp $
+# $Id: Makefile,v 1.5661 2014/02/17 14:03:49 fhajny Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2032,6 +2032,7 @@ SUBDIR+=	p5-Data-Random
 SUBDIR+=	p5-Data-Types
 SUBDIR+=	p5-Date-Range
 SUBDIR+=	p5-Devel-Profiler
+SUBDIR+=	p5-Dist-Zilla-Plugin-PodWeaver
 SUBDIR+=	p5-Email-AddressParser
 SUBDIR+=	p5-Encode-IMAPUTF7
 SUBDIR+=	p5-Encode-compat
