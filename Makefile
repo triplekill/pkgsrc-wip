@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5662 2014/02/18 04:08:27 jgoamakf Exp $
+# $Id: Makefile,v 1.5663 2014/02/18 14:41:48 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2149,6 +2149,7 @@ SUBDIR+=	p5-WWW-YouTube-Download
 SUBDIR+=	p5-WWW-YouTube-VideoURI
 SUBDIR+=	p5-WebService-Audioscrobbler
 SUBDIR+=	p5-WebService-CIA
+SUBDIR+=	p5-WebService-GData
 SUBDIR+=	p5-XML-DOM-XPath
 SUBDIR+=	p5-XML-DT
 SUBDIR+=	p5-XML-DTDParser
