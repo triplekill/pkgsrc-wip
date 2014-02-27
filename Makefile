@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5667 2014/02/23 02:17:32 jgoamakf Exp $
+# $Id: Makefile,v 1.5668 2014/02/27 00:00:25 r-hansen Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -827,6 +827,7 @@ SUBDIR+=	gpak
 SUBDIR+=	gplbasic
 SUBDIR+=	gps
 SUBDIR+=	gpsdrive
+SUBDIR+=	gpshell
 SUBDIR+=	gpx2shp
 SUBDIR+=	grandr
 SUBDIR+=	granule
