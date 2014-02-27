@@ -1,5 +1,5 @@
 # $NetBSD: Makefile,v 1.50 2011/10/20 13:22:26 makoto Exp $
-# $Id: Makefile,v 1.62 2012/06/28 04:27:43 makoto Exp $
+# $Id: Makefile,v 1.1 2012/07/09 02:53:58 makoto Exp $
 
 DISTNAME=	doxygen-dependent-1.00
 CATEGORIES=	meta-pkgs
@@ -25,8 +25,6 @@ DEPENDS+=	bison-[0-9]*:../../devel/bison
 DEPENDS+=	cppunit-[0-9]*:../../devel/cppunit
 DEPENDS+=	kdevelop-base-[0-9]*:../../devel/kdevelop-base
 DEPENDS+=	kyua-cli-[0-9]*:../../devel/kyua-cli
-DEPENDS+=	libdatrie-[0-9]*:../../devel/libdatrie
-DEPENDS+=	libthai-[0-9]*:../../devel/libthai
 DEPENDS+=	log4cxx-[0-9]*:../../devel/log4cxx
 DEPENDS+=	log4shib-[0-9]*:../../devel/log4shib
 DEPENDS+=	lutok-[0-9]*:../../devel/lutok
