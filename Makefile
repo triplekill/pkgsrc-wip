@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5677 2014/03/08 09:22:44 obache Exp $
+# $Id: Makefile,v 1.5678 2014/03/10 07:20:18 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2442,7 +2442,6 @@ SUBDIR+=	py-ase
 SUBDIR+=	py-aspects
 SUBDIR+=	py-aspell
 SUBDIR+=	py-aspyct
-SUBDIR+=	py-astroid
 SUBDIR+=	py-astropy
 SUBDIR+=	py-astropysics
 SUBDIR+=	py-async
@@ -2954,7 +2953,6 @@ SUBDIR+=	py-zeitgeist
 SUBDIR+=	py-zipline
 SUBDIR+=	pydance
 SUBDIR+=	pydb
-SUBDIR+=	pylint
 SUBDIR+=	pynfo
 SUBDIR+=	pypanel
 SUBDIR+=	pypod
