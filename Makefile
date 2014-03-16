@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5681 2014/03/12 23:21:07 szptvlfn Exp $
+# $Id: Makefile,v 1.5682 2014/03/13 12:11:55 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1245,7 +1245,6 @@ SUBDIR+=	imagination
 SUBDIR+=	imonc
 SUBDIR+=	info2man
 SUBDIR+=	interbase-docs
-#SUBDIR+=	interchange		# to be removed soon -- eric@cirr.com
 #SUBDIR+=	io			# not a package, same as jabberd bellow
 SUBDIR+=	io-base
 SUBDIR+=	io-blowfish
