@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5691 2014/03/30 20:01:12 krytarowski Exp $
+# $Id: Makefile,v 1.5692 2014/03/31 22:29:46 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1848,7 +1848,6 @@ SUBDIR+=	netwmpager
 SUBDIR+=	netwox
 SUBDIR+=	netx
 SUBDIR+=	newsbeuter
-SUBDIR+=	nginx
 SUBDIR+=	nhc98
 SUBDIR+=	nicotine+
 SUBDIR+=	nightfall
