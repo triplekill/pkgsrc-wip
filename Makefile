@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5694 2014/04/03 08:38:56 thomasklausner Exp $
+# $Id: Makefile,v 1.5695 2014/04/03 09:39:43 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2187,7 +2187,6 @@ SUBDIR+=	pdf2svg
 SUBDIR+=	pdfedit
 SUBDIR+=	pdfminer
 SUBDIR+=	pdfmod
-SUBDIR+=	pdfshuffler
 SUBDIR+=	pdftk
 SUBDIR+=	pdnsd
 SUBDIR+=	pdq
