@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5698 2014/04/05 20:03:57 jgoamakf Exp $
+# $Id: Makefile,v 1.5699 2014/04/06 21:29:46 rhialto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -506,7 +506,6 @@ SUBDIR+=	dvegas
 SUBDIR+=	dwepcrack
 SUBDIR+=	dxmake
 SUBDIR+=	dzen2
-SUBDIR+=	e-uae
 SUBDIR+=	e00pg
 SUBDIR+=	e16keyedit
 SUBDIR+=	e16menuedit
