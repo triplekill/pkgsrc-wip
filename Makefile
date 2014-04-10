@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5702 2014/04/09 00:33:34 jgoamakf Exp $
+# $Id: Makefile,v 1.5703 2014/04/10 08:14:04 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2339,6 +2339,7 @@ SUBDIR+=	pkg_summary-utils
 SUBDIR+=	pkgconf
 SUBDIR+=	pkgin
 SUBDIR+=	pkgmanager
+SUBDIR+=	plasma-widget-menubar
 SUBDIR+=	plasti
 SUBDIR+=	plconfig
 SUBDIR+=	plod
