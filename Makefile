@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5701 2014/04/07 12:39:37 obache Exp $
+# $Id: Makefile,v 1.5702 2014/04/09 00:33:34 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3622,7 +3622,6 @@ SUBDIR+=	wvstreams
 SUBDIR+=	wxGTK-contrib-unicode
 SUBDIR+=	wxGTK-unicode
 SUBDIR+=	wxMaxima
-SUBDIR+=	x264-devel
 SUBDIR+=	xace
 SUBDIR+=	xalan-c
 SUBDIR+=	xalan-c-1.10
