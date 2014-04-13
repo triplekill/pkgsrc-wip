@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5703 2014/04/10 08:14:04 obache Exp $
+# $Id: Makefile,v 1.5704 2014/04/10 11:21:13 nsloss Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -895,6 +895,7 @@ SUBDIR+=	habak
 SUBDIR+=	haddock
 SUBDIR+=	hanazono-ttf
 SUBDIR+=	happy
+SUBDIR+=	haproxy
 SUBDIR+=	hasciicam
 SUBDIR+=	haserl
 SUBDIR+=	haskell-mode
