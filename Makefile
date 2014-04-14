@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5704 2014/04/10 11:21:13 nsloss Exp $
+# $Id: Makefile,v 1.5705 2014/04/13 14:41:12 tnn2 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -893,6 +893,7 @@ SUBDIR+=	h323plus
 SUBDIR+=	h8300-elf-binutils
 SUBDIR+=	habak
 SUBDIR+=	haddock
+SUBDIR+=	hammer
 SUBDIR+=	hanazono-ttf
 SUBDIR+=	happy
 SUBDIR+=	haproxy
