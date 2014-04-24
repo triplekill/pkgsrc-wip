@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5721 2014/04/22 07:45:37 jgoamakf Exp $
+# $Id: Makefile,v 1.5722 2014/04/22 19:53:25 outpaddling Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3669,6 +3669,7 @@ SUBDIR+=	xf86-video-suntcx
 SUBDIR+=	xf86-video-voodoo
 SUBDIR+=	xf86dga
 SUBDIR+=	xf86rushproto
+SUBDIR+=	xfburn
 SUBDIR+=	xfce4-appfinder
 SUBDIR+=	xfce4-desktop
 SUBDIR+=	xfce4-dev-tools
