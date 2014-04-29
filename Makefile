@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5724 2014/04/24 19:15:27 christtrekker Exp $
+# $Id: Makefile,v 1.5725 2014/04/26 11:42:52 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2368,7 +2368,6 @@ SUBDIR+=	polylib
 SUBDIR+=	polymul
 SUBDIR+=	pop-before-smtp
 SUBDIR+=	pop3.proxy
-SUBDIR+=	poppler-qt5
 SUBDIR+=	popup-el-current
 SUBDIR+=	portaudio
 SUBDIR+=	postal2-mpdemo-bin
