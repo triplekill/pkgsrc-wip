@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5727 2014/04/29 08:10:21 thomasklausner Exp $
+# $Id: Makefile,v 1.5728 2014/04/29 14:22:01 keckhardt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1857,7 +1857,6 @@ SUBDIR+=	nios2-gdb
 SUBDIR+=	njb-sharp
 SUBDIR+=	nnrpd
 SUBDIR+=	nodau
-SUBDIR+=	node
 SUBDIR+=	nodm
 SUBDIR+=	noip
 SUBDIR+=	noiptun
