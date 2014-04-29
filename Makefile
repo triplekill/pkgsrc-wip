@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5730 2014/04/29 20:07:59 thomasklausner Exp $
+# $Id: Makefile,v 1.5731 2014/04/29 20:09:29 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3787,6 +3787,7 @@ SUBDIR+=	ypserv
 SUBDIR+=	zabbix
 SUBDIR+=	zapping
 SUBDIR+=	zathura
+SUBDIR+=	zathura-mupdf
 SUBDIR+=	zathura-poppler
 SUBDIR+=	zinf
 SUBDIR+=	ziparchive
