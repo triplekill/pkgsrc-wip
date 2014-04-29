@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5728 2014/04/29 14:22:01 keckhardt Exp $
+# $Id: Makefile,v 1.5729 2014/04/29 14:30:38 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1421,7 +1421,6 @@ SUBDIR+=	libbrahe
 SUBDIR+=	libbs2b
 SUBDIR+=	libbsd
 SUBDIR+=	libbtctl
-SUBDIR+=	libburn
 SUBDIR+=	libcaca
 SUBDIR+=	libcdata
 SUBDIR+=	libcerror
