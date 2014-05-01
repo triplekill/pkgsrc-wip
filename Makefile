@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5732 2014/04/29 22:48:35 leot1990 Exp $
+# $Id: Makefile,v 1.5733 2014/04/30 11:01:50 leot1990 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2284,6 +2284,7 @@ SUBDIR+=	pgp6
 SUBDIR+=	pgplot
 SUBDIR+=	pgpool2
 SUBDIR+=	phantomjs
+SUBDIR+=	pheanstalk
 SUBDIR+=	phonon-backend-xine
 #SUBDIR+=	php-doc			# not a package
 SUBDIR+=	php-doc-br
