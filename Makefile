@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5733 2014/04/30 11:01:50 leot1990 Exp $
+# $Id: Makefile,v 1.5734 2014/05/01 15:27:15 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2829,6 +2829,7 @@ SUBDIR+=	py-pyphant
 SUBDIR+=	py-pypol
 SUBDIR+=	py-pyqu
 SUBDIR+=	py-pyquante
+SUBDIR+=	py-pyqueue
 SUBDIR+=	py-pyrit
 SUBDIR+=	py-pysal
 SUBDIR+=	py-pysb
