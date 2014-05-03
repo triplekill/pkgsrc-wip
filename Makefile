@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5735 2014/05/02 09:02:44 ahp-nils Exp $
+# $Id: Makefile,v 1.5736 2014/05/03 15:22:34 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2485,7 +2485,6 @@ SUBDIR+=	py-chealpy
 SUBDIR+=	py-chebpy
 SUBDIR+=	py-chm
 SUBDIR+=	py-cinfony
-SUBDIR+=	py-cjson
 SUBDIR+=	py-clics
 SUBDIR+=	py-clnum
 SUBDIR+=	py-clonedigger
