@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5736 2014/05/03 15:22:34 othyro Exp $
+# $Id: Makefile,v 1.5737 2014/05/03 15:37:08 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1490,7 +1490,6 @@ SUBDIR+=	libinotify
 SUBDIR+=	libinstpatch
 SUBDIR+=	libipctdata
 SUBDIR+=	libircclient
-SUBDIR+=	libisoburn
 SUBDIR+=	libitl
 SUBDIR+=	libjdksmidi
 SUBDIR+=	libjingle
