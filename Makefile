@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5741 2014/05/04 14:17:48 othyro Exp $
+# $Id: Makefile,v 1.5742 2014/05/04 17:40:15 ahp-nils Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1163,6 +1163,7 @@ SUBDIR+=	hs-test-framework-quickcheck2
 SUBDIR+=	hs-texmath
 SUBDIR+=	hs-text
 SUBDIR+=	hs-text-icu
+SUBDIR+=	hs-tf-random
 SUBDIR+=	hs-tfp
 SUBDIR+=	hs-time-http
 SUBDIR+=	hs-time-w3c
