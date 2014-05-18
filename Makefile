@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5757 2014/05/17 17:01:01 khorben Exp $
+# $Id: Makefile,v 1.5758 2014/05/17 21:00:05 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3739,6 +3739,7 @@ SUBDIR+=	zathura
 SUBDIR+=	zathura-djvu
 SUBDIR+=	zathura-mupdf
 SUBDIR+=	zathura-poppler
+SUBDIR+=	zathura-ps
 SUBDIR+=	zinf
 SUBDIR+=	ziparchive
 SUBDIR+=	zipios
