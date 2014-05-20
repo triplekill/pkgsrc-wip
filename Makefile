@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5761 2014/05/18 21:33:25 szptvlfn Exp $
+# $Id: Makefile,v 1.5762 2014/05/19 21:28:46 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1004,7 +1004,6 @@ SUBDIR+=	hs-data-accessor
 SUBDIR+=	hs-data-accessor-monads-fd
 SUBDIR+=	hs-data-accessor-mtl
 SUBDIR+=	hs-data-accessor-template
-SUBDIR+=	hs-data-default
 SUBDIR+=	hs-dataenc
 SUBDIR+=	hs-dependent-sum
 SUBDIR+=	hs-derive
@@ -1018,7 +1017,6 @@ SUBDIR+=	hs-exceptions
 SUBDIR+=	hs-executable-path
 SUBDIR+=	hs-explicit-exception
 SUBDIR+=	hs-explicit-iomodes
-SUBDIR+=	hs-extensible-exceptions
 SUBDIR+=	hs-failure
 SUBDIR+=	hs-fclabels
 SUBDIR+=	hs-filemanip
