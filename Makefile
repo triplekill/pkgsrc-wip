@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5762 2014/05/19 21:28:46 szptvlfn Exp $
+# $Id: Makefile,v 1.5763 2014/05/20 21:23:18 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1846,6 +1846,7 @@ SUBDIR+=	obmenu
 SUBDIR+=	ocaml-bin_prot
 SUBDIR+=	ocaml-camomile
 SUBDIR+=	ocaml-odn
+SUBDIR+=	ocaml-sexplib
 SUBDIR+=	ocaml-type_conv
 SUBDIR+=	ocaml-zed
 SUBDIR+=	ocamlgraph
