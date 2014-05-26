@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5771 2014/05/24 22:04:37 szptvlfn Exp $
+# $Id: Makefile,v 1.5772 2014/05/25 21:59:28 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1181,7 +1181,6 @@ SUBDIR+=	hu-go
 SUBDIR+=	hunspell-dictionaries
 SUBDIR+=	hunspell-uk_UA
 SUBDIR+=	hydrogen-current
-SUBDIR+=	hyena
 SUBDIR+=	hyperrogue
 SUBDIR+=	hztool
 SUBDIR+=	i3lock
