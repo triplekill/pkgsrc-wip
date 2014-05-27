@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5775 2014/05/26 22:08:03 szptvlfn Exp $
+# $Id: Makefile,v 1.5776 2014/05/27 10:48:48 ahp-nils Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -963,7 +963,6 @@ SUBDIR+=	hs-bindings-audiofile
 SUBDIR+=	hs-bindings-librrd
 SUBDIR+=	hs-blaze-builder-conduit
 SUBDIR+=	hs-blaze-html
-SUBDIR+=	hs-blaze-markup
 SUBDIR+=	hs-blaze-textual
 SUBDIR+=	hs-bytestring-trie
 SUBDIR+=	hs-cabal-query
@@ -1150,7 +1149,6 @@ SUBDIR+=	hs-transformers-abort
 SUBDIR+=	hs-uconv
 SUBDIR+=	hs-uniplate
 SUBDIR+=	hs-unix-compat
-SUBDIR+=	hs-unordered-containers
 SUBDIR+=	hs-utility-ht
 SUBDIR+=	hs-vault
 SUBDIR+=	hs-vector-algorithms
