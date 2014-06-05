@@ -1,7 +1,8 @@
-# $Id: Makefile,v 1.5782 2014/05/31 21:36:31 szptvlfn Exp $
+# $Id: Makefile,v 1.5783 2014/06/02 00:16:38 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
+SUBDIR+=	2bwm
 SUBDIR+=	389-ds-base
 SUBDIR+=	BitchX
 SUBDIR+=	Box2D
