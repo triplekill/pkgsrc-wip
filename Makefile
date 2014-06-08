@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5792 2014/06/07 09:35:26 thomasklausner Exp $
+# $Id: Makefile,v 1.5793 2014/06/08 22:15:49 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2527,7 +2527,6 @@ SUBDIR+=	py-genesis
 SUBDIR+=	py-geographiclib
 SUBDIR+=	py-geopy
 SUBDIR+=	py-gettext-tools
-SUBDIR+=	py-gevent
 SUBDIR+=	py-ghalatawi
 SUBDIR+=	py-gist
 SUBDIR+=	py-git
