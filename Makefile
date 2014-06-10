@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5795 2014/06/08 22:57:44 othyro Exp $
+# $Id: Makefile,v 1.5796 2014/06/08 23:41:22 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1827,6 +1827,7 @@ SUBDIR+=	obmenu
 SUBDIR+=	ocaml-bin_prot
 SUBDIR+=	ocaml-camomile
 SUBDIR+=	ocaml-easy-format
+SUBDIR+=	ocaml-fieldslib
 SUBDIR+=	ocaml-odn
 SUBDIR+=	ocaml-sexplib
 SUBDIR+=	ocaml-type_conv
