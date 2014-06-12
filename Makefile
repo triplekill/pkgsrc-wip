@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5798 2014/06/11 12:16:40 hfath Exp $
+# $Id: Makefile,v 1.5799 2014/06/12 08:00:12 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3244,6 +3244,7 @@ SUBDIR+=	stfl
 SUBDIR+=	stksolver
 SUBDIR+=	stmpclean
 SUBDIR+=	stonx
+SUBDIR+=	structure
 SUBDIR+=	stumpwm
 SUBDIR+=	stunnel3
 SUBDIR+=	subversion17-base
