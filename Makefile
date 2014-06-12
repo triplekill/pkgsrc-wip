@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5797 2014/06/10 06:18:07 jgoamakf Exp $
+# $Id: Makefile,v 1.5798 2014/06/11 12:16:40 hfath Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1825,6 +1825,7 @@ SUBDIR+=	objfw-git
 SUBDIR+=	obmenu
 SUBDIR+=	ocaml-bin_prot
 SUBDIR+=	ocaml-camomile
+SUBDIR+=	ocaml-comparelib
 SUBDIR+=	ocaml-easy-format
 SUBDIR+=	ocaml-fieldslib
 SUBDIR+=	ocaml-odn
