@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5803 2014/06/22 19:54:12 thomasklausner Exp $
+# $Id: Makefile,v 1.5804 2014/06/22 19:58:08 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -975,6 +975,7 @@ SUBDIR+=	hs-categories
 SUBDIR+=	hs-cautious-file
 SUBDIR+=	hs-cereal
 SUBDIR+=	hs-cgi
+SUBDIR+=	hs-cgrep
 SUBDIR+=	hs-chalkboard
 SUBDIR+=	hs-chalkboard-viewer
 SUBDIR+=	hs-chunks
