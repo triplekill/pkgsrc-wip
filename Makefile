@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5811 2014/07/11 00:50:40 jgoamakf Exp $
+# $Id: Makefile,v 1.5812 2014/07/13 12:32:20 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2600,6 +2600,7 @@ SUBDIR+=	py-lapack
 SUBDIR+=	py-larry
 SUBDIR+=	py-latexcodec
 SUBDIR+=	py-lazr.uri
+SUBDIR+=	py-lhafile
 SUBDIR+=	py-lib
 SUBDIR+=	py-libmpdclient2
 SUBDIR+=	py-libopensync-plugin
