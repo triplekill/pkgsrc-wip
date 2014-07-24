@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5816 2014/07/22 17:37:15 thomasklausner Exp $
+# $Id: Makefile,v 1.5817 2014/07/24 07:24:54 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -928,7 +928,6 @@ SUBDIR+=	hs-HDBC
 SUBDIR+=	hs-HDBC-sqlite3
 SUBDIR+=	hs-HList
 SUBDIR+=	hs-HSH
-SUBDIR+=	hs-HTTP
 SUBDIR+=	hs-HUnit
 SUBDIR+=	hs-HsHyperEstraier
 SUBDIR+=	hs-HsOpenSSL
