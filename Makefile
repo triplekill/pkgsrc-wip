@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5820 2014/07/26 21:52:51 szptvlfn Exp $
+# $Id: Makefile,v 1.5821 2014/07/28 21:05:53 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1073,7 +1073,6 @@ SUBDIR+=	hs-midi
 SUBDIR+=	hs-mime
 SUBDIR+=	hs-mmap
 SUBDIR+=	hs-mmap4
-SUBDIR+=	hs-monad-control
 SUBDIR+=	hs-monad-peel
 SUBDIR+=	hs-monads-fd
 SUBDIR+=	hs-monads-tf
