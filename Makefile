@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5827 2014/08/01 12:12:09 szptvlfn Exp $
+# $Id: Makefile,v 1.5828 2014/08/01 21:00:36 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2306,6 +2306,7 @@ SUBDIR+=	popup-el-current
 SUBDIR+=	portaudio
 SUBDIR+=	postal2-mpdemo-bin
 SUBDIR+=	postfix-logwatch
+SUBDIR+=	postgresql-postgis2
 SUBDIR+=	postoffice
 SUBDIR+=	postr
 SUBDIR+=	povray
