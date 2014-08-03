@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5831 2014/08/02 16:15:20 yrmt Exp $
+# $Id: Makefile,v 1.5832 2014/08/02 21:44:59 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -978,7 +978,6 @@ SUBDIR+=	hs-categories
 SUBDIR+=	hs-cautious-file
 SUBDIR+=	hs-cereal
 SUBDIR+=	hs-cgi
-SUBDIR+=	hs-cgrep
 SUBDIR+=	hs-chalkboard
 SUBDIR+=	hs-chalkboard-viewer
 SUBDIR+=	hs-chunks
@@ -1124,7 +1123,6 @@ SUBDIR+=	hs-strict-io
 SUBDIR+=	hs-stringable
 SUBDIR+=	hs-stringtable-atom
 SUBDIR+=	hs-system-filepath
-SUBDIR+=	hs-tagsoup
 SUBDIR+=	hs-tar
 SUBDIR+=	hs-temporary
 SUBDIR+=	hs-terminfo
@@ -1154,7 +1152,6 @@ SUBDIR+=	hs-warp
 SUBDIR+=	hs-x11-extras
 SUBDIR+=	hs-xdg-basedir
 SUBDIR+=	hs-xhtml
-SUBDIR+=	hs-xml
 SUBDIR+=	hs-xmobar
 SUBDIR+=	hs-yaml
 SUBDIR+=	hs-zip-archive
