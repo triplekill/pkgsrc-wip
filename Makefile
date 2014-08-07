@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5837 2014/08/07 02:54:48 obache Exp $
+# $Id: Makefile,v 1.5838 2014/08/07 09:11:22 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -672,6 +672,7 @@ SUBDIR+=	freedup16
 SUBDIR+=	freefem++
 SUBDIR+=	freeimage
 SUBDIR+=	freej
+SUBDIR+=	freeswitch-core
 SUBDIR+=	freevo
 SUBDIR+=	freevrrpd
 SUBDIR+=	fribid
