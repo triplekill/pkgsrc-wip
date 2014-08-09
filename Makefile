@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5839 2014/08/07 17:43:02 darcycain Exp $
+# $Id: Makefile,v 1.5840 2014/08/08 12:02:06 chybz Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3741,6 +3741,7 @@ SUBDIR+=	xmms-skins
 SUBDIR+=	xmms2
 SUBDIR+=	xmonad-contrib
 SUBDIR+=	xmoto
+SUBDIR+=	xnee
 SUBDIR+=	xombrero
 SUBDIR+=	xoo
 SUBDIR+=	xpde
