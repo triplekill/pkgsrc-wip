@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5842 2014/08/09 21:55:58 thomasklausner Exp $
+# $Id: Makefile,v 1.5843 2014/08/09 23:36:19 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1466,6 +1466,7 @@ SUBDIR+=	libpthread-stubs
 SUBDIR+=	libpusb
 SUBDIR+=	libraw1394
 SUBDIR+=	libre
+SUBDIR+=	librem
 SUBDIR+=	libreoffice
 SUBDIR+=	libreoffice-devel
 SUBDIR+=	libressl
