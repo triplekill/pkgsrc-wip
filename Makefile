@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5854 2014/08/13 20:21:06 thomasklausner Exp $
+# $Id: Makefile,v 1.5855 2014/08/14 22:00:00 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1143,7 +1143,6 @@ SUBDIR+=	hs-transformers-abort
 SUBDIR+=	hs-uconv
 SUBDIR+=	hs-unix-compat
 SUBDIR+=	hs-utility-ht
-SUBDIR+=	hs-vector-algorithms
 SUBDIR+=	hs-vector-bytestring
 SUBDIR+=	hs-vector-space
 SUBDIR+=	hs-vector-th-unbox
