@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5860 2014/08/18 06:38:06 thomasklausner Exp $
+# $Id: Makefile,v 1.5861 2014/08/18 08:33:14 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2508,7 +2508,6 @@ SUBDIR+=	py-django-uuidfield
 SUBDIR+=	py-djangopypi2
 SUBDIR+=	py-djvulibre
 SUBDIR+=	py-djvusmooth
-SUBDIR+=	py-docopt
 SUBDIR+=	py-dolo
 SUBDIR+=	py-drawnow
 SUBDIR+=	py-dreampie
