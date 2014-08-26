@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5868 2014/08/25 14:01:02 szptvlfn Exp $
+# $Id: Makefile,v 1.5869 2014/08/26 10:07:16 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1451,6 +1451,7 @@ SUBDIR+=	libnfo
 SUBDIR+=	libode
 SUBDIR+=	liboglappth
 SUBDIR+=	libopenmodeller
+SUBDIR+=	libopenmpt-devel
 SUBDIR+=	libopensync-dev
 SUBDIR+=	libopensync-plugin-moto
 SUBDIR+=	libopensync-plugin-palm
