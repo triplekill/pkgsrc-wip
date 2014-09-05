@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5882 2014/09/04 21:52:11 outpaddling Exp $
+# $Id: Makefile,v 1.5883 2014/09/05 07:27:11 fhajny Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -982,7 +982,6 @@ SUBDIR+=	hs-blaze-textual
 SUBDIR+=	hs-bytestring-trie
 SUBDIR+=	hs-cabal-query
 SUBDIR+=	hs-cairo
-SUBDIR+=	hs-case-insensitive
 SUBDIR+=	hs-categories
 SUBDIR+=	hs-cautious-file
 SUBDIR+=	hs-cereal
