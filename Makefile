@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5883 2014/09/05 07:27:11 fhajny Exp $
+# $Id: Makefile,v 1.5884 2014/09/05 21:39:09 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -368,6 +368,7 @@ SUBDIR+=	crabemu
 SUBDIR+=	crawl-stone-soup
 SUBDIR+=	creal
 SUBDIR+=	cream
+SUBDIR+=	creduce-git
 SUBDIR+=	crm114
 SUBDIR+=	cross-binutils
 SUBDIR+=	crossroads-io
