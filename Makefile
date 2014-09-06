@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5888 2014/09/06 22:23:13 thomasklausner Exp $
+# $Id: Makefile,v 1.5889 2014/09/06 22:36:09 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3038,6 +3038,7 @@ SUBDIR+=	py-wxWidgets-unicode
 SUBDIR+=	py-xdgapp
 SUBDIR+=	py-xdress
 SUBDIR+=	py-xlutils
+SUBDIR+=	py-xpra
 SUBDIR+=	py-xsdb
 SUBDIR+=	py-yams
 SUBDIR+=	py-yapgvb
