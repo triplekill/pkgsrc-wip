@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5892 2014/09/07 21:10:01 szptvlfn Exp $
+# $Id: Makefile,v 1.5893 2014/09/08 11:40:15 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3519,7 +3519,6 @@ SUBDIR+=	ttyload
 SUBDIR+=	ttysnoop
 SUBDIR+=	ttytter
 SUBDIR+=	tuareg-mode
-SUBDIR+=	tumble
 SUBDIR+=	tutos
 SUBDIR+=	tuxanci
 SUBDIR+=	tuxanci-server
