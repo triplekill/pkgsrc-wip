@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5907 2014/09/22 11:34:03 othyro Exp $
+# $Id: Makefile,v 1.5908 2014/09/22 18:54:33 lexort Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2875,6 +2875,7 @@ SUBDIR+=	py-ruffus
 SUBDIR+=	py-sage
 SUBDIR+=	py-sasa
 SUBDIR+=	py-scikit-aero
+SUBDIR+=	py-scikit-learn
 SUBDIR+=	py-scikit-monaco
 SUBDIR+=	py-scikit-nano
 SUBDIR+=	py-scikits-bvp_solver
