@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5911 2014/09/27 02:22:57 obache Exp $
+# $Id: Makefile,v 1.5912 2014/09/27 02:26:23 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -172,7 +172,6 @@ SUBDIR+=	autopsy
 SUBDIR+=	autoq3d
 SUBDIR+=	autossh
 SUBDIR+=	avida2
-SUBDIR+=	avifile-devel
 SUBDIR+=	avr-binutils
 SUBDIR+=	avr-gcc
 SUBDIR+=	avr-gdb
