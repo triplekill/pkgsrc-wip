@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5912 2014/09/27 02:26:23 obache Exp $
+# $Id: Makefile,v 1.5913 2014/09/27 02:30:11 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -326,7 +326,6 @@ SUBDIR+=	classic-mac-font-pack
 SUBDIR+=	claws-mail-fancy
 SUBDIR+=	clfswm
 SUBDIR+=	clhep
-SUBDIR+=	clips
 SUBDIR+=	cliquer
 SUBDIR+=	clisp
 SUBDIR+=	clisp-asdf
