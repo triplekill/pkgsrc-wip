@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5920 2014/09/27 12:40:37 obache Exp $
+# $Id: Makefile,v 1.5921 2014/09/27 12:42:59 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1803,6 +1803,8 @@ SUBDIR+=	notify-sharp
 SUBDIR+=	nsc2ke
 SUBDIR+=	nsp
 SUBDIR+=	nspr
+SUBDIR+=	nspr-hg
+SUBDIR+=	nss-hg
 SUBDIR+=	nss-pam-ldapd
 SUBDIR+=	nullpop
 SUBDIR+=	nuppelvideo
