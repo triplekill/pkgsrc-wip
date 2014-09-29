@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5921 2014/09/27 12:42:59 obache Exp $
+# $Id: Makefile,v 1.5922 2014/09/28 14:20:47 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -641,6 +641,7 @@ SUBDIR+=	firebird
 SUBDIR+=	fireflysung-ttf
 SUBDIR+=	firefox
 SUBDIR+=	firefox-bin
+SUBDIR+=	firefox-hg
 SUBDIR+=	firefox-wrapper
 SUBDIR+=	firefox3-bin
 SUBDIR+=	firehose
