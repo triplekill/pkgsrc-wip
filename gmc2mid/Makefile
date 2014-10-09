@@ -11,8 +11,6 @@ MAINTAINER=		pkgsrc-users@NetBSD.org
 HOMEPAGE=		${MASTER_SITES}
 COMMENT=		Guenthers Midi Compiler, a tool to convert text to midi
 
-PKG_INSTALLATION_TYPES=	overwrite pkgviews
-
 WRKSRC=			${WRKDIR}/gmc
 
 USE_TOOLS+=		pax
