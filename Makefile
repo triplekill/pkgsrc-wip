@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5935 2014/10/07 14:29:44 outpaddling Exp $
+# $Id: Makefile,v 1.5936 2014/10/08 09:58:33 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -624,6 +624,7 @@ SUBDIR+=	fbpager
 SUBDIR+=	fbpanel
 SUBDIR+=	fceux
 SUBDIR+=	fcgiwrap
+SUBDIR+=	fdk-aac
 SUBDIR+=	fdm
 SUBDIR+=	feathercoin
 SUBDIR+=	feynedit
