@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5939 2014/10/10 21:54:50 nros Exp $
+# $Id: Makefile,v 1.5940 2014/10/14 06:13:31 makoto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -639,7 +639,6 @@ SUBDIR+=	filepp
 SUBDIR+=	filerunner
 SUBDIR+=	firebird
 SUBDIR+=	fireflysung-ttf
-SUBDIR+=	firefox
 SUBDIR+=	firefox-bin
 SUBDIR+=	firefox-hg
 SUBDIR+=	firefox-wrapper
@@ -1827,7 +1826,6 @@ SUBDIR+=	nostromo
 SUBDIR+=	notify-sharp
 SUBDIR+=	nsc2ke
 SUBDIR+=	nsp
-SUBDIR+=	nspr
 SUBDIR+=	nspr-hg
 SUBDIR+=	nss-hg
 SUBDIR+=	nss-pam-ldapd
