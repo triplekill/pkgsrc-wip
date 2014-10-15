@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5941 2014/10/14 16:21:21 thomasklausner Exp $
+# $Id: Makefile,v 1.5942 2014/10/14 16:43:16 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3093,6 +3093,8 @@ SUBDIR+=	qore-yaml-module
 SUBDIR+=	qrint
 SUBDIR+=	qrq
 SUBDIR+=	qt4-gstreamer
+SUBDIR+=	qt4-libqtlua
+SUBDIR+=	qt5-libqtlua
 SUBDIR+=	qt5-qscintilla
 SUBDIR+=	qtcreator
 SUBDIR+=	qtcurve-gtk2
