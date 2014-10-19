@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5943 2014/10/15 18:06:41 nros Exp $
+# $Id: Makefile,v 1.5944 2014/10/19 10:56:59 keckhardt Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1486,6 +1486,7 @@ SUBDIR+=	libreoffice
 SUBDIR+=	libreoffice-devel
 SUBDIR+=	libressl
 SUBDIR+=	libscscp
+SUBDIR+=	libshorttext
 SUBDIR+=	libslab
 SUBDIR+=	libsnappy
 SUBDIR+=	libsocialweb
