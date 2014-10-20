@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5944 2014/10/19 10:56:59 keckhardt Exp $
+# $Id: Makefile,v 1.5945 2014/10/19 17:03:02 cheusov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3106,7 +3106,6 @@ SUBDIR+=	quarkcoin
 SUBDIR+=	qucs
 SUBDIR+=	quickfix
 SUBDIR+=	quickie
-SUBDIR+=	quodlibet
 SUBDIR+=	qupzilla
 SUBDIR+=	qvamps
 SUBDIR+=	r8s
