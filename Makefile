@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5950 2014/10/25 14:13:13 cheusov Exp $
+# $Id: Makefile,v 1.5951 2014/10/25 22:41:30 cheusov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1716,6 +1716,7 @@ SUBDIR+=	mtrack
 SUBDIR+=	mu
 SUBDIR+=	mu-cite
 SUBDIR+=	muine
+SUBDIR+=	multiminer
 SUBDIR+=	multisync
 SUBDIR+=	multisync-backup
 SUBDIR+=	multisync-ldap
