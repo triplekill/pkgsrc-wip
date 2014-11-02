@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5961 2014/11/01 13:26:18 thomasklausner Exp $
+# $Id: Makefile,v 1.5962 2014/11/01 20:14:58 bartoszkuzma Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1793,6 +1793,7 @@ SUBDIR+=	necpp-git
 SUBDIR+=	nehe-opengl-tutorials
 SUBDIR+=	nemo
 SUBDIR+=	nestopia
+SUBDIR+=	nestopia-rpi
 SUBDIR+=	nestra
 SUBDIR+=	net-quanta
 SUBDIR+=	net-tools
