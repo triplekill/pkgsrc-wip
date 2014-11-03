@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5962 2014/11/01 20:14:58 bartoszkuzma Exp $
+# $Id: Makefile,v 1.5963 2014/11/02 08:38:53 nsloss Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3179,7 +3179,6 @@ SUBDIR+=	rosegarden-current
 SUBDIR+=	roundcube-skin-mvision2
 SUBDIR+=	roxterm
 SUBDIR+=	rpcemu
-SUBDIR+=	rpcemu-devel
 SUBDIR+=	rpki-svn
 SUBDIR+=	rsget
 SUBDIR+=	rsound
