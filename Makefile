@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5964 2014/11/03 22:02:40 ryo-on Exp $
+# $Id: Makefile,v 1.5965 2014/11/07 13:10:27 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -299,6 +299,7 @@ SUBDIR+=	chora
 SUBDIR+=	chromium
 SUBDIR+=	chromium-depot_tools
 SUBDIR+=	chrsh
+SUBDIR+=	chruby
 SUBDIR+=	cinelerra
 SUBDIR+=	cinelerra-cv
 SUBDIR+=	circe2
