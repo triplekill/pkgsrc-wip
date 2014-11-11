@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5966 2014/11/07 19:25:35 steven43126 Exp $
+# $Id: Makefile,v 1.5967 2014/11/10 11:33:55 ahp-nils Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -753,7 +753,6 @@ SUBDIR+=	geekcode
 SUBDIR+=	gemrb
 SUBDIR+=	genus2reduction
 SUBDIR+=	gerris
-SUBDIR+=	get_iplayer
 SUBDIR+=	getdp
 SUBDIR+=	gf2x
 SUBDIR+=	gfa
