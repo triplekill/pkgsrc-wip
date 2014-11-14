@@ -2,7 +2,7 @@
 
 DISTNAME=	Catalyst-Action-REST-1.17
 PKGNAME=	p5-${DISTNAME}
-CATEGORIES=	mail perl5
+CATEGORIES=	www perl5
 MASTER_SITES=	${MASTER_SITE_PERL_CPAN:=../by-authors/id/F/FR/FREW/}
 
 MAINTAINER=	noud4@users.sourceforge.net
