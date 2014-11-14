@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5971 2014/11/13 17:43:52 noud4 Exp $
+# $Id: Makefile,v 1.5972 2014/11/13 20:01:54 krytarowski Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1983,6 +1983,7 @@ SUBDIR+=	p5-Catalyst-Plugin-Static
 SUBDIR+=	p5-Catalyst-Plugin-SubRequest
 SUBDIR+=	p5-Catalyst-Plugin-Unicode-Encoding
 SUBDIR+=	p5-Catalyst-Plugin-XMLRPC
+SUBDIR+=	p5-Catalyst-View-XML-Feed
 SUBDIR+=	p5-Class-DBI-AsForm
 SUBDIR+=	p5-Class-DBI-FromForm
 SUBDIR+=	p5-Class-DBI-Loader
