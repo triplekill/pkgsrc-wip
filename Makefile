@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5979 2014/11/15 08:30:42 noud4 Exp $
+# $Id: Makefile,v 1.5980 2014/11/15 09:22:37 noud4 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1952,6 +1952,7 @@ SUBDIR+=	p5-CGI-Application-Plugin-TT
 SUBDIR+=	p5-CGI-Application-Plugin-ViewCode
 SUBDIR+=	p5-CGI-Application-Server
 SUBDIR+=	p5-CGI-Application-Standard-Config
+SUBDIR+=	p5-CGI-Expand
 SUBDIR+=	p5-CGI-Untaint
 SUBDIR+=	p5-CGI-Untaint-date
 SUBDIR+=	p5-CGI-Untaint-email
