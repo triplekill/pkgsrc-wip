@@ -12,10 +12,6 @@ HOMEPAGE=	https://github.com/janestreet/comparelib/
 COMMENT=	Syntax extension for deriving "compare" functions automatically
 LICENSE=	apache-2.0
 
-WRKSRC=		${WRKDIR}/comparelib-${VERS}
-USE_TOOLS+=	gmake
-
-OCAML_USE_FINDLIB=	yes
 OCAML_USE_OASIS=	yes
 
 .include "../../devel/ocaml-type_conv/buildlink3.mk"
