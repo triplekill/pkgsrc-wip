@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5990 2014/11/15 16:09:42 jgoamakf Exp $
+# $Id: Makefile,v 1.5991 2014/11/15 17:14:00 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1875,7 +1875,6 @@ SUBDIR+=	oneloop
 SUBDIR+=	oolite
 SUBDIR+=	oops
 SUBDIR+=	oorexx
-SUBDIR+=	opam
 SUBDIR+=	opax
 SUBDIR+=	opd
 SUBDIR+=	open21xx
