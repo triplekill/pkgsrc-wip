@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5995 2014/11/20 12:10:33 bsiegert Exp $
+# $Id: Makefile,v 1.5996 2014/11/21 06:27:30 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -728,6 +728,7 @@ SUBDIR+=	galoisfieldarth
 SUBDIR+=	gambas2
 SUBDIR+=	gambatte-dev
 SUBDIR+=	gambit
+SUBDIR+=	ganglia-web
 SUBDIR+=	gappa
 SUBDIR+=	garcon
 SUBDIR+=	gauche-dbd-pg
