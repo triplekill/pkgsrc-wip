@@ -11,14 +11,13 @@ HOMEPAGE=	https://github.com/yoriyuki/Camomile/tree/master/Camomile
 COMMENT=	Unicode library for ocaml
 LICENSE=	gnu-lgpl-v2.1
 
-DEPENDS+=       ocaml-findlib-[0-9]*:../../devel/ocaml-findlib
-
 USE_TOOLS+=     gmake
 
-USE_LANGUAGES=  c
 GNU_CONFIGURE=	yes
 CONFIGURE_ARGS=	--datadir="${DESTDIR}${PREFIX}/lib/ocaml/site-lib"
 
+OCAML_USE_FINDLIB=yes
+
 .include "../../lang/camlp4/buildlink3.mk"
-.include "../../lang/ocaml/buildlink3.mk"
+.include "../../mk/ocaml.mk"
 .include "../../mk/bsd.pkg.mk"
