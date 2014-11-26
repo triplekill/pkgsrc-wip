@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6000 2014/11/24 21:26:48 szptvlfn Exp $
+# $Id: Makefile,v 1.6001 2014/11/26 15:09:22 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -708,6 +708,7 @@ SUBDIR+=	ftgl
 SUBDIR+=	ftpd-tls
 SUBDIR+=	ftpsesame
 SUBDIR+=	fuse-google-drive
+SUBDIR+=	fuse-mp3fs
 SUBDIR+=	fuse-smbfs
 SUBDIR+=	fuse-zip
 SUBDIR+=	fusefs-btfs
