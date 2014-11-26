@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.5999 2014/11/24 09:19:13 thomasklausner Exp $
+# $Id: Makefile,v 1.6000 2014/11/24 21:26:48 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -736,6 +736,7 @@ SUBDIR+=	garcon
 SUBDIR+=	gauche-dbd-pg
 SUBDIR+=	gauche-fastcgi
 SUBDIR+=	gauche-pib
+SUBDIR+=	gcalcli-git
 SUBDIR+=	gcc42
 SUBDIR+=	gcc43
 SUBDIR+=	gcc48snapshot
