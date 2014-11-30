@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6003 2014/11/29 14:16:04 athaba Exp $
+# $Id: Makefile,v 1.6004 2014/11/29 16:25:33 nros Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -630,7 +630,6 @@ SUBDIR+=	fbpager
 SUBDIR+=	fbpanel
 SUBDIR+=	fceux
 SUBDIR+=	fcgiwrap
-SUBDIR+=	fdk-aac
 SUBDIR+=	fdm
 SUBDIR+=	feathercoin
 SUBDIR+=	festvox-awb
