@@ -13,6 +13,7 @@ LICENSE=	gnu-gpl-v3
 HAS_CONFIGURE=	YES
 CONFIGURE_ARGS+=	--mandir=${PREFIX}/${PKGMANDIR}
 CONFIGURE_ARGS+=	--with-sysmagic
+PKGCONFIG_OVERRIDE+=	pkgcfg/*.pc*
 USE_TOOLS+=	gmake
 
 # Hack to walkaround INSTALL_LIB issues
