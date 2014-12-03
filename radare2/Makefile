@@ -13,6 +13,7 @@ LICENSE=	gnu-gpl-v3
 HAS_CONFIGURE=	YES
 CONFIGURE_ARGS+=	--mandir=${PREFIX}/${PKGMANDIR}
 CONFIGURE_ARGS+=	--with-sysmagic
+CONFIGURE_ARGS+=	--with-syscapstone
 PKGCONFIG_OVERRIDE+=	pkgcfg/*.pc*
 USE_TOOLS+=	gmake
 
@@ -28,5 +29,6 @@ USE_TOOLS+=	gmake
 post-install:
 	${RUN}${FIND} ${DESTDIR} -type f -name '*.so*' -exec ${CHMOD} 0755 {} \;
 
+.include "../../wip/capstone/buildlink3.mk"
 .include "../../sysutils/file/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
