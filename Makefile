@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6008 2014/12/03 00:01:07 thomasklausner Exp $
+# $Id: Makefile,v 1.6009 2014/12/03 21:58:54 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2663,7 +2663,6 @@ SUBDIR+=	py-isodate
 SUBDIR+=	py-jabber-aimt
 SUBDIR+=	py-jabber-icqt
 SUBDIR+=	py-jabber-idavoll
-SUBDIR+=	py-jabber-msnt
 SUBDIR+=	py-jabber-palaver
 SUBDIR+=	py-jabber-proxy65
 SUBDIR+=	py-jabber-punjab
