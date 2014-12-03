@@ -16,6 +16,8 @@ CONFIGURE_ARGS+=	--with-sysmagic
 PKGCONFIG_OVERRIDE+=	pkgcfg/*.pc*
 USE_TOOLS+=	gmake
 
+.include "options.mk"
+
 # Hack to walkaround INSTALL_LIB issues
 #
 # radare2 invented scripts for package build ("acr")
