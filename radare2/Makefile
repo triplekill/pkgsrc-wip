@@ -12,6 +12,8 @@ LICENSE=	gnu-gpl-v3
 
 HAS_CONFIGURE=	YES
 CONFIGURE_ARGS+=	--mandir=${PREFIX}/${PKGMANDIR}
+CONFIGURE_ARGS+=	--with-sysmagic
 USE_TOOLS+=	gmake
 
+.include "../../sysutils/file/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
