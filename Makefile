@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6011 2014/12/04 14:15:59 makoto Exp $
+# $Id: Makefile,v 1.6012 2014/12/04 21:44:09 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1414,6 +1414,7 @@ SUBDIR+=	libcouchbase
 SUBDIR+=	libcpath
 SUBDIR+=	libcpu
 SUBDIR+=	libcsplit
+SUBDIR+=	libcstring
 SUBDIR+=	libcthreads
 SUBDIR+=	libcuba
 SUBDIR+=	libdbglog
