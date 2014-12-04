@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	zsdx-1.7.1
+DISTNAME=	zsdx-1.9.0
 PKGNAME=	solarus-${DISTNAME}
 CATEGORIES=	games
 MASTER_SITES=	https://github.com/christopho/zsdx/archive/
