@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6010 2014/12/03 22:43:46 othyro Exp $
+# $Id: Makefile,v 1.6011 2014/12/04 14:15:59 makoto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3340,6 +3340,7 @@ SUBDIR+=	sis
 SUBDIR+=	siscone
 SUBDIR+=	sjg-mk-files
 SUBDIR+=	skinlf
+SUBDIR+=	skype4
 SUBDIR+=	slackpkg2pkgsrc
 SUBDIR+=	slashem
 SUBDIR+=	slate
