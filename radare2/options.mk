@@ -10,6 +10,4 @@ PKG_SUGGESTED_OPTIONS=		ssl
 .if !empty(PKG_OPTIONS:Mssl)
 .  include "../../security/openssl/buildlink3.mk"
 CONFIGURE_ARGS+=	--with-openssl
-.else
-CONFIGURE_ARGS+=	--without-ssl
 .endif
