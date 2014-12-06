@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6014 2014/12/05 14:58:38 othyro Exp $
+# $Id: Makefile,v 1.6015 2014/12/05 22:20:36 krytarowski Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2503,7 +2503,6 @@ SUBDIR+=	py-control
 SUBDIR+=	py-corebio
 SUBDIR+=	py-corrfitter
 SUBDIR+=	py-cosmolopy
-SUBDIR+=	py-country
 SUBDIR+=	py-coveralls
 SUBDIR+=	py-cracklib
 SUBDIR+=	py-cryptoidlib
