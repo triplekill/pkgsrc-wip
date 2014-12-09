@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6016 2014/12/06 15:21:53 othyro Exp $
+# $Id: Makefile,v 1.6017 2014/12/07 00:25:12 jonthn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3220,6 +3220,7 @@ SUBDIR+=	roundcube-skin-mvision2
 SUBDIR+=	roxterm
 SUBDIR+=	rpcemu
 SUBDIR+=	rpki-svn
+SUBDIR+=	rpm5
 SUBDIR+=	rsget
 SUBDIR+=	rsound
 SUBDIR+=	rss-glib
