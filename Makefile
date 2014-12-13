@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6017 2014/12/07 00:25:12 jonthn Exp $
+# $Id: Makefile,v 1.6018 2014/12/09 23:08:46 krytarowski Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3669,7 +3669,6 @@ SUBDIR+=	virus
 SUBDIR+=	vis
 SUBDIR+=	vista-fonts
 SUBDIR+=	vkeybd
-SUBDIR+=	vlc21
 SUBDIR+=	vlevel
 SUBDIR+=	vm-pop3d
 SUBDIR+=	vmsbackup
