@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6018 2014/12/09 23:08:46 krytarowski Exp $
+# $Id: Makefile,v 1.6019 2014/12/13 11:16:27 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -75,6 +75,7 @@ SUBDIR+=	ae-fonts-decorative
 SUBDIR+=	aegis-devel
 SUBDIR+=	aespipe
 SUBDIR+=	afflib
+SUBDIR+=	agfl
 SUBDIR+=	agile
 SUBDIR+=	aida
 SUBDIR+=	aircrack-ng
