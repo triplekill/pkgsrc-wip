@@ -1,8 +1,8 @@
 # $NetBSD$
 
-DISTNAME=	QupZilla-1.8.4
+DISTNAME=	QupZilla-1.8.5
 PKGNAME=	${DISTNAME:tl}
-PKGREVISION=	1
+
 CATEGORIES=	www
 MASTER_SITES=	https://github.com/QupZilla/qupzilla/releases/download/v${PKGVERSION_NOREV}/
 EXTRACT_SUFX=	.tar.xz
