@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6019 2014/12/13 11:16:27 thomasklausner Exp $
+# $Id: Makefile,v 1.6020 2014/12/17 22:03:34 rhialto Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3871,7 +3871,8 @@ SUBDIR+=	yoda
 SUBDIR+=	yp-tools
 SUBDIR+=	ypbind-mt
 SUBDIR+=	ypserv
-SUBDIR+=	zabbix
+SUBDIR+=	zabbix-agent
+SUBDIR+=	zabbix-server
 SUBDIR+=	zapping
 SUBDIR+=	zathura
 SUBDIR+=	zathura-djvu
