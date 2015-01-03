@@ -19,4 +19,6 @@ USE_TOOLS+=		gmake intltool msgfmt perl pkg-config
 USE_LIBTOOL=		YES
 
 .include "../../wip/system-tools-backends/buildlink3.mk"
+.include "../../sysutils/dbus-glib/buildlink3.mk"
+.include "../../devel/glib2/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
