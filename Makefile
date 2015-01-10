@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6036 2015/01/08 11:53:16 szptvlfn Exp $
+# $Id: Makefile,v 1.6037 2015/01/10 09:42:32 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -105,10 +105,6 @@ SUBDIR+=	aols-openssl
 SUBDIR+=	aols-postgres
 SUBDIR+=	aolserver
 SUBDIR+=	aolserver4
-SUBDIR+=	ap-bunzip2
-SUBDIR+=	ap-choke
-SUBDIR+=	ap-macro
-SUBDIR+=	ap-ometer
 SUBDIR+=	ap2-auth-imap
 SUBDIR+=	ap2-auth-pam
 SUBDIR+=	ap2-evasive
