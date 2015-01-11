@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6038 2015/01/10 20:46:01 thomasklausner Exp $
+# $Id: Makefile,v 1.6039 2015/01/11 13:40:37 cheusov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3371,6 +3371,7 @@ SUBDIR+=	shunt
 SUBDIR+=	sic
 SUBDIR+=	sickbeard
 SUBDIR+=	siege
+SUBDIR+=	signify
 SUBDIR+=	sil-scheherazade-ttf
 SUBDIR+=	silky
 SUBDIR+=	silo
