@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6041 2015/01/14 05:20:23 jlmuir0 Exp $
+# $Id: Makefile,v 1.6042 2015/01/14 17:17:31 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -390,6 +390,7 @@ SUBDIR+=	cup
 SUBDIR+=	cursor-dmz-theme
 SUBDIR+=	cutecom
 SUBDIR+=	cvc3
+SUBDIR+=	cvs-fast-export
 SUBDIR+=	cvs-syncmail
 SUBDIR+=	cvs20hg
 SUBDIR+=	cvs2darcs
