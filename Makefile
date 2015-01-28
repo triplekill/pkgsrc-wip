@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6050 2015/01/28 16:38:40 outpaddling Exp $
+# $Id: Makefile,v 1.6051 2015/01/28 16:42:00 outpaddling Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3648,6 +3648,7 @@ SUBDIR+=	trayion
 SUBDIR+=	treetool
 SUBDIR+=	treeview
 SUBDIR+=	triangle
+SUBDIR+=	trinity
 SUBDIR+=	tripwire2
 SUBDIR+=	truecrypt
 SUBDIR+=	trustedQSL
