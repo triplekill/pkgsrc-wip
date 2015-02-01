@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6058 2015/01/30 21:44:23 jlmuir0 Exp $
+# $Id: Makefile,v 1.6059 2015/01/31 12:29:08 jihbed Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3572,7 +3572,6 @@ SUBDIR+=	tendra.org-sid
 SUBDIR+=	teng
 SUBDIR+=	tengwar-ttf
 SUBDIR+=	tenmado
-SUBDIR+=	tenshi
 SUBDIR+=	termit
 SUBDIR+=	tetrinet
 SUBDIR+=	tex-abntex
