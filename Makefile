@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6060 2015/02/01 01:37:38 pbhenson Exp $
+# $Id: Makefile,v 1.6061 2015/02/02 10:12:43 nros Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2559,7 +2559,6 @@ SUBDIR+=	py-colorpy
 SUBDIR+=	py-complexsystems
 SUBDIR+=	py-concepts
 SUBDIR+=	py-conda
-SUBDIR+=	py-configobj
 SUBDIR+=	py-constraint
 SUBDIR+=	py-construct
 SUBDIR+=	py-control
