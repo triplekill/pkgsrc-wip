@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6063 2015/02/04 12:13:32 thomasklausner Exp $
+# $Id: Makefile,v 1.6064 2015/02/04 12:40:55 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -602,6 +602,7 @@ SUBDIR+=	es40-firmware
 SUBDIR+=	esdl
 SUBDIR+=	esmart
 SUBDIR+=	espeak
+SUBDIR+=	espresso
 SUBDIR+=	ethtool
 SUBDIR+=	etoile
 SUBDIR+=	etoile-core
