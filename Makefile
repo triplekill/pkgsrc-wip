@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6061 2015/02/02 10:12:43 nros Exp $
+# $Id: Makefile,v 1.6062 2015/02/04 10:10:53 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1348,7 +1348,6 @@ SUBDIR+=	kawa
 SUBDIR+=	keepassx-git
 SUBDIR+=	kgrab
 SUBDIR+=	kgraphviewer
-SUBDIR+=	khal-git
 SUBDIR+=	kile
 SUBDIR+=	kino
 SUBDIR+=	kissme
