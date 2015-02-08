@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6068 2015/02/07 09:12:34 thomasklausner Exp $
+# $Id: Makefile,v 1.6069 2015/02/07 16:32:48 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -273,7 +273,6 @@ SUBDIR+=	caja
 SUBDIR+=	caja-dropbox
 SUBDIR+=	caja-extensions
 SUBDIR+=	calcurse
-SUBDIR+=	calibre
 SUBDIR+=	calligra
 SUBDIR+=	callweaver
 SUBDIR+=	calypso-git
