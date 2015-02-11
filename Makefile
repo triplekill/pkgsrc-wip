@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6077 2015/02/11 14:15:41 fhajny Exp $
+# $Id: Makefile,v 1.6078 2015/02/11 16:01:17 phonohawk Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1602,6 +1602,7 @@ SUBDIR+=	lmdbg-current
 SUBDIR+=	lmfit
 SUBDIR+=	lmod
 SUBDIR+=	logfmon-devel
+SUBDIR+=	logrotate-svn
 SUBDIR+=	logwatch
 SUBDIR+=	lorder
 SUBDIR+=	love
