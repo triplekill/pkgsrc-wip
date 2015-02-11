@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6075 2015/02/09 18:46:10 leot1990 Exp $
+# $Id: Makefile,v 1.6076 2015/02/10 08:29:31 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3284,6 +3284,7 @@ SUBDIR+=	revbump
 SUBDIR+=	revelation
 SUBDIR+=	rhapsody
 SUBDIR+=	riak
+SUBDIR+=	riak14
 SUBDIR+=	ripe-rpsl-objectlibrary
 SUBDIR+=	ripit
 SUBDIR+=	ripole
