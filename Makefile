@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6076 2015/02/10 08:29:31 thomasklausner Exp $
+# $Id: Makefile,v 1.6077 2015/02/11 14:15:41 fhajny Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -560,6 +560,7 @@ SUBDIR+=	elementary-icon-theme
 SUBDIR+=	elinks-libmm
 SUBDIR+=	elinks-snapshot
 SUBDIR+=	elk
+SUBDIR+=	elscreen-current
 SUBDIR+=	emacs-current
 SUBDIR+=	emacs-current-nox11
 SUBDIR+=	emacs-ditz
