@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6083 2015/02/14 03:09:31 othyro Exp $
+# $Id: Makefile,v 1.6084 2015/02/14 04:39:54 phonohawk Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -85,7 +85,6 @@ SUBDIR+=	aircrack-ng
 SUBDIR+=	airsnort
 SUBDIR+=	alac_decoder
 SUBDIR+=	alberta
-SUBDIR+=	alex
 SUBDIR+=	alive
 SUBDIR+=	alsa-plugins
 SUBDIR+=	alt-ergo
