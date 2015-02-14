@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6082 2015/02/13 12:03:00 nros Exp $
+# $Id: Makefile,v 1.6083 2015/02/14 03:09:31 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1014,7 +1014,6 @@ SUBDIR+=	hs-ObjectName
 SUBDIR+=	hs-OpenGL
 SUBDIR+=	hs-OpenGLRaw
 SUBDIR+=	hs-QIO
-SUBDIR+=	hs-QuickCheck
 SUBDIR+=	hs-QuickCheck1
 SUBDIR+=	hs-ReadArgs
 SUBDIR+=	hs-SHA
