@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6081 2015/02/13 05:38:38 jgoamakf Exp $
+# $Id: Makefile,v 1.6082 2015/02/13 12:03:00 nros Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1404,7 +1404,6 @@ SUBDIR+=	libalkimia
 SUBDIR+=	libanimal
 SUBDIR+=	libappindicator
 SUBDIR+=	libarchive
-SUBDIR+=	libargp
 SUBDIR+=	libavc1394
 SUBDIR+=	libbacon
 SUBDIR+=	libbfio
