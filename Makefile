@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6090 2015/02/22 15:51:46 othyro Exp $
+# $Id: Makefile,v 1.6091 2015/02/26 10:53:27 jgoamakf Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3557,6 +3557,8 @@ SUBDIR+=	sync-server-dependencies
 SUBDIR+=	synce-dynamite
 SUBDIR+=	synce-kde
 SUBDIR+=	synce-orange
+SUBDIR+=	syncthing
+SUBDIR+=	syncthing-gtk
 SUBDIR+=	synfig
 SUBDIR+=	synfigstudio
 SUBDIR+=	sysjail
