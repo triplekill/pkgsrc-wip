@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6097 2015/03/03 12:46:11 thomasklausner Exp $
+# $Id: Makefile,v 1.6098 2015/03/03 15:44:31 phonohawk Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -13,6 +13,7 @@ SUBDIR+=	GNUMail-pgp
 SUBDIR+=	GSCommander
 SUBDIR+=	GoogleEarth
 SUBDIR+=	LabPlot
+SUBDIR+=	MesaLib
 SUBDIR+=	MoleInvasion
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PHPUnit
