@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6096 2015/03/02 17:08:38 leot1990 Exp $
+# $Id: Makefile,v 1.6097 2015/03/03 12:46:11 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1029,7 +1029,6 @@ SUBDIR+=	hs-ansi-wl-pprint
 SUBDIR+=	hs-arrow-list
 SUBDIR+=	hs-ascii
 SUBDIR+=	hs-attempt
-SUBDIR+=	hs-base-unicode-symbols
 SUBDIR+=	hs-basic-prelude
 SUBDIR+=	hs-bifunctors
 SUBDIR+=	hs-binary-strict
