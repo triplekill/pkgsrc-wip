@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6101 2015/03/04 00:26:35 krytarowski Exp $
+# $Id: Makefile,v 1.6102 2015/03/07 09:27:39 obache Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -67,6 +67,7 @@ SUBDIR+=	VASSAL
 SUBDIR+=	WEPCrack
 SUBDIR+=	a2ps-sharatype
 SUBDIR+=	abiword
+SUBDIR+=	acpica-utils-git
 SUBDIR+=	acpiclient
 SUBDIR+=	acpid
 SUBDIR+=	adamem
