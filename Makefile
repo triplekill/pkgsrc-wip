@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6103 2015/03/07 13:10:46 krytarowski Exp $
+# $Id: Makefile,v 1.6104 2015/03/07 18:08:42 ishit Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3547,7 +3547,6 @@ SUBDIR+=	syncthing
 SUBDIR+=	syncthing-gtk
 SUBDIR+=	synfig
 SUBDIR+=	synfigstudio
-SUBDIR+=	sysjail
 SUBDIR+=	sysklogd
 SUBDIR+=	syslog-ng2
 SUBDIR+=	sysstat
