@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6109 2015/03/12 14:25:43 nros Exp $
+# $Id: Makefile,v 1.6110 2015/03/12 21:28:50 tnn2 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2394,7 +2394,6 @@ SUBDIR+=	popup-el-current
 SUBDIR+=	portscout
 SUBDIR+=	postal2-mpdemo-bin
 SUBDIR+=	postfix-logwatch
-SUBDIR+=	postgresql-postgis2
 SUBDIR+=	postoffice
 SUBDIR+=	postr
 SUBDIR+=	povray
