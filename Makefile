@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6110 2015/03/12 21:28:50 tnn2 Exp $
+# $Id: Makefile,v 1.6111 2015/03/14 18:50:08 lexort Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2332,7 +2332,6 @@ SUBDIR+=	php-rrd
 SUBDIR+=	php-ssh2
 SUBDIR+=	php-tclink
 SUBDIR+=	php-tidy
-SUBDIR+=	php-xcache
 SUBDIR+=	picasm
 SUBDIR+=	picocom
 SUBDIR+=	picosat
