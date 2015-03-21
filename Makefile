@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6112 2015/03/14 18:58:45 othyro Exp $
+# $Id: Makefile,v 1.6113 2015/03/15 21:02:18 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -429,6 +429,7 @@ SUBDIR+=	debian_glib
 SUBDIR+=	debian_gtk
 #SUBDIR+=	debian_linux	# not a real package
 SUBDIR+=	debian_x11
+SUBDIR+=	debootstrap
 SUBDIR+=	debugger-git
 SUBDIR+=	dee
 SUBDIR+=	deforaos-accessories
