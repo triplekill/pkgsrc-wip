@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6121 2015/04/02 14:59:13 bsiegert Exp $
+# $Id: Makefile,v 1.6122 2015/04/02 18:19:12 leot1990 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3805,7 +3805,6 @@ SUBDIR+=	wqy-microhei-ttf
 SUBDIR+=	wqy-zenhei-ttf
 SUBDIR+=	wrcs
 SUBDIR+=	wsmake
-SUBDIR+=	wtf
 SUBDIR+=	wvstreams
 SUBDIR+=	wxGTK-contrib-unicode
 SUBDIR+=	wxGTK-unicode
