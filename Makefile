@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6129 2015/04/06 11:06:38 krytarowski Exp $
+# $Id: Makefile,v 1.6130 2015/04/06 20:58:36 outpaddling Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2336,7 +2336,6 @@ SUBDIR+=	php-doc-tr
 SUBDIR+=	php-doc-zh
 SUBDIR+=	php-dtrace
 SUBDIR+=	php-gtk2
-SUBDIR+=	php-igbinary
 SUBDIR+=	php-imagick
 SUBDIR+=	php-libawl-git
 SUBDIR+=	php-mongo
