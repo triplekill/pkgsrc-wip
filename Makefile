@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6135 2015/04/09 09:35:56 thomasklausner Exp $
+# $Id: Makefile,v 1.6136 2015/04/10 08:27:44 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2785,6 +2785,7 @@ SUBDIR+=	py-lingpy
 SUBDIR+=	py-linop
 SUBDIR+=	py-lire
 SUBDIR+=	py-liveplots
+SUBDIR+=	py-locustio
 SUBDIR+=	py-loggly
 SUBDIR+=	py-logilab-database
 SUBDIR+=	py-logilab-mtconverter
