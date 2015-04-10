@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6134 2015/04/08 23:45:25 krytarowski Exp $
+# $Id: Makefile,v 1.6135 2015/04/09 09:35:56 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3067,7 +3067,6 @@ SUBDIR+=	py-sima
 SUBDIR+=	py-simplegeneric
 SUBDIR+=	py-simpleparse-mxtexttools
 SUBDIR+=	py-simulators
-SUBDIR+=	py-singledispatch
 SUBDIR+=	py-sleekxmpp
 SUBDIR+=	py-slowaes
 SUBDIR+=	py-smcp
