@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6136 2015/04/10 08:27:44 thomasklausner Exp $
+# $Id: Makefile,v 1.6137 2015/04/10 18:31:26 angelmm1 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -283,6 +283,7 @@ SUBDIR+=	canna-canuum
 SUBDIR+=	canna-dict
 SUBDIR+=	canna-lib
 SUBDIR+=	canna-server
+SUBDIR+=	cardpeek
 SUBDIR+=	carnival
 SUBDIR+=	cartago
 SUBDIR+=	casady-fonts
