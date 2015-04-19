@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6144 2015/04/19 15:13:44 othyro Exp $
+# $Id: Makefile,v 1.6145 2015/04/19 16:55:47 cheusov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -295,6 +295,7 @@ SUBDIR+=	cdogs
 SUBDIR+=	cdpr
 SUBDIR+=	cedet
 SUBDIR+=	cfengine
+SUBDIR+=	cgdb
 SUBDIR+=	cglib
 SUBDIR+=	cgminer297
 SUBDIR+=	cgnslib
