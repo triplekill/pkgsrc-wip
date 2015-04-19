@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6143 2015/04/18 12:22:44 othyro Exp $
+# $Id: Makefile,v 1.6144 2015/04/19 15:13:44 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -335,6 +335,7 @@ SUBDIR+=	cl-who
 SUBDIR+=	clamassassin
 SUBDIR+=	clang-svn
 SUBDIR+=	classgen
+SUBDIR+=	classias
 SUBDIR+=	classic-mac-font-pack
 SUBDIR+=	claws-mail-fancy
 SUBDIR+=	clearsans-ttf
