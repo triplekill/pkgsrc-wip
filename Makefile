@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6147 2015/04/19 22:45:40 othyro Exp $
+# $Id: Makefile,v 1.6148 2015/04/19 23:46:35 cheusov Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -521,6 +521,7 @@ SUBDIR+=	dssi
 SUBDIR+=	duali-data
 SUBDIR+=	duff
 SUBDIR+=	dumb
+SUBDIR+=	dunelegacy
 SUBDIR+=	dune-common
 SUBDIR+=	dune-geometry
 SUBDIR+=	dune-istl
