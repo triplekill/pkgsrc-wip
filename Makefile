@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6155 2015/04/25 15:02:22 tnn2 Exp $
+# $Id: Makefile,v 1.6156 2015/04/25 17:13:54 tnn2 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3337,6 +3337,7 @@ SUBDIR+=	ruby-iesd
 SUBDIR+=	ruby-kakasi
 SUBDIR+=	ruby-libv8
 SUBDIR+=	ruby-passenger
+SUBDIR+=	ruby-rdiscount
 SUBDIR+=	ruby-redmine
 SUBDIR+=	ruby-review
 SUBDIR+=	ruby-teamocil
