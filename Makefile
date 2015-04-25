@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6153 2015/04/23 10:54:09 nros Exp $
+# $Id: Makefile,v 1.6154 2015/04/25 13:42:51 gschwarz Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -13,7 +13,6 @@ SUBDIR+=	GNUMail-pgp
 SUBDIR+=	GSCommander
 SUBDIR+=	GoogleEarth
 SUBDIR+=	LabPlot
-SUBDIR+=	MesaLib
 SUBDIR+=	MoleInvasion
 SUBDIR+=	OpenGLUT
 SUBDIR+=	PHPUnit
@@ -1725,7 +1724,6 @@ SUBDIR+=	mmm-mode
 SUBDIR+=	mnogosearch
 SUBDIR+=	modglue
 SUBDIR+=	modplugplay
-SUBDIR+=	modular-xorg-server
 SUBDIR+=	modular-xorg-xephyr
 SUBDIR+=	moe
 SUBDIR+=	moeclock
