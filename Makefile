@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6158 2015/04/25 21:59:05 ahp-nils Exp $
+# $Id: Makefile,v 1.6159 2015/04/25 22:00:41 ahp-nils Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -574,7 +574,6 @@ SUBDIR+=	emacs-current
 SUBDIR+=	emacs-current-nox11
 SUBDIR+=	emacs-ditz
 SUBDIR+=	emacs-pr-el
-SUBDIR+=	emacs-rc
 SUBDIR+=	emacs-session
 SUBDIR+=	emacs-w3m-current
 SUBDIR+=	emboss
