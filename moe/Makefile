@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	moe-1.6
+DISTNAME=	moe-1.7
 CATEGORIES=	editors
 MASTER_SITES=	${MASTER_SITE_GNU:=moe/}
 EXTRACT_SUFX=	.tar.lz
@@ -8,6 +8,7 @@ EXTRACT_SUFX=	.tar.lz
 MAINTAINER=	schwarz@NetBSD.org
 HOMEPAGE=	http://www.gnu.org/software/moe/moe.html
 COMMENT=	Moe Editor - A powerful and user-friendly text editor
+LICENSE=	gnu-gpl-v2
 
 GNU_CONFIGURE=	YES
 USE_GNU_CONFIGURE_HOST=	NO
