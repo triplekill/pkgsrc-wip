@@ -24,7 +24,7 @@ do-install:
 # Why doesn't this work?
 #.if exists(${WRKSRC}/Scripts/${OPSYS})
 .if ${OPSYS} == NetBSD
-	${INSTALL_SCRIPT} ${WRKSRC}/Scripts/${OPSYS}/* \
+	${INSTALL_SCRIPT} ${WRKSRC}/${OPSYS}/Scripts/* \
 		${DESTDIR}${PREFIX}/sbin
 .endif
 .if exists(/etc/redhat-release)
