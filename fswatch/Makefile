@@ -8,6 +8,9 @@ HOMEPAGE=	https://github.com/emcrisostomo/fswatch
 COMMENT=	Cross-platform file change monitor with multiple backends
 LICENSE=	gnu-gpl-v3
 
+# needs autopoint
+BUILD_DEPENDS+=	gettext-tools-[0-9]*:../../devel/gettext-tools
+
 USE_LANGUAGES=	c c++
 USE_TOOLS+=	gmake autoconf automake makeinfo
 INFO_FILES=	yes
