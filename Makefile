@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6170 2015/05/06 22:04:27 f8l Exp $
+# $Id: Makefile,v 1.6171 2015/05/08 13:53:36 thomasklausner Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -879,14 +879,9 @@ SUBDIR+=	gnuradio-zeromq
 SUBDIR+=	go
 SUBDIR+=	go-backoff
 SUBDIR+=	go-fsnotify
-SUBDIR+=	go-net
 SUBDIR+=	go-notify
-SUBDIR+=	go-text
-SUBDIR+=	go-tools
 SUBDIR+=	goattracker
-SUBDIR+=	goauth2
 SUBDIR+=	godura
-SUBDIR+=	google-api-go-client
 SUBDIR+=	google-perftools
 SUBDIR+=	googlecl
 SUBDIR+=	googlesharing
