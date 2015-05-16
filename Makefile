@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6171 2015/05/08 13:53:36 thomasklausner Exp $
+# $Id: Makefile,v 1.6172 2015/05/11 14:51:58 bsiegert Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -97,6 +97,7 @@ SUBDIR+=	analizo
 SUBDIR+=	and
 SUBDIR+=	android-tools-adb
 SUBDIR+=	ann
+SUBDIR+=	ansiweather
 SUBDIR+=	anthy-dic-jis34
 SUBDIR+=	antlr3-c
 SUBDIR+=	aoeui
