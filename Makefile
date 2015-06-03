@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6180 2015/05/28 10:57:44 n-t-roff Exp $
+# $Id: Makefile,v 1.6181 2015/05/28 11:02:14 n-t-roff Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1985,6 +1985,7 @@ SUBDIR+=	osmo-sdr-git
 SUBDIR+=	osmose
 SUBDIR+=	osxinfo
 SUBDIR+=	ots
+SUBDIR+=	otter-browser
 SUBDIR+=	outguess
 SUBDIR+=	overgod
 SUBDIR+=	owl
