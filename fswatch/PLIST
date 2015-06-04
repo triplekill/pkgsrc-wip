@@ -1,11 +1,7 @@
 @comment $NetBSD$
 bin/fswatch
-bin/fswatch-run
-bin/fswatch-run-bash
-bin/fswatch-run-zsh
 include/libfswatch/c++/event.h
 include/libfswatch/c++/filter.h
-include/libfswatch/c++/fsevents_monitor.h
 include/libfswatch/c++/kqueue_monitor.h
 include/libfswatch/c++/libfswatch_exception.h
 include/libfswatch/c++/monitor.h
