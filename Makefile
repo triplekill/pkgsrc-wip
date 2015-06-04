@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6181 2015/05/28 11:02:14 n-t-roff Exp $
+# $Id: Makefile,v 1.6182 2015/06/03 00:28:20 krytarowski Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -600,7 +600,6 @@ SUBDIR+=	emovix
 SUBDIR+=	enet
 SUBDIR+=	engauge-digitizer
 SUBDIR+=	enigma2000
-SUBDIR+=	enigmail
 SUBDIR+=	entrance
 SUBDIR+=	eor
 SUBDIR+=	eot
@@ -3635,6 +3634,7 @@ SUBDIR+=	thawab
 SUBDIR+=	thcrut
 SUBDIR+=	theama
 SUBDIR+=	thepeg
+SUBDIR+=	thunderbird-enigmail
 SUBDIR+=	tilda
 SUBDIR+=	tinyca2
 SUBDIR+=	tinycobol
