@@ -1,8 +1,7 @@
-# $Id: Makefile,v 1.6183 2015/06/04 13:42:51 krytarowski Exp $
+# $Id: Makefile,v 1.6184 2015/06/04 16:19:42 krytarowski Exp $
 
 COMMENT=	WIP pkgsrc packages
 
-SUBDIR+=	2bwm
 SUBDIR+=	389-ds-base
 SUBDIR+=	Bear
 SUBDIR+=	BitchX
