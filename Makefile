@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6190 2015/06/06 19:47:33 thomasklausner Exp $
+# $Id: Makefile,v 1.6191 2015/06/07 15:03:37 ishit Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3317,15 +3317,6 @@ SUBDIR+=	rstart
 SUBDIR+=	rstudio
 SUBDIR+=	rsyslog6
 SUBDIR+=	rsyslog7
-SUBDIR+=	rsyslog8
-SUBDIR+=	rsyslog8-dbi
-SUBDIR+=	rsyslog8-gnutls
-SUBDIR+=	rsyslog8-gssapi
-SUBDIR+=	rsyslog8-libgcrypt
-SUBDIR+=	rsyslog8-mysql
-SUBDIR+=	rsyslog8-pgsql
-SUBDIR+=	rsyslog8-rabbitmq
-SUBDIR+=	rsyslog8-snmp
 SUBDIR+=	rte
 SUBDIR+=	rthread
 SUBDIR+=	rtl-sdr-git
