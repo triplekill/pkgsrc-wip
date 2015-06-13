@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6194 2015/06/13 11:54:34 fhajny Exp $
+# $Id: Makefile,v 1.6195 2015/06/13 12:00:22 fhajny Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2346,7 +2346,6 @@ SUBDIR+=	php-libawl-git
 SUBDIR+=	php-mongo
 SUBDIR+=	php-recode
 SUBDIR+=	php-rrd
-SUBDIR+=	php-ssh2
 SUBDIR+=	php-tclink
 SUBDIR+=	php-tidy
 SUBDIR+=	picasm
