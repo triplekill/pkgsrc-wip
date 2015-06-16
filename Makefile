@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6197 2015/06/13 12:18:48 fhajny Exp $
+# $Id: Makefile,v 1.6198 2015/06/16 08:54:14 ahp-nils Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2565,6 +2565,7 @@ SUBDIR+=	py-conda
 SUBDIR+=	py-constraint
 SUBDIR+=	py-construct
 SUBDIR+=	py-control
+SUBDIR+=	py-cookiecutter
 SUBDIR+=	py-corrfitter
 SUBDIR+=	py-cosmolopy
 SUBDIR+=	py-coveralls
