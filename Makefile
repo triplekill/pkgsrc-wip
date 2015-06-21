@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6202 2015/06/18 19:28:41 ahp-nils Exp $
+# $Id: Makefile,v 1.6203 2015/06/21 20:32:51 cfkoch Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3468,6 +3468,7 @@ SUBDIR+=	softflowd
 SUBDIR+=	soil
 SUBDIR+=	solarus-zsdx
 SUBDIR+=	songwrite2
+SUBDIR+=	sophia
 SUBDIR+=	soqt
 SUBDIR+=	spade
 SUBDIR+=	spai
