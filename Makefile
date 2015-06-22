@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6203 2015/06/21 20:32:51 cfkoch Exp $
+# $Id: Makefile,v 1.6204 2015/06/21 20:45:19 cfkoch Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -1537,6 +1537,7 @@ SUBDIR+=	libtextcat
 SUBDIR+=	libtlen2
 SUBDIR+=	libtogl
 SUBDIR+=	libtorrent-rasterbar
+SUBDIR+=	libucl
 SUBDIR+=	libuna
 SUBDIR+=	libunibilium
 SUBDIR+=	libuv
