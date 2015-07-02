@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6212 2015/07/02 13:21:38 thomasklausner Exp $
+# $Id: Makefile,v 1.6213 2015/07/02 22:51:08 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3827,7 +3827,6 @@ SUBDIR+=	xf86dga
 SUBDIR+=	xf86rushproto
 SUBDIR+=	xfburn
 SUBDIR+=	xfs
-SUBDIR+=	xfsinfo
 SUBDIR+=	xgfe
 SUBDIR+=	xgobi
 SUBDIR+=	xhkeys1
