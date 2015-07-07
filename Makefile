@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6216 2015/07/05 13:42:14 khorben Exp $
+# $Id: Makefile,v 1.6217 2015/07/07 16:29:33 leot1990 Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -461,6 +461,7 @@ SUBDIR+=	desktop-data-model
 SUBDIR+=	desmume
 SUBDIR+=	despotify
 SUBDIR+=	detachtty
+SUBDIR+=	deviceatlas-enterprise-c
 SUBDIR+=	dfbpoint
 SUBDIR+=	dfbsee
 SUBDIR+=	dfu-util
