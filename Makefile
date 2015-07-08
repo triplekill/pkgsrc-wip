@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6219 2015/07/07 20:53:07 outpaddling Exp $
+# $Id: Makefile,v 1.6220 2015/07/08 12:11:53 othyro Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -2991,6 +2991,7 @@ SUBDIR+=	py-quepy
 SUBDIR+=	py-queue
 SUBDIR+=	py-qutip
 SUBDIR+=	py-qutrub
+SUBDIR+=	py-radare2
 SUBDIR+=	py-radon
 SUBDIR+=	py-radontea
 SUBDIR+=	py-raphrase
