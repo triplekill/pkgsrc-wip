@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.6231 2015/07/12 00:35:53 thomasklausner Exp $
+# $Id: Makefile,v 1.6232 2015/07/12 12:31:54 szptvlfn Exp $
 
 COMMENT=	WIP pkgsrc packages
 
@@ -3872,7 +3872,6 @@ SUBDIR+=	watch
 SUBDIR+=	wbox
 SUBDIR+=	webbrowser
 SUBDIR+=	webcleaner
-SUBDIR+=	webkit-gtk
 SUBDIR+=	webkit-gtk3
 SUBDIR+=	webkit-sharp
 SUBDIR+=	weland
