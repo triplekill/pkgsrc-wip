@@ -1,16 +1,15 @@
 # $NetBSD$
-#
 
 DISTNAME=	wsgiref-0.1.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	www python
 MASTER_SITES=	http://pypi.python.org/packages/source/w/wsgiref/
-EXTRACT_SUFX=	.zip#md5=29b146e6ebd0f9fb119fe321f7bcf6cb
+EXTRACT_SUFX=	.zip
 
 MAINTAINER=	kamelderouiche@yahoo.com
 HOMEPAGE=	http://pypi.python.org/pypi/wsgiref
 COMMENT=	This is a standalone release of the wsgiref library
-LICENSE=		zpl
+LICENSE=	zpl-2.0
 
 USE_LANGUAGES=	# none
 

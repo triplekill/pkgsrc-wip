@@ -1,5 +1,4 @@
 # $NetBSD$
-#
 
 DISTNAME=	transaction-1.1.1
 EGG_NAME=	${DISTNAME}
@@ -10,7 +9,7 @@ MASTER_SITES=	http://pypi.python.org/packages/source/t/transaction/
 MAINTAINER=	kamelderouiche@yahoo.com
 HOMEPAGE=	http://www.zope.org/Products/ZODB
 COMMENT=	Transaction management for Python
-LICENSE=		zpl
+LICENSE=	zpl-2.0
 
 DEPENDS+=	${PYPKGPREFIX}-ZopeInterface>=3.6.1:../../devel/py-ZopeInterface
 

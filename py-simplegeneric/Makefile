@@ -9,7 +9,7 @@ EXTRACT_SUFX=	.zip
 MAINTAINER=	kamelderouiche@yahoo.com
 HOMEPAGE=	http://cheeseshop.python.org/pypi/simplegeneric
 COMMENT=	Simple generic functions for Python
-LICENSE=	zpl
+LICENSE=	zpl-2.0
 
 .include "../../lang/python/egg.mk"
 .include "../../mk/bsd.pkg.mk"
